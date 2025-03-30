@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Josh Fairhead - Audio</title>
+      <link>https://joshafairhead.com</link>
+      <description>Professional website of Josh Fairhead</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://joshafairhead.com/tags/audio/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Cursed</title>
+          <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/cursed/</link>
+          <guid>https://joshafairhead.com/portfolio/cursed/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/cursed/">&lt;iframe
+    class=&quot;vimeo-embed&quot;
+    src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;84415196?h=268d2ddc4a&quot;
+    allow=&quot;autoplay; fullscreen; picture-in-picture&quot;
+    allowfullscreen&gt;
+&lt;&#x2F;iframe&gt;
+</description>
+      </item>
+      <item>
+          <title>Elephants Dream</title>
+          <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/elephantsdream/</link>
+          <guid>https://joshafairhead.com/portfolio/elephantsdream/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/elephantsdream/">&lt;iframe
+    class=&quot;vimeo-embed&quot;
+    src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;20465972?h=1e9bd362a0&quot;
+    allow=&quot;autoplay; fullscreen; picture-in-picture&quot;
+    allowfullscreen&gt;
+&lt;&#x2F;iframe&gt;
+</description>
+      </item>
+      <item>
+          <title>Sons of Gingerbread</title>
+          <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/sonsofgingerbread/</link>
+          <guid>https://joshafairhead.com/portfolio/sonsofgingerbread/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/sonsofgingerbread/">&lt;iframe width=&quot;560&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https:&#x2F;&#x2F;w.soundcloud.com&#x2F;player&#x2F;?url=https%3A&#x2F;&#x2F;api.soundcloud.com&#x2F;playlists&#x2F;1862215230%3Fsecret_token%3Ds-wdtzoSM07BH&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;&#x2F;iframe&gt;&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;soundcloud.com&#x2F;joshafairhead&quot; title=&quot;Sons Of Gingerbread&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Sons Of Gingerbread&lt;&#x2F;a&gt; · &lt;a href=&quot;https:&#x2F;&#x2F;soundcloud.com&#x2F;joshafairhead&#x2F;sets&#x2F;sons-of-gingerbread&#x2F;s-wdtzoSM07BH&quot; title=&quot;Sons Of Gingerbread&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Sons Of Gingerbread&lt;&#x2F;a&gt;&lt;&#x2F;div&gt;
+</description>
+      </item>
+    </channel>
+</rss>

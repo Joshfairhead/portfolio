@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Josh Fairhead - Music</title>
+      <link>https://joshafairhead.com</link>
+      <description>Professional website of Josh Fairhead</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://joshafairhead.com/tags/music/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Fistfull of I.O.U&#x27;s</title>
+          <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/neonfleacircus/</link>
+          <guid>https://joshafairhead.com/portfolio/neonfleacircus/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/neonfleacircus/">&lt;iframe width=&quot;560&quot; height=&quot;540&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https:&#x2F;&#x2F;w.soundcloud.com&#x2F;player&#x2F;?url=https%3A&#x2F;&#x2F;api.soundcloud.com&#x2F;playlists&#x2F;1862212266%3Fsecret_token%3Ds-y5VFGjOUeyC&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;&#x2F;iframe&gt;&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;soundcloud.com&#x2F;joshafairhead&quot; title=&quot;Neon Flea Circus&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Neon Flea Circus&lt;&#x2F;a&gt; · &lt;a href=&quot;https:&#x2F;&#x2F;soundcloud.com&#x2F;joshafairhead&#x2F;sets&#x2F;neon-flea-circus-fistful-of-ious&#x2F;s-y5VFGjOUeyC&quot; title=&quot;Fistful of IOUs&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Fistful of IOUs&lt;&#x2F;a&gt;&lt;&#x2F;div&gt;</description>
+      </item>
+      <item>
+          <title>Encaged</title>
+          <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/encaged/</link>
+          <guid>https://joshafairhead.com/portfolio/encaged/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/encaged/">&lt;iframe
+    class=&quot;vimeo-embed&quot;
+    src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;83732575?h=ca623b9b15&quot;
+    allow=&quot;autoplay; fullscreen; picture-in-picture&quot;
+    allowfullscreen&gt;
+&lt;&#x2F;iframe&gt;
+</description>
+      </item>
+      <item>
+          <title>Project Play</title>
+          <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/projectplay/</link>
+          <guid>https://joshafairhead.com/portfolio/projectplay/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/projectplay/">&lt;iframe width=&quot;560&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https:&#x2F;&#x2F;w.soundcloud.com&#x2F;player&#x2F;?url=https%3A&#x2F;&#x2F;api.soundcloud.com&#x2F;playlists&#x2F;1147256257%3Fsecret_token%3Ds-wDjI70jMrZY&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;&#x2F;iframe&gt;&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;soundcloud.com&#x2F;joshafairhead&quot; title=&quot;JoshAFairhead&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;JoshAFairhead&lt;&#x2F;a&gt; · &lt;a href=&quot;https:&#x2F;&#x2F;soundcloud.com&#x2F;joshafairhead&#x2F;sets&#x2F;sample&#x2F;s-wDjI70jMrZY&quot; title=&quot;Sample&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Sample&lt;&#x2F;a&gt;&lt;&#x2F;div&gt;</description>
+      </item>
+    </channel>
+</rss>

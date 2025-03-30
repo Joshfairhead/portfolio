@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Josh Fairhead - Develpment</title>
+      <link>https://joshafairhead.com</link>
+      <description>Professional website of Josh Fairhead</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://joshafairhead.com/tags/develpment/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Saturator</title>
+          <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/saturator/</link>
+          <guid>https://joshafairhead.com/portfolio/saturator/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/saturator/">&lt;iframe
+    class=&quot;vimeo-embed&quot;
+    src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;19152308?h=0172d1b3ab&quot;
+    allow=&quot;autoplay; fullscreen; picture-in-picture&quot;
+    allowfullscreen&gt;
+&lt;&#x2F;iframe&gt;
+</description>
+      </item>
+    </channel>
+</rss>
