@@ -163,7 +163,6 @@ links = [
 		{ url = "https://opencollective.com/lens-and-method", name = "Open Collective" },
 		{ url = "https://buymeacoffee.com/joshafairhead", name = "Coffee" },
 	]},	
-		{ url = "@/blog/_index.md", name = "Blog demo" },
 ]
 
 [extra.footer]
