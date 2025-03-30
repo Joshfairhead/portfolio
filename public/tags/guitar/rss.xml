@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Josh Fairhead - Guitar</title>
+      <link>https://joshafairhead.com</link>
+      <description>Professional website of Josh Fairhead</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://joshafairhead.com/tags/guitar/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Les Paul</title>
+          <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/lespaul/</link>
+          <guid>https://joshafairhead.com/portfolio/lespaul/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/lespaul/">&lt;img class=&quot;no-hover&quot;alt=&quot;Les Paul Replica&quot;src=&quot;lespaul.png&quot;&#x2F;&gt;</description>
+      </item>
+    </channel>
+</rss>
