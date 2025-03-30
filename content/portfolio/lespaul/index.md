@@ -1,10 +1,9 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Les Paul"
-description = "Les Paul replica guitar"
-date = 2017-10-01
+description = "Photos of a Les Paul replica guitar hand crafted many years ago as a leaving cert project."
 [taxonomies]
-tags = ["Guitar"]
+tags = ["Craft"]
 
 +++
 

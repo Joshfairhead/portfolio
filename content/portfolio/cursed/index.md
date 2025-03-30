@@ -1,10 +1,9 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Cursed"
-description = "Music for a short animation"
-date = 2017-10-01
+title = "Cursed Animation"
+description = "Music created for short animation where a cursed exile is faced with a life and death dilemma."
 [taxonomies]
-tags = ["Audio"]
+tags = ["Visual"]
 
 +++
 

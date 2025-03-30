@@ -1,10 +1,9 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Calma"
-description = "Music to video"
-
+title = "Calma Video"
+description = "Music composed based on the timings of an animated video, originally a Calma animation."
 [taxonomies]
-tags = ["Music"]
+tags = ["Visual"]
 
 +++
 

@@ -1,10 +1,9 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Saturator"
-description = "Harmonic saturation patch made in MaxMSP"
-date = 2017-10-01
+description = "Harmonic saturation patch made in MaxMSP."
 [taxonomies]
-tags = ["Develpment"]
+tags = ["Audio"]
 
 +++
 

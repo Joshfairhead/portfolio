@@ -1,11 +1,11 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Fistfull of I.O.U's"
-description = "An album of progressive psychedelic music"
-date = 2025-04-01
+description = "An album of progressive psychedelic music, and other genres. An all round labour of love."
 [taxonomies]
-tags = ["Music"]
+tags = ["Audio"]
 [extra]
+hot = true
 
 
 +++

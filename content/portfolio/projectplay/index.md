@@ -1,10 +1,11 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Project Play"
-description = "Compositon, recording, mix, 5.1"
-date = 2017-10-01
+description = "A masters project playing all the parts; composition, arrangement, recording, mix, 5.1 surround"
 [taxonomies]
-tags = ["Music"]
+tags = ["Audio"]
+[extra]
+hot = true
 
 +++
 

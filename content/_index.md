@@ -5,9 +5,9 @@ title = "Home"
 
 # Hi, I'm Josh
 
-I'm a researcher walking the sevenfold path.
+I'm a facilitator walking the sevenfold path.
 
-{{ image(url="https://avatars.githubusercontent.com/u/34649155?v=4", alt="This is an image", no_hover=true, full=true) }}
+{{ image(url="https://avatars.githubusercontent.com/u/34649155?v=4", alt="Headshot", no_hover=true, full=true) }}
 
 {% crt() %}
 

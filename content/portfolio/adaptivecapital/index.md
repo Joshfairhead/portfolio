@@ -1,7 +1,7 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Adaptive Capital"
-description = "Proposal for the Regen community"
+description = "Design proposal for the Regen community solving technological problems with regards to the valuation of nature and the multiple issues that need to be addressed simultaneously."
 date = 2023-09-11
 [taxonomies]
 tags = ["Proposal"]

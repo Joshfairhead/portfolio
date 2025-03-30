@@ -1,10 +1,9 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Elephants Dream"
-description = "Sound design for a short animation"
-date = 2017-10-01
+title = "Elephants Dream Animation"
+description = "Sound design, foley and ADR for a mechanical dream world influenced by thought."
 [taxonomies]
-tags = ["Audio"]
+tags = ["Visual"]
 
 +++
 

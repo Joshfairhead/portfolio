@@ -1,10 +1,9 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Encaged"
-description = "Music to animation"
-date = 2017-10-01
+description = "Music composed for a short animation about old people connecting through their birds."
 [taxonomies]
-tags = ["Music"]
+tags = ["Visual"]
 
 +++
 
