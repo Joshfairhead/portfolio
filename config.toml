@@ -158,11 +158,14 @@ links = [
 		{ url = "@/music/_index.md", name = "Music" },
 		{ url = "@/books/_index.md", name = "Books" },
 	] },
+	{ name = "Blogs", menu = [
+		{ url = "@/travel/_index.md", name = "Travel" },
+		{ url = "@/blog/_index.md", name = "Expositions" },
+	]},
 	{ name = "Links", menu = [
 		{ url = "https://tothecosmos.org", name = "Blog" },
 		{ url = "https://opencollective.com/lens-and-method", name = "Open Collective" },
 		{ url = "https://buymeacoffee.com/joshafairhead", name = "Coffee" },
-		{ url = "@/travel/_index.md", name = "Travel" },
 	]},	
 ]
 
