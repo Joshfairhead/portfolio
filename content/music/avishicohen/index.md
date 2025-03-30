@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Avishi Cohen"
-description = "Organic landscapes told through jazz"
+description = "Organic landscapes channeled through a most competent contemporary trio."
 [taxonomies]
 tags = ["Artist"]
 

@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Snarky Puppy"
-description = "Modern big band jazz soul funk"
+description = "Metropolitan big band mixing hiphop, jazz, funk and soul."
 [taxonomies]
 tags = ["Artist"]
 

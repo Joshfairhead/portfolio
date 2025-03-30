@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Robert Plant"
-description = "Led Zeppelin front man rabmles on as a solo artist"
+description = "Led Zeppelin's rambling man fronts his own career as a solo artist."
 [taxonomies]
 tags = ["Artist"]
 

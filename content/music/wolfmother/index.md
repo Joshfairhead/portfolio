@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Wolfmother"
-description = "New Australian brit rock classics"
+description = "Australian reinvention of the Brit rock classics, with a modern edge."
 
 [taxonomies]
 tags = ["All"]

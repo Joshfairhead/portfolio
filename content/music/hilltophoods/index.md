@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Hilltop Hoods"
-description = "Authentic Australian hip hop full of soul"
+description = "Authentic Australian hip hop full of struggle and soul."
 [taxonomies]
 tags = ["Artist"]
 

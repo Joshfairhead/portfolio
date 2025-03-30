@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Ghost"
-description = "If Black Sabbath, Blue Oyster Cult and ABBA had a love child"
+description = "The illigitimate Sweedish love child of Ozzy Ozbourne and ABBA"
 [taxonomies]
 tags = ["Artist"]
 

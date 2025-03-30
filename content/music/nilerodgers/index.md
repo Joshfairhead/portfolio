@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Nile Rodgers"
-description = "Disco never died, it was just in d'Nile"
+description = "Triple platinum disco never died, it was always flowing like and through the Nile."
 [taxonomies]
 tags = ["Artist"]
 
@@ -9,7 +9,7 @@ tags = ["Artist"]
 
 Albums: [Risque](https://youtube.com/playlist?list=PLPunBhufk07IAKw1a60mDa8pj6gPAsTBw&si=p0X8n3dv5ngSTJct), [Random Access Memories](https://youtube.com/playlist?list=PLSbDLF8wQ3oKcstd9ybCSv2lNm_8NTYkI&si=p-CHt2IbHd05__YT),
 
-Nile has always churned out hits since the early days of Chic's "[Everybody Dance](https://youtu.be/aKmJxpKKvYM?si=U3PkVPlMXhFhedi9)", through to Daft Punks "[Get Lucky(https://youtu.be/5NV6Rdv1a3I?si=vIVs58KmrMu0NhWv)]". What's most amazing about him is his ability to take complex jazz voicings and create a polished pop masterpiece without a hint of dissonance. Check out his interviews, he's a wonderful story teller and is living proof that Disco doesn't suck (though he was somewhat forced into new territories by the movement).
+Nile has always churned out hits since the early days of Chic's "[Everybody Dance](https://youtu.be/aKmJxpKKvYM?si=U3PkVPlMXhFhedi9)", through to Daft Punks "[Get Lucky](https://youtu.be/5NV6Rdv1a3I?si=vIVs58KmrMu0NhWv)". What's most amazing about him is his ability to take complex jazz voicings and create a polished pop masterpiece without a hint of dissonance. Check out his interviews, he's a wonderful story teller and is living proof that Disco doesn't suck (though he was somewhat forced into new territories by the movement).
 
 Myself, I'm a fan of the Chic classics like "[Everybody Dance](https://youtu.be/aKmJxpKKvYM?si=U3PkVPlMXhFhedi9)" and "[Good times](https://youtu.be/51r5f5OdIY0?si=566_u2U1b3ZR3DOc)" for the uplifting funk vibes and genere defining style of guitar and bass leading the rhythm section; Bernard Edwards being Niles legendary compatriot on the low end. Absolutely Rocking. 
 

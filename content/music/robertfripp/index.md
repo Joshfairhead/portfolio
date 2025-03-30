@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Robert Fripp"
-description = "The god father of progressive rock"
+description = "King Crimson's only consistent member, and grandfather of progressive rock."
 [taxonomies]
 tags = ["Artist"]
 

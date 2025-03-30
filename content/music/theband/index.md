@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "The Band"
-description = "One of the most prolific working bands in the Americas"
+description = "One of the most prolific working bands of the 60's and 70's and the spirit of Woodstock."
 
 [taxonomies]
 tags = ["Artist"]

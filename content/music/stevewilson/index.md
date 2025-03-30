@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Steve Wilson"
-description = "Prolific heir to the prog rock throne"
+description = "Rightful heir to the prog rock throne, having remixed or remastered all the classics. "
 [taxonomies]
 tags = ["Artist"]
 

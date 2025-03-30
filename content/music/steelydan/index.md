@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Steely Dan"
-description = "Pornographic 'Yach Rock' from those who like their music honestly cynical"
+description = "Pornographic 'Yach Rock' from those who like their music earnestly cynical."
 [taxonomies]
 tags = ["Artist"]
 

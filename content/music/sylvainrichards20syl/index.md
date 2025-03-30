@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
-title = "Sylvain Richards 20SYL"
-description = "French creative genius"
+title = "Sylvain Richards (20SYL)"
+description = "Polymath creator with ears and eyes for detail, never failing to deliver the vibes."
 [taxonomies]
 tags = ["Artist"]
 

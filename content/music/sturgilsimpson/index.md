@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Sturgill Simpson"
-description = "Meta modern blues, country and all sorts"
+description = "Meta-modern blues, country and all sorts from a man that's lived in all sorts of ways."
 [taxonomies]
 tags = ["Artist"]
 

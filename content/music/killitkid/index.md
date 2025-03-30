@@ -1,7 +1,7 @@
 +++
 authors = ["All"]
 title = "Kill it Kid"
-description = "Hard blues folk rock from Bath"
+description = "Hard blues folk rock from Bath that has all the authenticity of muddy waters."
 [taxonomies]
 tags = ["Artist"]
 

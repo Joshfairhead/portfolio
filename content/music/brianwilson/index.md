@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Brian Wilson"
-description = "Beach boys ledgend with incredibly interesting music history"
+description = "Beach boys creative genius and author of one of the most interesting lost albums of all time."
 [taxonomies]
 tags = ["Artist"]
 
