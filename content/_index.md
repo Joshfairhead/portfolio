@@ -4,7 +4,7 @@ title = "Home"
 +++
 
 # Hi, I'm Josh
-
+ 
 I'm a researcher walking the sevenfold path.
 
 {{ image(url="https://avatars.githubusercontent.com/u/34649155?v=4", alt="This is an image", no_hover=true, full=true) }}
