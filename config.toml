@@ -162,6 +162,7 @@ links = [
 		{ url = "https://tothecosmos.org", name = "Blog" },
 		{ url = "https://opencollective.com/lens-and-method", name = "Open Collective" },
 		{ url = "https://buymeacoffee.com/joshafairhead", name = "Coffee" },
+		{ url = "@/travel/_index.md", name = "Travel" },
 	]},	
 ]
 
