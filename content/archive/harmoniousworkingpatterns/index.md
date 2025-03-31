@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Harmonious Working Patters"
-description = "An article written about triadic arrangemnts"
+description = "An article written about triadic arrangements"
 [taxonomies]
 tags = ["Archive"]
 [extra]
