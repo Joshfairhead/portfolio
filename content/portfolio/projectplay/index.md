@@ -5,7 +5,7 @@ description = "A masters project playing all the parts; composition, arrangement
 [taxonomies]
 tags = ["Audio"]
 [extra]
-hot = true
+featured = true
 
 +++
 

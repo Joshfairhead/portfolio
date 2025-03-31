@@ -5,7 +5,7 @@ description = "An album of progressive psychedelic music, and other genres. An a
 [taxonomies]
 tags = ["Audio"]
 [extra]
-hot = true
+featured = true
 
 
 +++
