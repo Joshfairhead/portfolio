@@ -1,5 +1,5 @@
 +++
-authors = ["Josh Ash"]
+authors = ["Ash"]
 title = "The Empire(s)"
 description = "Creative writing mixing reality with fiction as an interpretative stew."
 draft = false
