@@ -1,7 +1,7 @@
 +++
-authors = ["Ash"]
+authors = ["Ash Cat"]
 title = "Historical Lacrymology"
-description = "Character motivations"
+description = "Character motivations..."
 draft = false
 [taxonomies]
 tags = ["Draft"]
