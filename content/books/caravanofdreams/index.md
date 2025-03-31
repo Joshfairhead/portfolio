@@ -1,9 +1,13 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Caravan of dreams"
-description = "A selection of sufi stories compiled by Idris Shah"
+description = "A selection of Sufi stories compiled by Idris Shah"
+draft = true
 [taxonomies]
-tags = ["Book"]
+tags = ["Draft"]
+[extra]
 
 +++
+
+
 

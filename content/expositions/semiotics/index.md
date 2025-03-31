@@ -1,4 +1,5 @@
 +++
+placement = 1
 authors = ["Josh Fairhead"]
 title = "Semiotics in Brief"
 description = "An exposition on the work of Pierce"

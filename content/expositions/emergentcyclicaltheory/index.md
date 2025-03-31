@@ -1,4 +1,5 @@
 +++
+placement = 2
 authors = ["Josh Fairhead"]
 title = "Emergent Cyclical Theory"
 description = "An exposition on the psychological theories of Clare Graves"
