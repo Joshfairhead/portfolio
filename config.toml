@@ -74,8 +74,7 @@ source_url = "https://codeberg.org/daudix/duckquill"
 # If you are using Sass it will be generated there automatically.
 #
 # styles = [
-#   "YOUR_STYLE.css",
-#   "ALSO_YOUR_STYLE.css"
+#   "_article-list-cosmos.scss",
 # ]
 #
 # Additional JavaScript scripts; expects them to be in the "./static/" directory.
@@ -154,19 +153,20 @@ show_repo = false
 # See https://www.getzola.org/documentation/content/linking/#internal-links
 links = [
 	{ url = "@/portfolio/_index.md", name = "Portfolio" },
+	{ name = "Writing", menu = [
+		{ url = "http://consulting.tothecosmos.org", name = "Documentation" },
+		{ url = "@/travel/_index.md", name = "Travel Writing" },
+		{ url = "@/expositions/_index.md", name = "Expositions" },
+	]},
 	{ name = "Reviews", menu = [
 		{ url = "@/music/_index.md", name = "Music" },
 		{ url = "@/books/_index.md", name = "Books" },
 	] },
-	{ name = "Blogs", menu = [
-		{ url = "@/travel/_index.md", name = "Travel" },
-		{ url = "@/blog/_index.md", name = "Expositions" },
-	]},
-	{ name = "Links", menu = [
-		{ url = "https://tothecosmos.org", name = "Blog" },
+	{ name = "Support", menu = [
 		{ url = "https://opencollective.com/lens-and-method", name = "Open Collective" },
 		{ url = "https://buymeacoffee.com/joshafairhead", name = "Coffee" },
 	]},	
+	{ url = "@/cv/_index.md", name = "CV" },
 ]
 
 [extra.footer]

@@ -10,6 +10,8 @@ toc_sidebar = true
 
 +++
 
+![alt text](Triads.jpg)
+
 # Introduction
 
 Semiotics is essentially the study of significance, or as it is often put the study of signs, signifiers and the signified. While no expert on Peirce, the patterns of his thinking seem to be foundational thinking within Bennetts theories on the qualitative significance of number, or Hodgsons Qualsystems/Qualitative Systems Thinking. Personally speaking, this is what makes Peirce's work interesting for me.

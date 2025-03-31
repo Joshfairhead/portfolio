@@ -1,7 +1,7 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Auroville"
-description = "Third week in India, arrival in Auroville."
+title = "Auroville Involoution"
+description = "Week three: arrival in Auroville."
 [taxonomies]
 tags = ["Travel"]
 
