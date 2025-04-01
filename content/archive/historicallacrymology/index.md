@@ -4,7 +4,7 @@ title = "Historical Lacrymology"
 description = "Character motivations..."
 draft = false
 [taxonomies]
-tags = ["Draft"]
+tags = ["Archive"]
 [extra]
 archive = true
 

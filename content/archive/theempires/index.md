@@ -4,7 +4,7 @@ title = "The Empire(s)"
 description = "Creative writing mixing reality with fiction as an interpretative stew."
 draft = false
 [taxonomies]
-tags = ["Draft"]
+tags = ["Archive"]
 [extra]
 archive = true
 

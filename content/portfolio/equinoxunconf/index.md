@@ -7,4 +7,4 @@ tags = ["Event"]
 
 +++
 
-https://unconference.hackalong.io/
+[Equinox unconference 2020](https://unconference.hackalong.io/)
