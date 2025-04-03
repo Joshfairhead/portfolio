@@ -1,7 +1,7 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Tokyo Energy"
-draft = true
+draft = false
 description = "Pokemon hunting and Drain spotting in Tokyo"
 [taxonomies]
 tags = ["Travel"]
@@ -32,7 +32,15 @@ Awakening from my capsule casket the next day, I head down to the Onsen once aga
 Spotting the decorative manhole covers I remember that there is a tourist tradition of 'drain spotting' as the Japanese water companies intentionally highlight their manhole covers so that the locals are aware of where their tax money goes. Due to my personal interest in semiotics; I begin to run around the city enthusiastically photographing the floor like a stupid Gaijin! 
 
 ---
-Lids gallery
+
+| | | | 
+|---|---|---|
+| {{ image(url="lid1.jpg", alt="Baltoy", no_hover=true) }} | {{ image(url="lid2.jpg", alt="Tyrunt", no_hover=true) }} | {{ image(url="lid3.jpg", alt="Tyrunt", no_hover=true) }} |
+| {{ image(url="lid4.jpg", alt="Baltoy", no_hover=true) }} | {{ image(url="lid5.jpg", alt="Tyrunt", no_hover=true) }} | {{ image(url="lid6.jpg", alt="Tyrunt", no_hover=true) }} |
+
+{{ image(url="lid7.jpg", alt="Baltoy", no_hover=true) }} 
+{{ image(url="lid8.jpg", alt="Tyrunt", no_hover=true) }} 
+
 
 ---
 
@@ -64,10 +72,17 @@ There's some blabber blabber lightning presentations after this about defi stuff
 
 Man this guy is smart and incredibly driven to get shit moving due to his rather unsettling perspective of the macro economic situation which he does a good job to present eloquently. He asserts that he's not a doomer but is also thoroughly bell ringing about what he calls an omni-crisis. I'm a little torn about this because while he is justifying his position with facts I lack the macro economic experience to discern if whats evident to him seems likely. Still, he's damn smart and it was great to pick up that transmission!
 
----
-Crisis photos
+| | | | 
+|---|---|---|
+| {{ image(url="balaji1.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji2.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji3.jpeg", alt="crisis", no_hover=true) }} |
+| {{ image(url="balaji4.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji5.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji6.jpeg", alt="crisis", no_hover=true) }} |
+| {{ image(url="balaji7.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji8.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji9.jpeg", alt="crisis", no_hover=true) }} |
+| {{ image(url="balaji10.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji11.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji12.jpeg", alt="crisis", no_hover=true) }} |
+| {{ image(url="balaji13.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji14.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji15.jpeg", alt="crisis", no_hover=true) }} |
 
----
+| | |
+|---|---|
+| {{ image(url="balaji16.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji17.jpeg", alt="crisis", no_hover=true) }} | 
 
 My new friend Nao has been cool enough to share another event with me and heads over during Balajis talk. He's gonna see if he can leverage his clout to get me in and suggests I hang back until he knows for sure. He fails at the hero pass though I'm certainly grateful for the efforts. I hang around for the networking and meet a number of really great contacts that are all smart, interesting and resourceful. In particular I make friends with a guy called Cole thats interested in building on lens protocol the day after at the hackathon so I jam with him on some identity primitives and wish him good luck.
 
@@ -81,8 +96,14 @@ As I leave the building I see trees and decide to take an unusual exit - bumping
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IyaLh6UCyn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
----
-Characters gallery
+
+| | | | 
+|---|---|---|
+| {{ image(url="character1.jpeg", alt="Character", no_hover=true) }} | {{ image(url="character2.jpeg", alt="Character", no_hover=true) }} | {{ image(url="character3.jpeg", alt="character", no_hover=true) }} |
+
+| | |
+|---|---|
+| {{ image(url="character4.jpeg", alt="Character", no_hover=true) }} | {{ image(url="character5.jpeg", alt="Character", no_hover=true) }} |
 
 ---
 
@@ -104,10 +125,12 @@ Besides the rare Pokelids I seek within the park, Machida is a new area - so I'm
 
 {{ image(url="machidapark.jpeg", alt="Machida Park", no_hover=true) }}
 
----
-Machida lids
+{{ image(url="machidalids1.jpeg", alt="lid", no_hover=true) }} 
 
----
+| | |
+|---|---|
+| {{ image(url="machidalids2.jpg", alt="lid", no_hover=true) }} | {{ image(url="machidalids3.jpg", alt="Tyrunt", no_hover=true) }} |
+| {{ image(url="machidalids4.jpg", alt="lid", no_hover=true) }} | {{ image(url="machidalids5.jpg", alt="lid", no_hover=true) }} |
 
 I follow my intuition and quickly stumble into a Pollywag! I toss my Pokeball and capture the tadpole instantly, after counting to three for my flash to go off its sealed away into my gallery. I'm now officially a Pokemon trainer but this thing will be useless in a fight. I move onwards towards open ground where I find an number of cool off brand lids; a squirrel with an umbrella and two kingfishers.
 
@@ -126,18 +149,26 @@ Theres a giant water statue nearby which looks like prime pokeland but alas cons
 
 I set off again following my feet and am brought over a hill and past some streams. As the path rambles on I happen across the Machida City Museum of Graphic Arts and decide to pop in. The free exhibit is full of old school prints made from wood blocks; which is an aesthetic that I've always had resonance with. It's bloody gorgeous. 
 
----
-Machida gallery images
-
----
+| | | | 
+|---|---|---| 
+| {{ image(url="machidagallery1.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery3.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery4.jpg", alt="gallery", no_hover=true) }} |
+| {{ image(url="machidagallery12.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery5.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery6.jpg", alt="gallery", no_hover=true) }} | 
+| {{ image(url="machidagallery8.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery2.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery23.jpg", alt="gallery", no_hover=true) }} | 
+| {{ image(url="machidagallery14.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery15.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery18.jpg", alt="gallery", no_hover=true) }} |
+| {{ image(url="machidagallery13.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery16.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery17.jpg", alt="gallery", no_hover=true) }} | 
+| {{ image(url="machidagallery22.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery11.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery7.jpg", alt="gallery", no_hover=true) }} |
+| {{ image(url="machidagallery19.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery20.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery21.jpg", alt="gallery", no_hover=true) }} | 
+| {{ image(url="machidagallery9.jpg", alt="gallery", no_hover=true) }} |  {{ image(url="machidagallery10.jpg", alt="gallery", no_hover=true) }} | 
 
 Leaving the museum I attempt to buy all the post cards in hopes of training an image generator with them but they don't take electronic payment, which sends me on a banking mission. After a modicum of difficulty but ultimate success over the bank machines I return to pay the cashier and take away a number of 'choice tokens'.
 Back to my poke hunt, there's two more critters to find but and get distracted by a swing (with 'eat the elephant' lyrics in my head). Coming down from the hilltop I'm once again reflecting how bloody beautiful this park is. The pools and gardens are breath taking; full of winding paths that have wuwei written all over them. The composition is unparalleled. At the far end of the park I capture my Bulbasaur and Charmander lids!
 
----
-Park photos
-
----
+| | | | 
+|---|---|---| 
+| {{ image(url="machidapark1.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark2.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark3.jpeg", alt="Machida Park", no_hover=true) }} |
+| {{ image(url="machidapark4.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark5.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark6.jpeg", alt="Machida Park", no_hover=true) }} |
+| {{ image(url="machidapark7.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark8.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark9.jpeg", alt="Machida Park", no_hover=true) }} |
+| {{ image(url="machidapark10.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark11.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark12.jpeg", alt="Machida Park", no_hover=true) }} |
 
 | | |
 |---|---|
@@ -147,14 +178,28 @@ Park photos
 All things considered, it's getting pretty late in the day. I've been enjoying the park thoroughly but it's time to get to the other side of town or I'll not make it down to Kyoto later. I head for the train and trip it over to Ueno about an 45m away. I'm pretty charged from my days activity and realise I need to add an hour in order to make it back to the hostel so I blast it round the park as quick as I can, while also snapping new lids and sight seeing at 2x speed.
 
 ---
-Lids from Uneo park
+
+| | |
+|---|---|
+| {{ image(url="lidsuneo1.jpg", alt="Uneo", no_hover=true) }} | {{ image(url="lidsuneo2.jpg", alt="Uneo", no_hover=true) }} |
+| {{ image(url="lidsuneo3.jpg", alt="Uneo", no_hover=true) }} | {{ image(url="lidsuneo4.jpg", alt="Uneo", no_hover=true) }} |
+
+{{ image(url="lidsuneo5.jpg", alt="Uneo", no_hover=true) }}
 
 ---
 
 Theres a shinto shrine in the middle of a large reed filled lake that takes me off course a while before I reorient myself and proceed with the poke mission. Up the stairs past another temple, ever vigilant I ensure not to miss any new lids nor the beautiful cherry blossoms, I make it to the Tokyo Museum to capture Baltoy, Bronzor, Wynaut and Tyrunt. That's it; I friggin' caught 'em all in one day! 
 
 ---
-Uneo park
+
+| | | | 
+|---|---|---| 
+| {{ image(url="uneopark1.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark2.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark3.jpeg", alt="Uneo Park", no_hover=true) }} |
+| {{ image(url="uneopark4.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark2.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark6.jpeg", alt="Uneo Park", no_hover=true) }} |
+| {{ image(url="uneopark7.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark8.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark9.jpeg", alt="Uneo Park", no_hover=true) }} |
+| {{ image(url="uneopark13.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark11.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark12.jpeg", alt="Uneo Park", no_hover=true) }} |
+| {{ image(url="uneopark10.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark14.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark15.jpeg", alt="Uneo Park", no_hover=true) }} |
+| {{ image(url="uneopark16.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark17.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark18.jpeg", alt="Uneo Park", no_hover=true) }} |
 
 ---
 
