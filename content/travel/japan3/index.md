@@ -3,6 +3,7 @@ authors = ["Josh Fairhead"]
 title = "Tokyo Return"
 draft = true
 description = "Tokyo Return"
+date = 2023-04-19
 [taxonomies]
 tags = ["Travel"]
 

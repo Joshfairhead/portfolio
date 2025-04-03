@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Auroville Evolution"
 description = "Week three: Auroville explorations."
+date = 2023-04-04
 [taxonomies]
 tags = ["Travel"]
 

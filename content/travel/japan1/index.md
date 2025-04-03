@@ -3,6 +3,7 @@ authors = ["Josh Fairhead"]
 title = "Tokyo Energy"
 draft = false
 description = "Pokemon hunting and Drain spotting in Tokyo"
+date = 2023-04-10
 [taxonomies]
 tags = ["Travel"]
 

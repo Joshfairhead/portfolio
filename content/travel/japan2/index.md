@@ -3,6 +3,7 @@ authors = ["Josh Fairhead"]
 title = "Kyoto Tranquility"
 draft = true
 description = "Kyoto Tranquility"
+date = 2023-04-14
 [taxonomies]
 tags = ["Travel"]
 
@@ -62,7 +63,7 @@ We pass by a sweet store to pick up some presents and grab public transport back
 
 {{ image(url="station.jpeg", alt="Kyoto", no_hover=true) }}
 
-In the morning we say goodbye and board trains in opposite directions; I'm headed to Sogenji with the aim of a midday arrival and my companion to Tokyo. After a minor liquidity crunch with crypto currencies I manage to make it to the temple at precisely five minutes past midday; so roughly on time!
+In the morning (17th April) we say goodbye and board trains in opposite directions; I'm headed to Sogenji with the aim of a midday arrival and my companion to Tokyo. After a minor liquidity crunch with crypto currencies I manage to make it to the temple at precisely five minutes past midday; so roughly on time!
 
 {{ image(url="soghingi1.jpeg", alt="Kyoto", no_hover=true) }}
 

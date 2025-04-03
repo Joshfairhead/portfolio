@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Bangalore"
 description = "Second week in India"
+date = 2023-03-27
 [taxonomies]
 tags = ["Travel"]
 

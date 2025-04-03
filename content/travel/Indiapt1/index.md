@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Gorkana"
 description = "Arrival in India"
+date = 2023-03-21
 [taxonomies]
 tags = ["Travel"]
 
