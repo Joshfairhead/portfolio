@@ -9,7 +9,7 @@ tags = ["Travel"]
 
 +++
 
-{{ image(url="metaphorum.png", alt="Metaphorum", no_hover=true) }}
+{{ image(url="elephant.jpg", alt="Metaphorum", no_hover=true) }}
 
 After a couple of weeks at home I'm ready to traverse the reality graph once again; I've been figuring out my next token and from a number of options presenting themselves I decide I'd best be of service heading to Metaphorum in the UK. 
 
