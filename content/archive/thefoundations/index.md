@@ -1,6 +1,6 @@
 +++
 authors = ["Ash Cat"]
-title = "The Foundations"
+title = "The Foundation(s)"
 description = "Creative writing mixing reality with fiction as an interpretative stew."
 draft = false
 [taxonomies]
@@ -11,7 +11,6 @@ archive = true
 +++
 
 {{ image(url="darkfoundations.png", alt="Asimov comes reality", no_hover=true) }}
-
 
 Damn the solar punks aren't gonna like this, but at the height of the cosmic empires prosperity, there were predictions made; A dark age of either 10,000 or 100,000 years. It seemed utterly ridiculous to citizens of the time - who ridiculed such predictions - but Sneddon was right; a dark age was coming for Trantor and it was just a matter of time before the stagnation became apparent.
 
