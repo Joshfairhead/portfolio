@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "UK: Metaphorum Manchester"
 draft = false
-description = "Metaphorum gathering in Manchester, Staffords old crew."
+description = "Metaphorum gathering in Manchester, Staffords old crew." 
 date = 2023-06-08
 [taxonomies]
 tags = ["Travel"]
