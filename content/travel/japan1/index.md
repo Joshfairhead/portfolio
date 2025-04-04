@@ -1,6 +1,6 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Tokyo Energy"
+title = "Japan 1: Tokyo Energy"
 draft = false
 description = "Pokemon hunting and 'drain spotting' in Tokyo"
 date = 2023-04-10

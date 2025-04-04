@@ -1,7 +1,7 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Kyoto Tranquility"
-draft = true
+title = "Japan 2: Kyoto Tranquility"
+draft = false
 description = "Kyoto Tranquility"
 date = 2023-04-14
 [taxonomies]
@@ -25,15 +25,46 @@ This is a bit of a drizzly walk and waaay longer than expected but I catch my fi
 
 {{ image(url="poke1.jpg", alt="Pokemon", no_hover=true) }}
 
+| | |
+|---|---|
+| {{ image(url="lid1.jpg", alt="lids", no_hover=true) }} | {{ image(url="lid2.jpg", alt="lids", no_hover=true) }} |
+| {{ image(url="lid4.jpg", alt="lids", no_hover=true) }} | {{ image(url="lid5.jpg", alt="lids", no_hover=true) }} | 
+
+{{ image(url="lid3.jpg", alt="lids", no_hover=true) }}  
+
 Sunday we start the day with our coffee and writing ritual before heading off to the Eastern outskirts to collect a two more Pokemon on my list - as well as visit some other less important cultural relics like the temples ;)
 
 First stop was Yasaka-jinja Shrine; a shinto park hosting an Igglybuff, Cleffa and Pichu beside its beautiful Koi pond. Aiding an air of authenticity to the shrine experience were numerous Japanese women touring the place in Kimonos; hmmm, original cosplay!?
+
+| | | | 
+|---|---|---| 
+| {{ image(url="yasaka1.jpeg", alt="yasaka", no_hover=true) }} | {{ image(url="yasaka2.jpeg", alt="yasaka", no_hover=true) }} | {{ image(url="yasaka3.jpeg", alt="yasaka", no_hover=true) }} | 
+| {{ image(url="yasaka4.jpeg", alt="yasaka", no_hover=true) }} | {{ image(url="yasaka5.jpeg", alt="yasaka", no_hover=true) }} | {{ image(url="yasaka6.jpeg", alt="yasaka", no_hover=true) }} | 
+| {{ image(url="yasaka7.jpeg", alt="yasaka", no_hover=true) }} | {{ image(url="yasaka8.jpeg", alt="yasaka", no_hover=true) }} | {{ image(url="yasaka9.jpeg", alt="yasaka", no_hover=true) }} | 
+| {{ image(url="yasaka10.jpeg", alt="yasaka", no_hover=true) }} | 
 
 {{ image(url="igglypuff.jpg", alt="Kyoto", no_hover=true) }}
 
 Sights seen and creatures captured we get moving towards the next spot and encounter the Chion-in temple along our route and for exercise we decide to climb the giant steps and explore. The scale is impressive; like where did they even find trees for these huge structures? Everything about the construction is enormous - just check out the giant bell!
 
+| | | | 
+|---|---|---| 
+| {{ image(url="chion1.jpeg", alt="chion1", no_hover=true) }} | {{ image(url="chion2.jpeg", alt="chion2", no_hover=true) }} | {{ image(url="chion3.jpeg", alt="chion3", no_hover=true) }} | 
+| {{ image(url="chion4.jpeg", alt="chion3", no_hover=true) }} | {{ image(url="chion5.jpeg", alt="chion5", no_hover=true) }} | {{ image(url="chion6.jpeg", alt="chion6", no_hover=true) }} | 
+| {{ image(url="chion7.jpeg", alt="chion7", no_hover=true) }} | {{ image(url="chion8.jpeg", alt="chion8", no_hover=true) }} | {{ image(url="chion9.jpeg", alt="chion9", no_hover=true) }} | 
+| {{ image(url="chion10.jpeg", alt="chion10", no_hover=true) }} | {{ image(url="chion11.jpeg", alt="chion11", no_hover=true) }} | {{ image(url="chion12.jpeg", alt="chion12", no_hover=true) }} | 
+
 We depart to Okazaki Park in order to collect my last real life NFT of the day while coincidentally encountering two Doge along the way - I get why these beautiful animals became a meme coin to be fair... Needing a dopamine top-up we grab some free mochi samples from a sweet shop and promptly capture a Cyndaquil and Darmanitan lid before ambling into the Heian-jingu Shrine. there are some pretty cool dragons that my Poke hunting apprentice does a decent job of imitating! (no consent to post unfortunately :p)
+
+| | | | 
+|---|---|---| 
+| {{ image(url="ozion1.jpeg", alt="ozion", no_hover=true) }} | {{ image(url="ozion2.jpg", alt="ozion", no_hover=true) }} | {{ image(url="ozion3.jpeg", alt="ozion3", no_hover=true) }} | 
+
+| | | | 
+|---|---|---| 
+| {{ image(url="heian1.jpeg", alt="heian", no_hover=true) }} | {{ image(url="heian5.jpeg", alt="heian", no_hover=true) }} | {{ image(url="heian3.jpeg", alt="heian", no_hover=true) }} | 
+| {{ image(url="heian4.jpeg", alt="heian", no_hover=true) }} | {{ image(url="heian2.jpeg", alt="heian", no_hover=true) }} | {{ image(url="heian6.jpeg", alt="heian", no_hover=true) }} | 
+
 
 Temporarily finished Poke hunting at temples; we set course for the National Gardens surrounding the (closed) Imperial Palace. As we arrive universe promptly signals no with loud alarm and a booming thunder clap immediately preceding a hail storm... I'm soaked so we make a beeline for a drink in search of some shelter, ending up a Japanese gin distillery called "House of KI NO BI". Pokemon in bag and kilometres under belt we head back to the hotel for a bath and bed. 
 
@@ -49,7 +80,17 @@ Realising exactly how far our next stop is on foot we grab a cab up to Arashiyam
 
 {{ image(url="ho-oh.jpg", alt="Ho-oh", no_hover=true) }}
 
+| | | | 
+|---|---|---| 
+| {{ image(url="bridge1.jpeg", alt="bridge", no_hover=true) }} | {{ image(url="bridge2.jpeg", alt="bridge", no_hover=true) }} | {{ image(url="bridge3.jpeg", alt="bridge", no_hover=true) }} | 
+| {{ image(url="bridge4.jpeg", alt="bridge", no_hover=true) }} | {{ image(url="bridge5.jpeg", alt="bridge", no_hover=true) }} | {{ image(url="bridge6.jpeg", alt="bridge", no_hover=true) }} | 
+
 At this point I promptly declare myself the 'greatest trainer of them all' as I've collected all the Pokemon I will find on this visit to Japan. There's a monkey sanctuary nearby so we decide to head up the hill to get in trouble by throwing Pokeballs at them. It's a long climb but a beautiful walk that answers many of yesterdays question of "where the bloody hell did the get the timber for these temples" - clearly on these hills which are full of beautifully straight trees of nearly uniform proportions... crazy nature actually grows like this!
+
+| | | | 
+|---|---|---| 
+| {{ image(url="hill1.jpeg", alt="hill", no_hover=true) }} | {{ image(url="hill2.jpeg", alt="hill", no_hover=true) }} | {{ image(url="hill3.jpeg", alt="hill", no_hover=true) }} | 
+
 
 We find plenty of monkeys at the top of the hill and are just in time for a show. No they don't perform - but they do steal tourist equipment and already have a fellas lens. One of the keepers is chasing the cheeky blighter down and the whole troop are in on the action screeching something akin to "invader, invader, enemy of the state!". Against the odds the keeper catches the kleptomaniac culprits and the equipment returned to the owner; what a show!!
 
@@ -57,7 +98,26 @@ We find plenty of monkeys at the top of the hill and are just in time for a show
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-sU4FCUDRCeTKG_RdHl5gmR5DvUC3klz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+{{ image(url="monkies1.jpeg", alt="monkies", no_hover=true) }} 
+
+| | |
+|---|---|
+| {{ image(url="monkies2.jpeg", alt="monkies", no_hover=true) }} | {{ image(url="monkies3.jpeg", alt="monkies", no_hover=true) }} | 
+
+{{ image(url="monkies4.jpeg", alt="monkies", no_hover=true) }} 
+{{ image(url="monkies5.jpeg", alt="monkies", no_hover=true) }}
+
+
 After viewing the whole of Kyoto from the hilltop we descend from the summit and towards the bamboo forrest. On route we stumble into Hōgon-in Temple which is exceptionally serene but it's getting late so they're closing. Entering the forrest the exaggerated growth of the shoots remind me of the fight scene in the movie Crouching Tiger Hidden Dragon - a stereotype I'm sure that arises for many other tourists also. They're kinda haunting I must admit; the cool temperatures and darkening light also gives off blare witchy vibes. Guess I'm in movie mode now...
+
+| | | | 
+|---|---|---| 
+| {{ image(url="hogon1.jpeg", alt="hogon", no_hover=true) }} | {{ image(url="hogon2.jpeg", alt="hogon", no_hover=true) }} | {{ image(url="hogon3.jpeg", alt="hogon", no_hover=true) }} | 
+| {{ image(url="hogon4.jpeg", alt="hogon", no_hover=true) }} | {{ image(url="hogon5.jpeg", alt="hogon", no_hover=true) }} | {{ image(url="hogon6.jpeg", alt="hogon", no_hover=true) }} | 
+| {{ image(url="hogon7.jpeg", alt="hogon", no_hover=true) }} | {{ image(url="hogon8.jpeg", alt="hogon", no_hover=true) }} | {{ image(url="hogon9.jpeg", alt="hogon", no_hover=true) }} | 
+| {{ image(url="hogon10.jpeg", alt="hogon", no_hover=true) }} | {{ image(url="hogon11.jpeg", alt="hogon", no_hover=true) }} | {{ image(url="hogon12.jpeg", alt="hogon", no_hover=true) }} | 
+| {{ image(url="hogon13.jpeg", alt="hogon", no_hover=true) }} | {{ image(url="hogon14.jpeg", alt="hogon", no_hover=true) }} | {{ image(url="hogon15.jpeg", alt="hogon", no_hover=true) }} | 
+| {{ image(url="hogon16.jpeg", alt="hogon", no_hover=true) }} |
 
 We pass by a sweet store to pick up some presents and grab public transport back towards where we are staying, passing by a karaoke centre for some shits and giggles...
 
@@ -65,7 +125,11 @@ We pass by a sweet store to pick up some presents and grab public transport back
 
 In the morning (17th April) we say goodbye and board trains in opposite directions; I'm headed to Sogenji with the aim of a midday arrival and my companion to Tokyo. After a minor liquidity crunch with crypto currencies I manage to make it to the temple at precisely five minutes past midday; so roughly on time!
 
-{{ image(url="soghingi1.jpeg", alt="Kyoto", no_hover=true) }}
+{{ image(url="soghingi1.jpeg", alt="soghingi", no_hover=true) }}
+
+| | | | 
+|---|---|---|
+| {{ image(url="sogenji2.jpeg", alt="sogenji", no_hover=true) }} | {{ image(url="sogenji3.jpeg", alt="sogenji", no_hover=true) }} | {{ image(url="sogenji4.jpeg", alt="sogenji", no_hover=true) }} | 
 
 The temple is quiet to the point that it seems as if there's nobody around. Checking around the place I find the kitchen and signal my arrival. They inform my liaison who's preoccupied but on his way so I offer a hand with the cooking. Chefs a decent dude and up for a bit of a laugh as we go about our preparation work during which my liaison arrives. He carries an impersonal vibe that's pretty dismissive without having actually interacted on anything.
 
@@ -73,9 +137,24 @@ The temple is quiet to the point that it seems as if there's nobody around. Chec
 
 I'm briefly shown some of the immediately relevant spaces, like where I'm sleeping, where to put my bag and given a handout and handbook on Zazen explaining the practice:
 
+--- 
+
+GUIDES:
+{{ image(url="WelcomeGuide.jpeg", alt="Welcome Guide", no_hover=true) }}
+{{ image(url="SogenjiHandbook.jpeg", alt="Handbook", no_hover=true) }}
+
+---
+
 This is pretty good reading from first glances and we briefly discuss some of the principals, with concentration being the core axiom that supposedly sums it all up. I mention that this is one of seven principals in my own "fourth way" practice and am essentially dismissed; oh dear, I was hoping for some enrichment but it seems my liaison is tightly coupled to the orthodoxy. My 'psychic intuition' had already picked up on the places energetics and was screaming to get the hell out of here - and this interaction might have justbeen the exit sign. Damn, I only just got here, I internally rationalise, I'll wait a little longer and see...
 
 My liason departs and there's some free time to check out the forest and grounds of the monastery which provide a breathtaking exploration, before we are to return for the elaborate ritual of dinner. Much formality - to my tastes this feels plain rigid with grip seems to prioritise the principal of order... which I'm personally partial to but not to this degree!
+
+| | | | 
+|---|---|---|
+| {{ image(url="sogenji5.jpeg", alt="sogenji", no_hover=true) }} | {{ image(url="sogenji6.jpeg", alt="sogenji", no_hover=true) }} | {{ image(url="sogenji7.jpeg", alt="sogenji", no_hover=true) }} | 
+| {{ image(url="sogenji8.jpeg", alt="sogenji", no_hover=true) }} | {{ image(url="sogenji9.jpeg", alt="sogenji", no_hover=true) }} | {{ image(url="sogenji10.jpeg", alt="sogenji", no_hover=true) }} | 
+| {{ image(url="sogenji11.jpeg", alt="sogenji", no_hover=true) }} | {{ image(url="sogenji12.jpeg", alt="sogenji", no_hover=true) }} | {{ image(url="sogenji13.jpeg", alt="sogenji", no_hover=true) }} | 
+| {{ image(url="sogenji14.jpeg", alt="sogenji", no_hover=true) }} | {{ image(url="sogenji15.jpeg", alt="sogenji", no_hover=true) }} | {{ image(url="sogenji16.jpeg", alt="sogenji", no_hover=true) }} | 
 
 After eating we head down to the sitting hall to do a whole lotta breathing; a process that's also pretty formalised. Everyone starts in place and with newbies like myself placed in the outer circle. For new entrants like me we are asked to perform a ritual of walking over to the inner camber and bowing before to the inner sanctum before walking its length to again bow to the monk holding space before returning to their seat. Ok, cool by me sure! 
 
