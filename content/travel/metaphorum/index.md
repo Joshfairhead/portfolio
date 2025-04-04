@@ -1,6 +1,6 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Metaphorum Manchester"
+title = "UK: Metaphorum Manchester"
 draft = false
 description = "Metaphorum gathering in Manchester, Staffords old crew."
 date = 2023-06-08

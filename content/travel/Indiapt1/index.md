@@ -1,6 +1,6 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Gorkana"
+title = "India 1: Gorkana"
 description = "Arrival in India"
 date = 2023-03-21
 [taxonomies]

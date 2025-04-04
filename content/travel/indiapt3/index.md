@@ -1,6 +1,6 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Auroville Involoution"
+title = "India 3: Auroville Involoution"
 description = "Week three: arrival in Auroville."
 date = 2023-04-01
 [taxonomies]

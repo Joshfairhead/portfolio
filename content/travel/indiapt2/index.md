@@ -1,6 +1,6 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Bangalore"
+title = "India 2: Bangalore"
 description = "Second week in India"
 date = 2023-03-27
 [taxonomies]

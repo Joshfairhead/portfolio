@@ -1,6 +1,6 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Poland, Chinwags Poznan"
+title = "Poland: Chinwags Poznan"
 draft = false
 description = "Chinwags Poznan."
 date = 2023-05-08
