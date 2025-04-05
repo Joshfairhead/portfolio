@@ -1,4 +1,3 @@
-
 +++
 authors = ["Josh"]
 title = "Distributing Digital Identity"
