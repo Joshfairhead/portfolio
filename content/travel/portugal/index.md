@@ -1,7 +1,7 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Portugal: Boom Festival"
-draft = true
+draft = false
 description = "Boom Festival"
 date = 2023-07-20
 [taxonomies]
@@ -13,15 +13,47 @@ tags = ["Travel"]
 
 After some time at home on my own in Lisbon I make a last minute decision to attend Boom festival with Alex who's attending with some friends. I pack my bags on the Wednesday and head out on the 6pm~ train to Castelo Branco; the closest stop on public transport. I've no idea how I'll get to the festival 50km from the station but have my tent with me, so assuming the worst I can always camp in a field somewhere for the evening.
 
+{{ image(url="train.jpeg", alt="Train", no_hover=true) }}
+
 The train is full of people heading to the same destination and I make  friends with some folk who are getting a taxi for the last leg of the journey. I'm with three Germans; a designer, his girlfriend and another guy who's a loose end like me.
 
 As we draw nearer to the festival there are cops blocking the road who proceed to flag our taxi down for a search. Three of us are largely left alone bar a pocket search but our loose end is checked thoroughly; he has some needles in his bag for a medical condition and no prescription with him along with some salts that are not for human consumption. They tear his bags apart to the effect of toothpaste explosions and ruined clothing.
 
 After passing through that rather intense energy wave it turns out that this poor fella has had a hell of a ride; the airline lost his luggage meaning that he had to sleep in the airport till the next morning to pick it up; his bags were found but the tent was lost.
 
+{{ image(url="arrival.jpeg", alt="Arrival", no_hover=true) }}
+
 Arriving in at like 01:00 we traverse the grounds to get set up at a preliminary camping spot. Johnny "no cash" - a friend of a friend - is on steward duty and points us towards some open ground where we can make camp.
 
 The stages are not yet open but I decide to take a look around the site; discovering the magic of the environment minus a crowd. The lack of activity is surreal; beautifully lit environments and landscapes with no one around and a still silence in the air - the peaceful serenity was one of my favourite moments of the week. 
+
+| | |
+|---|---|
+| {{ image(url="unplug.jpeg", alt="unplug", no_hover=true) }} | {{ image(url="noflags.jpeg", alt="no flags", no_hover=true) }} | 
+
+| | |
+|---|---|
+| {{ image(url="art1.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art5.jpeg", alt="Art", no_hover=true) }} | 
+| {{ image(url="art6.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art2.jpeg", alt="Art", no_hover=true) }} |
+| {{ image(url="art3.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art4.jpeg", alt="Art", no_hover=true) }} | 
+| {{ image(url="art7.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art8.jpeg", alt="Art", no_hover=true) }} | 
+| {{ image(url="art9.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art10.jpeg", alt="Art", no_hover=true) }} | 
+| {{ image(url="art11.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art12.jpeg", alt="Art", no_hover=true) }} | 
+| {{ image(url="art13.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art14.jpeg", alt="Art", no_hover=true) }} |
+
+| | |
+|---|---|
+| {{ image(url="art15.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art27.jpeg", alt="Art", no_hover=true) }} |
+
+| | | |
+|---|---|---| 
+| {{ image(url="art16.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art17.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art18.jpeg", alt="Art", no_hover=true) }} | 
+| {{ image(url="art19.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art21.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art22.jpeg", alt="Art", no_hover=true) }} | 
+| {{ image(url="art23.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art25.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art26.jpeg", alt="Art", no_hover=true) }} |
+
+
+{{ image(url="art20.jpeg", alt="Art", no_hover=true) }} 
+{{ image(url="art24.jpeg", alt="Art", no_hover=true) }} 
 
 Rising the next day I grab a cold shower and get on with breakfast business before heading out to explore the grounds in the day; at this point I head pretty far out towards the edges and before tracing my way back in again.
 
@@ -41,17 +73,31 @@ I'm barefoot at this stage and take a shortcut over the hill, which turns out to
 
 On return I decide to take a counterfactual path back and am led up a hill past 'yellow camping 'where the path ends - so I trek over the grounds tripping on tent wires on the hill before finally emerging at a resting site close to my tent. I take a moment to have a smoke with one of the stewards on duty and discuss music before heading off to bed.
 
+{{ image(url="grounds.jpeg", alt="Grounds", no_hover=true) }} 
+
 Waking up Saturday morning, I prepare for the day with a cold shower and head out for breakfast before going for a long walk on my own again. While exploring I receive message from Alex letting me know that she's arrived and is about fifteen minutes from the grounds.
 
 I head back up the trail to meet her and help transport some of her luggage and set up her tent in 'yellow camping', which has much flatter ground than where I'm presently parked. Tasks completed, we depart for an orientation session of the grounds that she's not yet traversed.
+
+{{ image(url="map.jpeg", alt="Map", no_hover=true) }} 
+
+| | |
+|---|---|
+| {{ image(url="smell.jpeg", alt="Smell", no_hover=true) }} | {{ image(url="camp.jpeg", alt="Camp", no_hover=true) }} | 
 
 After a swim in the lake I take her past Alchemy to the Sacred Fire and outer limits before ambling back through the being fields, ducking into merchant stalls and checking out the food stops together.
 
 Along the way we spot an incredibly cosmic kimono and stop in to look at some of the stores offerings. One of the store owners hovers behind me and suggests I'd look good in a full length as I pull out a particularly interesting specimen. He suggests I try it on and yes this radical love kimono looks great, especially with my hat, but upon learning the price we depart. I feel a hole inside - fuck; I'd already fallen in love with it. We make it most of the way back to the food stalls before my frugal brooding is so obvious that Alex kindly offers to cover half as a birthday present so we double back and pick it up.
 
+{{ image(url="kimonos.jpeg", alt="Kimonos", no_hover=true) }} 
+
 We tour back through Alchemy stage before returning to enable her to rest at the tent - while I head off to pick up my own belongings and shelter. I say good bye to the Germans and suggest that we'll likely be around the Alchemy stage in the evening. An hour later I've got my tent setup up again and bags stashed, so wake the sleeping Alex to grab some food before an evening dance.
 
 Alchemy is pumping and the kimono seems to attract some new friends on the dance floor. After moving through a few spots we hustle on to the main stage which has turned into a psytrance swimming pool that we decide to paddle through for the experience. On our way back to the tents we visit the 'misty projections' on the lake shore; a bunch of organismic DMT shapes projected through smoke machines with ambient surround sound. Pretty cool installation!
+
+| | |
+|---|---|
+| {{ image(url="alchemy.jpeg", alt="alchemy", no_hover=true) }} | {{ image(url="lazers.jpeg", alt="Lazers", no_hover=true) }} | 
 
 The next day I lie in while Alex goes off to the supermarket to grab breakfast, charge her phone and get some writing done. By the time I make over to the meeting spot she's gone - so I head towards the music to raise my energy with a bit of a boogie. After a half hour or so I'm done and just as I decide to move on I'm greeted by a bouncing early bird who's spotted the kimono and is finished with her own priorities.
 
@@ -66,11 +112,17 @@ As the music fades once again I head past the Chi Temple of sensual bodies movin
 
 Back on the shore shore I'm extremely moved by the beauty of this place. Wondering about how this landscape of music, people and plants came to be, I find myself considering it's initial conditions and generator function in relation to Ashbys law of variety; what kind of soul(s) have the internal complexity and coherence to give rise to this beautifully ordered plurality? It's certainly a very pure essence.
 
+| | |
+|---|---|
+| {{ image(url="lake.jpeg", alt="Lake", no_hover=true) }} | {{ image(url="fruit.jpeg", alt="Fruit", no_hover=true) }} | 
+
 On the move towards the Chill Out Gardens I circle past the main stage and up to the Heart Box for a smoothie, before weaving back through the courtyard for some food. At this point I've nearly landed from my trip and am about ready to head back to the tent.
 
 It's about an hour before six so I grab an ice tea before my return; no sign of Alex though so I sit about playing my guitar for a while and go to refill my water. At about quarter to six she arrives in from her expedition a little early and since I've my guitar to hand I improvise a brief song before we head off to get some food, taking the guitar with me.
 
 We settle in some shade near the lake and someone wishes to borrow my guitar, which I give to them while Myself and Alex chat about the day. Another traveller interrupts us to say hello and tell us of his travels before offering us some Mescaline which we procure from him to plan a trip. As he departs we notice there's a rather saucy circus show happening over near the water. My guitars returned and we head over watch the hoola-hoops and a lady performing acrobatics on the silks.
+
+{{ image(url="plains.jpeg", alt="Plains", no_hover=true) }} 
 
 As the show disperses a mad man accosts us with gibberish about his humming birds and umbrella, obviously to get some attention as I'm carrying a guitar - what he really wants is a song. Alex splits while I sing him a verse of 'the weight' and am rewarded with a cheap humming bird keyring for the trouble... I attach this to my guitar strap and aim to catch up with Alex, after some time serenading folk in line for the toilet expecting her re-emergence I determine that she must have gone somewhere else before busking my way back to the lake. I meet another strangers curiosity and improvise a tune for him and his wife before being found by Alex once again. At this point it's getting dark so we return the guitar to the tents and head out to meet some companions near 'Lunched Out Lizards' in the Garden.
 
