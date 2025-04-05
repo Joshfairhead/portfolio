@@ -1,7 +1,7 @@
 +++
 
 authors = ["Josh Fairhead"]
-title = "Croatia: Metafest Croatia"
+title = "Croatia: Metafest"
 draft = false
 description = "Croatian community gathering"
 date = 2023-08-16
