@@ -28,8 +28,9 @@ This is the research I facilitate.
 --- 
 
 ## Services
-- Design, Facilitation, Consulting for workshops and events.
-- Facilitation Methodologies
+- Workshops and events.
+- Design, facilitation, consulting.
+- Methodologies:
   - Complexity mapping
   - Dilemma Resolution
   - Three Horizons
