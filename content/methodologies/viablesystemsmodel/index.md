@@ -12,6 +12,6 @@ A lot can be said about the VSM, but it would seem that the theoretical overhead
 
 Below is an interpretation of Staffords model through the pentadic lens of JG Bennett, which can act as a map for those in leadership wishing to grasp the signigicance of their organisanion, or a game can be facilitated to help self organising groups better align their activities and interests. 
 
-The core concept here is to simply map activities to edges.
+The core concept here is to simply map activities to edges, but it helps to be versed in the theory as well.
 
 {{ image(url="VSM.png", alt="Cover", no_hover=true) }}
