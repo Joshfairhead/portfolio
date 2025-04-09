@@ -9,16 +9,16 @@ draft = true
 
 **Sabbatical**
 
-Learning general systematics as a first principals design framework. This has applicability as a fundemental process that can be used in practically any context, though learnt with a focus on facilitation methods and other processes geared towards creative collaboration. Studied at H3uni.org
+Mastering general systematics as a first principals design framework. This has applicability as a fundemental process that can be used in practically any context, though learnt with a focus on facilitation methods and other processes geared towards creative collaboration. Studied at H3uni.org
 
 **Ledger Governance Coordinator | Regen Network | Nov 2021 - Jul 2022**
 
-Representing the voice of community members within the foundation by convening spaces and facilitating them. Listening for offers/needs and weaving the appropriate connections. Sharing technical knowledge and stewarding digital literacy. Decentralised Science.
+Representing the voice of community members within the foundation by convening spaces and facilitating biweekly meetings of about 25 people. Documenting technical knowledge and building digital literacy about the blockchains applicability towards regeneration. 
 - Skills: Communtity management · Change Management
 
 **Founding Member | LunarPunk_Labs | Sep 2019 - Sep 2021** 
 
-Awarded "Best Multidisciplinary Approach" from Odyssey Momentum's Self Soverign Identity track sponsored by the Dutch Blockchain Coalition, which led to consulting gigs and further application development from there.
+Awarded "Best Multidisciplinary Approach" from Odyssey Momentum's Self Soverign Identity track sponsored by the Dutch Blockchain Coalition, which led to consulting and further application development.
 
 **Stewardship and Innovation | LiminalVillage.com | Apr 2019 - Jun 2021**
 
@@ -26,7 +26,7 @@ Building a community of practice with stewards and visitors; epistemics, social 
 
 **Ecosystems Development | Commons Stack | Sep 2018 - Jul 2019**
 
-Seeding the launch of the Commons Stack while contributing to Giveth.io: narrative stewardship based on Elinor Ostroms work, community management, organising and gathering a team of teams (5!) for hackathon attendance and facilitating team communications.
+Seeding the launch of the Commons Stack while contributing to Giveth.io: narrative stewardship based on Elinor Ostroms work, community management, organising and gathering five teams of five people (25!) for hackathon attendance while facilitating inter team communication.
 
 **Product | Pillar Project | Aug 2017 - Sep 2018**
 

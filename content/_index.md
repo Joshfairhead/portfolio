@@ -5,7 +5,7 @@ title = "Home"
 
 # Hi, I'm Josh
 
-I'm a facilitator walking the sevenfold path.
+I help teams find alignment through visual facilitaiton
 
 {{ image(url="https://avatars.githubusercontent.com/u/34649155?v=4", alt="Headshot", no_hover=true, full=true) }}
 
@@ -27,23 +27,23 @@ This is the research I facilitate.
 
 --- 
 
-## Services
+## Service Offerings
 - Workshops and events.
 - Design, facilitation, consulting.
+
+## Toolbox
+- Core Design Methodology:
+  - General systematics as a tool for understanding wholes
 - Methodologies:
   - Complexity mapping
   - Dilemma Resolution
   - Three Horizons
   - Causal Texture
-  - Viable Systems Model
+  - [Viable Systems Model](@/methodologies/viablesystemsmodel/index.md)
   - Hexagon clustering
-  - Enneagrams
+  - [Synergy Graphs](@/methodologies/synergygraphs/index.md)
   - Wheel of Wisdom
   - World Game
-- Design Methodologies
-  - General systematics
-
-General systematics is a universal design framework that can be applied to practically any context. 
 
 --- 
 
