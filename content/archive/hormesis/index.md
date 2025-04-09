@@ -4,7 +4,7 @@ title = "Hormesis"
 description = "Getting stronger with eustress"
 draft = false
 [taxonomies]
-tags = ["Draft"]
+tags = ["Archive"]
 [extra]
 archive = true
 
