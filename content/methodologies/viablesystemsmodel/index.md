@@ -2,7 +2,7 @@
 placement = 1
 authors = ["Josh Fairhead"]
 title = "Viable Systems Model"
-description = "A reformulation of Stafford Beers VSM"
+description = "A reformulation of Stafford Beers VSM for visual facilitation"
 [taxonomies]
 tags = ["Exposition"]
 [extra]
