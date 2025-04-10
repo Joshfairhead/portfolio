@@ -58,9 +58,9 @@ If you want my advice or guidance, you can book me by the hour. I'm particularly
 - [Blockchain Consulting](http://www.consulting.tothecosmos.org)
 
 Book me at the rate you can afford:
+<div class="buttons">
+  <a href="https://buy.stripe.com/00g8xacwLevR3Kw7sv">€180</a>
+  <a href="https://buy.stripe.com/8wMaFi8gv1J5bcY8wy">€135</a>
+  <a href="https://buy.stripe.com/9AQ14I54jafB94Q8wx">€80</a>
+</div>
 
-- €180/hr
-- €135/hr
-- €80/hr
-
-What is your hourly rate? Pay me that!
