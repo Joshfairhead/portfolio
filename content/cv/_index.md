@@ -73,6 +73,3 @@ At Pillar we were working on an integrated crypto wallet. From my arrival we sca
 - Sound
 - Events
 
-
-
-
