@@ -46,18 +46,19 @@ At Pillar we were working on an integrated crypto wallet. From my arrival we sca
 
 ## Courses
 **University For The Third Horizon (2020-2025)**
-- Qualitive Systems Thinking
-- Facilitating Transformative Journies
-- Art of Creative Collaboration
-- E-Systems (enneagram and vsm)
-- Cosmic Ecology
+- [Qualitive Systems Thinking](https://www.h3uni.org/events-and-activities/courses/qualitative-systems-thinking/)
+- [Facilitating Transformative Journies](https://www.h3uni.org/events-and-activities/courses/facilitating-transformational-journeys-ii/)
+- [Art of Creative Collaboration](https://www.h3uni.org/events-and-activities/courses/the-art-of-creative-collaboration/)
+- [Enneagram as Transformational System](https://www.h3uni.org/events-and-activities/courses/the-transformational-system-as-enneagram/)
+- [Cosmic Ecology I & II](https://www.h3uni.org/events-and-activities/courses/the-cosmic-ecology-programme/)
 
 **Capra Course (2020-2021)**
-- Systems View of Life 
+- [Systems View of Life](https://www.capracourse.net/) 
 
 **Self Directed**
 - [Learn Programming](https://learnprogramming.online/)
 - [Learn Javascript](https://learnjavascript.online/)
+- [Easy Rust](https://dhghomon.github.io/easy_rust/)
 
 ---
 
