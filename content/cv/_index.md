@@ -119,7 +119,4 @@ Product management, research, design and development in relation to a cryptocurr
 
 ### Current Research Focus
 
-Neurosymbolic AI implementation
-J.G. Bennett's General Systematics
-Regenerative technology applications
-Knowledge graphs and semantic systems
+Implementation of J.G. Bennett's General Systematics as "Neurosymbolic AI" leveraging categorical systems and semantic knowledge graphs to enable regenerative outcomes.
