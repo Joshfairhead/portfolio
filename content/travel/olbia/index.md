@@ -7,6 +7,10 @@ date = 2023-09-02
 [taxonomies]
 tags = ["Travel"]
 
+[extra]
+styles = ["travel-gallery.css", "olbia-gallery.css"]
+scripts = ["travel-lightbox.js"]
+
 +++
 
 Arriving at the housing estate where our accommodation is located our hosts Josh and his partner Yada arrive with some supplies to sustain us a night before helping us search out the exact apartment we're staying in and joining us a brief moment of socialisation before bed.
@@ -25,9 +29,10 @@ Despite these paradoxes, I found Josh pretty congruent in enacting his philosoph
 
 We spent most of this first day in discussion while moving between various locations in the grounds (coffee, lunch, walks etc.). Like the night before he was  trying to set foundational context about knowledge itself, for the sake of convention... Metalinguistics right?
 
-| | |
-|---|---| 
-| {{ image(url="grounds1.jpeg", alt="Grounds", no_hover=true) }} | {{ image(url="grounds2.jpeg", alt="Grounds", no_hover=true) }} |
+<div class="travel-gallery gallery-2 gallery-resized">
+{{ image(url="grounds1.jpeg", alt="Grounds", no_hover=true) }}
+{{ image(url="grounds2.jpeg", alt="Grounds", no_hover=true) }}
+</div>
 
 While sitting for coffee we encapsulated "what knowledge is" as five categories; synthesised information that is:
 
@@ -41,9 +46,11 @@ The conversation then turns to understanding; for which Josh provides a triad of
 
 {{ image(url="diagram3.png", alt="Diagram", no_hover=true) }}
 
-| | | | 
-|---|---|---|
-| {{ image(url="diagram4.png", alt="Diagram", no_hover=true) }} | {{ image(url="diagram5.png", alt="Diagram", no_hover=true) }} | {{ image(url="diagram6.png", alt="Diagram", no_hover=true) }} | 
+<div class="travel-gallery gallery-3 gallery-resized">
+{{ image(url="diagram4.png", alt="Diagram", no_hover=true) }}
+{{ image(url="diagram5.png", alt="Diagram", no_hover=true) }}
+{{ image(url="diagram6.png", alt="Diagram", no_hover=true) }}
+</div> 
 
 
 Quite a deal was transmitted through our interactions and there were many gems; philosophical fragments of all sorts. Our conversation on knowledge and understanding moves us on to the study of deontology;
@@ -200,9 +207,10 @@ This hike up the mountains leads us through all kinds of beautiful scenery, stop
 Josh shares a recording called the 'Art of Fugue' over dinner which opens the door for a youtube music night; theres a journey through some gospel music with the same chord progression as 'Up on Cripple Creek' by The Band, 'Sympathy for the Devil', 'Man of Constant Sorrow', 'Father Son' by Cat Stevens, and so on - theres even a bit of dancing!
 Before leaving for the evening Josh wishes to demonstrate his metagame one last time via the analogy of pool; thinking ahead about positioning seemed to be the main point but also other players / balls blocking the way, spin and how quantity effects quality.
 
-| | | 
-|---|---|
-| {{ image(url="pool1.jpeg", alt="View", no_hover=true) }} | {{ image(url="pool2.jpeg", alt="View", no_hover=true) }} | 
+<div class="travel-gallery gallery-2 gallery-original-size">
+{{ image(url="pool1.jpeg", alt="View", no_hover=true) }}
+{{ image(url="pool2.jpeg", alt="View", no_hover=true) }}
+</div> 
 
 The next morning, we're picked up around 12am and Pekko's delivered with verbal shock about an hour before he's taken to the Airport; Eva goes along as well to say goodbye as they seem to have become pretty close. The rest of us take it slow for the day and chill out - including Eva upon her return.
 
@@ -231,13 +239,19 @@ Ad Astra! ✨
 
 ### Gallery of Faces:
 
-| | | | 
-|---|---|---|
-| {{ image(url="faces1.jpeg", alt="Faces", no_hover=true) }} | {{ image(url="faces2.jpeg", alt="Faces", no_hover=true) }} | {{ image(url="faces3.jpeg", alt="faces", no_hover=true) }} | 
-| {{ image(url="faces4.jpeg", alt="Faces", no_hover=true) }} | {{ image(url="faces5.jpeg", alt="Faces", no_hover=true) }} | {{ image(url="faces6.jpeg", alt="faces", no_hover=true) }} | 
+<div class="travel-gallery gallery-3 gallery-resized">
+{{ image(url="faces1.jpeg", alt="Faces", no_hover=true) }}
+{{ image(url="faces2.jpeg", alt="Faces", no_hover=true) }}
+{{ image(url="faces3.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces4.jpeg", alt="Faces", no_hover=true) }}
+{{ image(url="faces5.jpeg", alt="Faces", no_hover=true) }}
+{{ image(url="faces6.jpeg", alt="faces", no_hover=true) }}
+</div>
 
-| | | |
-|---|---|---|
-| {{ image(url="grounds4.jpeg", alt="Grounds", no_hover=true) }} | {{ image(url="grounds5.jpeg", alt="Grounds", no_hover=true) }} | {{ image(url="grounds6.jpeg", alt="faces", no_hover=true) }} | 
-| {{ image(url="grounds7.jpeg", alt="Grounds", no_hover=true) }} | 
+<div class="travel-gallery gallery-2 gallery-resized">
+{{ image(url="grounds4.jpeg", alt="Grounds", no_hover=true) }}
+{{ image(url="grounds5.jpeg", alt="Grounds", no_hover=true) }}
+{{ image(url="grounds6.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="grounds7.jpeg", alt="Grounds", no_hover=true) }}
+</div> 
 

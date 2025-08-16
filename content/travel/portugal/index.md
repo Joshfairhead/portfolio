@@ -7,6 +7,10 @@ date = 2023-07-20
 [taxonomies]
 tags = ["Travel"]
 
+[extra]
+styles = ["travel-gallery.css"]
+scripts = ["travel-lightbox.js"]
+
 +++
 
 {{ image(url="radicallove.jpg", alt="Boom", no_hover=true) }}
@@ -27,29 +31,41 @@ Arriving in at like 01:00 we traverse the grounds to get set up at a preliminary
 
 The stages are not yet open but I decide to take a look around the site; discovering the magic of the environment minus a crowd. The lack of activity is surreal; beautifully lit environments and landscapes with no one around and a still silence in the air - the peaceful serenity was one of my favourite moments of the week. 
 
-| | |
-|---|---|
-| {{ image(url="unplug.jpeg", alt="unplug", no_hover=true) }} | {{ image(url="noflags.jpeg", alt="no flags", no_hover=true) }} | 
+<div class="travel-gallery gallery-2">
+{{ image(url="unplug.jpeg", alt="unplug", no_hover=true) }}
+{{ image(url="noflags.jpeg", alt="no flags", no_hover=true) }}
+</div> 
 
-| | |
-|---|---|
-| {{ image(url="art1.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art5.jpeg", alt="Art", no_hover=true) }} | 
-| {{ image(url="art6.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art2.jpeg", alt="Art", no_hover=true) }} |
-| {{ image(url="art3.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art4.jpeg", alt="Art", no_hover=true) }} | 
-| {{ image(url="art7.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art8.jpeg", alt="Art", no_hover=true) }} | 
-| {{ image(url="art9.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art10.jpeg", alt="Art", no_hover=true) }} | 
-| {{ image(url="art11.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art12.jpeg", alt="Art", no_hover=true) }} | 
-| {{ image(url="art13.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art14.jpeg", alt="Art", no_hover=true) }} |
+<div class="travel-gallery gallery-2">
+{{ image(url="art1.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art5.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art6.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art2.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art3.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art4.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art7.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art8.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art9.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art10.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art11.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art12.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art13.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art14.jpeg", alt="Art", no_hover=true) }}
+</div>
 
-| | |
-|---|---|
-| {{ image(url="art15.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art27.jpeg", alt="Art", no_hover=true) }} |
-
-| | | |
-|---|---|---| 
-| {{ image(url="art16.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art17.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art18.jpeg", alt="Art", no_hover=true) }} | 
-| {{ image(url="art19.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art21.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art22.jpeg", alt="Art", no_hover=true) }} | 
-| {{ image(url="art23.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art25.jpeg", alt="Art", no_hover=true) }} | {{ image(url="art26.jpeg", alt="Art", no_hover=true) }} |
+<div class="travel-gallery gallery-3">
+{{ image(url="art15.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art27.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art16.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art17.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art18.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art19.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art21.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art22.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art23.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art25.jpeg", alt="Art", no_hover=true) }}
+{{ image(url="art26.jpeg", alt="Art", no_hover=true) }}
+</div>
 
 
 {{ image(url="art20.jpeg", alt="Art", no_hover=true) }} 
@@ -79,11 +95,11 @@ Waking up Saturday morning, I prepare for the day with a cold shower and head ou
 
 I head back up the trail to meet her and help transport some of her luggage and set up her tent in 'yellow camping', which has much flatter ground than where I'm presently parked. Tasks completed, we depart for an orientation session of the grounds that she's not yet traversed.
 
+<div class="travel-gallery gallery-1">
 {{ image(url="map.jpeg", alt="Map", no_hover=true) }} 
-
-| | |
-|---|---|
-| {{ image(url="smell.jpeg", alt="Smell", no_hover=true) }} | {{ image(url="camp.jpeg", alt="Camp", no_hover=true) }} | 
+{{ image(url="camp.jpeg", alt="Camp", no_hover=true) }} 
+{{ image(url="smell.jpeg", alt="Smell", no_hover=true) }}
+</div>
 
 After a swim in the lake I take her past Alchemy to the Sacred Fire and outer limits before ambling back through the being fields, ducking into merchant stalls and checking out the food stops together.
 
@@ -95,9 +111,10 @@ We tour back through Alchemy stage before returning to enable her to rest at the
 
 Alchemy is pumping and the kimono seems to attract some new friends on the dance floor. After moving through a few spots we hustle on to the main stage which has turned into a psytrance swimming pool that we decide to paddle through for the experience. On our way back to the tents we visit the 'misty projections' on the lake shore; a bunch of organismic DMT shapes projected through smoke machines with ambient surround sound. Pretty cool installation!
 
-| | |
-|---|---|
-| {{ image(url="alchemy.jpeg", alt="alchemy", no_hover=true) }} | {{ image(url="lazers.jpeg", alt="Lazers", no_hover=true) }} | 
+<div class="travel-gallery gallery-2">
+{{ image(url="alchemy.jpeg", alt="alchemy", no_hover=true) }}
+{{ image(url="lazers.jpeg", alt="Lazers", no_hover=true) }}
+</div> 
 
 The next day I lie in while Alex goes off to the supermarket to grab breakfast, charge her phone and get some writing done. By the time I make over to the meeting spot she's gone - so I head towards the music to raise my energy with a bit of a boogie. After a half hour or so I'm done and just as I decide to move on I'm greeted by a bouncing early bird who's spotted the kimono and is finished with her own priorities.
 
@@ -112,9 +129,10 @@ As the music fades once again I head past the Chi Temple of sensual bodies movin
 
 Back on the shore shore I'm extremely moved by the beauty of this place. Wondering about how this landscape of music, people and plants came to be, I find myself considering it's initial conditions and generator function in relation to Ashbys law of variety; what kind of soul(s) have the internal complexity and coherence to give rise to this beautifully ordered plurality? It's certainly a very pure essence.
 
-| | |
-|---|---|
-| {{ image(url="lake.jpeg", alt="Lake", no_hover=true) }} | {{ image(url="fruit.jpeg", alt="Fruit", no_hover=true) }} | 
+<div class="travel-gallery gallery-2">
+{{ image(url="lake.jpeg", alt="Lake", no_hover=true) }}
+{{ image(url="fruit.jpeg", alt="Fruit", no_hover=true) }}
+</div> 
 
 On the move towards the Chill Out Gardens I circle past the main stage and up to the Heart Box for a smoothie, before weaving back through the courtyard for some food. At this point I've nearly landed from my trip and am about ready to head back to the tent.
 

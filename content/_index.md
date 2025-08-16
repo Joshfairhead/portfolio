@@ -1,6 +1,9 @@
 +++
 insert_anchor_links = "left"
 title = "Home"
+
+[extra]
+styles = ["homepage-header.css"]
 +++
 
 # Hi, I'm Josh
