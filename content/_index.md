@@ -22,9 +22,13 @@ I help teams find alignment through visual facilitaiton
 
 ## About me
 
-When teams face complex challenges—unclear priorities, competing perspectives, or decisions that feel stuck—I create structured spaces where the real picture can emerge. Through visual facilitation, we map what's actually happening, surface what matters most, and find pathways forward that everyone can see and support.
+When teams encounter complex challenges, unclear priorities, competing perspectives, or decisions amid high uncertainty, I provide visual facilitation to create shared references where commonalities can emerge naturally. We map what's actually happening, what matters most, and the most resonant pathways forward.
 
-My approach draws from systems thinking and proven methodologies that help teams navigate complexity with confidence. The visual element isn't just about pretty diagrams—it's about creating shared understanding of the whole. 
+Much of my work spans regenerative technology, distributed systems, semantic web protocols, and governance design—domains where visual facilitation becomes essential for navigating the ephemeral complexity of both technical systems and human coordination.
+
+In practice, this draws on qualitative systems thinking and proven methodologies that help teams navigate complexity with confidence. These frameworks aren't arbitrary but follow observable patterns in how systems organize, meaning forms, and parts relate to wholes. The visual element isn't just about pretty diagrams—it's about creating shared understanding of the whole.
+
+All of this is grounded in years of building and coordinating complex systems, from blockchain governance to product management, giving me the experience and unique perspective to understand how teams actually navigate complexity in practice.
 
 --- 
 
@@ -57,7 +61,7 @@ My approach draws from systems thinking and proven methodologies that help teams
   - Wheel of Wisdom
   - World Game
 
-  Each method serves a purpose—from understanding current reality to designing future possibilities. 
+This approach is informed by hands-on experience coordinating distributed teams, managing technical products, and facilitating governance for web3 communities. Each method serves a purpose—from understanding current reality to (re)designing future possibilities. 
 
 --- 
 
