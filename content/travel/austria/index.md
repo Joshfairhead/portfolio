@@ -7,9 +7,15 @@ date = 2023-08-24
 [taxonomies]
 tags = ["Travel"]
 
+[extra]
+styles = ["travel-gallery.css", "austria-gallery.css"]
+scripts = ["travel-lightbox.js"]
+
 +++
 
-{{ image(url="logo.webp", alt="logo", no_hover=true) }}
+<div class="cover-image">
+{{ image(url="CCG.jpg", alt="logo", no_hover=true) }}
+</div>
 
 
 Getting to Austria is relatively relaxed; as I'm flying out of Pula Airport. I get an influx of messages from Moritz which internally liquidates some kind of blockage while I queue for security. Landing pretty late, I grab a hostel for the night and then move onward to the Commons Hub via public transport in the morning.
@@ -50,39 +56,49 @@ If we do this with a square it turns into a cylinder, and by inverting the edge 
 
 As the distance between points on the line of infinite projection get closer to each other they become whats called 'the single point of compactification'; a sort of infinite fullness thats a point with infinite length, breath and depth - is where the field essentially ends. Mind blowing stuff, kinda like the mathmatical recipe of god; a theme that would recur over the week.
 
-| | | |
-|---|---|---|
-| {{ image(url="topology1.jpeg", alt="Topology", no_hover=true) }} | {{ image(url="topology2.jpeg", alt="Topology", no_hover=true) }} | {{ image(url="topology3.jpeg", alt="Topology", no_hover=true) }} | 
+<div class="travel-gallery gallery-3 gallery-resized">
+{{ image(url="topology1.jpeg", alt="Topology", no_hover=true) }}
+{{ image(url="topology2.jpeg", alt="Topology", no_hover=true) }}
+{{ image(url="topology3.jpeg", alt="Topology", no_hover=true) }}
+</div> 
 
 Such theme kept coming back predominantly due to Lio's love of philosophy - in particular Hagel, encoded as a game he was calling 'play'. Access to this game was through a deeply codified ChatGPT prompt about interfacing interfaces that change their shape from interfacing with each other. This prompt was a pretty potent brew for generating poetics and led to a number of fun GPT inquiries around the shape of shapelessness or the shape of all shapes, or perhaps even metatrons cube - idk, but it was fun.
 
 Other memories include a glorious massage circle that Shannon and Noemi started, which seemed to grow exponentially as people happened across it. I got pretty lucky as I initially had Shannon behind me who was intuitively zoning in on trigger points that needed some soft tissue work, after which I got Orion, a human power house to crush the knots in my middle back. If memory serves me well, there was a decent dance session to shake ourselves out again in the conference room initiated by Ome.
 
-| | |
-|---|---|
-| {{ image(url="circle1.jpeg", alt="Circle", no_hover=true) }} | {{ image(url="circle2.jpeg", alt="Circle", no_hover=true) }} |
+<div class="travel-gallery gallery-2 gallery-resized">
+{{ image(url="circle1.jpeg", alt="Circle", no_hover=true) }}
+{{ image(url="circle2.jpeg", alt="Circle", no_hover=true) }}
+</div>
 
 Traversing the weeks more structured sessions were workshops by Matt Slatts on 'money' and Art Brock on 'currencies', both of which provided a lot of structured information for systematically encoding as knowledge in my notebook. Matt's contribution was a week long course funded as an ECSA performance, while Arts workshops were more thematically in line with methods of 'Agile Learning' and so he tailored his talks to the audience in attendance. The latter had many beautiful diagrams of his own to draw on as content; which I compressed and codified for myself through the lens of General Systematics (see bottom of page for original slides):
 
-| | | |
-|---|---|---|
-| {{ image(url="money1.png", alt="Money", no_hover=true) }} | {{ image(url="money2.png", alt="Money", no_hover=true) }} | {{ image(url="money3.png", alt="Money", no_hover=true) }} | 
-| {{ image(url="money4.png", alt="Money", no_hover=true) }} | {{ image(url="money5.png", alt="Money", no_hover=true) }} | {{ image(url="money6.png", alt="Money", no_hover=true) }} | 
+<div class="travel-gallery gallery-2 gallery-diagrams">
+{{ image(url="money1.png", alt="Money", no_hover=true) }}
+{{ image(url="money5.png", alt="Money", no_hover=true) }}
+{{ image(url="money4.png", alt="Money", no_hover=true) }}
+{{ image(url="money2.png", alt="Money", no_hover=true) }}
+{{ image(url="money7.png", alt="Money", no_hover=true) }}
+{{ image(url="money8.png", alt="Money", no_hover=true) }}
+{{ image(url="money6.png", alt="Money", no_hover=true) }}
+</div> 
 
-| | | 
-|---|---|
-| {{ image(url="money7.png", alt="Money", no_hover=true) }} | {{ image(url="money8.png", alt="Money", no_hover=true) }} | 
-
-| | | |
-|---|---|---|
-| {{ image(url="currentsee.png", alt="Currentsee", no_hover=true) }} | {{ image(url="currentsee2.png", alt="Currentsee", no_hover=true) }} | {{ image(url="currentsee3.png", alt="Currentsee", no_hover=true) }} | 
-| {{ image(url="currentsee4.png", alt="Currentsee", no_hover=true) }} | {{ image(url="currentsee5.png", alt="Currentsee", no_hover=true) }} | {{ image(url="currentsee6.png", alt="Currentsee", no_hover=true) }} | 
-| {{ image(url="currentsee7.png", alt="Currentsee", no_hover=true) }} | {{ image(url="currentsee8.png", alt="Currentsee", no_hover=true) }} | {{ image(url="currentsee9.png", alt="Currentsee", no_hover=true) }} | 
-| {{ image(url="currentsee10.png", alt="Currentsee", no_hover=true) }} | {{ image(url="currentsee11.png", alt="Currentsee", no_hover=true) }} | {{ image(url="currentsee12.png", alt="Currentsee", no_hover=true) }} | 
-
-| | |
-|---|---|
-| {{ image(url="currentsee13.png", alt="Currentsee", no_hover=true) }} | {{ image(url="currentsee14.png", alt="Currentsee", no_hover=true) }} | 
+<div class="travel-gallery gallery-2 gallery-diagrams">
+{{ image(url="currentsee.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee2.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee3.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee4.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee5.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee6.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee7.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee8.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee9.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee10.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee11.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee12.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee13.png", alt="Currentsee", no_hover=true) }}
+{{ image(url="currentsee14.png", alt="Currentsee", no_hover=true) }}
+</div> 
 
 The evenings were always eventful; one that comes to mind being the cybernetics 'movie night' presenting Cybersyn2023 and some other loosely related productions from Youtube. I'd already seen Cybersyn at Metaphorum but found it too dense for a single viewing so was only too happy that it came round again. The other screenings felt like memetically troublesome info-hazards; propaganda and subliminal brainwashing - highly salient computer graphics, strobe effects and other means of messaging that spike neural energy to create associations and indoctrinate the viewer with memetic ideologies. I quietly drew a pentad encoding the VSM on the flip chart for anyone interested and went outside.
 
@@ -107,16 +123,30 @@ Gute Fhart commoners, gute fhart!
 Ad Astra✨
 
 ### Gallery of Faces:
-| | | | 
-|---|---|---|
-| {{ image(url="faces1.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces2.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces3.jpeg", alt="faces", no_hover=true) }} |
-| {{ image(url="faces4.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces5.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces6.jpeg", alt="faces", no_hover=true) }} |
-| {{ image(url="faces7.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces8.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces9.jpeg", alt="faces", no_hover=true) }} |
-| {{ image(url="faces10.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces11.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces12.jpeg", alt="faces", no_hover=true) }} |
-| {{ image(url="faces13.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces14.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces15.jpeg", alt="faces", no_hover=true) }} |
-| {{ image(url="faces16.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces17.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces18.jpeg", alt="faces", no_hover=true) }} |
-| {{ image(url="faces19.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces20.jpeg", alt="faces", no_hover=true) }} | {{ image(url="faces21.jpeg", alt="faces", no_hover=true) }} |
-| {{ image(url="faces22.jpeg", alt="faces", no_hover=true) }} | 
+<div class="travel-gallery gallery-3 gallery-resized">
+{{ image(url="faces1.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces2.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces3.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces4.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces5.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces6.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces7.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces8.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces9.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces10.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces11.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces12.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces13.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces14.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces15.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces16.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces17.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces18.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces19.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces20.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces21.jpeg", alt="faces", no_hover=true) }}
+{{ image(url="faces22.jpeg", alt="faces", no_hover=true) }}
+</div> 
 
 ### Slides Gallery
 
@@ -135,30 +165,63 @@ Ad Astra✨
 
 ### CoFi Conversion course:
 
-| | | | 
-|---|---|---|
-| {{ image(url="cofi1.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi2.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi3.jpeg", alt="cofi", no_hover=true) }} |
-| {{ image(url="cofi4.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi5.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi6.jpeg", alt="cofi", no_hover=true) }} |
-| {{ image(url="cofi7.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi8.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi9.jpeg", alt="cofi", no_hover=true) }} |
-| {{ image(url="cofi10.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi11.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi12.jpeg", alt="cofi", no_hover=true) }} |
-| {{ image(url="cofi13.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi14.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi15.jpeg", alt="cofi", no_hover=true) }} |
-| {{ image(url="cofi16.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi17.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi18.jpeg", alt="cofi", no_hover=true) }} |
-| {{ image(url="cofi19.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi20.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi21.jpeg", alt="cofi", no_hover=true) }} |
-| {{ image(url="cofi22.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi23.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi24.jpeg", alt="cofi", no_hover=true) }} |
-| {{ image(url="cofi25.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi26.jpeg", alt="cofi", no_hover=true) }} | {{ image(url="cofi27.jpeg", alt="cofi", no_hover=true) }} |
+<div class="travel-gallery gallery-2 gallery-natural">
+{{ image(url="cofi1.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi2.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi3.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi4.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi5.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi6.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi7.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi8.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi9.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi10.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi11.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi12.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi13.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi14.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi15.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi16.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi17.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi18.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi19.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi20.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi21.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi22.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi23.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi24.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi25.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi26.jpeg", alt="cofi", no_hover=true) }}
+{{ image(url="cofi27.jpeg", alt="cofi", no_hover=true) }}
+</div>
 
 ### Network States talk:
-| | | | 
-|---|---|---|
-| {{ image(url="networkstate1.jpeg", alt="network state", no_hover=true) }} | {{ image(url="networkstate2.jpeg", alt="networkstate", no_hover=true) }} | {{ image(url="networkstate3.jpeg", alt="network state", no_hover=true) }} |
-| {{ image(url="networkstate2.jpeg", alt="network state", no_hover=true) }} | {{ image(url="networkstate3.jpeg", alt="networkstate", no_hover=true) }} | {{ image(url="networkstate4.jpeg", alt="network state", no_hover=true) }} |
-| {{ image(url="networkstate5.jpeg", alt="network state", no_hover=true) }} | {{ image(url="networkstate6.jpeg", alt="networkstate", no_hover=true) }} | {{ image(url="networkstate7.jpeg", alt="network state", no_hover=true) }} |
-| {{ image(url="networkstate8.jpeg", alt="network state", no_hover=true) }} | {{ image(url="networkstate9.jpeg", alt="networkstate", no_hover=true) }} | {{ image(url="networkstate10.jpeg", alt="network state", no_hover=true) }} |
-| {{ image(url="networkstate11.jpeg", alt="network state", no_hover=true) }} | {{ image(url="networkstate12.jpeg", alt="networkstate", no_hover=true) }} | {{ image(url="networkstate13.jpeg", alt="network state", no_hover=true) }} |
-| {{ image(url="networkstate14.jpeg", alt="network state", no_hover=true) }} | {{ image(url="networkstate15.jpeg", alt="networkstate", no_hover=true) }} | {{ image(url="networkstate16.jpeg", alt="network state", no_hover=true) }} |
-| {{ image(url="networkstate17.jpeg", alt="network state", no_hover=true) }} | {{ image(url="networkstate18.jpeg", alt="networkstate", no_hover=true) }} | {{ image(url="networkstate19.jpeg", alt="network state", no_hover=true) }} |
-| {{ image(url="networkstate20.jpeg", alt="network state", no_hover=true) }} | {{ image(url="networkstate21.jpeg", alt="networkstate", no_hover=true) }} | {{ image(url="networkstate22.jpeg", alt="network state", no_hover=true) }} |
-| {{ image(url="networkstate23.jpeg", alt="network state", no_hover=true) }} | {{ image(url="networkstate24.jpeg", alt="networkstate", no_hover=true) }} | 
+<div class="travel-gallery gallery-2 gallery-natural">
+{{ image(url="networkstate1.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate2.jpeg", alt="networkstate", no_hover=true) }}
+{{ image(url="networkstate3.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate4.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate5.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate6.jpeg", alt="networkstate", no_hover=true) }}
+{{ image(url="networkstate7.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate8.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate9.jpeg", alt="networkstate", no_hover=true) }}
+{{ image(url="networkstate10.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate11.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate12.jpeg", alt="networkstate", no_hover=true) }}
+{{ image(url="networkstate13.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate14.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate15.jpeg", alt="networkstate", no_hover=true) }}
+{{ image(url="networkstate16.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate17.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate18.jpeg", alt="networkstate", no_hover=true) }}
+{{ image(url="networkstate19.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate20.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate21.jpeg", alt="networkstate", no_hover=true) }}
+{{ image(url="networkstate22.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate23.jpeg", alt="network state", no_hover=true) }}
+{{ image(url="networkstate24.jpeg", alt="networkstate", no_hover=true) }}
+</div> 
 
 
 

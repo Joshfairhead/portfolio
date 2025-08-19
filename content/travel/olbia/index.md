@@ -13,6 +13,10 @@ scripts = ["travel-lightbox.js"]
 
 +++
 
+<div class="cover-image">
+{{ image(url="grounds1.jpeg", alt="Olbia", no_hover=true) }}
+</div>
+
 Arriving at the housing estate where our accommodation is located our hosts Josh and his partner Yada arrive with some supplies to sustain us a night before helping us search out the exact apartment we're staying in and joining us a brief moment of socialisation before bed.
 
 Eva and Pekko have never met him or Yada before but myself and Ome have a good idea of what to expect. The warm greetings turn into priming for the week and in comes the Sunday shock to clear some space for the rest of the week; an aggressive disregard of concepts lacking an agreed upon convention.

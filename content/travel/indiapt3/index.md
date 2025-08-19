@@ -6,9 +6,14 @@ date = 2023-04-01
 [taxonomies]
 tags = ["Travel"]
 
+[extra]
+styles = ["travel-gallery.css"]
+
 +++
 
+<div class="cover-image">
 {{ image(url="art.jpg", alt="This is an image", no_hover=true) }}
+</div>
 
 Monday we say good bye to the folks round Atlantis HQ and after some lunch we set off for Auroville with the unexpected addition of Treegens Jimi, adding some welcome dynamism to the party of myself and Rishi.
 

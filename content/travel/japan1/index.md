@@ -7,9 +7,15 @@ date = 2023-04-10
 [taxonomies]
 tags = ["Travel"]
 
+[extra]
+styles = ["travel-gallery.css"]
+scripts = ["travel-lightbox.js"]
+
 +++
 
+<div class="cover-image">
 {{ image(url="ultrasupernew.png", alt="Tokyo Energy", no_hover=true) }}
+</div>
 
 
 Flying from Vietnam to Tokyo, I dig into several of the books I've procured from Auroville by Sri Aurobindo. One of these is called "The Experience of The Psychic Being and its Growth" which seems to describe some of my more recent experiences related to enhanced synchronicity as well as some symptoms that I've not personally experienced... in particular the gold 'bursting' effect that clusters eight parametric qualities seems new, though I do seem to have touched upon the realm of golden pentads around January this year. That was freaky. 
@@ -34,10 +40,14 @@ Spotting the decorative manhole covers I remember that there is a tourist tradit
 
 ---
 
-| | | | 
-|---|---|---|
-| {{ image(url="lid1.jpg", alt="Baltoy", no_hover=true) }} | {{ image(url="lid2.jpg", alt="Tyrunt", no_hover=true) }} | {{ image(url="lid3.jpg", alt="Tyrunt", no_hover=true) }} |
-| {{ image(url="lid4.jpg", alt="Baltoy", no_hover=true) }} | {{ image(url="lid5.jpg", alt="Tyrunt", no_hover=true) }} | {{ image(url="lid6.jpg", alt="Tyrunt", no_hover=true) }} |
+<div class="travel-gallery gallery-3">
+{{ image(url="lid1.jpg", alt="Baltoy", no_hover=true) }}
+{{ image(url="lid2.jpg", alt="Tyrunt", no_hover=true) }}
+{{ image(url="lid3.jpg", alt="Tyrunt", no_hover=true) }}
+{{ image(url="lid4.jpg", alt="Baltoy", no_hover=true) }}
+{{ image(url="lid5.jpg", alt="Tyrunt", no_hover=true) }}
+{{ image(url="lid6.jpg", alt="Tyrunt", no_hover=true) }}
+</div>
 
 {{ image(url="lid7.jpg", alt="Baltoy", no_hover=true) }} 
 {{ image(url="lid8.jpg", alt="Tyrunt", no_hover=true) }} 
@@ -73,23 +83,32 @@ There's some blabber blabber lightning presentations after this about defi stuff
 
 Man this guy is smart and incredibly driven to get shit moving due to his rather unsettling perspective of the macro economic situation which he does a good job to present eloquently. He asserts that he's not a doomer but is also thoroughly bell ringing about what he calls an omni-crisis. I'm a little torn about this because while he is justifying his position with facts I lack the macro economic experience to discern if whats evident to him seems likely. Still, he's damn smart and it was great to pick up that transmission!
 
-| | | | 
-|---|---|---|
-| {{ image(url="balaji1.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji2.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji3.jpeg", alt="crisis", no_hover=true) }} |
-| {{ image(url="balaji4.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji5.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji6.jpeg", alt="crisis", no_hover=true) }} |
-| {{ image(url="balaji7.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji8.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji9.jpeg", alt="crisis", no_hover=true) }} |
-| {{ image(url="balaji10.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji11.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji12.jpeg", alt="crisis", no_hover=true) }} |
-| {{ image(url="balaji13.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji14.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji15.jpeg", alt="crisis", no_hover=true) }} |
-
-| | |
-|---|---|
-| {{ image(url="balaji16.jpeg", alt="crisis", no_hover=true) }} | {{ image(url="balaji17.jpeg", alt="crisis", no_hover=true) }} | 
+<div class="travel-gallery gallery-3">
+{{ image(url="balaji1.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji2.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji3.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji4.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji5.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji6.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji7.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji8.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji9.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji10.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji11.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji12.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji13.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji14.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji15.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji16.jpeg", alt="crisis", no_hover=true) }}
+{{ image(url="balaji17.jpeg", alt="crisis", no_hover=true) }}
+</div> 
 
 My new friend Nao has been cool enough to share another event with me and heads over during Balajis talk. He's gonna see if he can leverage his clout to get me in and suggests I hang back until he knows for sure. He fails at the hero pass though I'm certainly grateful for the efforts. I hang around for the networking and meet a number of really great contacts that are all smart, interesting and resourceful. In particular I make friends with a guy called Cole thats interested in building on lens protocol the day after at the hackathon so I jam with him on some identity primitives and wish him good luck.
 
-| | |
-|---|---|
-| {{ image(url="rooftop1.jpeg", alt="Tokyo Night", no_hover=true) }} | {{ image(url="rooftop2.jpeg", alt="Tokyo Night", no_hover=true) }} |
+<div class="travel-gallery gallery-2 gallery-resized">
+{{ image(url="rooftop1.jpeg", alt="Tokyo Night", no_hover=true) }}
+{{ image(url="rooftop2.jpeg", alt="Tokyo Night", no_hover=true) }}
+</div>
 
 As I leave the building I see trees and decide to take an unusual exit - bumping into Cole once again. We wander around the rooftop garden and guesstimate a route out of the building only to encounter a Super Mario statue that leads us in to a Nintendo store. Oh hellll, this is a curios spot; the whole place is themed stores - Nintendo, Pokemon, Street Fighter, One Piece, Hello Kitty and a bunch of others; quite the cornucopia of novelty in here!
 
@@ -98,13 +117,13 @@ As I leave the building I see trees and decide to take an unusual exit - bumping
 </div>
 
 
-| | | | 
-|---|---|---|
-| {{ image(url="character1.jpeg", alt="Character", no_hover=true) }} | {{ image(url="character2.jpeg", alt="Character", no_hover=true) }} | {{ image(url="character3.jpeg", alt="character", no_hover=true) }} |
-
-| | |
-|---|---|
-| {{ image(url="character4.jpeg", alt="Character", no_hover=true) }} | {{ image(url="character5.jpeg", alt="Character", no_hover=true) }} |
+<div class="travel-gallery gallery-3">
+{{ image(url="character1.jpeg", alt="Character", no_hover=true) }}
+{{ image(url="character2.jpeg", alt="Character", no_hover=true) }}
+{{ image(url="character3.jpeg", alt="character", no_hover=true) }}
+{{ image(url="character4.jpeg", alt="Character", no_hover=true) }}
+{{ image(url="character5.jpeg", alt="Character", no_hover=true) }}
+</div>
 
 ---
 
@@ -128,62 +147,95 @@ Besides the rare Pokelids I seek within the park, Machida is a new area - so I'm
 
 {{ image(url="machidalids1.jpeg", alt="lid", no_hover=true) }} 
 
-| | |
-|---|---|
-| {{ image(url="machidalids2.jpg", alt="lid", no_hover=true) }} | {{ image(url="machidalids3.jpg", alt="Tyrunt", no_hover=true) }} |
-| {{ image(url="machidalids4.jpg", alt="lid", no_hover=true) }} | {{ image(url="machidalids5.jpg", alt="lid", no_hover=true) }} |
+<div class="travel-gallery gallery-2">
+{{ image(url="machidalids2.jpg", alt="lid", no_hover=true) }}
+{{ image(url="machidalids3.jpg", alt="Tyrunt", no_hover=true) }}
+{{ image(url="machidalids4.jpg", alt="lid", no_hover=true) }}
+{{ image(url="machidalids5.jpg", alt="lid", no_hover=true) }}
+</div>
 
 I follow my intuition and quickly stumble into a Pollywag! I toss my Pokeball and capture the tadpole instantly, after counting to three for my flash to go off its sealed away into my gallery. I'm now officially a Pokemon trainer but this thing will be useless in a fight. I move onwards towards open ground where I find an number of cool off brand lids; a squirrel with an umbrella and two kingfishers.
 
 {{ image(url="pollywag.jpg", alt="Pollywag", no_hover=true) }}
 
-| | |
-|---|---|
-| {{ image(url="kingfisher.jpg", alt="Kingfisher", no_hover=true) }} | {{ image(url="squirrel.jpg", alt="Squirrel", no_hover=true) }} |
+<div class="travel-gallery gallery-2">
+{{ image(url="kingfisher.jpg", alt="Kingfisher", no_hover=true) }}
+{{ image(url="squirrel.jpg", alt="Squirrel", no_hover=true) }}
+</div>
 
 Theres a giant water statue nearby which looks like prime pokeland but alas construction workers have taped it off. However the Japanese are easily the most polite and helpful culture I've ever encountered; a worker spots me looking for something and asks if I need help. I tell him I'm poke hunting and he escorts me to the gym!! Domo origato, this gent has just helped me capture a Squirtle, Rattata, Pidgeot and Picachu across two lids. Around the corner I find an Oddish, Catterpi and Weedle; this games already far more fun than I'd expected and I feel like a total winner for capturing so many critters so easily; only two left in this park!
 
 
-| | | | 
-|---|---|---| 
-| {{ image(url="squirtle.jpg", alt="squirtle", no_hover=true) }} | {{ image(url="ratata.jpg", alt="Ratata", no_hover=true) }} | {{ image(url="weedle.jpg", alt="Ratata", no_hover=true) }} | 
+<div class="travel-gallery gallery-3">
+{{ image(url="squirtle.jpg", alt="squirtle", no_hover=true) }}
+{{ image(url="ratata.jpg", alt="Ratata", no_hover=true) }}
+{{ image(url="weedle.jpg", alt="Ratata", no_hover=true) }}
+</div> 
 
 I set off again following my feet and am brought over a hill and past some streams. As the path rambles on I happen across the Machida City Museum of Graphic Arts and decide to pop in. The free exhibit is full of old school prints made from wood blocks; which is an aesthetic that I've always had resonance with. It's bloody gorgeous. 
 
-| | | | 
-|---|---|---| 
-| {{ image(url="machidagallery1.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery3.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery4.jpg", alt="gallery", no_hover=true) }} |
-| {{ image(url="machidagallery12.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery5.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery6.jpg", alt="gallery", no_hover=true) }} | 
-| {{ image(url="machidagallery8.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery2.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery23.jpg", alt="gallery", no_hover=true) }} | 
-| {{ image(url="machidagallery14.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery15.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery18.jpg", alt="gallery", no_hover=true) }} |
-| {{ image(url="machidagallery13.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery16.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery17.jpg", alt="gallery", no_hover=true) }} | 
-| {{ image(url="machidagallery22.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery11.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery7.jpg", alt="gallery", no_hover=true) }} |
-| {{ image(url="machidagallery19.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery20.jpg", alt="gallery", no_hover=true) }} | {{ image(url="machidagallery21.jpg", alt="gallery", no_hover=true) }} | 
-| {{ image(url="machidagallery9.jpg", alt="gallery", no_hover=true) }} |  {{ image(url="machidagallery10.jpg", alt="gallery", no_hover=true) }} | 
+<div class="travel-gallery gallery-3 gallery-resized">
+{{ image(url="machidagallery1.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery2.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery3.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery4.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery5.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery6.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery8.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery12.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery23.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery7.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery9.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery10.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery11.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery13.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery14.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery15.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery16.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery17.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery18.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery19.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery20.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery21.jpg", alt="gallery", no_hover=true) }}
+{{ image(url="machidagallery22.jpg", alt="gallery", no_hover=true) }}
+</div> 
 
 Leaving the museum I attempt to buy all the post cards in hopes of training an image generator with them but they don't take electronic payment, which sends me on a banking mission. After a modicum of difficulty but ultimate success over the bank machines I return to pay the cashier and take away a number of 'choice tokens'.
 Back to my poke hunt, there's two more critters to find but and get distracted by a swing (with 'eat the elephant' lyrics in my head). Coming down from the hilltop I'm once again reflecting how bloody beautiful this park is. The pools and gardens are breath taking; full of winding paths that have wuwei written all over them. The composition is unparalleled. At the far end of the park I capture my Bulbasaur and Charmander lids!
 
-| | | | 
-|---|---|---| 
-| {{ image(url="machidapark1.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark2.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark3.jpeg", alt="Machida Park", no_hover=true) }} |
-| {{ image(url="machidapark4.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark5.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark6.jpeg", alt="Machida Park", no_hover=true) }} |
-| {{ image(url="machidapark7.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark8.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark9.jpeg", alt="Machida Park", no_hover=true) }} |
-| {{ image(url="machidapark10.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark11.jpeg", alt="Machida Park", no_hover=true) }} | {{ image(url="machidapark12.jpeg", alt="Machida Park", no_hover=true) }} |
+<div class="travel-gallery gallery-3 gallery-resized">
+{{ image(url="machidapark1.jpeg", alt="Machida Park", no_hover=true) }}
+{{ image(url="machidapark2.jpeg", alt="Machida Park", no_hover=true) }}
+{{ image(url="machidapark3.jpeg", alt="Machida Park", no_hover=true) }}
+{{ image(url="machidapark4.jpeg", alt="Machida Park", no_hover=true) }}
+{{ image(url="machidapark5.jpeg", alt="Machida Park", no_hover=true) }}
+{{ image(url="machidapark6.jpeg", alt="Machida Park", no_hover=true) }}
+{{ image(url="machidapark7.jpeg", alt="Machida Park", no_hover=true) }}
+{{ image(url="machidapark8.jpeg", alt="Machida Park", no_hover=true) }}
+{{ image(url="machidapark9.jpeg", alt="Machida Park", no_hover=true) }}
+</div>
+<div class="travel-gallery gallery-3 gallery-resized">
+{{ image(url="machidapark10.jpeg", alt="Machida Park", no_hover=true) }}
+{{ image(url="machidapark11.jpeg", alt="Machida Park", no_hover=true) }}
+{{ image(url="machidapark12.jpeg", alt="Machida Park", no_hover=true) }}
+</div>
 
-| | |
-|---|---|
-| {{ image(url="charmander.jpg", alt="Charmander", no_hover=true) }} | {{ image(url="bulbasaur.jpg", alt="Bulbasaur", no_hover=true) }} |
+<div class="travel-gallery gallery-2">
+{{ image(url="charmander.jpg", alt="Charmander", no_hover=true) }}
+{{ image(url="bulbasaur.jpg", alt="Bulbasaur", no_hover=true) }}
+</div>
 
 
 All things considered, it's getting pretty late in the day. I've been enjoying the park thoroughly but it's time to get to the other side of town or I'll not make it down to Kyoto later. I head for the train and trip it over to Ueno about an 45m away. I'm pretty charged from my days activity and realise I need to add an hour in order to make it back to the hostel so I blast it round the park as quick as I can, while also snapping new lids and sight seeing at 2x speed.
 
 ---
 
-| | |
-|---|---|
-| {{ image(url="lidsuneo1.jpg", alt="Uneo", no_hover=true) }} | {{ image(url="lidsuneo2.jpg", alt="Uneo", no_hover=true) }} |
-| {{ image(url="lidsuneo3.jpg", alt="Uneo", no_hover=true) }} | {{ image(url="lidsuneo4.jpg", alt="Uneo", no_hover=true) }} |
+<div class="travel-gallery gallery-2">
+{{ image(url="lidsuneo1.jpg", alt="Uneo", no_hover=true) }}
+{{ image(url="lidsuneo2.jpg", alt="Uneo", no_hover=true) }}
+{{ image(url="lidsuneo3.jpg", alt="Uneo", no_hover=true) }}
+{{ image(url="lidsuneo4.jpg", alt="Uneo", no_hover=true) }}
+</div>
 
 {{ image(url="lidsuneo5.jpg", alt="Uneo", no_hover=true) }}
 
@@ -193,20 +245,35 @@ Theres a shinto shrine in the middle of a large reed filled lake that takes me o
 
 ---
 
-| | | | 
-|---|---|---| 
-| {{ image(url="uneopark1.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark2.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark3.jpeg", alt="Uneo Park", no_hover=true) }} |
-| {{ image(url="uneopark4.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark2.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark6.jpeg", alt="Uneo Park", no_hover=true) }} |
-| {{ image(url="uneopark7.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark8.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark9.jpeg", alt="Uneo Park", no_hover=true) }} |
-| {{ image(url="uneopark13.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark11.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark12.jpeg", alt="Uneo Park", no_hover=true) }} |
-| {{ image(url="uneopark10.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark14.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark15.jpeg", alt="Uneo Park", no_hover=true) }} |
-| {{ image(url="uneopark16.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark17.jpeg", alt="Uneo Park", no_hover=true) }} | {{ image(url="uneopark18.jpeg", alt="Uneo Park", no_hover=true) }} |
+<div class="travel-gallery gallery-3">
+{{ image(url="uneopark1.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark2.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark3.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark6.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark4.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark7.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark9.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark8.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark10.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark11.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark13.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark12.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark15.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark14.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark17.jpeg", alt="Uneo Park", no_hover=true) }}
+</div>
+
+<div class="travel-gallery gallery-2 gallery-resized">
+{{ image(url="uneopark18.jpeg", alt="Uneo Park", no_hover=true) }}
+{{ image(url="uneopark16.jpeg", alt="Uneo Park", no_hover=true) }}
+</div>
 
 ---
 
-| | |
-|---|---|
-| {{ image(url="baltoy.jpg", alt="Baltoy", no_hover=true) }} | {{ image(url="tyrunt.jpg", alt="Tyrunt", no_hover=true) }} |
+<div class="travel-gallery gallery-2">
+{{ image(url="baltoy.jpg", alt="Baltoy", no_hover=true) }}
+{{ image(url="tyrunt.jpg", alt="Tyrunt", no_hover=true) }}
+</div>
 
 Back to the hostel to pick up my bags and grab the train down to Kyoto. After some minor cashflow issues, a couple hours train ride and a reasonable walk to the hotel with my heavy bags, I arrive just before the clock strikes twelve. Having earn't my gym badges; I'm ready for a good nights rest and make contact with embracing company! 
 

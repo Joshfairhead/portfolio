@@ -8,9 +8,15 @@ date = 2023-08-16
 [taxonomies]
 tags = ["Travel"]
 
+[extra]
+styles = ["travel-gallery.css"]
+scripts = ["travel-lightbox.js"]
+
 +++
 
+<div class="cover-image">
 {{ image(url="metafest.jpg", alt="Metafest", no_hover=true) }}
+</div>
 
 After a number of nudges from friends I pack my bags for MetaFest in Croatia. The gathering is in a 'techno fort' and because it sounds like we can camp up there, I decide to bring a hammock as my primary accommodation. I'm on an all nighter with a layover in Luton airport for a six am connection; arriving at 9am in Pula airport.
 
@@ -54,9 +60,10 @@ The veggie burger I've ordered is extremely tasty and the company is lively (des
 
 Participants are gathering in the techno fort the next day to make arrangements, so I walk over for approximately 2pm and lend a hand with that. I'm assigned dusting duty at the entrance so get on with cleaning some steam punk techno minions (who bite) and various decommissioned turntables before other odds and ends. The environment is pretty cool with its various nooks and crannies, so I take a wander about to see what else is around. Kay begins to set up his midi controllers for a sundown gig and turns myself and Fotis loose on his rig, smashing buttons and toying with the audio interface for an impromptu electro jam!
 
-| | |
-|---|---|
-| {{ image(url="path.jpeg", alt="Path", no_hover=true) }} | {{ image(url="hut.jpeg", alt="Hut", no_hover=true) }} |
+<div class="travel-gallery gallery-2">
+{{ image(url="path.jpeg", alt="Path", no_hover=true) }}
+{{ image(url="hut.jpeg", alt="Hut", no_hover=true) }}
+</div>
 
 A few friends have arrived in time for the Chilli gathering that's over by the camp-grounds so I walk over with a few people to say hello. Laurence is first person to spot me and I him; he's just returned from a boat trip and pauses just long enough for me to recognise him (due to my myopia) and since he's on crutches we sit down to catch up. Thom joins us and seems pretty keen to conspire so I leave them both to their conversation. Searching for another friend that has messaged me I bump into Rich from ChinWags so catch up with him and share the retrospective of his event that I wrote. He's delighted!
 
@@ -74,17 +81,21 @@ The conference begins at 2pm the next day - a time which happily allows me to re
 {{ image(url="bots1.jpeg", alt="Bots", no_hover=true) }}
 {{ image(url="bots2.jpeg", alt="Bots", no_hover=true) }}
 
-| | |
-|---|---|
-| {{ image(url="gov1.jpeg", alt="Gov", no_hover=true) }} | {{ image(url="gov2.jpeg", alt="Gov", no_hover=true) }} |
-| {{ image(url="friends1.jpeg", alt="Friends", no_hover=true) }} | {{ image(url="friends2.jpeg", alt="Friends", no_hover=true) }} |
-| {{ image(url="typologies.jpeg", alt="Typologies", no_hover=true) }} | {{ image(url="circle.jpeg", alt="Circle", no_hover=true) }} |
+<div class="travel-gallery gallery-2 gallery-resized">
+{{ image(url="gov1.jpeg", alt="Gov", no_hover=true) }}
+{{ image(url="gov2.jpeg", alt="Gov", no_hover=true) }}
+{{ image(url="friends1.jpeg", alt="Friends", no_hover=true) }}
+{{ image(url="friends2.jpeg", alt="Friends", no_hover=true) }}
+{{ image(url="typologies.jpeg", alt="Typologies", no_hover=true) }}
+{{ image(url="circle.jpeg", alt="Circle", no_hover=true) }}
+</div>
 
 The day after I gave a presentation on some octadic mandalas which blows a few minds tickled the artistic and comedic preferences of James - an old friend of mine from travels in 2019 - who found it deadpan humorous. 
 
-| | |
-|---|---|
-| {{ image(url="octad1.png", alt="Refi Octad", no_hover=true) }} | {{ image(url="octad2.png", alt="Metta Octad", no_hover=true) }} |
+<div class="travel-gallery gallery-2">
+{{ image(url="octad1.png", alt="Refi Octad", no_hover=true) }}
+{{ image(url="octad2.png", alt="Metta Octad", no_hover=true) }}
+</div>
 
 Later in the evening I join him and his friend Sal while they mentor each other on projects; to be honest James felt like he was bouncing back from something but was maintaining focus his on the operationalisation of TrojanDAO. 
 
@@ -104,9 +115,10 @@ Unconference planning started from here and essentially began with a discussion 
 
 Exactly after the ariel performance in the fishbowl, I donned my extremely loud radical love kimono with the intention of attracting attention and started sheparding as many people towards James's workshop as possible... all the while wearing the digital name tag I borrowed from Stef/Mars/Marsita while pretending he/she was beaming in from Berlin airport. I wasn't really sure this act was working as it felt quite plastic to me but quite a crowd that joined for the final workshop of the unconf, so I assumed my work reasonably either effective or just plain lucky.
 
-| | |
-|---|---|
-| {{ image(url="show.jpeg", alt="Show", no_hover=true) }} | {{ image(url="james.jpeg", alt="James workshop", no_hover=true) }} |
+<div class="travel-gallery gallery-2 gallery-resized">
+{{ image(url="show.jpeg", alt="Show", no_hover=true) }}
+{{ image(url="james.jpeg", alt="James workshop", no_hover=true) }}
+</div>
 
 Finally, before leaving for the night I spent a reasonably chunk of time interacting with Rob Morris about his story, my story, my mandalas, the Holochain conductor and the greatest "yak shaving expedition" he'd ever completed. It was a pretty good expedition; he showed me and Roberto the results!
 

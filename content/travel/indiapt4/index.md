@@ -6,9 +6,15 @@ date = 2023-04-04
 [taxonomies]
 tags = ["Travel"]
 
+[extra]
+styles = ["travel-gallery.css"]
+scripts = ["travel-lightbox.js"]
+
 +++
 
+<div class="cover-image">
 {{ image(url="light.jpg", alt="This is an image", no_hover=true) }}
+</div>
 
 Settled and stable once again in a reasonably priced hotel; I decide to head out for coffee in the international zone and see what trails there are to follow. Not wishing to miss the experience of transcending in the Matrimandir I set course towards the giant golden egg in hopes of finding a means to book such a visit.
 
@@ -19,17 +25,20 @@ I begin by exploring the visitors centre and learn that Auroville was not built 
 Following the trail further there are a number of tokens clearly left behind for adept scavengers like myself. I'm delighted to find this work as it ties into the material that I've been studying at h3uni.org and consequentially wonder if Aurobindo and Gurdjieff migh have ever crossed paths?
 
 
-| | |
-|---|---|
-| {{ image(url="1sincerity.jpeg", alt="Sincerity", no_hover=true) }} | {{ image(url="2humility.jpeg", alt="Humility", no_hover=true) }} | 
-| {{ image(url="3grattitude.jpeg", alt="Grattitude", no_hover=true) }} | {{ image(url="4aspiration.jpeg", alt="Aspiration", no_hover=true) }} | 
-| {{ image(url="5receptivity.jpeg", alt="Receptivity", no_hover=true) }} | {{ image(url="6progress.jpeg", alt="Progress", no_hover=true) }} | 
-| {{ image(url="7courage.jpeg", alt="Courage", no_hover=true) }} | {{ image(url="8goodness.jpeg", alt="Goodness", no_hover=true) }} |
-| {{ image(url="9generosity.jpeg", alt="Generosity", no_hover=true) }} | {{ image(url="10equality.jpeg", alt="Equality", no_hover=true) }} | 
-| {{ image(url="11peace.jpeg", alt="Peace", no_hover=true) }} | 
-
+<div class="travel-gallery gallery-2">
+{{ image(url="1sincerity.jpeg", alt="Sincerity", no_hover=true) }}
+{{ image(url="2humility.jpeg", alt="Humility", no_hover=true) }}
+{{ image(url="4aspiration.jpeg", alt="Aspiration", no_hover=true) }}
+{{ image(url="3grattitude.jpeg", alt="Grattitude", no_hover=true) }}
+{{ image(url="7courage.jpeg", alt="Courage", no_hover=true) }}
+{{ image(url="11peace.jpeg", alt="Peace", no_hover=true) }}
+{{ image(url="9generosity.jpeg", alt="Generosity", no_hover=true) }}
+{{ image(url="8goodness.jpeg", alt="Goodness", no_hover=true) }}
+{{ image(url="10equality.jpeg", alt="Equality", no_hover=true) }}
+{{ image(url="6progress.jpeg", alt="Progress", no_hover=true) }}
+{{ image(url="5receptivity.jpeg", alt="Receptivity", no_hover=true) }}
 {{image(url="12perseverence.jpeg", alt="Perseverence", no_hover=true) }}
-
+</div> 
 
 Continuing along the path I collect all twelve of the tokens above en route towards the giant cosmic egg. Just before my arrival at the viewing spot, I pause a moment to enjoy the sprawling Banyan tree; it's gigantic and seems to have several other trees grafted into its extensive branches for both support and nourishment. I have to send Jimi this beauty so snap a picture!
 
@@ -46,18 +55,22 @@ I set off back down the road again with no idea where I'm headed, hedging along 
 
 Hmmm, I've been walking for a while and haven't found much yet. I'm enjoying my jaunt but finding only a few curiosities despite the amusing street signs; I decide to visit Humbleness avenue before venturing into Prosperity as this seems like an appropriate order to proceed as one certainly doesn't wanna do it the other way around... Besides some pretty flowers there's are not many interesting curiosities so decide to trek back towards my initial point of departure at the visitors centre.
 
-| | |
-|---|---|
-| {{ image(url="couragest.jpeg", alt="Courage st.", no_hover=true) }} | {{ image(url="purpletrail.jpeg", alt="Purple Trail", no_hover=true) }} |
-| {{ image(url="stonecarving.jpeg", alt="Stone Carving", no_hover=true) }} | {{ image(url="stonecoin.jpeg", alt="Stone Coin", no_hover=true) }} | 
+<div class="travel-gallery gallery-2">
+{{ image(url="couragest.jpeg", alt="Courage st.", no_hover=true) }}
+{{ image(url="purpletrail.jpeg", alt="Purple Trail", no_hover=true) }}
+{{ image(url="stonecarving.jpeg", alt="Stone Carving", no_hover=true) }}
+{{ image(url="stonecoin.jpeg", alt="Stone Coin", no_hover=true) }}
+</div> 
 
 This leads me past by some rather aggressive dogs that come after my heels and need to be scared off by threatening them with a coconut while barking and growling back; they run when chased which I internalise as a life lesson.
 
 En route back there are numerous colourful temples with pantheons of rainbow gods as well as some smouldering grey ones that look like portals to the underworld. Some beautiful mandalas round these parts too; Rangoli's as tribute to Lakshmi (or as Rishi put it NFT's to god)!
 
-| | | |
-|---|---|---|
-| {{ image(url="shrineL.jpeg", alt="ShrineL.", no_hover=false) }} | {{ image(url="shrineM.jpeg", alt="ShrineM", no_hover=false) }} | {{ image(url="shrineR.jpeg", alt="ShrineR", no_hover=false) }} |
+<div class="travel-gallery gallery-3">
+{{ image(url="shrineL.jpeg", alt="ShrineL.", no_hover=true) }}
+{{ image(url="shrineM.jpeg", alt="ShrineM", no_hover=true) }}
+{{ image(url="shrineR.jpeg", alt="ShrineR", no_hover=true) }}
+</div>
 
 {{ image(url="temple.jpeg", alt="Temple of doom", no_hover=true) }}
 
@@ -104,11 +117,15 @@ After leaving the inner sanctum we are left to investigate the grounds and invit
 
 The marble lilly pond below was also kinda cool, though I honestly got culty swimming pool vibes from the whole place. It's a decent spectacle but frankly it felt pretty plastic and material - which they are assumedly trying to spiritualise! I found it all to be quite interesting magick none the less; especially the geometric symbols at each entrance. What's the messaging here? And what's the meaning?
 
+<div class="travel-gallery gallery-4 gallery-resized">
+{{ image(url="symbology2.png", alt="Symbology", no_hover=true) }}
+{{ image(url="symbology3.png", alt="Symbology", no_hover=true) }}
+{{ image(url="symbology4.png", alt="Symbology", no_hover=true) }}
+{{ image(url="symbology5.png", alt="Symbology", no_hover=true) }}
+</div> 
+
 {{ image(url="symbology1.png", alt="Symbology", no_hover=true) }}
 
-| | | | |
-|---|---|---|---|
-{{ image(url="symbology2.png", alt="Symbology", no_hover=true) }} | {{ image(url="symbology3.png", alt="Symbology", no_hover=true) }} | {{ image(url="symbology4.png", alt="Symbology", no_hover=true) }} | {{ image(url="symbology5.png", alt="Symbology", no_hover=true) }} | 
 The platonic solids in tetradic petals huh...
 
 Having started the tour inside the centre of the cosmic egg, we are freed to check out the truly beautiful gardens. Similar to the mothers symbol there are twelve petals around the egg that each representing a different cosmic quality. Only four of the twelve gardens were complete; though several others were under construction. Here's a photo from the Auroville website.
@@ -134,9 +151,19 @@ Before we depart here's a selection of Rangoli and other tokens found on my East
 
 {{ image(url="rangoli1.jpg", alt="Rangolis", no_hover=true) }} 
 
-| | | |
-|---|---|---|
-| {{ image(url="rangoli2.jpg", alt="Rangolis", no_hover=true) }} | {{ image(url="rangoli3.jpg", alt="Rangolis", no_hover=true) }} | {{ image(url="rangoli4.jpg", alt="Rangolis", no_hover=true) }} | 
-| {{ image(url="rangoli5.jpg", alt="Rangolis", no_hover=true) }} | {{ image(url="rangoli6.jpg", alt="Rangolis", no_hover=true) }} | {{ image(url="rangoli7.jpg", alt="Rangolis", no_hover=true) }} |
-| {{ image(url="rangoli8.jpg", alt="Rangolis", no_hover=true) }} | {{ image(url="rangoli9.jpg", alt="Rangolis", no_hover=true) }} | {{ image(url="rangoli10.jpg", alt="Rangolis", no_hover=true) }} | 
-<!-- | {{ image(url="rangoli11.jpg", alt="Rangolis", no_hover=true) }} | {{ image(url="rangoli12.jpg", alt="Rangolis", no_hover=true) }} | {{ image(url="rangoli13.jpg", alt="Rangolis", no_hover=true) }} | -->
+<div class="travel-gallery gallery-3">
+{{ image(url="rangoli2.jpg", alt="Rangolis", no_hover=true) }}
+{{ image(url="rangoli3.jpg", alt="Rangolis", no_hover=true) }}
+{{ image(url="rangoli4.jpg", alt="Rangolis", no_hover=true) }}
+{{ image(url="rangoli5.jpg", alt="Rangolis", no_hover=true) }}
+{{ image(url="rangoli6.jpg", alt="Rangolis", no_hover=true) }}
+{{ image(url="rangoli7.jpg", alt="Rangolis", no_hover=true) }}
+{{ image(url="rangoli8.jpg", alt="Rangolis", no_hover=true) }}
+{{ image(url="rangoli9.jpg", alt="Rangolis", no_hover=true) }}
+{{ image(url="rangoli10.jpg", alt="Rangolis", no_hover=true) }}
+</div> 
+<div class="travel-gallery gallery-3">
+{{ image(url="rangoli11.jpg", alt="Rangolis", no_hover=true) }}
+{{ image(url="rangoli12.jpg", alt="Rangolis", no_hover=true) }}
+{{ image(url="rangoli13.jpg", alt="Rangolis", no_hover=true) }}
+</div>

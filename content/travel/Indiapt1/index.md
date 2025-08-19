@@ -6,9 +6,14 @@ date = 2023-03-21
 [taxonomies]
 tags = ["Travel"]
 
+[extra]
+styles = ["travel-gallery.css"]
+
 +++
 
+<div class="cover-image">
 {{ image(url="CroppedHutSunset.jpg", alt="This is an image", no_hover=true) }}
+</div>
 
 
 Over the precipice once again; searching for god knows what I jump a flight to Atlantis... I mean to Gokarna to meet Rishi in person for the first time; despite having shared a lot of time together online during the COVID period.

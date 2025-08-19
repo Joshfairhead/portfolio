@@ -7,9 +7,15 @@ date = 2023-06-15
 [taxonomies]
 tags = ["Travel"]
 
+[extra]
+styles = ["travel-gallery.css"]
+scripts = ["travel-lightbox.js"]
+
 +++
 
+<div class="cover-image">
 {{ image(url="solstice2023.png", alt="Solstice", no_hover=true) }}
+</div>
 
 
 After the Metaphorum enven in Manchester, I fly to Geneva for the Summer Solstice gathering in organised by friends at bonfire.link; a metaphor for life and an affirmation of the human capacity to self organise without calcified structures. 
@@ -33,9 +39,10 @@ Of particular difficulty was the fridge from the basement and the pallets from t
 
 After sevral hours drive to Verbier, we arrive at our destination and set up one of Matts tents. A nearby rock serves as a table to slice some bread and cut up some spring onions; slathered with cream cheese our 3am snack was sweet and nourishing!
 
-| | |
-|---|---|
-| {{ image(url="dinner.jpeg", alt="Dinner", no_hover=true) }} | {{ image(url="tent.jpeg", alt="Tent", no_hover=true) }} |
+<div class="travel-gallery gallery-2 gallery-resized">
+{{ image(url="dinner.jpeg", alt="Dinner", no_hover=true) }}
+{{ image(url="tent.jpeg", alt="Tent", no_hover=true) }}
+</div>
 
 We're completely wrecked the next day but there's still a lot of stuff to get done; we need to load out the van for starter but there's more to the story than the items we've brought - there's a caravan on the dance floor and the guy living in it didn't even know we we're coming... 
 
@@ -72,9 +79,10 @@ Sweet harmony - the guys a fantastic entertainer! I'm feeling kinda fragile and 
 
 At this point things begin to become rather archetypal; the acoustic chill out spot has become camp freedom of the rebel alliance led by captain Norberto singing redemption songs, while bondage for liberation is happening down near the techno soundsystem. 
 
-| | |
-|---|---|
-| {{ image(url="freedom.jpg", alt="Jam", no_hover=true) }} | {{ image(url="bonding.jpeg", alt="Bondage", no_hover=true) }} |
+<div class="travel-gallery gallery-2 gallery-resized">
+{{ image(url="freedom.jpg", alt="Jam", no_hover=true) }}
+{{ image(url="bonding.jpeg", alt="Bondage", no_hover=true) }}
+</div>
 
 The paradox is palpable to me; we have trippy hippies bound together in escape, while the folks below are literally tying themselves up to find liberation. Affirmers and deniers chasing the same ends in opposite ways. The beauty and sadness of this juxtapositon stirrs something in me as I lay in the middle ground listening to the forces of complimentary polarity. 
 
@@ -92,9 +100,10 @@ At this stage it's nearly 9pm so despite some minor resistance from friends up a
 
 Yes, things are turning monty python very quickly; my friend is standing on a mount above the fire pit with a sheep skull walking stick and a microphone to amplify his haggared voice. "Everyone shhhh, Ome's lost his voice" someone yells. "What? Ome's a very naughty boy?" I yell back as my contribution to the show.
 
-| | |
-|---|---|
-| {{ image(url="sermon.jpg", alt="Sermon", no_hover=true) }} | {{ image(url="mount.jpg", alt="Mount", no_hover=true) }} |
+<div class="travel-gallery gallery-2 gallery-resized">
+{{ image(url="sermon.jpg", alt="Sermon", no_hover=true) }}
+{{ image(url="mount.jpg", alt="Mount", no_hover=true) }}
+</div>
 
 Honestly the show really doesn't need my help; everything is perfect already and the scene is about as brazen as it gets. Graciously, through a barely audible croak the prophet speaks; "todays ceremony has to do with fire"... "FIRRRRRE!!!" echoes a well intentioned attendee; who inadvertantly triggers a coordination failure as the totem is rushed onto the fire by its tripped out creators to much laughter and applause. 
 

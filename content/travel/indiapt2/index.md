@@ -6,9 +6,14 @@ date = 2023-03-27
 [taxonomies]
 tags = ["Travel"]
 
+[extra]
+styles = ["travel-gallery.css"]
+
 +++
 
+<div class="cover-image">
 {{ image(url="Ganesh.jpg", alt="This is an image", no_hover=true) }}
+</div>
 
 With no plans laid out post Green Pill Festival; myself and Rishi drove overnight to Bangalore in order to get his new lady friend Aaba to hospital and back home.
 

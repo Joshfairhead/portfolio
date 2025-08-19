@@ -1,0 +1,10 @@
+/* Croatia-specific gallery adjustments */
+
+/* Constrain mixed content gallery for better display */
+.travel-gallery img[src*="gov"],
+.travel-gallery img[src*="friends"],
+.travel-gallery img[src*="typologies"],
+.travel-gallery img[src*="circle"] {
+    height: 280px !important;
+    object-fit: cover;
+}

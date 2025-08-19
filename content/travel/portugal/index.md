@@ -13,7 +13,9 @@ scripts = ["travel-lightbox.js"]
 
 +++
 
+<div class="cover-image">
 {{ image(url="radicallove.jpg", alt="Boom", no_hover=true) }}
+</div>
 
 After some time at home on my own in Lisbon I make a last minute decision to attend Boom festival with Alex who's attending with some friends. I pack my bags on the Wednesday and head out on the 6pm~ train to Castelo Branco; the closest stop on public transport. I've no idea how I'll get to the festival 50km from the station but have my tent with me, so assuming the worst I can always camp in a field somewhere for the evening.
 

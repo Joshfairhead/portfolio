@@ -7,17 +7,24 @@ date = 2023-05-08
 [taxonomies]
 tags = ["Travel"]
 
+[extra]
+styles = ["travel-gallery.css"]
+scripts = ["travel-lightbox.js"]
+
 +++
 
+<div class="cover-image">
 {{ image(url="castle.jpeg", alt="Castle", no_hover=true) }}
+</div>
 
 Realising that I've flown a bit out of my way I make my way towards the Chinwags gathering via train with the help and direction of a rather beautiful Polish lady that aids my ticket purchase towards Warsaw main and gets me on the right carriage. She's just returned from a solo trip to Paris to visit the museums. After a hurried ticket purchase at the station and a frantic rush to the platform I make a train that will get me to my pickup about fifteen minutes late. Signalling this in the telegram and sharing my live location the group agrees to wait for me a little longer than planned. Blessed souls.
 
 Getting on the bus I'm gracefully greeted by a number of faces I know from previous lives. Kris from my time at Giveth several years back, the lovely Vesta who I've bumped into numerous times at numerous gatherings, Laura and Nick from the 0x Salon who I met in Berlin and Owen who I met in November at LabsWeek and was thoroughly impressed by. The bus ride is calm and well composed for the sizeable group and I spend my time quietly talking with Vesta and Owen about travel, personal interests and music.
 
-| | |
-|---|---|
-| {{ image(url="arrival.jpeg", alt="Arrival", no_hover=true) }} | {{ image(url="landing.jpeg", alt="Castle", no_hover=true) }} | 
+<div class="travel-gallery gallery-2 gallery-resized">
+{{ image(url="arrival.jpeg", alt="Arrival", no_hover=true) }}
+{{ image(url="landing.jpeg", alt="Castle", no_hover=true) }}
+</div> 
 
 Arriving in Poznan we draw up to an impressive castle and are shown to our rooms. The space is full of winding passages that seem to go up infinitely, until we reach an attic on the 7th or so floor; what a view! There are small rooms with couches all through the building, which is perfectly designed for unconferences and serendipitous wandering. There's a little time for exploration before dinner and a plenary style convergence in the main hall.
 
@@ -25,25 +32,33 @@ Taken over the schedule we end with the terminal question of whether the sauna r
 
 The next morning was lively; getting into the AI discussion with Remi to discuss Miladys, agroism and numerology; a conversation that started with my appreciation of his t-shirt which had a three eyed DMT kitten on it along with the phrase "I don't care" written under it - a fun and funky style that resonates with my sense of aesthetic. Provided with a coffee from the kitchen we head outside to begin workshopping.
 
-| | |
-|---|---|
-| {{ image(url="outside1.jpeg", alt="Arrival", no_hover=true) }} | {{ image(url="outside2.jpeg", alt="Castle", no_hover=true) }} | 
-| {{ image(url="outside3.jpeg", alt="Arrival", no_hover=true) }} | {{ image(url="outside4.jpeg", alt="Castle", no_hover=true) }} | 
+<div class="travel-gallery gallery-2 gallery-resized">
+{{ image(url="outside1.jpeg", alt="Arrival", no_hover=true) }}
+{{ image(url="outside2.jpeg", alt="Castle", no_hover=true) }}
+{{ image(url="outside3.jpeg", alt="Arrival", no_hover=true) }}
+{{ image(url="outside4.jpeg", alt="Castle", no_hover=true) }}
+</div> 
 
 We are offered a number of topics to converse on and I join the table discussion on DAO representation. Everyone at the table promptly that agreed that voting was a stupid practice. Besides that very important consensus moment, the conversation fragmented a bit but some good riffs were shared on deliberative democracy, future governance, the nature of human assembly and "all under heaven" frameworks. A lot was said on dissent as well; the gems from our table are contained in the following pictures.
 
-| | | |
-|---|---|---|
-| {{ image(url="sketch1.jpeg", alt="Arrival", no_hover=true) }} | {{ image(url="sketch2.jpeg", alt="Castle", no_hover=true) }} | {{ image(url="sketch3.jpeg", alt="Castle", no_hover=true) }} | 
+<div class="travel-gallery gallery-3 gallery-resized">
+{{ image(url="sketch1.jpeg", alt="Arrival", no_hover=true) }}
+{{ image(url="sketch2.jpeg", alt="Castle", no_hover=true) }}
+{{ image(url="sketch3.jpeg", alt="Castle", no_hover=true) }}
+</div> 
 
 After this we had a fine plenary session where various groups presented followed by a session on how to build a service DAO for 20~ people. Sadly these fragments were not captured for the purposes of this report as we wrapped for a lunch of lively discussion. This was followed by a workshop by Other Internet, the folks working at Trust who I previously met at the 0x Salon. There was some dark alchemy at play with the handouts of fitting into framed ontological structures that I dissented from, though I later found out that this was an intentional provocation to get people thinking about human interactions over boxes and categories. Quite the bait and switch.
 
 From here the workshop moved into a discussion on bridges, anchors and alliances based on a presentation before hand; if I recall the ontology correctly anchors were more institutional bodies that touch into more traditional regulated waters, with bridges as the link to alliances. I was pretty tired at this point though so I may be recalling things wrong; you'll have to ask other internet about that. Here are some of the artefacts to make sense of yourself if you like!
 
-| | | |
-|---|---|---|
-| {{ image(url="otherinternet1.jpeg", alt="Arrival", no_hover=true) }} | {{ image(url="otherinternet2.jpeg", alt="Castle", no_hover=true) }} | {{ image(url="otherinternet3.jpeg", alt="Castle", no_hover=true) }} | 
-| {{ image(url="otherinternet4.jpeg", alt="Arrival", no_hover=true) }} | {{ image(url="otherinternet5.jpeg", alt="Castle", no_hover=true) }} | {{ image(url="otherinternet6.jpeg", alt="Castle", no_hover=true) }} | 
+<div class="travel-gallery gallery-3 gallery-resized">
+{{ image(url="otherinternet1.jpeg", alt="Arrival", no_hover=true) }}
+{{ image(url="otherinternet2.jpeg", alt="Castle", no_hover=true) }}
+{{ image(url="otherinternet3.jpeg", alt="Castle", no_hover=true) }}
+{{ image(url="otherinternet4.jpeg", alt="Arrival", no_hover=true) }}
+{{ image(url="otherinternet5.jpeg", alt="Castle", no_hover=true) }}
+{{ image(url="otherinternet6.jpeg", alt="Castle", no_hover=true) }}
+</div> 
 
 {{ image(url="circle.jpeg", alt="Arrival", no_hover=true) }} 
 

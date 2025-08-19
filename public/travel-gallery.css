@@ -1,3 +1,16 @@
+/* Cover Image Styling */
+.cover-image {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto 2rem auto;
+}
+
+.cover-image img {
+    height: 450px;
+    width: auto;
+    object-fit: cover;
+}
+
 /* Travel Gallery Styling */
 
 /* Gallery container */
@@ -178,3 +191,21 @@
         right: 10px;
     }
 }
+
+/* Gallery sizing classes */
+.gallery-resized img {
+    height: 280px !important;
+    object-fit: cover;
+}
+
+.gallery-natural img {
+    height: auto !important;
+    object-fit: contain;
+}
+
+.gallery-diagrams img {
+    height: auto !important;
+    object-fit: contain;
+}
+
+
