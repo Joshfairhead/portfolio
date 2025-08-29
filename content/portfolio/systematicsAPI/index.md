@@ -1,11 +1,13 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Resource Library"
-description = "Semantic compiler"
+description = "A library for storing general systematics or qualitive systems. These are structured ontologies useful for semantic search and compilation. Work in progress or research in motion ;)"
 date = 2024-01-01
 [taxonomies]
 tags = ["Design", "Systems", "Architecture", "AI"]
 [extra]
+featured = true
+weight = 1
 draft = false
 +++
 
