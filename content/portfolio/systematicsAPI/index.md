@@ -11,6 +11,8 @@ weight = 1
 draft = false
 +++
 
+## General Systematics Resource Library
+
 The systematics API started as a way to preserve the work of Tony Hodgson and JG Bennett. Probably best to look at this one in horizons, so horizon one is about archival, preservation and storage. In essence I was building the systematic structures for storage and retrieval of graphs with semantic structure. 
 
 The first move was to create a basic library of the canonical references based on the terminology provided by Tony Hodgeson and JG Bennett as sources. Each system might be considered an autonomous unit. Ideally I would have liked the implementation of these systems to be correct by construction, using category theory and homotopic type theory - as this would make them much more useful on the Post Web / Dweb - however after creating v0.0.2 I tried just this and found it much harder than anticipated so have decided to scope things back. 
