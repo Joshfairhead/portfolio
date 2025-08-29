@@ -11,18 +11,16 @@ weight = 1
 draft = false
 +++
 
-## General Systematics Resource Library
+![Engineering](HeptadEngineeringSketch.png#no-hover)
 
-The systematics API started as a way to preserve the work of Tony Hodgson and JG Bennett. Probably best to look at this one in horizons, so horizon one is about archival, preservation and storage. In essence I was building the systematic structures for storage and retrieval of graphs with semantic structure. 
+[Here is the v0.0.2 codebase](https://github.com/Joshfairhead/SystematicsAPI-v0.0.2)
 
-The first move was to create a basic library of the canonical references based on the terminology provided by Tony Hodgeson and JG Bennett as sources. Each system might be considered an autonomous unit. Ideally I would have liked the implementation of these systems to be correct by construction, using category theory and homotopic type theory - as this would make them much more useful on the Post Web / Dweb - however after creating v0.0.2 I tried just this and found it much harder than anticipated so have decided to scope things back. 
+#### Background
+The systematics API started as a way to store, preserve, search and retrieve the work of Tony Hodgson and JG Bennett - as well as other traditions that make use of such semantic structures. In short these systems are ways of organising information into knowledge ecologies.
 
-For Horizon 1, retrieval of canonical systems and retrieval of custom instances are probably the only critical functions needed. Thats what the API currently enables. Humble beginnings.
+Its probably best to look at this initiative in horizons; so this basic funcitionality can be considered horizon one. The potential use cases of these structures in horizon two or three would seem to go much further than storage and preservation, but for now I'd like to keep things scoped to generic functionality rather than more visionay aspects of the work. 
 
-Here is the code:
-https://github.com/Joshfairhead/SystematicsAPI-v0.0.2
-
-#### Learnings
+#### Initial thinking and Learnings
 
 In the process of creating this API I basically articulated the various systems and tried implementing them in various ways. The simplist was throught the type system; enumerating the various systems and their values and then bundling this all up in a hash table. I then added an interface, which created the issue of state management so I rebuilt. The issue was this wasn't very composable.
 
@@ -38,8 +36,8 @@ A field of action is emerging here; objects and categories, morphisms and functo
 
 How I represent this in state is currently an exploration. I believe frameworks like Holochain probably lay the foundations for this as the hashtable is essentially a DSU (Disjoint set / union), and frameworks like AD4M are equivelent to very abstract intersections, but I may be wrong about this. As such I'm sticking to my own little playground to figure out the implementation details for now. 
 
-#### Orientation
-![Engineering](content/portfolio/systematicsAPI/HeptadEngineeringSketch.png)
+
+
 
 
 
