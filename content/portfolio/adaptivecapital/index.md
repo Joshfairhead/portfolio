@@ -6,6 +6,7 @@ date = 2023-09-11
 [taxonomies]
 tags = ["Proposal"]
 
+
 +++
 
 [Adaptive Capial Proposal](https://commonwealth.im/regen/discussion/10002-rfp-tokenomics-20-proposal-adaptive-capital)

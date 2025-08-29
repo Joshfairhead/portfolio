@@ -85,3 +85,42 @@ Book a session at the rate that works for you:
   <a href="https://buy.stripe.com/8wMaFi8gv1J5bcY8wy">€135</a>
   <a href="https://buy.stripe.com/9AQ14I54jafB94Q8wx">€80</a>
 </div>
+
+
+
+----
+
+
+
+
+
+\+++
+title = "Josh Fairhead"
+description = "Professional website of Josh Fairhead - systems designer, consultant, and writer exploring complexity, emergence, and generative systems"
+template = "index.html"
++++
+
+
+
+
+# Welcome
+
+I'm Josh Fairhead, a systems designer and consultant working at the intersection of complexity science, organizational design, and technology. I help organizations navigate complexity through generative systems thinking and emergent design principles.
+
+## What I Do
+
+I specialize in:
+- **Systems Design**: Creating resilient, adaptive organizational structures
+- **Complexity Consulting**: Helping teams understand and work with complex systems
+- **Generative Methods**: Developing tools and frameworks for emergent problem-solving
+- **Technical Architecture**: Building scalable, maintainable software systems
+
+## Explore
+
+Browse my [portfolio](/portfolio) to see recent projects, read my [writing](/archive) on systems thinking and complexity, or check out my [travel documentation](/travel) and [music reviews](/music).
+
+## Connect
+
+Find me on [GitHub](https://github.com/joshfairhead), [LinkedIn](https://www.linkedin.com/in/joshfairhead/), or [Twitter](https://twitter.com/joshafairhead). 
+
+Support my work through [Open Collective](https://opencollective.com/lens-and-method) or [buy me a coffee](https://buymeacoffee.com/joshafairhead).

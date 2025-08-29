@@ -4,8 +4,7 @@ title = "Fistfull of I.O.U's"
 description = "An album of progressive psychedelic music, and other genres. An all round labour of love."
 [taxonomies]
 tags = ["Audio"]
-[extra]
-featured = true
+
 
 
 +++

@@ -61,7 +61,11 @@ Product management, research, design and development in relation to a cryptocurr
 - [Cosmic Ecology I & II](https://www.h3uni.org/events-and-activities/courses/the-cosmic-ecology-programme/)
 
 **Capital Institute | 2025**
+
 - [Investment for a Regenerative Economy](https://capitalinstitute.org/investment-for-a-regenerative-economy-course/)
+
+**Blue Dot Impact | 2025**
+- [Future of AI](https://bluedot.org/certification?id=rec6AMngOqfgKgwLA)
 
 **Capra Course | 2020 – 2021**
 
@@ -113,6 +117,7 @@ Product management, research, design and development in relation to a cryptocurr
 ### Continuous Learning
 **Self-Directed Programming**
 
+- Future of AI
 - Learn Programming
 - Learn Javascript
 - Easy Rust
