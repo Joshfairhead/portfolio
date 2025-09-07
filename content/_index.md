@@ -92,7 +92,6 @@ Book a session at the rate that works for you:
 
 ## Social Media
 
-
 <div id="bluesky-feed-widget">
     <div class="bluesky-feed-header">
         <h3>Bluesky Posts</h3>
