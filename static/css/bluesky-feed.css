@@ -1,0 +1,120 @@
+#bluesky-feed-widget {
+    width: 100%;
+    max-width: none;
+    margin: 20px 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    border: 1px solid #e1e8ed;
+    border-radius: 12px;
+    background: #fff;
+    overflow: hidden;
+}
+
+.bluesky-feed-header {
+    padding: 16px 20px;
+    border-bottom: 1px solid #e1e8ed;
+    background: #f7f9fa;
+}
+
+.bluesky-feed-header h3 {
+    margin: 0;
+    color: #1d9bf0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.loading {
+    color: #657786;
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+.bluesky-feed-container {
+    max-height: 600px;
+    overflow-y: auto;
+}
+
+.bluesky-post {
+    padding: 16px 20px;
+    border-bottom: 1px solid #e1e8ed;
+    transition: background-color 0.2s;
+}
+
+.bluesky-post:hover {
+    background-color: #f7f9fa;
+}
+
+.bluesky-post:last-child {
+    border-bottom: none;
+}
+
+.post-content {
+    color: #14171a;
+    font-size: 15px;
+    line-height: 1.4;
+    margin-bottom: 12px;
+    word-wrap: break-word;
+}
+
+.post-meta {
+    color: #657786;
+    font-size: 13px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post-date {
+    font-weight: 500;
+}
+
+.post-stats {
+    display: flex;
+    gap: 16px;
+}
+
+.stat {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.hashtag {
+    color: #1d9bf0;
+    font-weight: 500;
+}
+
+.error-message {
+    padding: 20px;
+    color: #e0245e;
+    text-align: center;
+    font-size: 14px;
+}
+
+.empty-message {
+    padding: 40px 20px;
+    color: #657786;
+    text-align: center;
+    font-size: 14px;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    #bluesky-feed-widget {
+        background: #15202b;
+        border-color: #38444d;
+        color: #fff;
+    }
+
+    .bluesky-feed-header {
+        background: #1e2732;
+        border-color: #38444d;
+    }
+
+    .bluesky-post:hover {
+        background-color: #1e2732;
+    }
+
+    .post-content {
+        color: #fff;
+    }
+}
