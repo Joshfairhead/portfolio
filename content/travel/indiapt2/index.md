@@ -7,7 +7,7 @@ date = 2023-03-27
 tags = ["Travel"]
 
 [extra]
-styles = ["travel-gallery.css"]
+styles = ["css/travel-gallery.css"]
 
 +++
 

@@ -8,8 +8,8 @@ date = 2023-08-24
 tags = ["Travel"]
 
 [extra]
-styles = ["travel-gallery.css", "austria-gallery.css"]
-scripts = ["travel-lightbox.js"]
+styles = ["css/travel-gallery.css", "css/austria-gallery.css"]
+scripts = ["js/travel-lightbox.js"]
 
 +++
 

@@ -4,7 +4,7 @@ title = "Home"
 
 
 [extra]
-styles = ["homepage-header.css"]
+styles = ["css/homepage-header.css"]
 draft = true
 +++
 
