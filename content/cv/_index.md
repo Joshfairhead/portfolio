@@ -3,7 +3,7 @@ title = "Curriculum Vitae"
 
 [extra]
 draft = true
-styles = ["cv-spacing.css"]
+styles = ["css/cv-spacing.css"]
 
 +++
 
