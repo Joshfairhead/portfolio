@@ -3,7 +3,7 @@ authors = ["Josh"]
 title = "Floating Points"
 description = "Trippy generative electronic music with neuro sybolic visuals."
 [taxonomies]
-tags = ["Track"]
+music_tags = ["Track"]
 
 +++
 

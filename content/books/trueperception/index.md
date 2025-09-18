@@ -3,7 +3,7 @@ authors = ["Josh Fairhead"]
 title = "True Perception"
 description = "A book on visual Dharma by Chögyam Trungpa"
 [taxonomies]
-tags = ["Book"]
+book_tags = ["Book"]
 
 +++
 

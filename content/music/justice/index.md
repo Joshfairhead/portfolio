@@ -3,7 +3,7 @@ authors = ["Josh"]
 title = "Justice"
 description = "French electro disco pioneers, taking listeners on a literal space odyssey."
 [taxonomies]
-tags = ["Artist"]
+music_tags = ["Artist"]
 
 +++
 
