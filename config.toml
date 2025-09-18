@@ -154,6 +154,7 @@ show_repo = false
 links = [
 	{ url = "@/portfolio/_index.md", name = "Portfolio" },
 	{ name = "Writing", menu = [
+		{ url = "@/writing/blog/_index.md", name = "Blog" },
 		{ url = "http://consulting.tothecosmos.org", name = "Documentation" },
 		{ url = "@/travel/_index.md", name = "Travel Writing" },
 		{ url = "@/expositions/_index.md", name = "Expositions" },
