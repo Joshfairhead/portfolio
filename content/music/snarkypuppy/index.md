@@ -3,7 +3,7 @@ authors = ["Josh"]
 title = "Snarky Puppy"
 description = "Metropolitan big band mixing hiphop, jazz, funk and soul."
 [taxonomies]
-tags = ["Artist"]
+music_tags = ["Artist"]
 
 +++
 

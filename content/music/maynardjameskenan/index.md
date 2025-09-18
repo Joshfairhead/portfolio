@@ -3,7 +3,7 @@ authors = ["Josh"]
 title = "Maynard James Keenan"
 description = "I AM THE BRIEFCASE!!"
 [taxonomies]
-tags = ["Artist"]
+music_tags = ["Artist"]
 
 +++
 

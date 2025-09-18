@@ -4,6 +4,9 @@
         <loc>https://joshafairhead.com/</loc>
     </url>
     <url>
+        <loc>https://joshafairhead.com/all-tags/</loc>
+    </url>
+    <url>
         <loc>https://joshafairhead.com/archive/</loc>
     </url>
     <url>
@@ -32,6 +35,19 @@
     </url>
     <url>
         <loc>https://joshafairhead.com/augmented/barkinginthedark/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/blog/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/blog/category-theory/</loc>
+        <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/book-tags/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/book-tags/book/</loc>
     </url>
     <url>
         <loc>https://joshafairhead.com/books/</loc>
@@ -84,6 +100,21 @@
     </url>
     <url>
         <loc>https://joshafairhead.com/methodologies/viablesystemsmodel/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/music-tags/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/music-tags/album/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/music-tags/all/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/music-tags/artist/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/music-tags/track/</loc>
     </url>
     <url>
         <loc>https://joshafairhead.com/music/</loc>
@@ -203,22 +234,16 @@
         <loc>https://joshafairhead.com/tags/ai/</loc>
     </url>
     <url>
-        <loc>https://joshafairhead.com/tags/all/</loc>
-    </url>
-    <url>
         <loc>https://joshafairhead.com/tags/architecture/</loc>
     </url>
     <url>
         <loc>https://joshafairhead.com/tags/archive/</loc>
     </url>
     <url>
-        <loc>https://joshafairhead.com/tags/artist/</loc>
-    </url>
-    <url>
         <loc>https://joshafairhead.com/tags/audio/</loc>
     </url>
     <url>
-        <loc>https://joshafairhead.com/tags/book/</loc>
+        <loc>https://joshafairhead.com/tags/category-theory/</loc>
     </url>
     <url>
         <loc>https://joshafairhead.com/tags/craft/</loc>
@@ -236,13 +261,13 @@
         <loc>https://joshafairhead.com/tags/exposition/</loc>
     </url>
     <url>
+        <loc>https://joshafairhead.com/tags/mathematics/</loc>
+    </url>
+    <url>
         <loc>https://joshafairhead.com/tags/proposal/</loc>
     </url>
     <url>
         <loc>https://joshafairhead.com/tags/systems/</loc>
-    </url>
-    <url>
-        <loc>https://joshafairhead.com/tags/track/</loc>
     </url>
     <url>
         <loc>https://joshafairhead.com/tags/travel/</loc>

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+{%- set date_format = macros_translate::translate(key="date_format", default="%B %d, %Y", language_strings=language_strings) -%}
+{%- set date_locale = macros_translate::translate(key="date_locale", default="en_US", language_strings=language_strings) -%}
+{%- set number_of_posts = term.pages | length -%}
+
+<h1>Books tagged: {{ term.name }}</h1>
+
+<p>
+	<small>
+		<a href="{{ get_url(path='book-tags', lang=lang) }}">
+			See all book tags
+		</a>
+		<br />
+		{{ number_of_posts }} book {{ number_of_posts | pluralize(singular="entry", plural="entries") }}
+	</small>
+</p>
+
+{% include "partials/articles.html" %}
+{% endblock content %}

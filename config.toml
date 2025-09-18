@@ -22,7 +22,11 @@ author = "Josh Fairhead"
 # BCP 47: https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 # default_language = "en"
 
-taxonomies = [{ name = "tags", feed = true }]
+taxonomies = [
+	{ name = "tags", feed = true },
+	{ name = "music_tags", feed = true },
+	{ name = "book_tags", feed = true }
+]
 
 [markdown]
 highlight_code = true

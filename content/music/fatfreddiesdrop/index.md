@@ -3,7 +3,7 @@ authors = ["Josh"]
 title = "Fat Freddies Drop"
 description = "New Zealand funk soul psychedelia singing straight from the heart."
 [taxonomies]
-tags = ["Artist"]
+music_tags = ["Artist"]
 
 +++
 
