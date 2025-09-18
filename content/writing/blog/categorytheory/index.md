@@ -1,5 +1,5 @@
 +++
-placement = 3
+date = 2025-01-18
 authors = ["Josh Fairhead"]
 title = "Category Theory: A Primer for Non-Mathematicians"
 description = "An accessible introduction to category theory from the perspective of a tech product person"
