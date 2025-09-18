@@ -221,6 +221,9 @@
         <loc>https://joshafairhead.com/tags/book/</loc>
     </url>
     <url>
+        <loc>https://joshafairhead.com/tags/category-theory/</loc>
+    </url>
+    <url>
         <loc>https://joshafairhead.com/tags/craft/</loc>
     </url>
     <url>
@@ -234,6 +237,9 @@
     </url>
     <url>
         <loc>https://joshafairhead.com/tags/exposition/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/tags/mathematics/</loc>
     </url>
     <url>
         <loc>https://joshafairhead.com/tags/proposal/</loc>
@@ -308,5 +314,18 @@
     <url>
         <loc>https://joshafairhead.com/travel/switzerland/</loc>
         <lastmod>2023-06-15</lastmod>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/writing/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/writing/blog/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/writing/blog/categorytheory/</loc>
+        <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/writing/blog/page/1/</loc>
     </url>
 </urlset>
