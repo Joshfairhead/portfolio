@@ -86,11 +86,9 @@ Book a session at the rate that works for you:
   <a href="https://buy.stripe.com/9AQ14I54jafB94Q8wx">€80</a>
 </div>
 
-<!--
+<!---
 
 ---
-
-## Social Media
 
 <div id="bluesky-feed-widget">
     <div class="bluesky-feed-header">
