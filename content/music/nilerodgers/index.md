@@ -3,7 +3,7 @@ authors = ["Josh"]
 title = "Nile Rodgers"
 description = "Triple platinum disco never died, it was always flowing like and through the Nile."
 [taxonomies]
-tags = ["Artist"]
+music_tags = ["Artist"]
 
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Music Curation"
 sort_by = "title"
-template = "article_list.html"
+template = "music_list.html"
 page_template = "article.html"
 +++
 

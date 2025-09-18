@@ -3,7 +3,7 @@ authors = ["Josh"]
 title = "Robert Plant"
 description = "Led Zeppelin's rambling man fronts his own career as a solo artist."
 [taxonomies]
-tags = ["Artist"]
+music_tags = ["Artist"]
 
 +++
 

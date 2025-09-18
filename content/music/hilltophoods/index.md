@@ -3,7 +3,7 @@ authors = ["Josh"]
 title = "Hilltop Hoods"
 description = "Authentic Australian hip hop full of struggle and soul."
 [taxonomies]
-tags = ["Artist"]
+music_tags = ["Artist"]
 
 +++
 

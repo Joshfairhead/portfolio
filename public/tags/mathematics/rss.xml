@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Josh Fairhead - Mathematics</title>
+      <link>https://joshafairhead.com</link>
+      <description>Professional website of Josh Fairhead</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://joshafairhead.com/tags/mathematics/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Category Theory: A Primer for Non-Mathematicians</title>
+          <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/blog/category-theory/</link>
+          <guid>https://joshafairhead.com/blog/category-theory/</guid>
+          <description xml:base="https://joshafairhead.com/blog/category-theory/">&lt;blockquote&gt;
+&lt;p&gt;TL;DR: This article provides an approachable introduction to category theory for those with a tech background but without formal mathematical training. Category theory offers a powerful framework that unifies much of mathematics through the elegant abstractions of objects and morphisms.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h2&gt;
+&lt;p&gt;Coming from a background in tech product development rather than pure mathematics or coding, I’ve recently begun exploring category theory. While I’m familiar with the work of J.G. Bennett and have been exposed to mathematical and programming concepts, I’m essentially starting from the ground up when it comes to formal category theory. This exposition shares what I’ve learned so far, presented in a way that hopefully makes these concepts accessible to others in similar positions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;foundations-beyond-set-theory&quot;&gt;Foundations: Beyond Set Theory&lt;&#x2F;h2&gt;
+&lt;p&gt;Traditional mathematics typically builds upon set theory as its foundation. However, category theory offers something different—and arguably more powerful. While sets and categories are fundamentally different constructs, category theory provides greater explanatory power and can integrate vast swaths of the mathematical landscape into a unified framework.&lt;&#x2F;p&gt;
+&lt;p&gt;Where set theory focuses on membership and elements, category theory emphasizes relationships and transformations. This shift in perspective proves remarkably fruitful for understanding mathematical structures and their interconnections.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-basic-building-blocks&quot;&gt;The Basic Building Blocks&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;objects-and-morphisms&quot;&gt;Objects and Morphisms&lt;&#x2F;h3&gt;
+&lt;p&gt;If you’re familiar with graph theory or network diagrams, you already understand the visual metaphor: nodes connected by edges. In category theory, these become:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Objects&lt;&#x2F;strong&gt;: The nodes or dots in our diagram (though they’re more abstract than just points)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Morphisms&lt;&#x2F;strong&gt;: The arrows or edges that connect objects (also called arrows or maps)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;A category consists of these objects and morphisms, bound together by three fundamental laws that ensure mathematical coherence.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;the-three-laws&quot;&gt;The Three Laws&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;1-identity&quot;&gt;1. Identity&lt;&#x2F;h4&gt;
+&lt;p&gt;Every object must have an identity morphism—an arrow that loops back to itself. This self-referential morphism leaves the object unchanged, much like multiplying by 1 or adding 0 in arithmetic. Visually, this appears as a loop starting and ending at the same object.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;2-associativity&quot;&gt;2. Associativity&lt;&#x2F;h4&gt;
+&lt;p&gt;When we have multiple morphisms connecting objects, the order in which we group them doesn’t matter. If we have morphisms f, g, and h that can be composed, then (f ∘ g) ∘ h = f ∘ (g ∘ h). This property ensures consistency in how we navigate through our categorical structures.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;3-composition&quot;&gt;3. Composition&lt;&#x2F;h4&gt;
+&lt;p&gt;Perhaps the most powerful law: whenever we have a path from object A to B, and another from B to C, there must exist a direct morphism from A to C that represents their composition. We say this diagram “commutes”—meaning all paths between the same endpoints are equivalent. This creates a rich network of relationships where indirect connections imply direct ones.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;types-of-morphisms&quot;&gt;Types of Morphisms&lt;&#x2F;h2&gt;
+&lt;p&gt;Morphisms come in various flavors, each capturing different mathematical relationships:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Monomorphism&lt;&#x2F;strong&gt;: Injective or “one-to-one” morphisms that preserve distinctness (constructive in nature)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Epimorphism&lt;&#x2F;strong&gt;: Surjective or “onto” morphisms that cover the target completely (deconstructive in nature)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Isomorphism&lt;&#x2F;strong&gt;: Morphisms with perfect two-way correspondence—essentially saying two objects are “the same” from the category’s perspective&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Homomorphism&lt;&#x2F;strong&gt;: Structure-preserving transformations that maintain the essential properties while mapping between objects&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;higher-order-structures&quot;&gt;Higher-Order Structures&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;functors-morphisms-between-categories&quot;&gt;Functors: Morphisms Between Categories&lt;&#x2F;h3&gt;
+&lt;p&gt;Just as morphisms connect objects within a category, functors connect entire categories to each other. A functor maps:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Objects in one category to objects in another&lt;&#x2F;li&gt;
+&lt;li&gt;Morphisms in one category to morphisms in another&lt;&#x2F;li&gt;
+&lt;li&gt;While preserving the categorical structure (identity and composition)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This creates a second-order pattern where categories themselves become objects in a higher-level view, connected by functors as their morphisms.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;the-hierarchy-continues&quot;&gt;The Hierarchy Continues&lt;&#x2F;h3&gt;
+&lt;p&gt;This pattern of abstraction continues indefinitely in higher category theory:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2-categories&lt;&#x2F;strong&gt;: Categories where morphisms between morphisms (called 2-morphisms) exist&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;3-categories&lt;&#x2F;strong&gt;: Adding another level of morphisms between 2-morphisms&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;n-categories&lt;&#x2F;strong&gt;: The pattern continues to arbitrary levels of abstraction&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Each level maintains the same fundamental pattern of objects and arrows, creating a fractal-like structure of mathematical relationships.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;further-exploration&quot;&gt;Further Exploration&lt;&#x2F;h2&gt;
+&lt;p&gt;This primer barely scratches the surface. Key topics for deeper investigation include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Natural transformations&lt;&#x2F;li&gt;
+&lt;li&gt;Limits and colimits&lt;&#x2F;li&gt;
+&lt;li&gt;Topos theory&lt;&#x2F;li&gt;
+&lt;li&gt;Monoidal categories&lt;&#x2F;li&gt;
+&lt;li&gt;Applied category theory&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+    </channel>
+</rss>

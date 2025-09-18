@@ -4,7 +4,7 @@ title = "The Band"
 description = "One of the most prolific working bands of the 60's and 70's and the spirit of Woodstock."
 
 [taxonomies]
-tags = ["Artist"]
+music_tags = ["Artist"]
 
 +++
 

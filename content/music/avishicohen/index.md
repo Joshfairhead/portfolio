@@ -3,7 +3,7 @@ authors = ["Josh"]
 title = "Avishi Cohen"
 description = "Organic landscapes channeled through a most competent contemporary trio."
 [taxonomies]
-tags = ["Artist"]
+music_tags = ["Album"]
 
 +++
 
