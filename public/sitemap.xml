@@ -34,6 +34,13 @@
         <loc>https://joshafairhead.com/augmented/barkinginthedark/</loc>
     </url>
     <url>
+        <loc>https://joshafairhead.com/blog/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/blog/category-theory/</loc>
+        <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
         <loc>https://joshafairhead.com/books/</loc>
     </url>
     <url>
@@ -221,6 +228,9 @@
         <loc>https://joshafairhead.com/tags/book/</loc>
     </url>
     <url>
+        <loc>https://joshafairhead.com/tags/category-theory/</loc>
+    </url>
+    <url>
         <loc>https://joshafairhead.com/tags/craft/</loc>
     </url>
     <url>
@@ -234,6 +244,9 @@
     </url>
     <url>
         <loc>https://joshafairhead.com/tags/exposition/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/tags/mathematics/</loc>
     </url>
     <url>
         <loc>https://joshafairhead.com/tags/proposal/</loc>
