@@ -11,7 +11,7 @@ tags = ["Exposition", "Mathematics", "Category Theory"]
 
 ### Reflection on Feedback
 
-Sharing my last post the critique was blunt: "nothing here that you can't find in an introductory book on Category Theory". True - and you would find a whole lot more! 
+Sharing my [last post](../cats_theory_1/) the critique was blunt: "nothing here that you can't find in an introductory book on Category Theory". True - and you would find a whole lot more! 
 
 The purpose was and is:
 1) learn in public
