@@ -11,35 +11,44 @@ tags = ["Exposition", "Mathematics", "Category Theory"]
 
 ### Reflection on Feedback
 
-Sharing my last post, the critique was blunt, "nothing here that you can't find in an introductory book on Category Theory" - which is probably true but having never read one, I couldn't tell you! 
+Sharing my last post the critique was blunt: "nothing here that you can't find in an introductory book on Category Theory". True - and you would find a whole lot more! 
 
-Two books I've been recommended for beginners requiring almost no background:
-1) Computational Category Theory 
-2) Category Theory for Programmers
+The purpose was and is:
+1) learn in public
+2) share where I'm at
+3) test my understanding
 
-The constructive element of the critique asked some questions; namely whats and object and morphism? How are they defined? Provide an example of these. What is a category, provide an example, how do you split categories into different types? So here is an attempt at answering:
+Two books were recommended requiring almost no background:
+1) [Computational Category Theory](https://www.cs.man.ac.uk/~david/categories/book/book.pdf)
+2) [Category Theory for Programmers](https://unglueit-files.s3.amazonaws.com/ebf/e90890f0a6ea420c9825657d6f3a851d.pdf)
+
+The constructive elements of the critique asked some questions; namely whats and object and morphism? How are they defined? Provide an example of these. What is a category, provide an example, how do you split categories into different types? So here is an attempt at answering:
 
 ### What is an Object?
 
-An object is a conceptual placeholder. You might consider it a point, which would indeed be an object but it's more general better thought of as an element in a space. In this example an element is an object in topological space.
+An object is a conceptual placeholder. You might consider it a point, which would indeed be an object but it's more general than that so better thought of as a conceptual element within a space. In this example the point in topological space is an object.
 
 ### What is a Morphism?
 
-A morphism is a conceptual mapping. You might consider it a line or arrow, which would indeed be a morphism again but it's probably better thought of as a mapping between objects. In this example a line would be a morphism in topological space.
+A morphism is a conceptual mapping. You might consider it a line or arrow, which would indeed be a morphism but technically they are more general than that, so probably better defined as a mapping between objects. In this example a line in topological space is a morphism.
 
 ### What is a Category?
 
-A category is a conceptual space. At this point, we run into difficulty relying on the topology analogy. If we were to keep going with that general path of abstraction we would say its a plane because that's the next topological level, but I'm pretty sure the theorists would start shouting about that. 
+A category is a conceptual space. At this point, we run into difficulty relying on the topology analogy. If we were to keep going with that general path of abstraction we would say its a plane because that's the next topological level, but I'm pretty sure the theorists would start shouting!
 
-Let's wrestle with this alligator. Based on the previous definition that a category requires identity, association and composition I'm going to go out on a limb and define it for now as a third order logic - I can hear the theorists shouting already! 
+Let's wrestle with this alligator:
 
-As far as I'm aware a category is a very abstract concept which means it generalises. A map is a generalisation of the territory. A menu is an abstraction of the meal. A category is an abstraction of a set of items with the named properties of identity, associativity and composition. It's not the set, its the tools that act as a visor. 
+Based on the previous definition that a category requires identity, association and composition I'm going to go out on a limb and describe a category as form of relational or third order logic. 
+
+A category is an abstract conceptual space with concrete instantiations; a map is an abstraction of the territory, A menu is an abstraction of the meal. A category is an abstraction of any structured grouping of objects and morphisms provided there is identity, associativity and composition. 
 
 ### A Topological Example
 
 In the example of topology the object has the identity of being a point, if we multiply a point by itself we get itself, so we have identity. A line connecting between two points is associativity; a mapping from one to another, so we have association. If we add a third point and another connection we can follow the connectives from the first point to third point, via the second A > B > C - but we could just as easily map from A > C; this is composition. The lingo here is that its said to 'commute'. Hence in by the definitions I've provided, a simple polygon or plane is a category. 
 
-This is probably not useful. Who cares if a plane is a category? I don't, but working through this example helps show that CT goes beyond true/false boolean logic and is more relational in its nature. So why is category theory important? Because it's a dynamic form of maths that makes it suitable for coming to understanding rather than just knowledge - at this point, according to Bennetts General Systematics, we can say that its a triadic symbolic language.
+This is probably not useful. Who cares if a plane is a category or not? I don't, but working through this example helps show that CT goes beyond true/false boolean logic and is probably more relational in its nature. 
+
+So why is category theory important? Because it's a dynamic form of maths that makes it suitable for coming to understandings rather than just knowledge - at this point, according to Bennetts General Systematics, we can say that its a triadic symbolic language.
 
 ### Types of Categories
 
