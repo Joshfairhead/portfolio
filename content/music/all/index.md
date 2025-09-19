@@ -3,7 +3,7 @@ authors = ["Josh"]
 title = "Special Mentions"
 description = "A variety of follow ups"
 [taxonomies]
-tags = ["All"]
+music_tags = ["All"]
 
 +++
 

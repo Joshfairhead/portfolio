@@ -1,6 +1,6 @@
 +++
 title = "Book Reviews"
-template = "article_list.html"
+template = "book_list.html"
 page_template = "article.html"
 +++
 

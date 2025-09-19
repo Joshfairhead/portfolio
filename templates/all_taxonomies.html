@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>All Tags</h1>
+
+<p>
+	<small>Browse all content by tags across different sections</small>
+</p>
+
+<!-- General Tags -->
+{% set_global tags_data = get_taxonomy(kind="tags") %}
+{% if tags_data %}
+<section>
+	<h2>General Tags</h2>
+	<ul class="tags">
+		{%- for tag in tags_data.items -%}
+			<li><a href="{{ get_taxonomy_url(kind='tags', name=tag.name, lang=lang) }}"><span class="tag">{{ tag.name }}</span><span class="count">{{ tag.pages | length }}</span></a></li>
+		{%- endfor -%}
+	</ul>
+</section>
+{% endif %}
+
+<!-- Music Tags -->
+{% set_global music_tags_data = get_taxonomy(kind="music_tags") %}
+{% if music_tags_data %}
+<section>
+	<h2>Music Tags</h2>
+	<ul class="tags">
+		{%- for tag in music_tags_data.items -%}
+			<li><a href="{{ get_taxonomy_url(kind='music_tags', name=tag.name, lang=lang) }}"><span class="tag">{{ tag.name }}</span><span class="count">{{ tag.pages | length }}</span></a></li>
+		{%- endfor -%}
+	</ul>
+</section>
+{% endif %}
+
+<!-- Book Tags -->
+{% set_global book_tags_data = get_taxonomy(kind="book_tags") %}
+{% if book_tags_data %}
+<section>
+	<h2>Book Tags</h2>
+	<ul class="tags">
+		{%- for tag in book_tags_data.items -%}
+			<li><a href="{{ get_taxonomy_url(kind='book_tags', name=tag.name, lang=lang) }}"><span class="tag">{{ tag.name }}</span><span class="count">{{ tag.pages | length }}</span></a></li>
+		{%- endfor -%}
+	</ul>
+</section>
+{% endif %}
+
+<style>
+section {
+	margin-bottom: 2rem;
+}
+
+section h2 {
+	margin-bottom: 1rem;
+	color: var(--accent-color);
+}
+</style>
+{% endblock content %}

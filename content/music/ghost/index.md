@@ -3,7 +3,7 @@ authors = ["Josh"]
 title = "Ghost"
 description = "The illigitimate Sweedish love child of Ozzy Ozbourne and ABBA"
 [taxonomies]
-tags = ["Artist"]
+music_tags = ["Artist"]
 
 +++
 

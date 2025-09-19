@@ -3,7 +3,7 @@ authors = ["Josh Fairhead"]
 title = "Energies; material, vital, cosmic"
 description = "A exposition of energies by John Bennett"
 [taxonomies]
-tags = ["Book"]
+book_tags = ["Book"]
 
 +++
 

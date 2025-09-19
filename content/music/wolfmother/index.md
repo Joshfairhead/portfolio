@@ -4,7 +4,7 @@ title = "Wolfmother"
 description = "Australian reinvention of the Brit rock classics, with a modern edge."
 
 [taxonomies]
-tags = ["All"]
+music_tags = ["Album"]
 
 +++
 

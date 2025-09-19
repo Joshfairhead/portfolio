@@ -4,7 +4,7 @@ title = "Caravan of Dreams"
 description = "A selection of Sufi teaching stories compiled by Idris Shah"
 draft = false
 [taxonomies]
-tags = ["Book"]
+book_tags = ["Book"]
 [extra]
 styles = ["book-covers.css"]
 +++
