@@ -9,7 +9,7 @@ music_tags = ["All"]
 
 ## Albums
 
-- **John Butler Trio**: [Grand National](https://youtube.com/playlist?list=OLAK5uy_l3TAPG3oRUQcndIghp7jmGo4EymgOwv_0&si=wJC43o4J5h1S0ML6) - Individual tracks available on YouTube
+- **John Butler Trio**: [Grand National](https://youtube.com/playlist?list=OLAK5uy_l3TAPG3oRUQcndIghp7jmGo4EymgOwv_0&si=wJC43o4J5h1S0ML6)
 - **Xavier Rudd**: [Solace](https://youtube.com/playlist?list=OLAK5uy_lnpxACcDCBaucqnA9LNFfqktfDfymNbJs&si=s9_qTvOyDqtpEZvr)
 - **Morcheeba**: [Big Calm](https://youtube.com/playlist?list=OLAK5uy_k9rb34mqmG7JEnqSqgzYgkuuqI_n78L1Y&si=_8GwTOaWIaBVWtou)
 - **Nightmares on Wax**: [Smokers Delight](https://youtube.com/playlist?list=OLAK5uy_mk8j7qnVWDfZ56brzALMUEKpIbnl1KUU8&si=lQf1ahlY4R4aG7OX)
