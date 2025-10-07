@@ -9,12 +9,13 @@ tags = ["Process Philosophy", "Whitehead", "Bennett", "Metaphysics", "Ecology"]
 
 +++
 
-The Whiteheadean atomism is different to other atomistic points of view. Listening to a lecture by Footnotes to Plato, he claims that Whitehead did not see the universe as not divided, instead it's relational where every actual occasion of experience from sub-atomic to stars and galaxies is a unity of physical and mental feelings.
+The Whiteheadean atomism is different to other atomistic points of view. Listening to a lecture by Matt Segall, he claims that Whitehead did not see the universe as not divided, instead it's relational where every actual occasion of experience from sub-atomic to stars and galaxies is a unity of physical and mental feelings.
 
 Metaphysically this is correct in the Bennett philosophy as well, whose writing references the Whitehead tradition many times. Having never read Whitehead I can't say how structured his work actually is, but I have read Bennett and know first hand that it's extremely structured though I struggle to recall the whole of the DU. What Matt is referring to as eventities running from atoms to galaxies is what Bennett would have called the "apokritikal levels of being".
 
 Here's an image:
-![[12LevelsOfBeing.png]]
+
+{{ image(url="12LevelsOfBeing.png", alt="Apokritikal levels of being", no_hover=true) }}
 
 This take on the universe being relational would be what JGB would see as triadic relation.
 
@@ -26,4 +27,6 @@ By this standard Matt makes the claim that the most fundamental science is ecolo
 
 Last comment on Matt's recording is that apparently in Whitehead's view, every fact is the realisation of some value; a relationship that is also foundational to moral philosophy discussed in Bennett's second book though I believe in the latter case realisation reconciles fact and value, so they mutually realise each other. My intention isn't to complain about Matt's semantics, it's hard to hold space for non-linear expressions in the linear flow and syntax of chronological time, but more to point out that it's just one of six aspects of a triadic relationship and that I assume that this was not all that Whitehead had to say on the matter because he was assumedly reasoning through ternary rather than binary logic.
 
-This leads to the deeper questions of living a process philosophy, and how we as living eventities transform through interactions with each other? Wisdom after all is enacted.
+This leads to the deeper questions of living a process philosophy, and how we as living eventities transform through interactions with each other? 
+
+Wisdom after all is enacted.
