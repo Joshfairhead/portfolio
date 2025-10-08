@@ -1,10 +1,10 @@
 +++
-date = 2025-01-20
+date = 2025-10-08
 authors = ["Josh Fairhead"]
 title = "Process Thought and Science 2025 (Session 1)"
-description = "Exploring Whiteheadean atomism, Bennett's apokritikal levels, and the relational nature of reality"
+description = "Exploring Whitehead from the familliar ground of Bennett"
 [taxonomies]
-tags = ["Process Philosophy", "Whitehead", "Bennett", "Metaphysics", "Ecology"]
+tags = ["Process Philosophy", "Whitehead", "Bennett"]
 [extra]
 
 +++
