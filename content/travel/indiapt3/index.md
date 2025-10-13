@@ -7,6 +7,7 @@ date = 2023-04-01
 tags = ["Travel"]
 
 [extra]
+banner = "art.jpg"
 styles = ["travel-gallery.css"]
 
 +++

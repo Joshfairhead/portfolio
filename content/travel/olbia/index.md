@@ -8,6 +8,7 @@ date = 2023-09-02
 tags = ["Travel"]
 
 [extra]
+banner = "grounds1.jpeg"
 styles = ["travel-gallery.css", "olbia-gallery.css"]
 scripts = ["travel-lightbox.js"]
 

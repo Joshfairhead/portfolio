@@ -8,6 +8,7 @@ date = 2023-08-24
 tags = ["Travel"]
 
 [extra]
+banner = "CCG.jpg"
 styles = ["travel-gallery.css", "austria-gallery.css"]
 scripts = ["travel-lightbox.js"]
 
