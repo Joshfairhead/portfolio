@@ -1,5 +1,5 @@
 +++
-date = 2025-01-19
+date = 2025-09-19
 authors = ["Josh Fairhead"]
 title = "Cats Theory Primer: Reasoning and Revisions"
 description = "Addressing critiques and diving deeper into the baics of category theory through examples and definitions"

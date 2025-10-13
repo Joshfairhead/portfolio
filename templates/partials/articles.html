@@ -59,17 +59,6 @@
 								<span> {{ config.extra.separator | default(value="•") }} {% include "partials/authors.html" -%}</span>
 							{%- endif -%}
 						</small>
-						{%- if page.taxonomies -%}
-							{%- for name, taxon in page.taxonomies %}
-								<small>
-									<ul class="tags">
-										{%-for item in taxon -%}
-											<li><a class="tag" href="{{ get_taxonomy_url(kind=name, name=item, lang=lang) }}">{{ item }}</a></li>
-										{%- endfor %}
-									</ul>
-								</small>
-							{%- endfor -%}
-						{%- endif %}
 					</div>
 				{%- endif -%}
 			</div>

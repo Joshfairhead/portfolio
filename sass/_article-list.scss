@@ -92,7 +92,7 @@
 
 		.tags {
 			position: relative;
-			justify-content: flex-start;
+			justify-content: flex-end;
 			z-index: 2;
 			margin: 0;
 
@@ -127,12 +127,21 @@
 		.details {
 			display: flex;
 			justify-content: space-between;
-			align-items: center;
-			flex-wrap: wrap;
-			gap: 0.5rem;
+			align-items: flex-start;
+			gap: 1rem;
 			margin-block-start: 0.75rem;
 			border-block-start: max(1px, 0.0625rem) solid var(--fg-muted-2);
 			padding-block-start: 0.75rem;
+
+			small:first-child {
+				flex-shrink: 0;
+			}
+
+			small:last-child {
+				display: flex;
+				justify-content: flex-end;
+				flex-shrink: 0;
+			}
 		}
 
 		&.draft,
