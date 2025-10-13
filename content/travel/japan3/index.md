@@ -8,6 +8,7 @@ date = 2023-04-19
 tags = ["Travel"]
 
 [extra]
+banner = "japan3.png"
 styles = ["travel-gallery.css"]
 scripts = ["travel-lightbox.js"]
 

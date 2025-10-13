@@ -7,6 +7,7 @@ date = 2023-04-04
 tags = ["Travel"]
 
 [extra]
+banner = "light.jpg"
 styles = ["travel-gallery.css"]
 scripts = ["travel-lightbox.js"]
 
