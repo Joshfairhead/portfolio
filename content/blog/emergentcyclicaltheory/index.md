@@ -1,5 +1,5 @@
 +++
-placement = 2
+date = 2024-01-01
 authors = ["Josh Fairhead"]
 title = "Emergent Cyclical Theory"
 description = "An exposition on the psychological theories of Clare Graves"
