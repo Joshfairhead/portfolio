@@ -1,5 +1,5 @@
 +++
-placement = 1
+date = 2024-01-01
 authors = ["Josh Fairhead"]
 title = "Semiotics in Brief"
 description = "An exposition on the work of Pierce"
