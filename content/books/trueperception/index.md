@@ -4,6 +4,8 @@ title = "True Perception"
 description = "A book on visual Dharma by Chögyam Trungpa"
 [taxonomies]
 book_tags = ["Book"]
+[extra]
+banner = "cover.jpg"
 
 +++
 

@@ -6,6 +6,7 @@ draft = false
 [taxonomies]
 book_tags = ["Book"]
 [extra]
+banner = "caravanofdreams.webp"
 styles = ["book-covers.css"]
 +++
 <div class="book-covers">
