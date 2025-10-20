@@ -6,6 +6,7 @@ description = "An accessible introduction to category theory from the perspectiv
 [taxonomies]
 tags = ["Exposition", "Mathematics", "Category Theory"]
 [extra]
+banner = "cats-in-space.jpg"
 
 +++
 

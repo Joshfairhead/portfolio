@@ -6,6 +6,7 @@ description = "Addressing critiques and diving deeper into the baics of category
 [taxonomies]
 tags = ["Exposition", "Mathematics", "Category Theory"]
 [extra]
+banner = "cats-in-space.jpg"
 
 +++
 
