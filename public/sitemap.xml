@@ -40,8 +40,24 @@
         <loc>https://joshafairhead.com/blog/</loc>
     </url>
     <url>
-        <loc>https://joshafairhead.com/blog/category-theory/</loc>
+        <loc>https://joshafairhead.com/blog/cats-theory-1/</loc>
         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/blog/cats-theory-2/</loc>
+        <lastmod>2025-01-19</lastmod>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/blog/emergentcyclicaltheory/</loc>
+        <lastmod>2024-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/blog/process-philosophy-1/</loc>
+        <lastmod>2025-10-08</lastmod>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/blog/semiotics/</loc>
+        <lastmod>2024-01-01</lastmod>
     </url>
     <url>
         <loc>https://joshafairhead.com/book-tags/</loc>
@@ -66,15 +82,6 @@
     </url>
     <url>
         <loc>https://joshafairhead.com/drafts/</loc>
-    </url>
-    <url>
-        <loc>https://joshafairhead.com/expositions/</loc>
-    </url>
-    <url>
-        <loc>https://joshafairhead.com/expositions/emergentcyclicaltheory/</loc>
-    </url>
-    <url>
-        <loc>https://joshafairhead.com/expositions/semiotics/</loc>
     </url>
     <url>
         <loc>https://joshafairhead.com/generativejourney/0-index/</loc>
@@ -243,6 +250,9 @@
         <loc>https://joshafairhead.com/tags/audio/</loc>
     </url>
     <url>
+        <loc>https://joshafairhead.com/tags/bennett/</loc>
+    </url>
+    <url>
         <loc>https://joshafairhead.com/tags/category-theory/</loc>
     </url>
     <url>
@@ -264,6 +274,9 @@
         <loc>https://joshafairhead.com/tags/mathematics/</loc>
     </url>
     <url>
+        <loc>https://joshafairhead.com/tags/process-philosophy/</loc>
+    </url>
+    <url>
         <loc>https://joshafairhead.com/tags/proposal/</loc>
     </url>
     <url>
@@ -274,6 +287,9 @@
     </url>
     <url>
         <loc>https://joshafairhead.com/tags/visual/</loc>
+    </url>
+    <url>
+        <loc>https://joshafairhead.com/tags/whitehead/</loc>
     </url>
     <url>
         <loc>https://joshafairhead.com/travel/</loc>

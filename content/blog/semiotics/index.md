@@ -6,12 +6,11 @@ description = "An exposition on the work of Pierce"
 [taxonomies]
 tags = ["Exposition"]
 [extra]
+banner = "symbols.jpg"
 toc = true
 toc_sidebar = true
 
 +++
-
-![alt text](Triads.jpg)
 
 # Introduction
 

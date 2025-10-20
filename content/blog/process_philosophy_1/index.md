@@ -6,6 +6,7 @@ description = "Exploring Whitehead from the familliar ground of Bennett"
 [taxonomies]
 tags = ["Process Philosophy", "Whitehead", "Bennett"]
 [extra]
+banner = "process-thought.jpg"
 
 +++
 
