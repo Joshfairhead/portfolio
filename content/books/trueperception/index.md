@@ -6,8 +6,11 @@ description = "A book on visual Dharma by Chögyam Trungpa"
 book_tags = ["Book"]
 [extra]
 banner = "cover.jpg"
+hero = false
 
 +++
+
+<img src="cover.jpg" alt="True Perception Cover" style="width: 300px; height: auto; pointer-events: none;" />
 
 True Perception was a book I was given for Christmas about Dharma art. Given the name you'd be forgiven for thinking its a book about art, though in many ways it is, more appropriately it's about the art of right living - with art as the vehicle. 
 
