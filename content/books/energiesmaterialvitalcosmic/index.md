@@ -6,10 +6,11 @@ description = "A exposition of energies by John Bennett"
 book_tags = ["Book"]
 [extra]
 banner = "cover.jpg"
+hero = false
 
 +++
 
-![Energies](12Energies.png)
+<img src="cover.jpg" alt="Energies: Material, Vital, Cosmic Cover" style="width: 300px; height: auto; pointer-events: none;" />
 
 How come at points in my life I'm crackling with as much energy a tesla coil, while at other periods it feels as though I've a rubber soul? What determines the quality, quantity and intensity of this phenomena? Can answers be harnessed towards human flourishing at personal, local and global levels? 
 
@@ -21,7 +22,9 @@ Essentially the book is a set of lectures about Bennett's twelve levels of energ
 
 What I mainly took from this book is a correction to my thinking process and some fresh inspiration for thinking about questions like "what is photosynthesis?" or "does free energy exist?". Here Bennett's descriptions of energetic levels and his systematic methodology for considering the relationships opens up a field of fresh insights, where in biology or the standard model of physics seems to get stuck. 
 
-Investigating material energies, we get some interesting relationships, and it may essentially be that Bennett outlines the keys to Teslas free energy as the crystalline cosmos. At the very least he seems to be waaay ahead of the curve detailing what appears to be extropic.ai's hardware acceleration. 
+Investigating material energies, we get some interesting relationships, and it may essentially be that Bennett outlines the keys to Teslas free energy as the crystalline cosmos. At the very least he seems to be waaay ahead of the curve detailing what appears to be extropic.ai's hardware acceleration.
+
+<img src="12Energies.png" alt="12 Energies" style="pointer-events: none;" />
 
 In this case the crystalline cosmos is composed of five energies; E12 dissipative, E11 directed, E10 cohesive, E9 tensile, E8 vital. The names are descriptive of their qualities, though can be substituted with other attributes, which help to further clarify their essence. 
 
