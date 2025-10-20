@@ -6,7 +6,7 @@ description = "An exposition on the psychological theories of Clare Graves"
 [taxonomies]
 tags = ["Exposition"]
 [extra]
-banner = "spiral.webp"
+banner = "spiral.jpg"
 toc = true
 toc_sidebar = true
 
