@@ -60,6 +60,15 @@
 			background: linear-gradient(135deg, var(--accent-color) 0%, var(--accent-color-dark, var(--accent-color)) 100%);
 		}
 
+		// Book covers have portrait dimensions
+		.article-thumbnail.book-cover {
+			width: 120px;
+			height: 180px;
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-color: var(--background-primary);
+		}
+
 		.article-content {
 			flex: 1;
 			display: flex;

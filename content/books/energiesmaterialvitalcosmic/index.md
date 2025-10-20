@@ -4,6 +4,8 @@ title = "Energies; material, vital, cosmic"
 description = "A exposition of energies by John Bennett"
 [taxonomies]
 book_tags = ["Book"]
+[extra]
+banner = "cover.jpg"
 
 +++
 
