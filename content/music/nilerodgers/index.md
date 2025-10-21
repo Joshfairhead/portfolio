@@ -4,8 +4,25 @@ title = "Nile Rodgers"
 description = "Triple platinum disco never died, it was always flowing like and through the Nile."
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "risque.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLPunBhufk07IAKw1a60mDa8pj6gPAsTBw&si=p0X8n3dv5ngSTJct" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="risque.jpg" alt="Risque" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Risque</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLSbDLF8wQ3oKcstd9ybCSv2lNm_8NTYkI&si=p-CHt2IbHd05__YT" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="random-access-memories.jpg" alt="Random Access Memories" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Random Access Memories</div>
+		</a>
+	</div>
+</div>
 
 Albums: [Risque](https://youtube.com/playlist?list=PLPunBhufk07IAKw1a60mDa8pj6gPAsTBw&si=p0X8n3dv5ngSTJct), [Random Access Memories](https://youtube.com/playlist?list=PLSbDLF8wQ3oKcstd9ybCSv2lNm_8NTYkI&si=p-CHt2IbHd05__YT),
 

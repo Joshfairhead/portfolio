@@ -4,8 +4,25 @@ title = "Sturgill Simpson"
 description = "Meta-modern blues, country and all sorts from a man that's lived in all sorts of ways."
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "a-sailors-guide-to-earth.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=OLAK5uy_k3p-XxvOyvpO2WddAs4wDiw_W3ydWjnXU&si=KZTyvWc9BdFufaj2" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="a-sailors-guide-to-earth.jpg" alt="Sailors Guide to Earth" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Sailors Guide to Earth</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLx4yYrpSLMPpKLD_guW7zJOnM4uk2i3l6&si=rqH_2EWDH4q9sNjt" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="sound-and-fury.png" alt="Sound and Fury" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Sound and Fury</div>
+		</a>
+	</div>
+</div>
 
 Albums: [Sailors Guide to Earth](https://youtube.com/playlist?list=OLAK5uy_k3p-XxvOyvpO2WddAs4wDiw_W3ydWjnXU&si=KZTyvWc9BdFufaj2), [Sound and Fury](https://youtube.com/playlist?list=PLx4yYrpSLMPpKLD_guW7zJOnM4uk2i3l6&si=rqH_2EWDH4q9sNjt)
 

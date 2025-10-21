@@ -4,8 +4,19 @@ title = "Avishi Cohen"
 description = "Organic landscapes channeled through a most competent contemporary trio."
 [taxonomies]
 music_tags = ["Album"]
-
+[extra]
+hero = false
+banner = "continuo.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLoxhDWWBCgefXsfrPmbktRpAmreYVgOGy&si=HvnSikRTuue3_zgg" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="continuo.jpg" alt="Continuo" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Continuo</div>
+		</a>
+	</div>
+</div>
 
 Album: [Continuo](https://youtube.com/playlist?list=PLoxhDWWBCgefXsfrPmbktRpAmreYVgOGy&si=HvnSikRTuue3_zgg)
 

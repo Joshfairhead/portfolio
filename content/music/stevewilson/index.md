@@ -4,8 +4,43 @@ title = "Steve Wilson"
 description = "Rightful heir to the prog rock throne, having remixed or remastered all the classics. "
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "in-absentia.png"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=OLAK5uy_kt96NtKezy_p8WZ3zpC3yz3M3Grt7k1cc&si=Y9nZaWaWfTn5XYql" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="fear-of-a-blank-planet.jpg" alt="Fear of a Blank Planet" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Fear of a Blank Planet</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLiN-7mukU_RHWauZcHg16XRwdpUxpURrY&si=OdTw9WdU1dWcYxaA" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="in-absentia.png" alt="In Absentia" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">In Absentia</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLiN-7mukU_RH3dujID9Vk1VQQuISEIGok&si=aKRbc7NGwUo6GN_e" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="deadwing.jpg" alt="Deadwing" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Deadwing</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLMzepslwWUzrVvnd9xpfmpjjHpcwxgS2X&si=5SMxCPTisQ9ewwIG" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="closure-continuation.jpg" alt="Closure/Continuation" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Closure/Continuation</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLiN-7mukU_RGryGMycSFeI6e9gJIMOYqE&si=zAlaShwNCwhMGcU0" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="the-harmony-codex.jpg" alt="The Harmony Codex" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">The Harmony Codex</div>
+		</a>
+	</div>
+</div>
 
 Albums: [Fear of a Blank Planet](https://youtube.com/playlist?list=OLAK5uy_kt96NtKezy_p8WZ3zpC3yz3M3Grt7k1cc&si=Y9nZaWaWfTn5XYql), [In Absentina](https://youtube.com/playlist?list=PLiN-7mukU_RHWauZcHg16XRwdpUxpURrY&si=OdTw9WdU1dWcYxaA), [Deadwing](https://youtube.com/playlist?list=PLiN-7mukU_RH3dujID9Vk1VQQuISEIGok&si=aKRbc7NGwUo6GN_e), [Closure/Continuation](https://youtube.com/playlist?list=PLMzepslwWUzrVvnd9xpfmpjjHpcwxgS2X&si=5SMxCPTisQ9ewwIG), [The Harmony Codex](https://youtube.com/playlist?list=PLiN-7mukU_RGryGMycSFeI6e9gJIMOYqE&si=zAlaShwNCwhMGcU0)
 

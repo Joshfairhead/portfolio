@@ -4,8 +4,37 @@ title = "Robert Fripp"
 description = "King Crimson's only consistent member, and grandfather of progressive rock."
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "in-the-court-of-the-crimson-king.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLXhfRoiJBIiuXOUv_7EJ1i7UKj0aGfy0U&si=oU8w4Fw7u8m2xfEZ" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="in-the-court-of-the-crimson-king.jpg" alt="In the Court of the Crimson King" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">In the Court of the Crimson King</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLXhfRoiJBIivF7WWLowP0hkPDypPtqInQ&si=TI_TuQilYOC7xXQ4" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="lizard.jpg" alt="Lizard" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Lizard</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLXhfRoiJBIislZ9MHBBNYK0h3N30Gv7Ja&si=yLs3qZNvq1C3uKWo" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="red.jpg" alt="Red" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Red</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=OLAK5uy_mV_JttmDVpduTKQWoJhKubqxUU7x0PVwA&si=fHqf31KN_BbH-jxk" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="the-power-to-believe.jpg" alt="The Power to Believe" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">The Power to Believe</div>
+		</a>
+	</div>
+</div>
 
 Albums: [In the Court of the Crimson King](https://youtube.com/playlist?list=PLXhfRoiJBIiuXOUv_7EJ1i7UKj0aGfy0U&si=oU8w4Fw7u8m2xfEZ), [Lizard](https://youtube.com/playlist?list=PLXhfRoiJBIivF7WWLowP0hkPDypPtqInQ&si=TI_TuQilYOC7xXQ4), [Red](https://youtube.com/playlist?list=PLXhfRoiJBIislZ9MHBBNYK0h3N30Gv7Ja&si=yLs3qZNvq1C3uKWo), [The Power to Believe](https://youtube.com/playlist?list=OLAK5uy_mV_JttmDVpduTKQWoJhKubqxUU7x0PVwA&si=fHqf31KN_BbH-jxk)
 
