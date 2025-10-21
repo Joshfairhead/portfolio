@@ -2,7 +2,7 @@
 date = 2025-10-08
 authors = ["Josh Fairhead"]
 title = "Process Thought and Science 2025 (Session 1)"
-description = "Exploring Whitehead from the familliar ground of Bennett"
+description = "How is Natural Science Possible?"
 [taxonomies]
 tags = ["Process Philosophy", "Whitehead", "Bennett"]
 [extra]
