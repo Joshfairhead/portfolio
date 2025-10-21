@@ -8,6 +8,7 @@ date = 2023-06-15
 tags = ["Travel"]
 
 [extra]
+banner = "solstice2023.png"
 styles = ["travel-gallery.css"]
 scripts = ["travel-lightbox.js"]
 

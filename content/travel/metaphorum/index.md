@@ -8,6 +8,7 @@ date = 2023-06-08
 tags = ["Travel"]
 
 [extra]
+banner = "elephant.jpg"
 styles = ["travel-gallery.css"]
 scripts = ["travel-lightbox.js"]
 

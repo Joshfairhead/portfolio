@@ -4,8 +4,25 @@ title = "Justice"
 description = "French electro disco pioneers, taking listeners on a literal space odyssey."
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "woman.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLH3lfNtPhUxjq0Uay1P5R9E6M2vUo4-Do&si=EFaQ2-_wG1AfsmM3" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="woman.jpg" alt="Woman" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Woman</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLH3lfNtPhUxiBreLLY42yo7gA_Ss37QlE&si=-s0tzwTF33nxqkIx" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="hyperdrama.jpg" alt="HYPERDRAMA" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">HYPERDRAMA</div>
+		</a>
+	</div>
+</div>
 
 Albums: [Woman](https://youtube.com/playlist?list=PLH3lfNtPhUxjq0Uay1P5R9E6M2vUo4-Do&si=EFaQ2-_wG1AfsmM3), [HYPERDRAMA](https://youtube.com/playlist?list=PLH3lfNtPhUxiBreLLY42yo7gA_Ss37QlE&si=-s0tzwTF33nxqkIx)
 

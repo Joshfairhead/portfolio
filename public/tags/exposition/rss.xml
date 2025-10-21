@@ -7,37 +7,127 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://joshafairhead.com/tags/exposition/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
       <item>
-          <title>Category Theory: A Primer for Non-Mathematicians</title>
-          <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+          <title>Cats Theory Primer: Reasoning and Revisions</title>
+          <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/category-theory/</link>
-          <guid>https://joshafairhead.com/blog/category-theory/</guid>
-          <description xml:base="https://joshafairhead.com/blog/category-theory/">&lt;blockquote&gt;
-&lt;p&gt;TL;DR: This article provides an approachable introduction to category theory for those with a tech background but without formal mathematical training. Category theory offers a powerful framework that unifies much of mathematics through the elegant abstractions of objects and morphisms.&lt;&#x2F;p&gt;
-&lt;&#x2F;blockquote&gt;
-&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h2&gt;
+          <link>https://joshafairhead.com/blog/cats-theory-2/</link>
+          <guid>https://joshafairhead.com/blog/cats-theory-2/</guid>
+          <description xml:base="https://joshafairhead.com/blog/cats-theory-2/">&lt;h3 id=&quot;reflection-on-feedback&quot;&gt;Reflection on Feedback&lt;&#x2F;h3&gt;
+&lt;p&gt;Sharing my &lt;a href=&quot;..&#x2F;cats_theory_1&#x2F;&quot;&gt;last post&lt;&#x2F;a&gt; the critique was blunt: “nothing here that you can’t find in an introductory book on Category Theory”. True - and you would probabaly find a whole lot more there too!&lt;&#x2F;p&gt;
+&lt;p&gt;The purpose was and is:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;learn in public&lt;&#x2F;li&gt;
+&lt;li&gt;share where I’m at&lt;&#x2F;li&gt;
+&lt;li&gt;test my understanding&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Two books were recommended requiring almost no background:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.cs.man.ac.uk&#x2F;~david&#x2F;categories&#x2F;book&#x2F;book.pdf&quot;&gt;Computational Category Theory&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;unglueit-files.s3.amazonaws.com&#x2F;ebf&#x2F;e90890f0a6ea420c9825657d6f3a851d.pdf&quot;&gt;Category Theory for Programmers&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The constructive elements of said critique asked some questions; namely whats and object and morphism? How are they defined? Provide an example of these. What is a category, provide an example, how do you split categories into different types? So here is another attempt at answering:&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;what-is-an-object&quot;&gt;What is an Object?&lt;&#x2F;h3&gt;
+&lt;p&gt;An object is a conceptual placeholder. You might consider it a point, which would indeed be an object but it’s more general than that so better thought of as a conceptual element within a space. In this example the point in topological space is an object.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;what-is-a-morphism&quot;&gt;What is a Morphism?&lt;&#x2F;h3&gt;
+&lt;p&gt;A morphism is a conceptual mapping. You might consider it a line or arrow, which would indeed be a morphism but technically they are more general than that, so probably better defined as a mapping between objects. In this example a line in topological space is a morphism.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;what-is-a-category&quot;&gt;What is a Category?&lt;&#x2F;h3&gt;
+&lt;p&gt;A category is a conceptual space. At this point, we run into difficulty relying on the topology analogy. If we were to keep going with that general path of abstraction we would say its a plane because that’s the next topological level, but I’m pretty sure the theorists would be horrified!&lt;&#x2F;p&gt;
+&lt;p&gt;Let’s wrestle with this alligator:&lt;&#x2F;p&gt;
+&lt;p&gt;Based on the previous definition a category requires identity, association and composition. I’m going to go out on a limb and describe a category as form of relational or third order logic.&lt;&#x2F;p&gt;
+&lt;p&gt;A category is an abstract conceptual space with concrete instantiations; a map is an abstraction of the territory, A menu is an abstraction of the meal. A category is an abstraction of any structured grouping of objects and morphisms provided there is identity, associativity and composition.&lt;&#x2F;p&gt;
+&lt;p&gt;We need to cover these three rules in order to define a category. Then our decision of whether something is a category or not is based on the morphisms we observe.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;identity&quot;&gt;Identity&lt;&#x2F;h4&gt;
+&lt;p&gt;Identity is a morphism from an object to itself that is essentially a non-operation because it returns no changes.&lt;&#x2F;p&gt;
+&lt;p&gt;In programming languages where there is a type system, what happens is that the morphism takes an object with a generic type and paramater, returning the same type and paramater. Just replace “type” with “object” or “class” in other languages.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;rust&quot; class=&quot;language-rust z-code&quot;&gt;&lt;code class=&quot;language-rust&quot; data-lang=&quot;rust&quot;&gt;&lt;span class=&quot;z-source z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-storage z-modifier z-rust&quot;&gt;pub&lt;&#x2F;span&gt; &lt;span class=&quot;z-storage z-type z-function z-rust&quot;&gt;fn&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-entity z-name z-function z-rust&quot;&gt;identity&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;T&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-variable z-parameter z-rust&quot;&gt;x&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;:&lt;&#x2F;span&gt; T&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt; &lt;span class=&quot;z-meta z-function z-return-type z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;-&amp;gt;&lt;&#x2F;span&gt; T&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;    x
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;This may sound practically useless but it’s not. Think of it as a neutral gear, you need it as a between state for changing gears. You don’t exactly drive in neutral but it allows you to flexibly chain sequences together into a desired result.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;composition&quot;&gt;Composition&lt;&#x2F;h3&gt;
+&lt;p&gt;Composition is the assembly of morphisms into a new morphism. If we have action A and action B, composition is about unifying both morphisms into action C. It is always a binary operation that turns two morphisms into one, but they compositions can be chained. Because of association these chains can be arbitrary length. The order DOES matter which is to say that:&lt;&#x2F;p&gt;
+&lt;pre class=&quot;z-code&quot;&gt;&lt;code&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;a ∘ b 
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;and&lt;&#x2F;p&gt;
+&lt;pre class=&quot;z-code&quot;&gt;&lt;code&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;b ∘ a
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;are not the same.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;association&quot;&gt;Association&lt;&#x2F;h4&gt;
+&lt;p&gt;Association is a property which means that in a series of operations, the grouping of objects DOES NOT matter, the operations do. Written like this:
+&lt;code&gt;(a ∘ b) ∘ c = a ∘ (b ∘ c)&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Taking a jar of coins for example, some operations will be associative and others will not be. If we take the above and fill in the formula with different values and operations we will get different results:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;Associative&quot; class=&quot;language-Associative z-code&quot;&gt;&lt;code class=&quot;language-Associative&quot; data-lang=&quot;Associative&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;Left grouping: (5 + 1) + 4 = 10 
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;Right grouping: 5 + (4 +1 ) = 10
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;Non-associative&quot; class=&quot;language-Non-associative z-code&quot;&gt;&lt;code class=&quot;language-Non-associative&quot; data-lang=&quot;Non-associative&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;Left grouping: (5 - 1) - 4 = 0
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;Right grouping: 5 - (1 - 4) = 8
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;lets-make-it-personal&quot;&gt;Lets make it personal&lt;&#x2F;h3&gt;
+&lt;p&gt;We have the object of ourself, and morphisms of our actions and interactions.&lt;&#x2F;p&gt;
+&lt;p&gt;An identity morphism is quite literally a relationship to self. But since it must be the unchanging self, it would indicate the neutral observer of some variety.&lt;&#x2F;p&gt;
+&lt;p&gt;Association would be when morphisms (actions and interactions) can be grouped without consequence:&lt;&#x2F;p&gt;
+&lt;pre class=&quot;z-code&quot;&gt;&lt;code&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;Left side: ((sleep ∘ brush teeth) ∘ eat breakfast)
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;First eat breakfast, then brush teeth, then sleep
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;Right side: (sleep ∘ (brush teeth ∘ eat breakfast))
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;First eat breakfast, then brush teeth, then sleep
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Lastly there’s composition. Lets take the above. The associative grouping doesn’t matter as we have seen but the ordering does; the result should always be sleeping with clean teeth after brekfast. Change the order and your teeth are no longer clean when you go to sleep!&lt;&#x2F;p&gt;
+&lt;p&gt;Thats it. I suppose thats the category of life.&lt;&#x2F;p&gt;
+&lt;p&gt;All this is not that useful, it may clarify some things but besides that you’re mind probably not blown. I mean who cares about this mundane stuff right? I dont.&lt;&#x2F;p&gt;
+&lt;p&gt;But perhaps if we do have a relationship with ourselves we can learn to navigate the world thats not just floating on the breeze as victims of hazard and uncertainty?&lt;&#x2F;p&gt;
+&lt;p&gt;Let’s put it another way; becoming the true self means understanding transformation at a deep level. Category theory and mathmatics gives us an annoyingly precise language for describing how to achieve that if we understand how memetic patters commute and such.&lt;&#x2F;p&gt;
+&lt;p&gt;How is it that I came to be how I am? and can I be otherwise? And if I can be otherwise, how may I choose the shapes and forms that I may become? Am I choosing or is inertia choosing? Can I break free of inertia, if so how?&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;free-categories-vs-non-free-categories&quot;&gt;Free categories vs non-free categories.&lt;&#x2F;h3&gt;
+&lt;p&gt;There are various classes of category but the fundemental polarity seems to be free and non-free, which is to say that there are abstract and concrete categories.&lt;&#x2F;p&gt;
+&lt;p&gt;A free category is a pure abstraction or ‘universal construction’ that has no rules or restrictions imposed on it other than whats necessitated by the axiomatic definitions of a category; those of identity, associativity and composition. A non-free category is one presented with additional constraints.&lt;&#x2F;p&gt;
+&lt;p&gt;Lets make that a little more lucid by giving an example.&lt;&#x2F;p&gt;
+&lt;p&gt;The category of a ‘free society’ would be a society that engages only through the basic rules of social connection without norm, laws or special relationships.&lt;&#x2F;p&gt;
+&lt;p&gt;For example:&lt;&#x2F;p&gt;
+&lt;pre class=&quot;z-code&quot;&gt;&lt;code&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;Alice --friends--&amp;gt; Bob --dating--&amp;gt; Carol
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Alice (identity: being herself)&lt;&#x2F;li&gt;
+&lt;li&gt;Bob (identity: being himself)&lt;&#x2F;li&gt;
+&lt;li&gt;Carol (identity: being herself)&lt;&#x2F;li&gt;
+&lt;li&gt;“Alice is friends with Bob”&lt;&#x2F;li&gt;
+&lt;li&gt;“Bob is dating Carol”&lt;&#x2F;li&gt;
+&lt;li&gt;“Alice knows Carol through Bob” (forced by social transitivity)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The category of a ‘non-free society’ adds rules such as you must be friends with your partners friends. So Alice not only knows Carol through Bob, but is forced to be her friend.&lt;&#x2F;p&gt;
+&lt;p&gt;Some other examples might be family relations or corporate hierarchies because they enforce extra rules; if A is parent of B and B is parent of C then A is grandparent of C.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;fin&quot;&gt;Fin&lt;&#x2F;h1&gt;
+</description>
+      </item>
+      <item>
+          <title>Cats Theory Primer: Ground Zero</title>
+          <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/blog/cats-theory-1/</link>
+          <guid>https://joshafairhead.com/blog/cats-theory-1/</guid>
+          <description xml:base="https://joshafairhead.com/blog/cats-theory-1/">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h3&gt;
 &lt;p&gt;Coming from a background in tech product development rather than pure mathematics or coding, I’ve recently begun exploring category theory. While I’m familiar with the work of J.G. Bennett and have been exposed to mathematical and programming concepts, I’m essentially starting from the ground up when it comes to formal category theory. This exposition shares what I’ve learned so far, presented in a way that hopefully makes these concepts accessible to others in similar positions.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;foundations-beyond-set-theory&quot;&gt;Foundations: Beyond Set Theory&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;foundations-beyond-set-theory&quot;&gt;Foundations: Beyond Set Theory&lt;&#x2F;h3&gt;
 &lt;p&gt;Traditional mathematics typically builds upon set theory as its foundation. However, category theory offers something different—and arguably more powerful. While sets and categories are fundamentally different constructs, category theory provides greater explanatory power and can integrate vast swaths of the mathematical landscape into a unified framework.&lt;&#x2F;p&gt;
 &lt;p&gt;Where set theory focuses on membership and elements, category theory emphasizes relationships and transformations. This shift in perspective proves remarkably fruitful for understanding mathematical structures and their interconnections.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;the-basic-building-blocks&quot;&gt;The Basic Building Blocks&lt;&#x2F;h2&gt;
-&lt;h3 id=&quot;objects-and-morphisms&quot;&gt;Objects and Morphisms&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;the-basic-building-blocks&quot;&gt;The Basic Building Blocks&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;objects-and-morphisms&quot;&gt;Objects and Morphisms&lt;&#x2F;h4&gt;
 &lt;p&gt;If you’re familiar with graph theory or network diagrams, you already understand the visual metaphor: nodes connected by edges. In category theory, these become:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Objects&lt;&#x2F;strong&gt;: The nodes or dots in our diagram (though they’re more abstract than just points)&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Morphisms&lt;&#x2F;strong&gt;: The arrows or edges that connect objects (also called arrows or maps)&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;A category consists of these objects and morphisms, bound together by three fundamental laws that ensure mathematical coherence.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;the-three-laws&quot;&gt;The Three Laws&lt;&#x2F;h3&gt;
-&lt;h4 id=&quot;1-identity&quot;&gt;1. Identity&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;the-three-laws&quot;&gt;The Three Laws&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;1-identity&quot;&gt;1. Identity&lt;&#x2F;h5&gt;
 &lt;p&gt;Every object must have an identity morphism—an arrow that loops back to itself. This self-referential morphism leaves the object unchanged, much like multiplying by 1 or adding 0 in arithmetic. Visually, this appears as a loop starting and ending at the same object.&lt;&#x2F;p&gt;
-&lt;h4 id=&quot;2-associativity&quot;&gt;2. Associativity&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;2-associativity&quot;&gt;2. Associativity&lt;&#x2F;h5&gt;
 &lt;p&gt;When we have multiple morphisms connecting objects, the order in which we group them doesn’t matter. If we have morphisms f, g, and h that can be composed, then (f ∘ g) ∘ h = f ∘ (g ∘ h). This property ensures consistency in how we navigate through our categorical structures.&lt;&#x2F;p&gt;
-&lt;h4 id=&quot;3-composition&quot;&gt;3. Composition&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;3-composition&quot;&gt;3. Composition&lt;&#x2F;h5&gt;
 &lt;p&gt;Perhaps the most powerful law: whenever we have a path from object A to B, and another from B to C, there must exist a direct morphism from A to C that represents their composition. We say this diagram “commutes”—meaning all paths between the same endpoints are equivalent. This creates a rich network of relationships where indirect connections imply direct ones.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;types-of-morphisms&quot;&gt;Types of Morphisms&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;types-of-morphisms&quot;&gt;Types of Morphisms&lt;&#x2F;h3&gt;
 &lt;p&gt;Morphisms come in various flavors, each capturing different mathematical relationships:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Monomorphism&lt;&#x2F;strong&gt;: Injective or “one-to-one” morphisms that preserve distinctness (constructive in nature)&lt;&#x2F;li&gt;
@@ -45,8 +135,8 @@
 &lt;li&gt;&lt;strong&gt;Isomorphism&lt;&#x2F;strong&gt;: Morphisms with perfect two-way correspondence—essentially saying two objects are “the same” from the category’s perspective&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;Homomorphism&lt;&#x2F;strong&gt;: Structure-preserving transformations that maintain the essential properties while mapping between objects&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;higher-order-structures&quot;&gt;Higher-Order Structures&lt;&#x2F;h2&gt;
-&lt;h3 id=&quot;functors-morphisms-between-categories&quot;&gt;Functors: Morphisms Between Categories&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;higher-order-structures&quot;&gt;Higher-Order Structures&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;functors-morphisms-between-categories&quot;&gt;Functors: Morphisms Between Categories&lt;&#x2F;h4&gt;
 &lt;p&gt;Just as morphisms connect objects within a category, functors connect entire categories to each other. A functor maps:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;Objects in one category to objects in another&lt;&#x2F;li&gt;
@@ -54,7 +144,7 @@
 &lt;li&gt;While preserving the categorical structure (identity and composition)&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;This creates a second-order pattern where categories themselves become objects in a higher-level view, connected by functors as their morphisms.&lt;&#x2F;p&gt;
-&lt;h3 id=&quot;the-hierarchy-continues&quot;&gt;The Hierarchy Continues&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;the-hierarchy-continues&quot;&gt;The Hierarchy Continues&lt;&#x2F;h4&gt;
 &lt;p&gt;This pattern of abstraction continues indefinitely in higher category theory:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;2-categories&lt;&#x2F;strong&gt;: Categories where morphisms between morphisms (called 2-morphisms) exist&lt;&#x2F;li&gt;
@@ -62,7 +152,7 @@
 &lt;li&gt;&lt;strong&gt;n-categories&lt;&#x2F;strong&gt;: The pattern continues to arbitrary levels of abstraction&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;Each level maintains the same fundamental pattern of objects and arrows, creating a fractal-like structure of mathematical relationships.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;further-exploration&quot;&gt;Further Exploration&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;further-exploration&quot;&gt;Further Exploration&lt;&#x2F;h3&gt;
 &lt;p&gt;This primer barely scratches the surface. Key topics for deeper investigation include:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;Natural transformations&lt;&#x2F;li&gt;
@@ -70,6 +160,281 @@
 &lt;li&gt;Topos theory&lt;&#x2F;li&gt;
 &lt;li&gt;Monoidal categories&lt;&#x2F;li&gt;
 &lt;li&gt;Applied category theory&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Semiotics in Brief</title>
+          <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/blog/semiotics/</link>
+          <guid>https://joshafairhead.com/blog/semiotics/</guid>
+          <description xml:base="https://joshafairhead.com/blog/semiotics/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
+&lt;p&gt;Semiotics is essentially the study of significance, or as it is often put the study of signs, signifiers and the signified. While no expert on Peirce, the patterns of his thinking seem to be foundational thinking within Bennetts theories on the qualitative significance of number, or Hodgsons Qualsystems&#x2F;Qualitative Systems Thinking. Personally speaking, this is what makes Peirce’s work interesting for me.&lt;&#x2F;p&gt;
+&lt;p&gt;Peirce defines semiosis as the action of signs; which can be thought of as the dynamic correlation between objects, signs and interpretants. In this case objects are a form of presentation, signs are a form of re-presentation, and interpretants are the inferential communicative meanings.&lt;&#x2F;p&gt;
+&lt;p&gt;Peirce articulates a form of ternary logic based on categories are called 1stness, 2ndness and 3rdness. To my reasoning equate to schemas like Gurdjieffs active, passive, reconciling or Bennetts function, being, will or Landrys immanant, omniscient, transcendental. These are essentially qualities that can be found in everything, though Peirce starts from his own entry point and attributes his own specific meanings to these descriptions.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;categories&quot;&gt;Categories&lt;&#x2F;h1&gt;
+&lt;p&gt;The first category, 1stness, is analogous to Bennetts function; an essentially pure quality that exists without relationship and is separate from any object. The Greeks probably would have called this an ‘accident’, or a ‘property’ of something with the possibility of embodiment like colours of feelings. Monism.&lt;&#x2F;p&gt;
+&lt;p&gt;2ndness then appears to be a form of dyadic being in relation to another; subject and object, cause and effect, action and reaction, dependence and independence, here and now, force and resistance, essential and existential, first and last, nihilism and eternalism, nominalism and positivism, etc. Relation here seems to be defined largely through opposition.&lt;&#x2F;p&gt;
+&lt;p&gt;3rdness then appears to be a continuum between things, mediation and regulation of patterns which enable us to gain information and learn about the state of affairs. Bennett would probably attribute dynamism and reconciliation as properties belonging to this category, as would seem proper, and this seems implicit in Peirce.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;correlates&quot;&gt;Correlates&lt;&#x2F;h1&gt;
+&lt;p&gt;Based on these three categories Peirce establishes three classes; presentation, representation and interpretation:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first class is the sign itself, regardless of what the object is represents or the effect it produces. What can be said about the sign or object directly? What’s it’s tone, token or type?&lt;&#x2F;li&gt;
+&lt;li&gt;The second class is about how the sign represents an object regardless of effect. How does the sign stand for or denote a related object? Is it an icon, index or symbol?&lt;&#x2F;li&gt;
+&lt;li&gt;The third class describes the communicative effects such as emotions, actions or thoughts. How does the sign represent its object to the interpreter? Is it a term, proposition or argument?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;nine-genuine-types-of-sign&quot;&gt;Nine Genuine Types of Sign&lt;&#x2F;h1&gt;
+&lt;p&gt;Crossing correlates and categories and we get the ‘nine genuine types of sign’&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;Correlate 1 (+)&lt;&#x2F;th&gt;&lt;th&gt;Correlate 2 (-)&lt;&#x2F;th&gt;&lt;th&gt;Correlate 3 (=)&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;1stness (+)&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Qualisign&lt;&#x2F;td&gt;&lt;td&gt;Icon&lt;&#x2F;td&gt;&lt;td&gt;Rhema&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;2ndness (-)&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Sinsign&lt;&#x2F;td&gt;&lt;td&gt;Index&lt;&#x2F;td&gt;&lt;td&gt;Decisign&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;3rdness (=)&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;Legisign&lt;&#x2F;td&gt;&lt;td&gt;Symbol&lt;&#x2F;td&gt;&lt;td&gt;Argument&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;At this point the terms within each column needs a little explaining so let’s dig in.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Qualisign&lt;&#x2F;strong&gt; refers to a qualitative sign that is as pure as pure potential can be, meaning that it’s a completely abstract &lt;strong&gt;tone&lt;&#x2F;strong&gt;. Found for instance as a pure colour or timbre.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Sinsign&lt;&#x2F;strong&gt; refers to an impulse that exists and imposes into the world here and now seperated from reason - this is otherwise referred to as a &lt;strong&gt;token&lt;&#x2F;strong&gt;. For example the sound of thunder or a note.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Legisign&lt;&#x2F;strong&gt; then refers to a &lt;strong&gt;type&lt;&#x2F;strong&gt; of law, rule or convention that is general or universal in nature. Examples that come to mind are chord constructions like major sevenths, which then regulate and determine the particular notes, or alternativly a mathmatical formula that governs a set of variables.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Icons&lt;&#x2F;strong&gt; are signs based on similarities or resemblances, in other words they are forms of mimicry that in a pure form would have no marked differences. One can take art as an example, where an illustration would represent the life model.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Indexes&lt;&#x2F;strong&gt; then are signs based on material or causal connections, the key words being matces or fit; for instance finger prints represent the lines on your hand. You could also say that measurements like weight or tempreture are indexes too.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Symbols&lt;&#x2F;strong&gt; then are signs where the relation to an object is based on habbitual conventions, an example of which might be the emergency exit where icons are used to explain an idea in reference to a physical index (the door below it). These have been called idons in other languages and domains.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Rhema&lt;&#x2F;strong&gt; is an ephemearal qualitity with the possibility of interpretation such as a sensation or feeling. As it’s of a subjective nature that can neither be affirmed or denied, rhema conveys no factual information. Logically rhema can be concieved of as a proposition without a subject; “___ is a state”.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;A dicisign&lt;&#x2F;strong&gt; as the concrete instance then claims factual information about the world. It can be considered the result of an inductive proposition, where a hypothesis is tested through experiment. For example “42 is the meaning of life, existence and everything” represents a claim which upon interpretation can be affirmed or denied.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;An argument&lt;&#x2F;strong&gt; then poses a conclusion to the union of many propositions as a necessary answer which produces an ordered and lawful effect. Such sequenced propositions guide us toward a conclusion with purpose. Formal logic like syllogism, guiding principles or meta structures can be considered arguments.
+Ten Genuine Signs&lt;&#x2F;p&gt;
+&lt;p&gt;At this point it’s very tempting to draw an enneagram with the above categories and correlates, which would probably be structured 1-9 around the edges of a circle in the order of writing; and most likely the inner hexagram would reveal some interesting information about the linkages (such an assertion boarders on dicisign).&lt;&#x2F;p&gt;
+&lt;p&gt;However, Peirce did something else that was quite interesting, he derrived ten triadic configurations by combining categories and correlates based on as simple rule of allowing movements of only sideways or up; these, he called the ‘ten genuine signs’. If your serious about this material, and my description of this method doesn’t make sense to you, you can reverse engineer the process by comaring the triads and formalisms with the nine types above while looking for patterns.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Formalism&lt;&#x2F;th&gt;&lt;th&gt;Triad of terms&lt;&#x2F;th&gt;&lt;th&gt;Description&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;111&lt;&#x2F;td&gt;&lt;td&gt;Qualisign, Icon, Rhema&lt;&#x2F;td&gt;&lt;td&gt;A sign of possibility is precieved to be, similar to a possible object, producing a possible emotional effect&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;211&lt;&#x2F;td&gt;&lt;td&gt;Sinsign, Icon, Rhema&lt;&#x2F;td&gt;&lt;td&gt;An individual sign is considered to be, connected to an existent object, producing a possible emotional effect&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;221&lt;&#x2F;td&gt;&lt;td&gt;Sinsign, Index, Rhema&lt;&#x2F;td&gt;&lt;td&gt;An individual sign is considered to be, similar to an existent object, producing a possible emotional effect&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;222&lt;&#x2F;td&gt;&lt;td&gt;Sinsign, Index, Deicsign&lt;&#x2F;td&gt;&lt;td&gt;An individual sign is considered to be, similar to an existent object, producing an actual energetic effect&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;311&lt;&#x2F;td&gt;&lt;td&gt;Legisign, Icon, Rhema&lt;&#x2F;td&gt;&lt;td&gt;A habitual sign represents, the qualities of its object, producing a possible emotional effect&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;321&lt;&#x2F;td&gt;&lt;td&gt;Legisign, Index, Rhema&lt;&#x2F;td&gt;&lt;td&gt;A habitual sign represents, by being existentially connected to it, producing a possible emotional effect&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;322&lt;&#x2F;td&gt;&lt;td&gt;Legisign, Index, Decisign&lt;&#x2F;td&gt;&lt;td&gt;A habitual sign represents, by being existentially connected to it, producing an actual energetic effect&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;331&lt;&#x2F;td&gt;&lt;td&gt;Legisign, Symbol, Rhema&lt;&#x2F;td&gt;&lt;td&gt;A habitual sign represents, its object by a habbit producing, a possible emotional interpretation&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;332&lt;&#x2F;td&gt;&lt;td&gt;Legisign, Symbol, Dicisign&lt;&#x2F;td&gt;&lt;td&gt;A habitual sign represents, its object by a habbit producing, an actual energetic interpretation&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;333&lt;&#x2F;td&gt;&lt;td&gt;Legisign, Symbol, Argument&lt;&#x2F;td&gt;&lt;td&gt;A habitual sign represents, its object by a habbit producing, a general logical interpretation&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;That’s the baisics of the theory in a nutshell, though Peirce talked of many other interesting things that are worth learning about of which I’ve barely scratched the surface of myself. For example, he considered Philosophy to be constructed from phenomenology, normative science and metaphysics. Double clicking on normative science, he considered this to be constructed of ethics (action), aesthetics (feeling) and logic (thought).&lt;&#x2F;p&gt;
+&lt;p&gt;If your into qualitive systems thinking and cognitive semantics, Peirce is a pretty interesting writer to steep in for a while. Although he argues that terniary logic is both necessary and sufficient for proper reasoning as everything higher order systems are made of binar or ternary pairings, he still takes his investigations to further depths by varying combinations (e.g. his 6 universal predicments) and tracing paths (10 genuine signs).&lt;&#x2F;p&gt;
+&lt;p&gt;In my view he could go further unfolding the qualitive significance of number but unearthed and articulated some important foundations none the less, and for that we owe him a debt of grattitude. Great stuff.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Emergent Cyclical Theory</title>
+          <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/blog/emergentcyclicaltheory/</link>
+          <guid>https://joshafairhead.com/blog/emergentcyclicaltheory/</guid>
+          <description xml:base="https://joshafairhead.com/blog/emergentcyclicaltheory/">&lt;blockquote&gt;
+&lt;p&gt;TL;DR: This article covers a systemic conception of psychology articulated by Clare Graves. The first principals he surfaced are foundational to a number of related theories like spiral dynamics and integrates many others. If your interested in the field you should probably start here before looking at other work as its one of the more robust and reliable.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
+&lt;p&gt;This article basically acts as an exposition to highlight my investigations into the work of Clare Graves, a New York psychology professor who brought the world an evidence based meta-model known as Emergent Cyclical Theory.&lt;&#x2F;p&gt;
+&lt;p&gt;His work is salient to me due to its broad utility and explanatory power that’s capable of integrating a plethora of existing theories as well as clarifying a lot of confusion around various existential questions; in a nutshell it’s a great lens to lean on when making sense of the world!&lt;&#x2F;p&gt;
+&lt;p&gt;For many of us society can seem rife with fragmentation and contradictory views due to our heterogeneous and pluralistic nature. Gazing through this kaleidoscope of world views it’s hard not to get lost in the fractal and such chaorder can feel extremely unpredictable, arbitrary and uncertain at times.&lt;&#x2F;p&gt;
+&lt;p&gt;This artefact thus originates from a personal desire to discern order from chaos. Are there constants in the complexity of values that drive human behaviour? my own conjecture here is basically yes but that discussion is out of scope. For now we are going to look at vertical integration and skip out on the horizontal axis.&lt;&#x2F;p&gt;
+&lt;p&gt;Graves’ work is grounded in inquiry rather than hypothesis and highlights the importance of an unfolding evolutionary process rather than the static models and prescriptions often found in other psychological literature. Many of these theories do indeed contain grains of truth but let us momentarily pause here to note that there many castles made out of sand. There is no one ring to rule them all.&lt;&#x2F;p&gt;
+&lt;p&gt;I’ll endeavour not to mislead you but please note that I’m what you might call an epistemic trespasser in the waters of psychology so please engage your critical faculties and do your best to remember that “the map is not the territory!”&lt;&#x2F;p&gt;
+&lt;p&gt;Firstly, I’m gonna prime you with some asides on the theory and then lead you through it’s history and background. After that, I’ll get down and dirty with the framework and detail some of the research Graves explicated. Then we’ll discuss the underlying process which drives the model and I’ll add some reflections regarding its significance and potential use. Last, I’ll add some of my own experiences and some commentary before concluding the essay. Enjoy!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;an-essential-open-inquiry&quot;&gt;An Essential Open Inquiry&lt;&#x2F;h1&gt;
+&lt;p&gt;EMT came perilously close to remaining a buried treasure when Graves witnessed his friend and colleague Abraham Maslow unceremoniously “torn to pieces” by colleagues at an APA seminar in the mid 1950’s. He subsequently vowed to never put himself into a similar situation until he could adequately defend his own position; a rather difficult task that ultimately led him to obscurity rather than fame. Credit to him, he was rigorous and did the work.&lt;&#x2F;p&gt;
+&lt;p&gt;Much of this work was later abandoned out of frustration and the book he was working on remained unpublished until after his death. Only later was it posthumously pieced back together again by peers and archivists digging through his remaining articles, transcripts and seminars.&lt;&#x2F;p&gt;
+&lt;p&gt;For me, one of the most salient parts of this theory is that it considers the human condition as open-ended with no final state of enlightenment, self-actualization or nirvana. These states may indeed exist but the evidence seems to favour an endless search for order in a chaotic universe without an ultimate finality.&lt;&#x2F;p&gt;
+&lt;p&gt;Eventually the more famous Abraham Maslow embraced Graves’ open-ended view despite many common interpretations of his work:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You should know that Maslow came around to my point of view. If you look at his later writings you will see that he accepted both the cyclic idea that there is more than one kind of expressive system and more than one kind of belonging system, and the system is open ended. We finally, after fighting this over for eight years, came to a fundamental agreement along that line. - Graves (Lee, 2002,  p. 52)&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;The essence of Graves’ work is that humans develop new bio-psycho-social coping mechanisms to deal with existential problems, and these emergent coping mechanisms arise in response to an increasingly complex environment. As the tide of human progress rises exponentially, it may be that we’ll begin to encounter more so called Buddhas about. Or face existential ruin…&lt;&#x2F;p&gt;
+&lt;p&gt;⚠️ For those who have already done a degree of reading around Spiral Dynamics, or Ken Wilbur etc, please do your best NOT to draw comparisons just yet. These works are all indeed very similar and also related but I’m deliberately avoiding discussion on these authors because they draw FROM this foundational work and conflating them may lead to confusion ⚠️&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;history&quot;&gt;History&lt;&#x2F;h1&gt;
+&lt;p&gt;In the early 1950’s Graves held a position as a psychology professor at Union College NY where a student of his posited the following question: from all the competing psychological theorists, whose model was ultimately correct?&lt;&#x2F;p&gt;
+&lt;p&gt;With no immediate answer to hand, and a monkey on his back, Graves could only start collecting the data required to find out!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;He began with the following lines of inquiry:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Can one provide evidence that conflict and contradiction, confusion and controversy are represented in conceptions of psychological health?&lt;&#x2F;li&gt;
+&lt;li&gt;What are the conceptions of psychological health existing in the minds of biologically mature human beings?&lt;&#x2F;li&gt;
+&lt;li&gt;Do the concepts which exist suggest that psychological health should be viewed:
+&lt;ul&gt;
+&lt;li&gt;(a) as a state or condition, or&lt;&#x2F;li&gt;
+&lt;li&gt;(b) as a psychological process?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;What is the essential nature of psychological health if it is a state or condition?&lt;&#x2F;li&gt;
+&lt;li&gt;What is the nature of the process of psychological health if the basic research indicates that it should be viewed thus?&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;&lt;strong&gt;These drivers were then further expanded into research questions in order to generate relevant data:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;How do biologically mature human beings conceive of ‘what is the healthy personality’?&lt;&#x2F;li&gt;
+&lt;li&gt;Do biologically mature humans have, basically, one major identifiable conception of what the psychologically healthy adult is?&lt;&#x2F;li&gt;
+&lt;li&gt;Do biologically mature humans have more than one conception of what a healthy personality is?&lt;&#x2F;li&gt;
+&lt;li&gt;If adults have several conceptions of healthy personality, are the conceptions classifiable into groups of similar conceptions?&lt;&#x2F;li&gt;
+&lt;li&gt;If the various conceptions are classifiable, how can they be classified?&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;(a) by content?&lt;&#x2F;li&gt;
+&lt;li&gt;(b) structurally?&lt;&#x2F;li&gt;
+&lt;li&gt;(c) functionally?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Will there be evidence that a singular conception of healthy personality stands out as superior to other conceptions?&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;&lt;strong&gt;The primary issue surmised:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;What will be the nature and character of conceptions of psychological health of biologically mature human beings who are intelligent, but relatively unsophisticated in psychological knowledge in general, and in personality theory in particular?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;With these formulations, Graves set out to conduct his research which unfolded in approximately four phases: Data Collection, Classification, Observation and Interpretation.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;phase-1-primary-data-collection&quot;&gt;Phase 1: Primary Data Collection&lt;&#x2F;h2&gt;
+&lt;p&gt;At the beginning of Graves’ investigation he was working in three schools (note three levels of recursion); one all male, another all female and the last was a mixed adult extension division. Over the course of his research he studied a relatively diverse group of about 1,065 subjects aged 18-61.&lt;&#x2F;p&gt;
+&lt;p&gt;He needed ‘representative’ subjects for the purposes of his study; which he found in his relatively unsophisticated first year students that were enrolled on his “Theory of Normal Psychology” program. The classroom became a laboratory where he taught in ‘novel’ ways to accommodate his study while applying his methodology to eight sets of students, eight seperate times in order to generate his primary data set.&lt;&#x2F;p&gt;
+&lt;p&gt;Upon starting his lectures, he told his students not to read a single thing on psychology for the first five classes. The time was to be spent discussing what one might put into a conception of healthy personality and a personal conception was to be presented in a paper at the end of the first five weeks.&lt;&#x2F;p&gt;
+&lt;p&gt;In the second set of five weeks, students were split into random groups and instructed to present their personal conceptions to peers and receive criticism. Graves observed their reactions and behaviours as their peers “went after them” with critique of their espoused conception.&lt;&#x2F;p&gt;
+&lt;p&gt;At the end of the second interval of five weeks, students were asked to write up a defence or modification of their existing conception. This gave Graves a chance to observe if and how conceptions changed under peer influence.&lt;&#x2F;p&gt;
+&lt;p&gt;In a third and final interval of five weeks, the class studied a variety of authorities and again turned in a modification of their original hypotheses. Graves then sat with randomly selected students to interview them about the process itself; how might their conceptions have changed and what were the factors that influenced them in changing their minds?&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;This data set produced:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;A large set of beliefs around the conception of a healthy psychology.&lt;&#x2F;li&gt;
+&lt;li&gt;Reactions to the criticism of espoused beliefs, evidenced in observation and through paper defence and&#x2F;or modification.&lt;&#x2F;li&gt;
+&lt;li&gt;Relation to confrontation with authority as evidenced through paper defence or modification.&lt;&#x2F;li&gt;
+&lt;li&gt;Interview data on the process of the primary experience.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;&lt;strong&gt;Through this study, a second set of research questions opened up:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;What will happen to a person’s characterization of mature human behaviour when s&#x2F;he is confronted with the criticism of his&#x2F;her point of view by peers who have also developed their own conception of psychologically mature behaviour?&lt;&#x2F;li&gt;
+&lt;li&gt;What will happen to a person’s conception of mature human behaviour when confronted with the task of comparing and contrasting his&#x2F;her conception of psychologically mature human personality to those conceptions which have been developed by authorities in the field?&lt;&#x2F;li&gt;
+&lt;li&gt;How will the subjects behave under peer criticism?&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;phase-2-classification&quot;&gt;Phase 2: Classification&lt;&#x2F;h2&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;Note&lt;&#x2F;strong&gt;: Graves later reversed his lettering format; the first letter is for conditions, second for neurology ⚠️&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Discernment and Differentiation&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Year after year an external panel of judges were instructed to classify the data into categories. This process was then blindly repeated by a second panel of judges - as per good science.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;The data points repeatedly collapsed into two primary categories:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Express self; primarily motivated by internal forces.&lt;&#x2F;li&gt;
+&lt;li&gt;Deny self; predominantly driven by external forces.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;As these two categories emerged each year (unknown to the panel) the research turned into a process of accumulation. Over 8 years, sub-categories also began to emerge in about 60% of the data. This data was later augmented and interpreted through further research in phase four of Graves’ inquiry.&lt;&#x2F;p&gt;
+&lt;p&gt;The primary categories, the labels of which will be expanded on later, and the basic traits of the participants’ conceptions are as follows:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Deny self:&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;a) sacrificially - Aka [BO].&lt;&#x2F;li&gt;
+&lt;li&gt;b) for deferred reward - Aka [DQ].&lt;&#x2F;li&gt;
+&lt;li&gt;c) for acceptance now - Aka [FS].&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Express self:&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;a) as self desires in a calculating fashion, at the expense of others - Aka [ER].&lt;&#x2F;li&gt;
+&lt;li&gt;b) as self desires but not at the expense of others - Aka [GT].&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;phase-3-observation-of-interactions&quot;&gt;Phase 3: Observation of Interactions&lt;&#x2F;h2&gt;
+&lt;p&gt;With formalised classifications, Graves was now able to study his accumulated data and observations in depth. This was probably the most interesting phase of his study as it would reveal a good deal of information about how different conceptions tend to interact in the social field. It’s also where the situation began to turn into a somewhat more complex puzzle!&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first task was to study the formalised conceptions in relation to peer criticism as evaluated through a defence&#x2F;modification of the conceptions espoused by a given subject - whether and how peer criticism influenced a subjects conception and the interaction patterns at play with peers in this process.&lt;&#x2F;li&gt;
+&lt;li&gt;The second task was to study the formalised conceptions in relation to authoritative criticism as evaluated through a defence&#x2F;modification of a subjects articulated conceptions - whether and how authoritative criticism influenced a subjects conception and the interaction patterns at play with authority in this process.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;By diving into these fundemental interaction patterns the models of each conception were significantly enriched aiding the ongoing discernment process outlined in phase 2; why did it seem that there were such radical differences in the same “primary conceptions”?&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;As a quick revision, the similarities in the primary conceptions were:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sacrificial conceptions were responsive to external conditions. They saw denial of self and degrees of conformity as the answer to their existential conditions.&lt;&#x2F;li&gt;
+&lt;li&gt;Expressive conceptions were NOT responsive to external conditions. They saw self expression as a means to overcome their existential conditions but would move into deny-self modalities when “central change” (movement to other modalities) occurred.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The subject of importance here was the difference between subjects occupying similar conceptions, particularly for enumerating and enhancing resolution on the subcategories. These findings are summarised below.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Differences between sacrificial conceptions:&lt;&#x2F;strong&gt;
+Some of the deny-self conceptions were dissimilar in relation to their effective change force. Certain subjects (the [DQ] conception) would respond only to an accepted higher authority and NOT their peers, remaining rigid and otherwise defending their initial conceptions to the last. Others however (the [FS] conception) would respond only to peer authority and NOT a perceived higher power. The two classifications were also quite dissimilar in terms of their perceived behavioural freedoms.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Differences between expressive conceptions:&lt;&#x2F;strong&gt;
+The express-self conceptions were also quite different in terms of effective change forces. A number of subjects (the [ER] conceptions) would change only through self procured sources, while others (the [GT] conceptions) seemed to respond regardless of where a thought or information originated from.&lt;&#x2F;p&gt;
+&lt;p&gt;These conceptions were also dissimilar in terms of perceived behavioural freedoms. Certain subjects (the [ER] conceptions) “always expressed themselves as if tethers were on them, always tying them down”, while others (the [GT] conception) didn’t feel bound to anything much at all - especially the goals of others. These subjects were generally non-argumentative but would often interject about perceived mistakes.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Group Work:&lt;&#x2F;strong&gt;
+With increased resolution on the subcategories; students with the same conceptions of psychological maturity were grouped into classes and tasked with a specific problem. These subjects were then left to autonomously form groups and students with a…&lt;&#x2F;p&gt;
+&lt;p&gt;• [DQ] conception split up into small feudalistic units, each with separate leaders.
+• [ER] conception had a huge argument, with one eventual leader emerging.
+• [FS] conception worked well on their own without a leader.
+• [GT] conception chose the most appropriate leader for the task at hand and later to drop them for someone better suited for the next task.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;phase-4-outliers-and-interpretation&quot;&gt;Phase 4: Outliers and Interpretation&lt;&#x2F;h2&gt;
+&lt;p&gt;The last phase was spent interpreting the data through research and factoring in world views from other non-industrialised cultures. These walks of life were were probably factored in to avoid immediacy bias.&lt;&#x2F;p&gt;
+&lt;p&gt;Around this time a new category also started to emerge as up until this point the available data seemed to point towards a final stage of psychological maturity… but a number of people with the ‘express self but without cost to the others’ conception began to reject their previous world views! This contradiction shook Graves’ work at its foundations and for a short time caused him a great deal of confusion.&lt;&#x2F;p&gt;
+&lt;p&gt;After the occurrence of these anomalies, people from working classes also began to gain access to higher education and it became evident that an earlier sub-category had been missed out; a remorseless ‘express self at all costs’ modality whom appeared to hold a ‘law of the jungle’ mentality where ‘might is right’.&lt;&#x2F;p&gt;
+&lt;p&gt;This remorseless [CP] conception was thus the most primordial Graves collected in his primary sample, though as mentioned prior stages of cognitive evolution were later uncovered through anthropological research.&lt;&#x2F;p&gt;
+&lt;p&gt;The subjects of this [CP] conception (‘express self mercilessly at all costs’) began to shift in their beliefs, lo and behold, into the already documented conception of ‘deny self for later reward’!&lt;&#x2F;p&gt;
+&lt;p&gt;Thus in one stroke the earlier anomaly of [GT] subjects denying their own prior conceptions was also resolved; they had undergone a process of central change and were starting to embrace a yet inconceived modality. &lt;strong&gt;Subsequently, these findings paved the way for psychological health to be viewed as a process rather than fixed state&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;This new category [HU] was as far Graves’ primary data went but he and a number of others believed that it wasn’t the end of the journey! Given how old this research is already paired with the rising complexity of our environment, we may now once again be witnessing the birth of a new conception not listed on the 1974 chart above; the [IV] modality. Graves speculated the progression was a ‘six on six ladder’ or octave – so keep an eye out!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;the-dialectical-ladder&quot;&gt;The Dialectical Ladder&lt;&#x2F;h1&gt;
+&lt;p&gt;So far we’ve just reviewed the history of the research and how the conceptions were formed. At this point we can now begin to cover the topic more generally while trying to elicit some insights. The classifications are probably still a bit unclear so let’s quickly cover those in more depth.&lt;&#x2F;p&gt;
+&lt;p&gt;The first set of characters in Graves’ notation system [A, B, C, D, E, F, G, H] refer to “existential conditions’’ or the environment in which we inhabit. While the second set of characters [N, O, P, Q, R, S, T, U] refer to what Graves termed “emergent coping mechanisms” – the capabilities we leverage to transcend our environments.&lt;&#x2F;p&gt;
+&lt;p&gt;These emergent cycles might be thought of as a swinging pendulum where we oscillate between express-self and deny-self modalities in an unfolding process. What I find particularly interesting about the implications of Graves classifications is the generative dialectic between &lt;strong&gt;environment and organism&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;To me, this dialectic feels like the difference between aspiration and embodied action&lt;&#x2F;strong&gt;; the environmental context gives rise to a set of needs or desires, which are then slowly manifested through a form of abductive reasoning embodied in new and novel behaviours. Like an octopus:
+&lt;img class=&quot;no-hover&quot;alt=&quot;Novel behaviours between environment and organism: The Octo-rock&quot;src=&quot;shellsoctopus.jpg&quot;&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Graves later revised the [GT] and [HU] conceptions to [AN’] and [BO’] as he theorised a ‘six on six ladder’. He did so because these later conceptions closely resembled the earliest stages with a post-subsistance twist.&lt;&#x2F;p&gt;
+&lt;p&gt;In contrast to the Gravesian symbol system of letter pairings; the colours, categories and “value-memes” typically reified in Spiral Dynamics and related materials seem to grossly overlook this generative interplay, reducing it into a static typing system – something that I personally find unhelpful. This focus on static categories is a reductive fallacy that has often been used to claim higher ground and author legitimacy narratives. In my opinion Graves avoids this pitfall by maintaining a focus on dialectic and process.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;generative-friction&quot;&gt;Generative Friction&lt;&#x2F;h2&gt;
+&lt;p&gt;As you might imagine – there can be quite a tension between existential conditions and the formation of ‘emergent coping mechanisms’. This friction is perhaps akin to the myth of Sisyphus pushing a boulder uphill for all of eternity. Once a local maximum is reached in this seemingly open ended system, the boulder rolls back down again to a new local minimum. Once more we begin work on our next existential challenge!&lt;&#x2F;p&gt;
+&lt;p&gt;So, having now acquainted ourselves with the various psychological conceptions; and more importantly the process of structural coupling which occurs between actor and environment, the most interesting questions (for me) become:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;what actually occurs during this generative process of transformation?&lt;&#x2F;li&gt;
+&lt;li&gt;and how do such bio-psycho-social phase shifts happen?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Lets zoom in on the transformative process as articulated by Graves:&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;1-potential&quot;&gt;&lt;strong&gt;1. Potential&lt;&#x2F;strong&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;The necessary “higher order structures” must be present within the organism – which Graves saw as neurological systems within the brain. Unfortunately, further resolution on this matter has eluded me during the course of my Gravesian investigations.&lt;&#x2F;p&gt;
+&lt;p&gt;Dąbrowski’s work on positive disintegration may be relevant however. Here he points to the factors of over-excitability, personal capabilities and drive for autonomy as significant factors in the development of an “independent personality”. At the organisational level, we might speculate that these structures could be represented by the variety of people, rituals, values, coordination protocols, practices and memetics available within a group or environment.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;2-resolution-of-existential-problems&quot;&gt;&lt;strong&gt;2. Resolution of existential problems&lt;&#x2F;strong&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;Stages of expanding (and contracting) awareness cannot be skipped or bypassed. Problems faced at earlier stages of existence must be resolved in order to release psychic energy for advance. First things first!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;3-feelings-of-dissonance&quot;&gt;&lt;strong&gt;3. Feelings of dissonanc&lt;&#x2F;strong&gt;e&lt;&#x2F;h3&gt;
+&lt;p&gt;A breakdown of solutions to one’s immediate existential problems MUST be faced along with a period of crisis and regression. The dissonance of this situation is required to catalyse biochemical changes that drive a regressive search for old patterns of behaviour in order to establish a previous apparent solution to the situation. Such a search is certain to end in arrestment, regression or growth as old solutions to previous problems DO NOT apply to the new context any better than the way of life whose inadequacy triggered the initial search. This might be considered a form of psychological bifurcation.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;4-gaining-of-insights&quot;&gt;&lt;strong&gt;4. Gaining of insights&lt;&#x2F;strong&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;Putting an end to the regressive search, unlocking the formation of new structures and propelling an evolution to the next modality, is insight. This insight MUST enable the organism to find an equilibrium in the immediate environment.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;5-removal-of-barriers&quot;&gt;&lt;strong&gt;5. Removal of barriers&lt;&#x2F;strong&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;When this insight is reached, few in the environment will share the same understanding and thus the barriers of friends, family, processes etc. must be overcome or ignored to make a leap.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;6-opportunity-to-consolidate&quot;&gt;&lt;strong&gt;6. Opportunity to consolidate&lt;&#x2F;strong&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;The last necessary condition for the emergence of new structures is a consolidation factor which comes into play as the organism begins to practice and affirm the new behaviour. Here the implementation of insights are being achieved and accomplished.&lt;&#x2F;p&gt;
+&lt;p&gt;At this point I feel compelled to speculate that uncovering this transformative process is probably where Graves got most stuck, leading to delays publishing his work and frustrations mentioned at the beginning of this article. To my senses the above list is a rough hexad within and animating the enneagram of process - though I doubt Graves personally realised this. My own belief is that that this would prove a fruitful line of inquiry for anyone looking to enrich Graves’ work as the non-linear temporalities reveal a lot about the transformative journey. The apokritikal levels of being that Graves describes as psychological modalities were not unfamiliar to Sufi schools and other mystery traditions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;engaging-with-transformation&quot;&gt;Engaging with transformation&lt;&#x2F;h2&gt;
+&lt;p&gt;Ok, so now having grokked the various conceptions and the deeper process of transformation; how do we leverage this understanding? Can it be used to help us judge appropriate actions in a given context to empower both ourselves and other individuals while navigating transition? What insights might really help us help us to flourish?&lt;&#x2F;p&gt;
+&lt;p&gt;Perhaps the first key is to accurately diagnose the terrain we’re traversing before figuring out what’s needed and&#x2F;or desired before prioritising an appropriate pattern, schema or modality to enables us to overcome the obstacles in our way?&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Let’s sample a selection of potentially useful approaches:&lt;&#x2F;strong&gt;
+In most modern cultures, the [AN] and [BO] stages are primarily found in toddlers. Learning is through habituation and essentially Pavlovian conditioning; an associative linear process whereby stimulus provokes a response. The classic example is a dog drooling while its dinner is being prepared, but the same process also applies in large to dementia and substance addiction (e.g. a junkie searching out a bag of heroin).&lt;&#x2F;p&gt;
+&lt;p&gt;For a loose cannon at the [CP] stage, benevolent autocracy is perhaps warranted? This might perhaps sound draconian but given complete freedom inhabitants of this modality will absorb as much space as possible while openly fleecing others of their agency; if you give an inch, they’ll take a mile. Graves references B.F. Skinner, August Aichhorn and Kurt Eisler as relevant therapies stating “you put this person in a box psychologically and you don’t let him out. You’ve got to know and accept those rules!”. Most subsistence modalities will have immense difficulties dealing with this conception due to the limitations of their own ontology.&lt;&#x2F;p&gt;
+&lt;p&gt;Working with the [DQ] stage, Graves suggests Freud is pretty much the only person who ever had a clue. These subjects need gentle hand-holding and a personal relationship in order to overcome their fears, break down unhelpful positions and foster trust… thereafter moving along at a snail’s pace to lead them back into a sense of embodied self. These people need to see the engaging party as an acceptable authority figure or they’ll remain hidden in their shell without conceding an inch.&lt;&#x2F;p&gt;
+&lt;p&gt;The [ER] modalities gain insight only from what they can procure for themselves, gauging their expectations against outcomes. In this regard encounter groups where people gather to express felt experiences arising out of personal interactions are good places to receive useful feedback. Worth noting here however is if the (out) group is unknown to the [ER] centred psychology it would seem that they will often observe and leverage the weakness of others members of the group to exploit and instrumentalise them. They need to interact with a known group with real stakes and repercussions.&lt;&#x2F;p&gt;
+&lt;p&gt;For those centred in an [FS] modality, Graves held that the Rodgerian approach was “a very fine one”. Many of these methods are similar to the [ER] interventions minus the training wheels of a known group. Particular methods such as the Rodgerean Argument he seemed to consider more suitable than others. As the [FS] modality has embarked on a journey of self-exploration they are predominantly asking “why?” questions which means than an authentic and congruent 1:1 relationship facilitates deeper inquiry and shared context.&lt;&#x2F;p&gt;
+&lt;p&gt;We’ll stop here as [GT] and [HU] conceptions are open on all channels, learning from every encounter and situation. The main difference between these modes is the maturity; [GT] often seeming to be a kind of potential junkie, and maybe [HU] as somewhat more cautious.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;reflections&quot;&gt;Reflections&lt;&#x2F;h1&gt;
+&lt;p&gt;While writing this document and in the course of my own journey, I can say that the conceptions feel quite accurate and extremely useful tools of perception and diagnostics. Schemas are not something I’ll ever really take for gospel but the framework does seem to diagnose past behaviours with relatively high degrees of accuracy; I can see a cycle of personal conceptions that have repeatedly arisen and broken down again while oscillating upon the carrier wave of my life:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;BO &amp;gt; CP:&lt;&#x2F;strong&gt; The modality throughout my teenage years was clearly that of deny-self. Socialised mind did its best to fit in with kin spirits and fill a group niche. This semi-autistic version of myself was eventually perturbed into a sense of self-awareness via romantic rejection and teenage heartbreak.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;CP &amp;gt; DQ:&lt;&#x2F;strong&gt; Later during my university years I moved into an express-self modality. I was ferociously exercising, writing music prolifically while dating regularly. At one point in this cycle a dear friend of mine got fed up with the impulsive behaviour and hit me with the statement “you can’t just keep talking over people man” the shame of which once again perturbed my world view.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;DQ &amp;gt; ER:&lt;&#x2F;strong&gt; My early career seems to accurately fit a deny-self modality where I felt quite disembodied; watching myself in third person while smoking away external tensions as a form of escapism. I was working for a particularly imperialistic employer and the thought of further subordinating myself to such tyrannical authority was really grating on me so when the opportunity arose I quit my job and started a company of my own.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;ER &amp;gt; FS:&lt;&#x2F;strong&gt; As captain of my own ship I moved into an express-self modality; installing sound systems for several high end venues in London while also beginning to invest in speculative assets. I expanded into night club tech management and eventually burnt myself out on graveyard shifts – moving into a well paid technology job shortly thereafter. My calculated boundary pushing there provoked push back and brought down the wrath of others, eventually leading to being made redundant as the startup began to run out of funding in the great ETH crash of 2018. Yeah, I was a brat.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;FS &amp;gt; GT:&lt;&#x2F;strong&gt; Leaving the world of employment behind to search out like minded peers seems to accurately reflect the “deny-self for acceptance now” conception; I joined a variety of self-organising initiatives and after some time found refuge in the countryside messing about with crypto robotics with a peer. The pace was slow and the location isolating so a sense of dissonance began to creep in; resultantly I was moved to affirm myself and began to seek stability on my own ground by taking a job as a Ledger Governance Coordinator and moving to Berlin before quickly pivoting to Lisbon instead.&lt;&#x2F;p&gt;
+&lt;p&gt;It appears that many sources suggest that the FS &amp;gt; GT transition is the hardest to work through. However, the reasoning for these assertions seem quite mysterious and thin on the ground and so I feel compelled to share my own experience of this transition. Stated bluntly the end of the green transition felt like I’d been stripped of all character leaving a whisper of core essence that was pretty unresponsive and completely spaced out. Veg mode.&lt;&#x2F;p&gt;
+&lt;p&gt;The upside to that however was an honest sense of self-awareness which seemed to become a process of rebuilding my “avatar” in a systematic way from the ground up unintentionally taking on the properties of each stage that seemed to change about every three months or so. There was also a growing sense of self-acceptance (which I thought I’d already found) coming from an open disclosure of my internal world. This was probably the end of the FS stage.&lt;&#x2F;p&gt;
+&lt;p&gt;Autonomy and independence certainly came at a cost but life became both more colourful and difficult as I entered the GT stage; my experience of this transition was that the involution cycle felt pretty dark. The GT modality seems to be refilling on potential that previously withered away so a whole bunch of high capacity chaos cats seem to emerge and get real frigging tricky with each other.&lt;&#x2F;p&gt;
+&lt;p&gt;There’s a sense of fear and paranoia among individuated peers while reality turns into a warzone as individuals competing for agency rug each other for the realisation of their potential… leading to the unitive HU transformation; though I honestly can’t quite comment on that part of the journey in detail just yet other than to say that I’m frigging exhausted from the involution cycle.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;commentary&quot;&gt;Commentary&lt;&#x2F;h1&gt;
+&lt;p&gt;While exploring and reflecting on this model, I’ve taken it with a pinch of salt and largely read between the lines. From this perspective it feels pretty solid and I honestly don’t have a huge amount of criticism to direct at in. Taking a more literal perspective however it seems that some of the terminology might benefit from minor adjustments in framing.&lt;&#x2F;p&gt;
+&lt;p&gt;In particular Graves seems to frame the process from a lens of coping and problem solving which we might say is a form of goal orientation. This seems at odds with his otherwise predominant process orientation and so we can perhaps view the transitions as a process of healing from damage incurred in prior modalities.&lt;&#x2F;p&gt;
+&lt;p&gt;Throughout this article I’ve also been cautious not to call the conceptions “levels” – as many transcripts do – because such words can easily lead to a sense of elitism. This is rife in the Spiral Dynamics communities which draw upon this work and tends to turn many people off. Graves himself noted in a number of transcripts that “levels’’ were uncorrelated with intelligence and that it’s more a case of understanding how people do what they do, or how they believe what they believe.&lt;&#x2F;p&gt;
+&lt;p&gt;While it seems that the research methods were generally robust; the [AN] and [BO] conceptions were inferred through extensive study of anthropological literature as previously mentioned. This seems fair in the context of his study and a necessary step to avoid the immediacy bias of solely relying on his own sample; however by looking for conceptions outside his sample and finding them it opens the potential for confirmation bias. Ahh, the thin line and endless double bind!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h1&gt;
+&lt;p&gt;It seems apparent to me at this point that Emergent Cyclical Theory has a wide range of implications across a number of fields; particularly in government, business, healthcare, education and social sciences. We might thereby consider it an aid for anticipating potential futures, or as a lens for &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Systemic_intervention&quot;&gt;systemic intervention&lt;&#x2F;a&gt; - with the right eyes and ears it can help enable us to tailor an appropriate response to a given context and meet it in place with right (or deliberately wrong) action!&lt;&#x2F;p&gt;
+&lt;p&gt;Furthermore, Emergent Cyclical Theory seems pretty applicable to emerging fields like distributed ledger technology, artificial general intelligence and computer science - as they are all artefacts of our ontologyes and how we think.&lt;&#x2F;p&gt;
+&lt;p&gt;These &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hZ3gmh-d9oI&quot;&gt;encoded ideologies&lt;&#x2F;a&gt; are the products of our environmental coupling which then become concrete realities which shape the affordances of our daily lives. Having an awareness of what’s shaping us and the modality that created it is an incredibly important notion to be aware of… and perhaps even more so in the reverse; how we’re using our agency to shape the world and others around us is a deep ethical concern that we can probably all be more aware of. How are we contributing? What values are driving our actions and behaviour? How much hubris is involved?&lt;&#x2F;p&gt;
+&lt;p&gt;Navigating the tensions present in daily life feels analogous to matching voltage or impedence; wherever there’s an ontological mismatch there’s a energetic bottleneck that restricts flow and leaks potential. Stepping and blending these energetics is an art form I could personally use more practice in but having a good sense of where others are coming from is certainly helpful in attempting such alchemy!&lt;&#x2F;p&gt;
+&lt;p&gt;Perhaps beyond this is a notion of &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Situationist_International&quot;&gt;situationism&lt;&#x2F;a&gt;; the conjuring of moments which enable us to grow in safe to fail environments at the collective scale. Performance events and circumstances which test our capacities and surface our ontologies for what they are; fragile beliefs, attachments and conditioned patterns. As Graves initially pondered; can exposure to confusion, contradiction, controversy and conflict help us to become better adapted to our existential environment? I personally believe so but buyer beware; this can be absolutely exhausting when sustained over long periods of time!&lt;&#x2F;p&gt;
+&lt;p&gt;“Buy the ticket, take the ride”&lt;&#x2F;p&gt;
+&lt;p&gt;Ad Astra ✨,&lt;&#x2F;p&gt;
+&lt;p&gt;josh&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;reading&quot;&gt;Reading&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.clarewgraves.com&#x2F;neq&#x2F;neq.html&quot;&gt;The Never Ending Quest&lt;&#x2F;a&gt; - &lt;a href=&quot;http:&#x2F;&#x2F;claregraves.com&#x2F;&quot;&gt;Clare Graves&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.co.uk&#x2F;Spiral-Dynamics-Mastering-Values-Leadership&#x2F;dp&#x2F;1405133562&#x2F;ref=asc_df_1405133562&#x2F;?tag=googshopuk-21&amp;amp;linkCode=df0&amp;amp;hvadid=310816411121&amp;amp;hvpos=&amp;amp;hvnetw=g&amp;amp;hvrand=422254076398225035&amp;amp;hvpone=&amp;amp;hvptwo=&amp;amp;hvqmt=&amp;amp;hvdev=c&amp;amp;hvdvcmdl=&amp;amp;hvlocint=&amp;amp;hvlocphy=1006676&amp;amp;hvtargid=pla-433850495205&amp;amp;psc=1&amp;amp;th=1&amp;amp;psc=1&quot;&gt;Spiral Dynamics&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Don_Edward_Beck&quot;&gt;Beck&lt;&#x2F;a&gt; and Cowan&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.co.uk&#x2F;Brief-History-Everything-Ken-Wilber&#x2F;dp&#x2F;0717132331&quot;&gt;A Brief History of Everything&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Ken_Wilber&quot;&gt;Ken Wilbur&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Model_of_hierarchical_complexity&quot;&gt;Model of Hierarchical Complexity&lt;&#x2F;a&gt; – &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Michael_Commons&quot;&gt;Michael Commons&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Piaget%27s_theory_of_cognitive_development&quot;&gt;Piaget&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Loevinger%27s_stages_of_ego_development&quot;&gt;Lovinger&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </description>
       </item>

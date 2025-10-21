@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo 1: Hero Image Cards - Magazine Style</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f5f5;
+            padding: 2rem;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            margin-bottom: 2rem;
+            color: #333;
+        }
+
+        .description {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .article-list {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        .article-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
+        .article-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+        }
+
+        .article-image {
+            width: 100%;
+            height: 300px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .article-card:nth-child(2) .article-image {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        }
+
+        .article-card:nth-child(3) .article-image {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        }
+
+        .article-image::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 150px;
+            background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
+        }
+
+        .image-title {
+            position: absolute;
+            bottom: 1.5rem;
+            left: 1.5rem;
+            right: 1.5rem;
+            z-index: 1;
+            color: white;
+            font-size: 1.75rem;
+            font-weight: bold;
+            line-height: 1.2;
+        }
+
+        .article-content {
+            padding: 1.5rem;
+        }
+
+        .article-description {
+            color: #666;
+            margin-bottom: 1rem;
+        }
+
+        .article-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            padding-top: 1rem;
+            border-top: 1px solid #eee;
+            font-size: 0.875rem;
+            color: #999;
+        }
+
+        .tags {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .tag {
+            background: #ff7800;
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 999px;
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Demo 1: Hero Image Cards (Magazine Style)</h1>
+
+        <div class="description">
+            <h2>Design Features:</h2>
+            <ul>
+                <li>Large featured image at the top of each card (300px height)</li>
+                <li>Title overlaid on image with dark gradient for readability</li>
+                <li>Content section below with description and metadata</li>
+                <li>Hover effect with elevation change</li>
+                <li>Strong visual hierarchy - images draw attention first</li>
+                <li>Best for: Blogs with high-quality hero images, editorial content</li>
+            </ul>
+        </div>
+
+        <div class="article-list">
+            <a href="#" class="article-card">
+                <div class="article-image">
+                    <h3 class="image-title">Process Thought and Science 2025 (Session 1)</h3>
+                </div>
+                <div class="article-content">
+                    <p class="article-description">
+                        Exploring Whitehead from the familiar ground of Bennett. This article is a reflection and commentary on Process and Thought lecture 1...
+                    </p>
+                    <div class="article-meta">
+                        <time>October 8, 2025</time>
+                        <div class="tags">
+                            <span class="tag">Process Philosophy</span>
+                            <span class="tag">Whitehead</span>
+                            <span class="tag">Bennett</span>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+            <a href="#" class="article-card">
+                <div class="article-image">
+                    <h3 class="image-title">Category Theory and Abstract Thinking</h3>
+                </div>
+                <div class="article-content">
+                    <p class="article-description">
+                        An exploration of how category theory provides powerful abstractions for understanding complex systems and relationships in mathematics and philosophy.
+                    </p>
+                    <div class="article-meta">
+                        <time>September 15, 2025</time>
+                        <div class="tags">
+                            <span class="tag">Mathematics</span>
+                            <span class="tag">Philosophy</span>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+            <a href="#" class="article-card">
+                <div class="article-image">
+                    <h3 class="image-title">Reflections on Systemics and Complexity</h3>
+                </div>
+                <div class="article-content">
+                    <p class="article-description">
+                        Understanding complex adaptive systems through the lens of process philosophy and modern systems thinking approaches.
+                    </p>
+                    <div class="article-meta">
+                        <time>August 22, 2025</time>
+                        <div class="tags">
+                            <span class="tag">Systems Thinking</span>
+                            <span class="tag">Complexity</span>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

@@ -160,9 +160,7 @@ links = [
 	{ name = "Writing", menu = [
 		{ url = "http://consulting.tothecosmos.org", name = "Documentation" },
 		{ url = "@/travel/_index.md", name = "Travel Writing" },
-		{ url = "@/expositions/_index.md", name = "Expositions" },
 		{ url = "@/blog/_index.md", name = "Blog" },
-		{ url = "@/archive/_index.md", name = "Archive" },
 	]},
 	{ name = "Reviews", menu = [
 		{ url = "@/music/_index.md", name = "Music" },
@@ -171,7 +169,7 @@ links = [
 	{ name = "Support", menu = [
 		{ url = "https://opencollective.com/lens-and-method", name = "Open Collective" },
 		{ url = "https://buymeacoffee.com/joshafairhead", name = "Coffee" },
-	]},	
+	]},
 	# { url = "@/cv/_index.md", name = "CV" },
 ]
 

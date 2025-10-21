@@ -25,43 +25,55 @@
 			{%- set article_string = macros_translate::translate(key="poor", default="Poor", language_strings=language_strings) -%}
 		{%- endif -%}
 		{%- if page.extra.banner -%}
-			{%- set blurnail = resize_image(path=page.colocated_path ~ page.extra.banner, width=4, height=2, op="fill", format="webp") -%}
+			{%- if page.taxonomies.book_tags -%}
+				{%- set thumbnail = resize_image(path=page.colocated_path ~ page.extra.banner, width=120, height=180, op="fit", format="webp") -%}
+				{%- set is_book = true -%}
+				{%- set is_album = false -%}
+			{%- elif page.taxonomies.music_tags -%}
+				{%- set thumbnail = resize_image(path=page.colocated_path ~ page.extra.banner, width=150, height=150, op="fit", format="webp") -%}
+				{%- set is_album = true -%}
+				{%- set is_book = false -%}
+			{%- else -%}
+				{%- set thumbnail = resize_image(path=page.colocated_path ~ page.extra.banner, width=200, height=150, op="fill", format="webp") -%}
+				{%- set is_book = false -%}
+				{%- set is_album = false -%}
+			{%- endif -%}
 		{%- endif -%}
-		<article {% if article_type %}class="{{ article_type }}"{% endif %} {% if blurnail %}style="--blurnail: url('{{ blurnail.url }}')"{% endif %}>
-			<a href="{{ page.permalink | safe }}"></a>
-			{% if article_type %}
-				<span class="badge">
-					<i class="icon"></i>
-					{{- article_string -}}
-				</span>
-			{%- endif %}
-			<h3>{{ page.title }}</h3>
-			{%- if page.description %}
-				{{ page.description | markdown | safe }}
-			{%- endif %}
-			{%- if page.date -%}
-				<div class="details">
-					<small>
-						<time datetime="{{ page.date | date(format='%+') }}" pubdate>
-							{{- page.date | date(format=date_format, locale=date_locale) -}}
-						</time>
-						{%- if page.authors -%}
-							<span> {{ config.extra.separator | default(value="•") }} {% include "partials/authors.html" -%}</span>
-						{%- endif -%}
-					</small>
-					{%- if page.taxonomies -%}
-						{%- for name, taxon in page.taxonomies %}
-							<small>
-								<ul class="tags">
-									{%-for item in taxon -%}
-										<li><a class="tag" href="{{ get_taxonomy_url(kind=name, name=item, lang=lang) }}">{{ item }}</a></li>
-									{%- endfor %}
-								</ul>
-							</small>
-						{%- endfor -%}
+		<article {% if article_type %}class="{{ article_type }}"{% elif is_book %}class="book-review"{% elif is_album %}class="album-review"{% endif %}>
+			<a href="{{ page.permalink | safe }}" class="article-link"></a>
+			{%- if thumbnail -%}
+				<div class="article-thumbnail{% if is_book %} book-cover{% elif is_album %} album-cover{% endif %}" style="background-image: url('{{ thumbnail.url }}')"></div>
+			{%- else -%}
+				<div class="article-thumbnail article-thumbnail-placeholder"></div>
+			{%- endif -%}
+			<div class="article-content">
+				<div class="article-header">
+					{% if article_type %}
+						<span class="badge">
+							<i class="icon"></i>
+							{{- article_string -}}
+						</span>
+					{%- endif %}
+					<h3>{{ page.title }}</h3>
+					{%- if page.description %}
+						<div class="article-description">
+							{{ page.description | markdown | safe }}
+						</div>
 					{%- endif %}
 				</div>
-			{%- endif -%}
+				{%- if page.date -%}
+					<div class="details">
+						<small>
+							<time datetime="{{ page.date | date(format='%+') }}" pubdate>
+								{{- page.date | date(format=date_format, locale=date_locale) -}}
+							</time>
+							{%- if page.authors -%}
+								<span> {{ config.extra.separator | default(value="•") }} {% include "partials/authors.html" -%}</span>
+							{%- endif -%}
+						</small>
+					</div>
+				{%- endif -%}
+			</div>
 		</article>
 	{%- endfor %}
 </div>

@@ -4,8 +4,25 @@ title = "Fat Freddies Drop"
 description = "New Zealand funk soul psychedelia singing straight from the heart."
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "based-on-a-true-story.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtu.be/Y7QQS5V3cnI?si=tzg0r2g2A2Ei2PeQ" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="based-on-a-true-story.jpg" alt="BOATS" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">BOATS</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLn7qZ70jqTZEF3chAUjrlduLDuSFuUoBC&si=1MoTXgHRbB2r0pLL" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="blackbird.jpg" alt="Blackbird" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Blackbird</div>
+		</a>
+	</div>
+</div>
 
 Albums: [BOATS](https://youtu.be/Y7QQS5V3cnI?si=tzg0r2g2A2Ei2PeQ), [Blackbird](https://youtube.com/playlist?list=PLn7qZ70jqTZEF3chAUjrlduLDuSFuUoBC&si=1MoTXgHRbB2r0pLL).
 

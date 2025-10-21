@@ -6,12 +6,12 @@ draft = false
 [taxonomies]
 book_tags = ["Book"]
 [extra]
+banner = "caravanofdreams.webp"
 styles = ["book-covers.css"]
+hero = false
 +++
-<div class="book-covers">
-  {{ image(url="caravanofdreamsoriginal.webp", alt="Original Cover", no_hover=true) }}
-  {{ image(url="caravanofdreams.webp", alt="Cover", no_hover=true) }}
-</div>
+
+<img src="caravanofdreams.webp" alt="Caravan of Dreams Cover" style="width: 300px; height: auto; pointer-events: none;" />
 
 Caravan of Dreams is a parade of pluralistic perspectives, illiminating various facets of timeless wisdom through the tradition of Sufi story telling. What's most remarkable is the wisdom conveyed between the lines, ambigous messaging deliberatly concealed to draw out ones interpretative abilities. 
 
