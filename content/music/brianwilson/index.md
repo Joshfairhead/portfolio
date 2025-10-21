@@ -4,8 +4,25 @@ title = "Brian Wilson"
 description = "Beach boys creative genius and author of one of the most interesting lost albums of all time."
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "smile.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLj5TmO4kroQH4XM8P3JavV0p7Gtnno1E2&si=s1o2VfbFTFdpBE8A" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="pet-sounds.jpg" alt="Pet Sounds" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Pet Sounds</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLhinduWcIKtFcHEDIQPXXdbFGT8gxTKF1&si=rPcZTkaZfCu9TkGv" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="smile.jpg" alt="SMiLE" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">SMiLE</div>
+		</a>
+	</div>
+</div>
 
 Albums: [Pet Sounds](https://youtube.com/playlist?list=PLj5TmO4kroQH4XM8P3JavV0p7Gtnno1E2&si=s1o2VfbFTFdpBE8A), [SMiLE](https://youtube.com/playlist?list=PLhinduWcIKtFcHEDIQPXXdbFGT8gxTKF1&si=rPcZTkaZfCu9TkGv)
 

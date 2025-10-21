@@ -4,8 +4,25 @@ title = "Ghost"
 description = "The illigitimate Sweedish love child of Ozzy Ozbourne and ABBA"
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "impera.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLfiMjLyNWxeYL_ShQqAlRRc0No3kKKfFr&si=bL12XiSAvBeOCRKK" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="impera.jpg" alt="Impera" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Impera</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLX1EE_8ktx_igRKC4jRzrcksdvyAsWl2E&si=8t4xEv3oQQVDzSMd" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="meliora.jpg" alt="Meliora" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Meliora</div>
+		</a>
+	</div>
+</div>
 
 Albums: [Impera](https://youtube.com/playlist?list=PLfiMjLyNWxeYL_ShQqAlRRc0No3kKKfFr&si=bL12XiSAvBeOCRKK), [Meliora](https://youtube.com/playlist?list=PLX1EE_8ktx_igRKC4jRzrcksdvyAsWl2E&si=8t4xEv3oQQVDzSMd)
 

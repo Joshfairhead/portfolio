@@ -1,0 +1,22 @@
+{# Album Gallery Shortcode
+   Usage: {{/* album_gallery(albums=[
+     {name="Album Name", image="album.jpg", link="https://..."},
+     ...
+   ]) */}}
+#}
+<div class="album-gallery">
+	{%- for album in albums %}
+		<div class="album-item">
+			{%- if album.link -%}
+				<a href="{{ album.link }}" class="album-link" target="_blank" rel="noopener noreferrer">
+			{%- endif -%}
+					<img src="{{ album.image }}" alt="{{ album.name }}" class="album-cover" width="600" height="600" loading="lazy" />
+					{%- if album.name -%}
+						<div class="album-title">{{ album.name }}</div>
+					{%- endif -%}
+			{%- if album.link -%}
+				</a>
+			{%- endif -%}
+		</div>
+	{%- endfor %}
+</div>

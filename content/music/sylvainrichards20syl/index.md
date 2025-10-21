@@ -4,8 +4,25 @@ title = "Sylvain Richards (20SYL)"
 description = "Polymath creator with ears and eyes for detail, never failing to deliver the vibes."
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "tetra.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLDD3CE86784811531&si=gPCyjz-DnM5A7q6y" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="tetra.jpg" alt="Tetra" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Tetra</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLF3lu5b2iqGUIbDk3k-z3AWL2HUc2hsTP&si=3gryfblm_xkmHSZv" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="the-upper-hand.jpg" alt="The Upper Hand" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">The Upper Hand</div>
+		</a>
+	</div>
+</div>
 
 Albums: [Tetra](https://youtube.com/playlist?list=PLDD3CE86784811531&si=gPCyjz-DnM5A7q6y), [The Upper Hand](https://youtube.com/playlist?list=PLF3lu5b2iqGUIbDk3k-z3AWL2HUc2hsTP&si=3gryfblm_xkmHSZv)
 

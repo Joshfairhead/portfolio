@@ -4,8 +4,25 @@ title = "Robert Plant"
 description = "Led Zeppelin's rambling man fronts his own career as a solo artist."
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "mighty-rearranger.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLWmdrxukffoAZlaeNfzur4uBfLFTKFlSz&si=CIV0giyUUpgQRIwp" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="mighty-rearranger.jpg" alt="Mighty Rearranger" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Mighty Rearranger</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=OLAK5uy_lJEY-pBUUaZqugz6WuN4ZwhVulKh_mToQ&si=2onjwn5Yy37ASd9K" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="dreamland.jpg" alt="Dreamland" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Dreamland</div>
+		</a>
+	</div>
+</div>
 
 Album: [Mighty Rearranger](https://youtube.com/playlist?list=PLWmdrxukffoAZlaeNfzur4uBfLFTKFlSz&si=CIV0giyUUpgQRIwp), [Dreamland](https://youtube.com/playlist?list=OLAK5uy_lJEY-pBUUaZqugz6WuN4ZwhVulKh_mToQ&si=2onjwn5Yy37ASd9K)
 
