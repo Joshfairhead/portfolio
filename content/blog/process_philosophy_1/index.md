@@ -22,7 +22,7 @@ You might consider this a paradox because if the universe is undivided, how can 
 
 In Bennett’s work this discreet division of occasions or entities is broadly classified into categories called “apokritikal levels of being”:
 
-{{ image(url=”12LevelsOfBeing.png”, alt=”Apokritikal levels of being”, no_hover=true) }}
+<img src="12LevelsOfBeing.png" alt="Apokritikal levels of being" class="no-hover" />
 
 Matt claims that Whitehead puts biology and life at the center of the universe, rather than physics, which is a pretty strong turn of phrase. If you take the twelve levels in the image above and divide it into three sets of four, organised from bottom to top you get three realms: hyponomic, autonomic and hypernomic. These terms basically translate as material, living and cosmic. As you can see for yourself the middle range beginning with Phytovegetation and finishing after Humans denotes the autonomic realm, which essentially matches the assertion that life is central in these cosmologies.
 
