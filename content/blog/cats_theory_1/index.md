@@ -1,11 +1,12 @@
 +++
-date = 2025-01-18
+date = 2025-09-18
 authors = ["Josh Fairhead"]
 title = "Cats Theory Primer: Ground Zero"
 description = "An accessible introduction to category theory from the perspective of a tech product person"
 [taxonomies]
 tags = ["Exposition", "Mathematics", "Category Theory"]
 [extra]
+banner = "cats-in-space.jpg"
 
 +++
 

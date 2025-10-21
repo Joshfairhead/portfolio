@@ -2,11 +2,39 @@
 authors = ["Josh"]
 title = "The Band"
 description = "One of the most prolific working bands of the 60's and 70's and the spirit of Woodstock."
-
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "the-last-waltz.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLE31AAD9114F343C4&si=912hiqEoUy9lhl0p" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="the-band.jpg" alt="The Brown Album" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">The Brown Album</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLEvr99j7ruPwC5VgxJBdWD7l3bILNPqOp&si=SC9DjOeZpiQV0SDP" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="music-from-big-pink.jpg" alt="Music From Big Pink" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Music From Big Pink</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=OLAK5uy_kC5lOLC7LQc7kscZs--dvJORnxgZKOA8c&si=9jvwW-aW6e36siYM" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="northern-lights-southern-cross.jpg" alt="Northern Lights - Southern Cross" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Northern Lights - Southern Cross</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLi307k6VzjI-d0kVSNgL0lUMLEuP9WQPA&si=AoFCNFlAzNFKOi1y" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="the-last-waltz.jpg" alt="The Last Waltz" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">The Last Waltz</div>
+		</a>
+	</div>
+</div>
 
 The Band
 Albums: [The Brown Album](https://youtube.com/playlist?list=PLE31AAD9114F343C4&si=912hiqEoUy9lhl0p), [Music From Big Pink](https://youtube.com/playlist?list=PLEvr99j7ruPwC5VgxJBdWD7l3bILNPqOp&si=SC9DjOeZpiQV0SDP), [Northern Lights - Southern Cross](https://youtube.com/playlist?list=OLAK5uy_kC5lOLC7LQc7kscZs--dvJORnxgZKOA8c&si=9jvwW-aW6e36siYM), [The Last Waltz](https://youtube.com/playlist?list=PLi307k6VzjI-d0kVSNgL0lUMLEuP9WQPA&si=AoFCNFlAzNFKOi1y).

@@ -61,7 +61,7 @@
 		{%- if page.extra.banner -%}
 			{%- set blurnail = resize_image(path=page.colocated_path ~ page.extra.banner, width=4, height=2, op="fill", format="webp") -%}
 		{%- endif -%}
-		<article {% if article_type %}class="{{ article_type }}"{% endif %} {% if blurnail %}style="--blurnail: url('{{ blurnail.url }}')"{% endif %}>
+		<article class="{% if article_type %}{{ article_type }} {% endif %}portfolio-card" {% if blurnail %}style="--blurnail: url('{{ blurnail.url }}')"{% endif %}>
 			<a href="{{ page.permalink | safe }}"></a>
 			{% if article_type %}
 				<span class="badge">
@@ -83,17 +83,6 @@
 							<span> {{ config.extra.separator | default(value="•") }} {% include "partials/authors.html" -%}</span>
 						{%- endif -%}
 					</small>
-					{%- if page.taxonomies -%}
-						{%- for name, taxon in page.taxonomies %}
-							<small>
-								<ul class="tags">
-									{%-for item in taxon -%}
-										<li><a class="tag" href="{{ get_taxonomy_url(kind=name, name=item, lang=lang) }}">{{ item }}</a></li>
-									{%- endfor %}
-								</ul>
-							</small>
-						{%- endfor -%}
-					{%- endif %}
 				</div>
 			{%- endif -%}
 		</article>

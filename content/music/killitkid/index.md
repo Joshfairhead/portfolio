@@ -4,8 +4,31 @@ title = "Kill it Kid"
 description = "Hard blues folk rock from Bath that has all the authenticity of muddy waters."
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "feet-fall-heavy.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=OLAK5uy_kRwcpFyhda2PN3j_Mf3xU91YNsW9o4sgI&si=kWWHQzcCDB2yqsS3" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="kill-it-kid.jpg" alt="Kill it Kid" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Kill it Kid</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=OLAK5uy_mPq3SQnuE5h2ms0KhiUkX4mlE0gk4v4yY&si=7QC_Y2eUXuJU7RWs" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="feet-fall-heavy.jpg" alt="Feet Fall Heavy" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Feet Fall Heavy</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLFWb2WjiFo2wLcXzjp7JG4KW5O7lbKiLB&si=UUdOL24OebApzGDc" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="you-owe-nothing.jpg" alt="You Owe Nothing" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">You Owe Nothing</div>
+		</a>
+	</div>
+</div>
 
 Albums: [Kill it Kid](https://youtube.com/playlist?list=OLAK5uy_kRwcpFyhda2PN3j_Mf3xU91YNsW9o4sgI&si=kWWHQzcCDB2yqsS3), [Feet Fall Heavy](https://youtube.com/playlist?list=OLAK5uy_mPq3SQnuE5h2ms0KhiUkX4mlE0gk4v4yY&si=7QC_Y2eUXuJU7RWs), [You Owe Nothing](https://youtube.com/playlist?list=PLFWb2WjiFo2wLcXzjp7JG4KW5O7lbKiLB&si=UUdOL24OebApzGDc).
 

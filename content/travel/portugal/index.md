@@ -8,6 +8,7 @@ date = 2023-07-20
 tags = ["Travel"]
 
 [extra]
+banner = "radicallove.jpg"
 styles = ["travel-gallery.css"]
 scripts = ["travel-lightbox.js"]
 

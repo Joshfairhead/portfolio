@@ -4,8 +4,25 @@ title = "Snarky Puppy"
 description = "Metropolitan big band mixing hiphop, jazz, funk and soul."
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "we-like-it-here.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=OLAK5uy_l8-vHH2ZaYHOWEgl1XlBuuE1IA_VeFBoo&si=aehotavYqa-BMDPL" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="we-like-it-here.jpg" alt="We Like it Here" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">We Like it Here</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtu.be/n7qMu_9v4P4?si=QwKPYQMmUdWb-SZH" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="family-dinner.jpg" alt="Family Dinner" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Family Dinner</div>
+		</a>
+	</div>
+</div>
 
 Albums: [We Like it Here](https://youtube.com/playlist?list=OLAK5uy_l8-vHH2ZaYHOWEgl1XlBuuE1IA_VeFBoo&si=aehotavYqa-BMDPL), [Family Dinner](https://youtu.be/n7qMu_9v4P4?si=QwKPYQMmUdWb-SZH)
 

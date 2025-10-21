@@ -2,11 +2,21 @@
 authors = ["Josh"]
 title = "Wolfmother"
 description = "Australian reinvention of the Brit rock classics, with a modern edge."
-
 [taxonomies]
 music_tags = ["Album"]
-
+[extra]
+hero = false
+banner = "cosmic-egg.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLncz40_G09q955eCOFpEsDL7AznHH9hTO&si=5iCf-nvAfWerM047" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="cosmic-egg.jpg" alt="Cosmic Egg" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Cosmic Egg</div>
+		</a>
+	</div>
+</div>
 
 Album: Cosmic Egg
 

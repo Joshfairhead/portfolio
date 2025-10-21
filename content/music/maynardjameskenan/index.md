@@ -4,8 +4,43 @@ title = "Maynard James Keenan"
 description = "I AM THE BRIEFCASE!!"
 [taxonomies]
 music_tags = ["Artist"]
-
+[extra]
+hero = false
+banner = "10000-days.jpg"
 +++
+
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLvrbxb5BJMiiJ9IZdsX-Hz7ih8nizJbdU&si=lXdefCQou-MKUUzK" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="fear-inoculum.jpg" alt="Fear Inoculum" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Fear Inoculum</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLnif9Rfb5AdkxFeWs2DMf8Km9yD16pDE7&si=eIkE5jwQUpmK_CU5" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="10000-days.jpg" alt="10,000 Days" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">10,000 Days</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLvsYXqtYjMYczVHrnHUI_IzhjTVDpgR-X&si=NWtzhnnsX4ipFqrP" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="conditions-of-my-parole.jpg" alt="Conditions of My Parole" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Conditions of My Parole</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLvsYXqtYjMYch4iEefcZAHGHagcNO0X22&si=ZcfNy71S7V8WwheW" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="existential-reckoning.jpg" alt="Existential Reckoning" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Existential Reckoning</div>
+		</a>
+	</div>
+	<div class="album-item">
+		<a href="https://youtube.com/playlist?list=PLBzBwYhHpqLLaSl_y2JvaLjasAEfwJj98&si=hNhuZozI7jmTOmhW" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="eat-the-elephant.jpg" alt="Eat the Elephant" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Eat the Elephant</div>
+		</a>
+	</div>
+</div>
 
 Bands: Tool, Pusifer, Perfect Circle.
 
