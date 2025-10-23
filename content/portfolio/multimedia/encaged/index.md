@@ -5,7 +5,7 @@ description = "Music composed for a short animation about old people connecting 
 [taxonomies]
 tags = ["Visual"]
 [extra]
-banner = "cover.jpg"
+banner = "thumbnail.jpg"
 
 +++
 

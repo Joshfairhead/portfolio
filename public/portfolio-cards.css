@@ -1,1 +1,1 @@
-#article-list .portfolio-card{background-size:cover;background-repeat:no-repeat;aspect-ratio:1/1;min-height:400px}
+#article-list article.multimedia-item .article-thumbnail.multimedia-thumbnail{width:200px !important;height:150px !important;background-size:cover;background-position:center;background-repeat:no-repeat}#article-list article.album-review .article-thumbnail.album-cover{width:150px !important;height:150px !important;background-size:contain;background-position:center;background-repeat:no-repeat}

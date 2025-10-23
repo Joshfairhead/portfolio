@@ -5,7 +5,7 @@ description = "Photos of a Les Paul replica guitar hand crafted many years ago a
 [taxonomies]
 tags = ["Craft"]
 [extra]
-banner = "cover.png"
+banner = "thumbnail.png"
 
 +++
 

@@ -5,7 +5,7 @@ description = "Sound design, foley and ADR for a mechanical dream world influenc
 [taxonomies]
 tags = ["Visual"]
 [extra]
-banner = "cover.jpg"
+banner = "thumbnail.jpg"
 
 +++
 

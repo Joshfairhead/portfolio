@@ -5,7 +5,7 @@ description = "Music composed based on the timings of an animated video, origina
 [taxonomies]
 tags = ["Visual"]
 [extra]
-banner = "cover.jpg"
+banner = "thumbnail.jpg"
 
 +++
 

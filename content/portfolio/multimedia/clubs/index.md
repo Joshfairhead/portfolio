@@ -6,7 +6,7 @@ date = 2016-11-19
 [taxonomies]
 tags = ["Visual"]
 [extra]
-banner = "cover.jpg"
+banner = "thumbnail.jpg"
 
 +++
 

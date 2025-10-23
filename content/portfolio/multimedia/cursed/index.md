@@ -5,7 +5,7 @@ description = "Music created for short animation where a cursed exile is faced w
 [taxonomies]
 tags = ["Visual"]
 [extra]
-banner = "cover.jpg"
+banner = "thumbnail.jpg"
 
 +++
 

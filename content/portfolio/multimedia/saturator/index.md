@@ -5,7 +5,7 @@ description = "Harmonic saturation patch made in MaxMSP."
 [taxonomies]
 tags = ["Audio"]
 [extra]
-banner = "cover.jpg"
+banner = "thumbnail.jpg"
 
 +++
 
