@@ -4,6 +4,8 @@ title = "Sons of Gingerbread"
 description = "Live recording and mix of a rather wild group of westport surfers."
 [taxonomies]
 tags = ["Audio"]
+[extra]
+banner = "cover.jpg"
 
 +++
 

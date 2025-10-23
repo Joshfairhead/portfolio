@@ -4,6 +4,8 @@ title = "Cursed Animation"
 description = "Music created for short animation where a cursed exile is faced with a life and death dilemma."
 [taxonomies]
 tags = ["Visual"]
+[extra]
+banner = "cover.jpg"
 
 +++
 

@@ -7,6 +7,7 @@ tags = ["Audio"]
 [extra]
 featured = true
 weight = 3
+banner = "cover.jpg"
 
 +++
 

@@ -77,9 +77,9 @@ source_url = "https://codeberg.org/daudix/duckquill"
 # Additional CSS styles; expects them to be in the "./static/" directory.
 # If you are using Sass it will be generated there automatically.
 #
-# styles = [
-#   "_article-list-cosmos.scss",
-# ]
+styles = [
+  "portfolio-cards.css",
+]
 #
 # Additional JavaScript scripts; expects them to be in the "./static/" directory.
 #

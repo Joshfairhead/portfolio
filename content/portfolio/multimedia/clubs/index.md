@@ -5,6 +5,8 @@ description = "Lighting design for Eric Morillos 2016 performance in Egg London.
 date = 2016-11-19
 [taxonomies]
 tags = ["Visual"]
+[extra]
+banner = "cover.jpg"
 
 +++
 

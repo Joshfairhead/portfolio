@@ -4,6 +4,8 @@ title = "Les Paul"
 description = "Photos of a Les Paul replica guitar hand crafted many years ago as a leaving cert project."
 [taxonomies]
 tags = ["Craft"]
+[extra]
+banner = "cover.png"
 
 +++
 

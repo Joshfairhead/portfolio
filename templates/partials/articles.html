@@ -34,9 +34,9 @@
 				{%- set is_album = true -%}
 				{%- set is_book = false -%}
 			{%- else -%}
-				{%- set thumbnail = resize_image(path=page.colocated_path ~ page.extra.banner, width=200, height=150, op="fill", format="webp") -%}
+				{%- set thumbnail = resize_image(path=page.colocated_path ~ page.extra.banner, width=300, height=300, op="fit", format="webp") -%}
 				{%- set is_book = false -%}
-				{%- set is_album = false -%}
+				{%- set is_album = true -%}
 			{%- endif -%}
 		{%- endif -%}
 		<article {% if article_type %}class="{{ article_type }}"{% elif is_book %}class="book-review"{% elif is_album %}class="album-review"{% endif %}>

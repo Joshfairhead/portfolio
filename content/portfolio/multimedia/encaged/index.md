@@ -4,6 +4,8 @@ title = "Encaged"
 description = "Music composed for a short animation about old people connecting through their birds."
 [taxonomies]
 tags = ["Visual"]
+[extra]
+banner = "cover.jpg"
 
 +++
 
