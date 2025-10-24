@@ -59,7 +59,7 @@
 			{%- set article_string = macros_translate::translate(key="poor", default="Poor", language_strings=language_strings) -%}
 		{%- endif -%}
 		{%- if page.extra.banner -%}
-			{%- set blurnail = resize_image(path=page.colocated_path ~ page.extra.banner, width=4, height=2, op="fill", format="webp") -%}
+			{%- set blurnail = resize_image(path=page.colocated_path ~ page.extra.banner, width=800, op="fit_width", format="webp") -%}
 		{%- endif -%}
 		<article class="{% if article_type %}{{ article_type }} {% endif %}portfolio-card" {% if blurnail %}style="--blurnail: url('{{ blurnail.url }}')"{% endif %}>
 			<a href="{{ page.permalink | safe }}"></a>
