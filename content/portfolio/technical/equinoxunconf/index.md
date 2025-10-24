@@ -4,6 +4,9 @@ title = "Equinox Unconf"
 description = "Online gathering and unconference"
 [taxonomies]
 tags = ["Event"]
+[extra]
+banner = "thumbnail.png"
+weight = 10
 
 +++
 

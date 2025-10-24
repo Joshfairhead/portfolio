@@ -5,6 +5,9 @@ description = "Design proposal for the Regen community solving technological pro
 date = 2023-09-11
 [taxonomies]
 tags = ["Proposal"]
+[extra]
+banner = "thumbnail.jpg"
+weight = 10
 
 
 +++

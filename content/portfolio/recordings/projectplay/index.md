@@ -6,6 +6,7 @@ description = "A masters project playing all the parts; composition, arrangement
 tags = ["Audio"]
 [extra]
 banner = "cover.jpg"
+weight = 10
 
 +++
 

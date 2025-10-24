@@ -6,6 +6,7 @@ date = 2024-01-01
 [taxonomies]
 tags = ["Design", "Systems", "Architecture", "AI"]
 [extra]
+banner = "thumbnail.webp"
 featured = true
 weight = 1
 draft = false

@@ -167,10 +167,6 @@ links = [
 		{ url = "@/travel/_index.md", name = "Travel" },
 		{ url = "@/blog/_index.md", name = "Blog" },
 	] },
-	{ name = "Support", menu = [
-		{ url = "https://opencollective.com/lens-and-method", name = "Open Collective" },
-		{ url = "https://buymeacoffee.com/joshafairhead", name = "Coffee" },
-	]},
 	# { url = "@/cv/_index.md", name = "CV" },
 ]
 

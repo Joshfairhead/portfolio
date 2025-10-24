@@ -6,6 +6,7 @@ description = "Live recording and mix of a rather wild group of westport surfers
 tags = ["Audio"]
 [extra]
 banner = "cover.jpg"
+weight = 10
 
 +++
 
