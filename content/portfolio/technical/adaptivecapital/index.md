@@ -3,13 +3,12 @@ authors = ["Josh Fairhead"]
 title = "Adaptive Capital"
 description = "Design proposal for the Regen community solving technological problems with regards to the valuation of nature and the multiple issues that need to be addressed simultaneously."
 date = 2023-09-11
+weight = 10
 [taxonomies]
 tags = ["Proposal"]
 [extra]
 banner = "thumbnail.jpg"
-weight = 10
-
-
+hero = false
 +++
 
 [Adaptive Capial Proposal](https://commonwealth.im/regen/discussion/10002-rfp-tokenomics-20-proposal-adaptive-capital)

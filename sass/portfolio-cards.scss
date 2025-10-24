@@ -1,21 +1,24 @@
 #article-list {
-	article.multimedia-item {
-		.article-thumbnail.multimedia-thumbnail {
-			width: 200px !important;
-			height: 150px !important;
-			background-size: cover;
-			background-position: center;
-			background-repeat: no-repeat;
-		}
+	article .article-thumbnail.multimedia-thumbnail {
+		display: block !important;
+		visibility: visible !important;
+		opacity: 1 !important;
+		flex-shrink: 0 !important;
+		width: 200px !important;
+		height: 150px !important;
+		border-radius: var(--rounded-corner) !important;
+		background-size: cover !important;
+		background-position: center !important;
+		background-repeat: no-repeat !important;
+		position: relative !important;
+		overflow: hidden !important;
 	}
 
-	article.album-review {
-		.article-thumbnail.album-cover {
-			width: 150px !important;
-			height: 150px !important;
-			background-size: contain;
-			background-position: center;
-			background-repeat: no-repeat;
-		}
+	article.album-review .article-thumbnail.album-cover {
+		width: 150px !important;
+		height: 150px !important;
+		background-size: contain !important;
+		background-position: center !important;
+		background-repeat: no-repeat !important;
 	}
 }
