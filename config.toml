@@ -77,9 +77,9 @@ source_url = "https://codeberg.org/daudix/duckquill"
 # Additional CSS styles; expects them to be in the "./static/" directory.
 # If you are using Sass it will be generated there automatically.
 #
-# styles = [
-#   "_article-list-cosmos.scss",
-# ]
+styles = [
+  "portfolio-cards.css",
+]
 #
 # Additional JavaScript scripts; expects them to be in the "./static/" directory.
 #
@@ -156,20 +156,17 @@ show_repo = false
 # i.e. "@/blog/_index.md".
 # See https://www.getzola.org/documentation/content/linking/#internal-links
 links = [
-	{ url = "@/portfolio/_index.md", name = "Portfolio" },
+	{ name = "Portfolio", menu = [
+		{ url = "@/portfolio/technical/_index.md", name = "Technical" },
+		{ url = "@/portfolio/recordings/_index.md", name = "Recordings" },
+		{ url = "@/portfolio/multimedia/_index.md", name = "Multimedia" },
+	] },
 	{ name = "Writing", menu = [
-		{ url = "http://consulting.tothecosmos.org", name = "Documentation" },
-		{ url = "@/travel/_index.md", name = "Travel Writing" },
-		{ url = "@/blog/_index.md", name = "Blog" },
-	]},
-	{ name = "Reviews", menu = [
 		{ url = "@/music/_index.md", name = "Music" },
 		{ url = "@/books/_index.md", name = "Books" },
+		{ url = "@/travel/_index.md", name = "Travel" },
+		{ url = "@/blog/_index.md", name = "Blog" },
 	] },
-	{ name = "Support", menu = [
-		{ url = "https://opencollective.com/lens-and-method", name = "Open Collective" },
-		{ url = "https://buymeacoffee.com/joshafairhead", name = "Coffee" },
-	]},
 	# { url = "@/cv/_index.md", name = "CV" },
 ]
 

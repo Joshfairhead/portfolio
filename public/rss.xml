@@ -33,22 +33,6 @@
 </description>
       </item>
       <item>
-          <title>Process Thought and Science 2025 (Session 2)</title>
-          <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-          <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/process-philosophy-2/</link>
-          <guid>https://joshafairhead.com/blog/process-philosophy-2/</guid>
-          <description xml:base="https://joshafairhead.com/blog/process-philosophy-2/"></description>
-      </item>
-      <item>
-          <title>Process Thought and Science 2025 (Session 3)</title>
-          <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-          <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/process-philosophy-3/</link>
-          <guid>https://joshafairhead.com/blog/process-philosophy-3/</guid>
-          <description xml:base="https://joshafairhead.com/blog/process-philosophy-3/"></description>
-      </item>
-      <item>
           <title>Cats Theory Primer: Reasoning and Revisions</title>
           <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
@@ -265,9 +249,9 @@ Ten Genuine Signs&lt;&#x2F;p&gt;
           <title>Resource Library</title>
           <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/systematicsapi/</link>
-          <guid>https://joshafairhead.com/portfolio/systematicsapi/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/systematicsapi/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;systematicsapi&#x2F;HeptadEngineeringTemplate.png#no-hover&quot; alt=&quot;Engineering&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://joshafairhead.com/portfolio/technical/systematicsapi/</link>
+          <guid>https://joshafairhead.com/portfolio/technical/systematicsapi/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/technical/systematicsapi/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;technical&#x2F;systematicsapi&#x2F;HeptadEngineeringTemplate.png#no-hover&quot; alt=&quot;Engineering&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Joshfairhead&#x2F;SystematicsAPI-v0.0.2&quot;&gt;Here is the v0.0.2 codebase&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;background&quot;&gt;Background&lt;&#x2F;h4&gt;
 &lt;p&gt;The systematics API started as a way to store, preserve, search and retrieve the work of Tony Hodgson and JG Bennett - as well as other traditions that make use of such semantic structures. In short these systems are ways of organising information into knowledge ecologies.&lt;&#x2F;p&gt;
@@ -285,16 +269,16 @@ Ten Genuine Signs&lt;&#x2F;p&gt;
 &lt;p&gt;So the question is how the hell to do this on a computing infrastructure built on binary logic?? Well from an earlier (unmentioned) excrusion of equating mathmatical operations to systems I discovered operation types such as ‘union’, ‘intersect’, ‘product’, ‘superset’ and so fourth - which all have a qualitive flavour. Having tried and failed to implement these, while getting utterly lost in recursion, I discovered another term in category theory called DSU or “Disjoint Set, Union”. Is this the monad of monads or even a nullad I wonder? Maybe. Then it dawns on me that Holochain as a distributed hash table with content addressable storage is essentially a DSU, which has generic types of ‘entries’ and ‘links’ as its fundemental dyad.&lt;&#x2F;p&gt;
 &lt;p&gt;So I’m basically still in research mode, but assuming that I can use entries to represent types of objects and categroies and links to represent morphisms and functors (it actully looks like the system may be built on category theory), I still need to work out the relativity of the various ‘elements’. In other words theres specific units needed in order to describe a system (index, coordinate, term = node) and there are critical functions that are not directly needed as part of the system, but give it critical funcitonality - such as the morphism or functor types.&lt;&#x2F;p&gt;
 &lt;p&gt;So, looking back to the heptad of engineering template, I wonder if this the research portion nearing completion? Is the next step imagination and&#x2F;or prototype? How does this relate to the octad? Have I mapped out the units as systems? critical functions as objects, categories, morphisms and functiors? The platform as Holochain? And am now working on resources? It seems so though it was pretty unintentional - even resisted.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;systematicsapi&#x2F;8GenericOctad.png#no-hover&quot; alt=&quot;Octad&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;technical&#x2F;systematicsapi&#x2F;8GenericOctad.png#no-hover&quot; alt=&quot;Octad&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 </description>
       </item>
       <item>
           <title>Adaptive Capital</title>
           <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/adaptivecapital/</link>
-          <guid>https://joshafairhead.com/portfolio/adaptivecapital/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/adaptivecapital/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;commonwealth.im&#x2F;regen&#x2F;discussion&#x2F;10002-rfp-tokenomics-20-proposal-adaptive-capital&quot;&gt;Adaptive Capial Proposal&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+          <link>https://joshafairhead.com/portfolio/technical/adaptivecapital/</link>
+          <guid>https://joshafairhead.com/portfolio/technical/adaptivecapital/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/technical/adaptivecapital/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;commonwealth.im&#x2F;regen&#x2F;discussion&#x2F;10002-rfp-tokenomics-20-proposal-adaptive-capital&quot;&gt;Adaptive Capial Proposal&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Tokenomics Proposal: “Adaptive Capital“&lt;&#x2F;p&gt;
 &lt;p&gt;Background&lt;&#x2F;p&gt;
 &lt;p&gt;We are essentially proposing an ecosystem level partnership between Regen Network and Protocol Labs through the mutual funding of a Tokenomics DAO. This comes from our teams desire to bridge the gap between research and implementation.&lt;&#x2F;p&gt;
@@ -2496,9 +2480,9 @@ In most modern cultures, the [AN] and [BO] stages are primarily found in toddler
           <title>Lighting Design</title>
           <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/clubs/</link>
-          <guid>https://joshafairhead.com/portfolio/clubs/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/clubs/">&lt;iframe
+          <link>https://joshafairhead.com/portfolio/multimedia/clubs/</link>
+          <guid>https://joshafairhead.com/portfolio/multimedia/clubs/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/multimedia/clubs/">&lt;iframe
 	class=&quot;youtube-embed&quot;
 	src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;8JAMkrzSRao&quot;
 	allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot;
