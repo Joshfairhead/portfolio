@@ -1,7 +1,7 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Equinox Unconf"
-description = "A participant-driven online gathering celebrating balance through collaborative learning and sharing in open space."
+description = "Facilitating transformative unconference experiences that honor collective wisdom - creating digital spaces where communities self-organize around open space principles."
 weight = 10
 [taxonomies]
 tags = ["Event"]
