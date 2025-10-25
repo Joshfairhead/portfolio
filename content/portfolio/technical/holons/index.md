@@ -6,7 +6,7 @@ weight = 10
 [taxonomies]
 tags = ["Protocol", "AI", "Blockchain", "Systems"]
 [extra]
-banner = "thumbnail.png"
+banner = "thumbnail.jpg"
 hero = false
 +++
 
