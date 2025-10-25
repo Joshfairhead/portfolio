@@ -12,7 +12,7 @@ hero = false
 
 [Holons](https://www.holons.io/) is an innovative organizational coordination platform that enables the creation of adaptive, interconnected organizations mirroring natural network structures. Built as an open protocol, it integrates Telegram-based coordination with AI-enhanced resource allocation and blockchain tracking.
 
-The platform supports decentralized, nested organizational structures inspired by natural systems - from cells to societies. It aligns with systemic approaches to social organization, drawing from movements like Resource Based Economy and The Venus Project.
+The platform supports decentralized, nested organizational structures inspired by natural systems - from cells to societies.
 
 ## Key Features
 
