@@ -1,7 +1,7 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Resource Library"
-description = "A library for storing general systematics or qualitive systems. These are structured ontologies useful for semantic search and compilation amongst other things. Work in progress or research in motion ;)"
+description = "Research-driven work in semantic knowledge architecture - building an API that preserves and makes searchable structured ontologies from systems thinking traditions."
 date = 2024-01-01
 weight = 1
 draft = false
