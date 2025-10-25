@@ -17,6 +17,9 @@ hero = false
 ---
 
 # Self-Organisation Primer
+
+![The Big Tossup!](EJC-Tossup.jpg#no-hover)
+
 Before getting into the weeds of how to organise an event, I just want to outline that pretty much everything can be considered self-organising at the macro level. All, is made up of everything. So, metaphysical semantics aside - lets zoom in and and discuss this at a level of granularity where there's both an interior and exterior; order and chaos.
 
 Order often arises out of a chaotic primordial soup that has enough stored potential for structure to emerge spontaneously. In living systems this is the formation of a cellular membrane who's metabolism regulates the flow of energy and resources across the boundary. Lets apply this concept to an event.
