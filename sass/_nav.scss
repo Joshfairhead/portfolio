@@ -98,9 +98,20 @@
 
 		@media only screen and (max-width: 480px) {
 			&.mobile-menu-closed {
-				li:not(#home):not(.divider) {
+				li:not(#home):not(#menu-toggle):not(.divider) {
 					display: none;
 				}
+			}
+		}
+
+		#menu-toggle {
+			@media only screen and (min-width: 481px) {
+				display: none;
+			}
+
+			button {
+				width: 100%;
+				text-align: left;
 			}
 		}
 

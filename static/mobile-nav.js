@@ -1,20 +1,21 @@
 // Mobile navigation toggle
 const nav = document.querySelector('#site-nav nav');
-const homeButton = document.querySelector('#home a');
+const menuToggle = document.querySelector('#menu-toggle button');
 
 // Start with menu closed on mobile
 if (window.innerWidth <= 480) {
 	nav.classList.add('mobile-menu-closed');
 }
 
-// Toggle menu on mobile when clicking home button
-homeButton.addEventListener('click', (e) => {
-	if (window.innerWidth <= 480) {
-		e.preventDefault();
-		nav.classList.toggle('mobile-menu-closed');
-	}
-	// On desktop, let the link work normally (navigate to /about)
-});
+// Toggle menu on mobile when clicking menu toggle button
+if (menuToggle) {
+	menuToggle.addEventListener('click', (e) => {
+		if (window.innerWidth <= 480) {
+			e.preventDefault();
+			nav.classList.toggle('mobile-menu-closed');
+		}
+	});
+}
 
 // Reset on window resize
 window.addEventListener('resize', () => {
