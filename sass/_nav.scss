@@ -114,7 +114,7 @@
 				color: var(--accent-color) !important;
 
 				&:hover {
-					background-color: var(--accent-color);
+					background-color: var(--accent-color) !important;
 					color: var(--contrast-color) !important;
 				}
 
