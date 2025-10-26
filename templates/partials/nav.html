@@ -1,5 +1,20 @@
 {%- set rel_attributes = macros_rel_attributes::rel_attributes() | trim -%}
 
+{%- set current_section = config.title -%}
+{%- set current_path = current_url | default(value="/") -%}
+
+{%- for link in config.extra.nav.links -%}
+	{%- if link.menu and link.menu | length > 0 -%}
+		{%- for menu_item in link.menu -%}
+			{%- if menu_item.url and current_path is containing(menu_item.url | replace(from="@/", to="") | replace(from="_index.md", to="") | replace(from=".md", to="")) -%}
+				{%- set_global current_section = link.name -%}
+			{%- endif -%}
+		{%- endfor -%}
+	{%- elif link.url and current_path is containing(link.url | replace(from="@/", to="") | replace(from="_index.md", to="") | replace(from=".md", to="")) -%}
+		{%- set_global current_section = link.name -%}
+	{%- endif -%}
+{%- endfor -%}
+
 {%- if config.extra.nav.auto_hide %}
 	<div id="handle"></div>
 {%- endif %}
@@ -15,7 +30,7 @@
 						class="active"
 					{%- endif -%}>
 					<i class="icon"></i>
-					{{- config.title -}}
+					<span class="home-text">{{- current_section -}}</span>
 				</a>
 			</li>
 			<li class="divider"></li>
