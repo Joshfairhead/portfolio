@@ -111,10 +111,10 @@
 				font-weight: bold;
 				box-shadow: var(--edge-highlight);
 				background-color: var(--accent-color-alpha);
-				color: var(--accent-color);
+				color: var(--accent-color) !important;
 
 				&:hover {
-					background-color: var(--accent-color) !important;
+					background-color: var(--accent-color);
 					color: var(--contrast-color) !important;
 				}
 
