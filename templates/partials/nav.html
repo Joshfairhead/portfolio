@@ -30,15 +30,16 @@
 						class="active"
 					{%- endif -%}>
 					<i class="icon"></i>
+					<span class="home-title">{{- config.title -}}</span>
 				</a>
 			</li>
-			<li class="divider"></li>
+			<li class="divider mobile-only"></li>
 			<li id="menu-toggle">
 				<button type="button">
 					<span class="page-name">{{- current_section -}}</span>
 				</button>
 			</li>
-			<li class="divider"></li>
+			<li class="divider mobile-only"></li>
 			{%- for link in config.extra.nav.links %}
 				{%- if link.menu and link.menu | length > 0 -%}
 					<li>
