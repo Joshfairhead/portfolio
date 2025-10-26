@@ -108,10 +108,23 @@
 			button {
 				width: 100%;
 				text-align: left;
+				box-shadow: var(--edge-highlight);
+				background-color: var(--accent-color-alpha);
+				color: var(--accent-color);
+
+				&:hover {
+					background-color: var(--accent-color);
+					color: var(--contrast-color);
+				}
 
 				@media only screen and (min-width: 481px) {
 					pointer-events: none;
 					cursor: default;
+
+					&:hover {
+						background-color: var(--accent-color-alpha);
+						color: var(--accent-color);
+					}
 				}
 			}
 		}
