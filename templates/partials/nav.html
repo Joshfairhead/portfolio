@@ -7,7 +7,7 @@
 	{%- if link.menu and link.menu | length > 0 -%}
 		{%- for menu_item in link.menu -%}
 			{%- if menu_item.url and current_path is containing(menu_item.url | replace(from="@/", to="") | replace(from="_index.md", to="") | replace(from=".md", to="")) -%}
-				{%- set_global current_section = link.name -%}
+				{%- set_global current_section = menu_item.name -%}
 			{%- endif -%}
 		{%- endfor -%}
 	{%- elif link.url and current_path is containing(link.url | replace(from="@/", to="") | replace(from="_index.md", to="") | replace(from=".md", to="")) -%}
