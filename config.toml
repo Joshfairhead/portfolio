@@ -83,10 +83,9 @@ styles = [
 #
 # Additional JavaScript scripts; expects them to be in the "./static/" directory.
 #
-# scripts = [
-#   "buymeacoffee.js",
-#   "ALSO_YOUR_SCRIPT.js"
-# ]
+scripts = [
+  "mobile-nav.js",
+]
 #
 # Whether to show "copy code" button on all code blocks
 # that have the language set.

@@ -94,6 +94,14 @@
 	nav {
 		padding: 0.5rem;
 
+		@media only screen and (max-width: 480px) {
+			&.mobile-menu-closed {
+				li:not(#home):not(.divider) {
+					display: none;
+				}
+			}
+		}
+
 		& > a {
 			-webkit-backdrop-filter: var(--blur);
 			position: absolute;
