@@ -6,7 +6,7 @@ description = "A participatory approach to the Viable System Model using pentadi
 [taxonomies]
 tags = ["VSM", "Systems Thinking", "Methodology", "Cybernetics"]
 [extra]
-banner = "vsm-banner.jpg"
+banner = "vsm-banner.webp"
 
 +++
 
