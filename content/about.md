@@ -1,11 +1,9 @@
 +++
 insert_anchor_links = "left"
-title = "Hi, I'm Josh"
 
 
 [extra]
 styles = ["homepage-header.css"]
-draft = true
 +++
 
 # Hi, I'm Josh
@@ -32,7 +30,7 @@ In practice, this draws on qualitative systems thinking and proven methodologies
 
 All of this is grounded in years of building and coordinating complex systems, from blockchain governance to product management, giving me the experience and unique perspective to understand how teams actually navigate complexity in practice.
 
---- 
+---
 
 ## How we might work together
 
@@ -63,9 +61,9 @@ All of this is grounded in years of building and coordinating complex systems, f
   - Wheel of Wisdom
   - World Game
 
-This approach is informed by hands-on experience coordinating distributed teams, managing technical products, and facilitating governance for web3 communities. Each method serves a purpose—from understanding current reality to (re)designing future possibilities. 
+This approach is informed by hands-on experience coordinating distributed teams, managing technical products, and facilitating governance for web3 communities. Each method serves a purpose—from understanding current reality to (re)designing future possibilities.
 
---- 
+---
 
 ## Personal guidance & coaching
 Beyond organizational work, I offer individual sessions for leaders and change-makers working through:
