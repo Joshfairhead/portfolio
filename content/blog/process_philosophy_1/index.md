@@ -6,7 +6,8 @@ description = "How is Natural Science Possible?"
 [taxonomies]
 tags = ["Process Philosophy", "Whitehead", "Bennett"]
 [extra]
-banner = "session-1-thumbnail.jpg"
+banner = "session-1-thumbnail-v2.jpg"
+banner_style = "object-position: center center;"
 
 +++
 

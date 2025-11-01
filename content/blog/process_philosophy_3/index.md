@@ -1,5 +1,5 @@
 +++
-date = 2025-10-08
+date = 2025-10-30
 authors = ["Josh Fairhead"]
 title = "Process Thought and Science 2025 (Session 3)"
 description = "Panpsychism, or the place of mind in the cosmos"
@@ -7,7 +7,8 @@ draft = false
 [taxonomies]
 tags = ["Process Philosophy", "Whitehead", "Bennett"]
 [extra]
-banner = "session-3-thumbnail.jpg"
+banner = "session-3-thumbnail-v2.jpg"
+banner_style = "object-position: center center;"
 
 +++
 
