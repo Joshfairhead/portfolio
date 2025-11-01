@@ -47,7 +47,7 @@
 				{%- set is_multimedia = false -%}
 			{%- endif -%}
 		{%- endif -%}
-		<article {% if article_type %}class="{{ article_type }}"{% elif is_book %}class="book-review"{% elif is_album %}class="album-review"{% elif is_multimedia %}class="multimedia-item"{% endif %}>
+		<article class="{% if article_type %}{{ article_type }}{% elif is_book %}book-review{% elif is_album %}album-review{% elif is_multimedia %}multimedia-item{% endif %}{% if page.title is containing("Process") %} process-philosophy{% endif %}">
 			<a href="{{ page.permalink | safe }}" class="article-link"></a>
 			{%- if thumbnail -%}
 				<div class="article-thumbnail{% if is_book %} book-cover{% elif is_album %} album-cover{% elif is_multimedia %} multimedia-thumbnail{% endif %}" style="background-image: url('{{ thumbnail.url }}')"></div>
