@@ -6,7 +6,7 @@ description = "How is Natural Science Possible?"
 [taxonomies]
 tags = ["Process Philosophy", "Whitehead", "Bennett"]
 [extra]
-banner = "process-thought.jpg"
+banner = "session-1-thumbnail.jpg"
 
 +++
 

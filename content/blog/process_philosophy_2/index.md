@@ -7,5 +7,6 @@ draft = true
 [taxonomies]
 tags = ["Process Philosophy", "Whitehead", "Bennett"]
 [extra]
+banner = "session-2-thumbnail.jpg"
 
 +++
