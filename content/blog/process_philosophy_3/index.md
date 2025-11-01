@@ -1,5 +1,5 @@
 +++
-date = 2025-10-08
+date = 2025-10-30
 authors = ["Josh Fairhead"]
 title = "Process Thought and Science 2025 (Session 3)"
 description = "Panpsychism, or the place of mind in the cosmos"
