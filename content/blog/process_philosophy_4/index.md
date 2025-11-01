@@ -7,6 +7,7 @@ draft = true
 [taxonomies]
 tags = ["Process Philosophy", "Whitehead", "Bennett"]
 [extra]
+banner = "session-4-thumbnail.jpg"
 
 +++
 Bridging the gap between Goethe and Whitehead

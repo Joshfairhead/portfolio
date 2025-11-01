@@ -17,6 +17,10 @@
 		margin: 0;
 		inset-block-start: 0;
 		inset-inline-start: 0;
+		width: 100vw;
+		height: 50vw;
+		object-fit: cover;
+		object-position: calc(50% + 22px) center;
 	}
 
 	& + #heading {

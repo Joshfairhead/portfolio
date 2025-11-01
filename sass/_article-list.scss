@@ -411,6 +411,14 @@
 			}
 		}
 
+		// Process philosophy thumbnails - use contain to show full image with text
+		&.process-philosophy .article-thumbnail {
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: center;
+			background-color: black;
+		}
+
 		// Portfolio cards use original vertical style
 		&.portfolio-card {
 			flex-direction: column;
