@@ -9,6 +9,8 @@ tags = ["Process Philosophy", "Whitehead", "Bennett"]
 [extra]
 banner = "session-4-thumbnail-v2.jpg"
 banner_style = "object-position: center center;"
+styles = ["lightbox.css"]
+scripts = ["travel-lightbox.js"]
 
 +++
 
@@ -20,7 +22,9 @@ Already I'm seeing parallels with Bennett's work in the DU1 which gives language
 
 The subjective aspect of function. The ordering of function. Knowledge of seven kinds.
 
-![Heptad of Knowledge](HeptadOfKnowledge.jpg)
+<div class="travel-gallery">
+<img src="HeptadOfKnowledge.jpg" alt="Heptad of Knowledge" class="no-hover">
+</div>
 
 What Goethe and Whitehead seem to be pointing at, are the categories above what Bennett named to be 'animal' or 'polar' knowledge. The exact category is hard to put a finger on without going deeper into their work and drawing out comparisons but these authors seem to be at least pointing at "relational" knowledge as indicated by the quote: "Human experience is an act of self origination inclusive of the whole of nature limited to the perspective of a focal region within the body."
 
