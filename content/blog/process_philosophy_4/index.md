@@ -54,6 +54,8 @@ Speaking of religious narrative, this juncture brought the discussion into proce
 
 Having covered much ground here, it would seem that the easiest way to summarize the key points is to boil things down into a dyad of 'actual entities' and 'actual occasions', which give rise to dynamics of 'prehensions' that 'concresce' into a 'superject'.
 
+<img src="PhilosophyOfOrganism.png" alt="Philosophy of Organism" class="no-hover" />
+
 <img src="WhiteheadDyad.jpg" alt="Whitehead Dyad" class="no-hover" />
 
 <img src="WhiteheadTriad.jpg" alt="Whitehead Triad" class="no-hover" />
