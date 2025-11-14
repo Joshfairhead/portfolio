@@ -1,0 +1,24 @@
++++
+authors = ["Josh"]
+title = "Cat Stevens"
+description = "Softspoken songwriting talent"
+[taxonomies]
+music_tags = ["Artist"]
+[extra]
+hero = false
+banner = "teaforthetillerman2.jpg"
++++
+
+Cat Stevens was a songwriter I initially wrote off - for no fault of his own - but because he was guilty by association. The first time I heard of him was by proxy, where his brilliant hit song "Father Son" was completely debased by a cover from "Ronen Keeting" - the lead singer of a naughties Irish pop group called "Boyzone" launching his god aweful solo career. Thankfully, the baby was not thrown out with the bathwater as I rediscovered him several years later when learning guitar in my teens. His songs were easy enough to play, yet creatively unpredictable and outside the box in comparison to other campfire songs you might learn to play on an acoustic guitar. And his production aesthetic was beautifully quirky with that 70s analog vibe. I'm not sure where he recoded to be honest, but his records have a UK sound to them, by which I mean well recorded yet full of blemishes and imperfections that add lots of character. 
+
+Many people will be aware of his most famous tracks "Wild World" and the already mentioned "Father Son" as they are exceptionally famous, but are probably unaware that he later converted to Islam after his rise to fame. Much to the dismay of his record label he also changed his name to Yusef, which may either have been a cleaver way to escape the trappings of fame or career suicide. It was probably neither to be honest, I'm not so aware of his story and came to the party approximately 40 years after his ascent to fame (and subsequent cooling or decent). Whatever the case, besides his various albums - of which I'll confidently recommend "Tea for the Tillerman" - he also wrote all the music for the 1971 cult comedy [Harold and Maude](https://www.imdb.com/title/tt0067185/) which is also worth a watch. 
+
+In regards to an album review, I'm not really going to bother going into detail on "Tea For The Tillerman" because many will already be familliar, which is why I've geneally stayed away from reviewing classics. Instead I'm going to throw a curve ball for those intimately familliar with the album who will be delighted to learn that Yusef rerecoded "Tea For The Tillerman" with a fresh twist! It's called "Tea for the Tillerman^2" which reimagines all the songs in a new style, as well as modifying the album artwork to give the tillerman a space suit and place ! 
+
+If you loved the original album, this is a gem of a remix. Most tracks are not too far off the originals, generally deepening the sound stage in service and support to the original song. There are some more radical reimagings too, namely well chosen vibe changes like "On The Road To Find Out" which has a freaking awesome moody blues vibe with accompanying hammond organ and slide guitar - which for me sinks the original. With that said, his most famous tune "Wild World" is not permitted such grace, by being given a crooner vibe, and frankly sucks. Father Son - the song that almost had me write him off - is however given a glorious remake with a soft choir, orchestra and even a new claymotion video! 
+
+Father Son (notice the poetic close):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B_H5XuIb5WM?si=ZvDu_uImW1NPudN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+On the Road To Find Out:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/69yOu8hrQ6Q?si=5UII6KIB24Ch4prV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
