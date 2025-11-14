@@ -12,7 +12,7 @@ banner = "teaforthetillerman2.jpg"
 <div class="album-gallery">
 	<div class="album-item">
 		<a href="https://youtube.com/playlist?list=PLNPGM2D7aODdP86eGc68WNBgXzOacRDQY&si=m_qhCXfy8s9hU-YA" class="album-link" target="_blank" rel="noopener noreferrer">
-			<img src="teaforthetillerman2.jpg" alt="Tea for the Tillerman" class="album-cover" width="600" height="600" loading="lazy" />
+			<img src="teaforthetillerman.webp" alt="Tea for the Tillerman" class="album-cover" width="600" height="600" loading="lazy" />
 			<div class="album-title">Tea for the Tillerman</div>
 		</a>
 	</div>
