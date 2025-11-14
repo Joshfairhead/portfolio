@@ -1,7 +1,7 @@
 +++
 authors = ["Josh"]
 title = "Cat Stevens"
-description = "Softspoken songwriting talent"
+description = "Soft spoken seventies songwriter records commercial hits and cult classics before changing name and settling down."
 [taxonomies]
 music_tags = ["Artist"]
 [extra]
