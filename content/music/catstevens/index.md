@@ -9,6 +9,15 @@ hero = false
 banner = "teaforthetillerman2.jpg"
 +++
 
+<div class="album-gallery">
+	<div class="album-item">
+		<a href="https://www.youtube.com/playlist?list=OLAK5uy_nKw8EqY0h7JW0E7Z7Z7Z7Z7Z7Z7Z7Z7Z7" class="album-link" target="_blank" rel="noopener noreferrer">
+			<img src="teaforthetillerman2.jpg" alt="Tea for the Tillerman²" class="album-cover" width="600" height="600" loading="lazy" />
+			<div class="album-title">Tea for the Tillerman²</div>
+		</a>
+	</div>
+</div>
+
 Cat Stevens was a songwriter I initially wrote off - for no fault of his own - but because he was guilty by association. The first time I heard of him was by proxy, where his brilliant hit song "Father Son" was completely debased by a cover from "Ronen Keeting" - the lead singer of a naughties Irish pop group called "Boyzone" launching his god aweful solo career. Thankfully, the baby was not thrown out with the bathwater as I rediscovered him several years later when learning guitar in my teens. His songs were easy enough to play, yet creatively unpredictable and outside the box in comparison to other campfire songs you might learn to play on an acoustic guitar. And his production aesthetic was beautifully quirky with that 70s analog vibe. I'm not sure where he recoded to be honest, but his records have a UK sound to them, by which I mean well recorded yet full of blemishes and imperfections that add lots of character. 
 
 Many people will be aware of his most famous tracks "Wild World" and the already mentioned "Father Son" as they are exceptionally famous, but are probably unaware that he later converted to Islam after his rise to fame. Much to the dismay of his record label he also changed his name to Yusef, which may either have been a cleaver way to escape the trappings of fame or career suicide. It was probably neither to be honest, I'm not so aware of his story and came to the party approximately 40 years after his ascent to fame (and subsequent cooling or decent). Whatever the case, besides his various albums - of which I'll confidently recommend "Tea for the Tillerman" - he also wrote all the music for the 1971 cult comedy [Harold and Maude](https://www.imdb.com/title/tt0067185/) which is also worth a watch. 
