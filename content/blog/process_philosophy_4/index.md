@@ -8,7 +8,7 @@ draft = false
 tags = ["Process Philosophy", "Whitehead", "Bennett"]
 [extra]
 banner = "session-4-thumbnail-v2.jpg"
-banner_style = "object-position: center center;"
+banner_style = "object-position: center 35%;"
 styles = ["lightbox.css"]
 scripts = ["travel-lightbox.js"]
 
