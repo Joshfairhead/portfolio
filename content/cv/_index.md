@@ -64,9 +64,6 @@ Product management, research, design and development in relation to a cryptocurr
 
 - [Investment for a Regenerative Economy](https://capitalinstitute.org/investment-for-a-regenerative-economy-course/)
 
-**Blue Dot Impact | 2025**
-- [Future of AI](https://bluedot.org/certification?id=rec6AMngOqfgKgwLA)
-
 **Capra Course | 2020 – 2021**
 
 - [Systems View of Life](https://www.capracourse.net/)
@@ -117,8 +114,8 @@ Product management, research, design and development in relation to a cryptocurr
 ### Continuous Learning
 **Self-Directed Programming**
 
-- Future of AI
-- Learn Programming
+- [Future of AI](https://bluedot.org/certification?id=rec6AMngOqfgKgwLA)
+- [Learn Programming](learn-programming-certificate.png)
 - Learn Javascript
 - Easy Rust
 
