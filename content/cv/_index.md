@@ -62,15 +62,15 @@ Product management, research, design and development in relation to a cryptocurr
 
 **Capital Institute | 2025**
 
-- [Investment for a Regenerative Economy](https://capitalinstitute.org/investment-for-a-regenerative-economy-course/)
+- [Investment for a Regenerative Economy](capital-institute-regen-economy-certificate.png)
 
 **Capra Course | 2020 – 2021**
 
 - [Systems View of Life](https://www.capracourse.net/)
 
-**University of West London | 2011 – 2013**
-- MA Audio Technology
-- BA Music Technology
+**University of West London | 2010 – 2013**
+- [MA Audio Technology](ma-audio-technology-certificate.png)
+- [BA Music Technology](ba-music-technology-certificate.png)
 
 **BCFE Dublin | ~2010**
 
