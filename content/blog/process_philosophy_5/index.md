@@ -76,7 +76,7 @@ Moving beyond Kant, Matt outlines that in the wake of Kant's critiques - in his 
 I'm not entirely sure how this is dogmatic, it seems quite open minded to hold place for the noumenal, while also dealing with the phenomenal. It may be that the dogmatism was Kant saying that we can't know the noumenal when such a world is really "closer than your jugular vein". To me this hinges on what is meant by, or specifically the methodology of knowing, which may be defined in several ways but is typically understood as what Bennett termed as "discriminatory knowledge" - which would be utterly inadequate for a second order - or noumenal - science that requires observer participation. Based on my interaction with Matt, it sounds like Kant implies this distinction in his way of knowing (or at least Matt does) but he doesn't seem to articulate precisely enough to be correctly understood unlike Bennett.
 
 <div class="travel-gallery">
-<img src="HeptadOfKnowledge.jpg" alt="Heptad of Knowledge" class="no-hover">
+<img src="HeptadOfKnowledge.png" alt="Heptad of Knowledge" class="no-hover">
 </div>
 
 However there is a big problem with the Noumenal; Kant has already spent hundreds of pages elaborating that causation is a category of our own understanding, only to now contradict this by saying that the world beyond our experience is causing experience. In other words what was previously an immanent metaphysics (where cause is just a category of our understanding), was now becoming a transcendental metaphysics (where cause comes from a place beyond our knowledge), Fichte sees this and radicalizes the perspective by creating an omniscient metaphysics where phenomenal and noumenal worlds are brought forth by our own minds and thinking activity.
