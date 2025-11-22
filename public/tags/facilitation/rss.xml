@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Josh Fairhead - Facilitation</title>
+      <link>https://joshafairhead.com</link>
+      <description>Professional website of Josh Fairhead</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://joshafairhead.com/tags/facilitation/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Methodology Development: Monastic Design</title>
+          <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/blog/monastic-design/</link>
+          <guid>https://joshafairhead.com/blog/monastic-design/</guid>
+          <description xml:base="https://joshafairhead.com/blog/monastic-design/">&lt;h2 id=&quot;context&quot;&gt;Context&lt;&#x2F;h2&gt;
+&lt;p&gt;In Mondays QS Study Group, participants experimented with QualSystems as a dialogic design tool for about 30m. As an experimental instance of applying QS methods to visual facilitation, it seemed relevant to document some of the learnings and share them here.&lt;&#x2F;p&gt;
+&lt;p&gt;The study group gathered to discuss the structure of the octad and an outline of the session intent was shared in the form of an enneagram so wonky that would probably make Gurdjieff weep. Here is the slide for reference:&lt;&#x2F;p&gt;
+&lt;img src=&quot;outline.png&quot; alt=&quot;Session Outline Enneagram&quot; class=&quot;no-hover&quot; &#x2F;&gt;
+&lt;p&gt;The group then read the material from Tony’s QS book and skimmed some examples as an overview. Phil (@ptatenz) then took us through an analysis of an advanced example which Night Hawk (@anthony.hodgson) had previously shared on public transport, this then led to further discussion about the theory, particularly nodes within the arena. As discussion drew to a close on this, we drew our attention towards practice with a very loosely framed workshop on a coordination task with plenty of shared context.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;task&quot;&gt;Task&lt;&#x2F;h2&gt;
+&lt;p&gt;The essential task was simply to coordinate some form of applied group study as praxis learning. However to accomplish this exercise, an existential task was necessary; in this case designing the H3uni resource library.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;method&quot;&gt;Method&lt;&#x2F;h2&gt;
+&lt;p&gt;Dialogue about a shared frame and topic of reference, visually facilitated with a very light touch.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;&#x2F;h2&gt;
+&lt;p&gt;Participants were instructed to contemplate the core grammar or terms of the octad, before reformulating them as questions in relation to the existential task. These were then to be offered to each other, with answers documented on sticky notes. In retrospect, the form reminds me of monastic debate; so perhaps the process, or at least this first step, can be called “monastic design”?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;result&quot;&gt;Result&lt;&#x2F;h2&gt;
+&lt;img src=&quot;design-canvas.jpg&quot; alt=&quot;Design Canvas Output&quot; class=&quot;no-hover&quot; &#x2F;&gt;
+&lt;h2 id=&quot;learnings&quot;&gt;Learnings&lt;&#x2F;h2&gt;
+&lt;p&gt;Conditions here were exceedingly favourable for something to emerge and the session could have gone south pretty easily in other contexts; participants knew each other, meet regularly, are familiar with the base methodologies and subject matter, meaning that both frame and task had been discussed for a considerable length of time (formally and informally).&lt;&#x2F;p&gt;
+&lt;p&gt;Taking the outer terms and re-framing them as questions seemed agreeable and generative within the context of this group, allowing participants to propose interpretations and co-create the frame of inquiry, which had a causal texture that felt somewhat ‘Ratna’ to my own senses:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Positives&lt;&#x2F;strong&gt; include lively and innovative discussion with little disagreement requiring very little intervention.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Negatives&lt;&#x2F;strong&gt; include a sense of unresolved scope creep towards the end of the workshop, that in a larger group would become untenable - though not particularly uncomfortable in this instance.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Ambiguous&lt;&#x2F;strong&gt; elements include the process of reformulating the core grammar into questions as a method that somewhat emerged from the context of the study group. The lack of definition contributed to scope creep, but also generated a lot of meaning making within the group about the deep structure. There’s a sense that we got lucky as the approach seems to align well with step one of the core collaborative process, though seems unlikely to work out in the long run as a set it and forget it strategy.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Indeterminate&lt;&#x2F;strong&gt; elements are perhaps things the lack of evaluation criteria to judge success or failure by. At the essential level we discussed the octad in a practical way and began to use it in practice around a specific task - which is a desirable result, while on the other hand the resource library is a rather large project with a long and slow feed back loop making existential results indeterminate.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Would practitioners be interested in discussing the build out of a ‘this’ still very open method? It would be great to get feedback from experiment participants about their sense of the causal, as well as how to ‘dance hammer’ this octad into something similar yet different to and from other methodologies like the Wheel of Wisdom.&lt;&#x2F;p&gt;
+&lt;p&gt;My core learning here is that if methodologies are developed from the generic octad, they are probably then ‘coloured’ by the specific task or activity - such as the resource library in this case, which in turn when stated out loud reminds me of the heptad of design (light, colour, lines, form, texture, pattern, space). Having wondered how various courses and methodologies form, I’m starting to wonder if our little study group lucked into the first step?&lt;&#x2F;p&gt;
+&lt;img src=&quot;collaborative-process.png&quot; alt=&quot;Core Creative Collaboration Process&quot; class=&quot;no-hover&quot; &#x2F;&gt;
+</description>
+      </item>
+    </channel>
+</rss>

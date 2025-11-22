@@ -1,0 +1,32 @@
+/* Forest background styling */
+body {
+    background-image: url('/forest-background.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+/* Add a subtle overlay to improve text readability */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.85);
+    z-index: -1;
+}
+
+/* Dark theme overlay */
+[data-theme="dark"] body::before {
+    background: rgba(0, 0, 0, 0.75);
+}
+
+/* System dark mode preference */
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) body::before {
+        background: rgba(0, 0, 0, 0.75);
+    }
+}
