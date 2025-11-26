@@ -19,7 +19,9 @@ Numerous authors throughout history have taken this view in various forms of cou
 
 More recently there is Michael Levin, who Matt explains has been driven to adopt panpsychism to explain the collective intelligence of cells which he refers to as goals in morphospace. No one cell can understand or perceive the whole, yet there is collective intelligence that shapes the behaviour of particular units. In other words a tail cell doesn't know its a to become such but it's morphology is none the less shaped by its community (or perhaps society in Whiteheadean terms).
 
-If you're interested in Levins work, he recently shared a new video called "Against Mind-Blindness: recognizing and communicating with unconventional beings": https://www.youtube.com/watch?v=x9qb3bKREI4
+If you're interested in Levins work, he recently shared a new video called ["Against Mind-Blindness: recognizing and communicating with unconventional beings"](https://www.youtube.com/watch?v=x9qb3bKREI4)
+
+{{ youtube(id="x9qb3bKREI4") }}
 
 This video actually does a pretty good job of illustrating the definition of panpsychism which in the context of the lecture is "The view that all things, in all their aspects consist exclusively of 'souls', that is, of various kinds of subjects or units experiencing with their qualifications, relations and groupings or communities." -Charles Hartshorne 
 
