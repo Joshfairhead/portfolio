@@ -7,7 +7,7 @@ weight = 1
 [taxonomies]
 tags = ["Audio"]
 [extra]
-featured = true
+featured = false
 banner = "cover.jpg"
 hero = false
 +++

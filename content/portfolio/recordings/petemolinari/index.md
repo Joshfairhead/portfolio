@@ -8,7 +8,7 @@ weight = 1
 tags = ["Audio"]
 [extra]
 featured = false
-banner = "/artefacts/images/Pete_Cover.png"
+banner = "artefacts/images/Pete_Cover.png"
 hero = false
 +++
 

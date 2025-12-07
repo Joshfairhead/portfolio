@@ -3,7 +3,7 @@ authors = ["Josh Fairhead"]
 title = "Resource Library"
 description = "Research-driven work in semantic knowledge architecture - building an API that preserves and makes searchable structured ontologies from systems thinking traditions."
 date = 2024-01-01
-weight = 1
+weight = 2
 draft = false
 [taxonomies]
 tags = ["Design", "Systems", "Architecture", "AI"]

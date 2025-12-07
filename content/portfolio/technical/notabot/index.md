@@ -1,17 +1,20 @@
 +++
-authors = ["Josh Fairhead"]
 title = "Not-a-Bot"
-description = "Proof of uniqueness system - placeholder for future development."
-draft = true
-weight = 10
+description = "Proof of unique passport identity system"
+draft = false
+weight = 1
 [taxonomies]
-tags = ["Draft", "Identity", "Proof of Uniqueness"]
+tags = ["Identity", "Proof of Uniqueness"]
 [extra]
-banner = "thumbnail.jpg"
+banner = "artefacts/notabot.jpg"
 hero = false
+featured = true
+
 +++
 
-Not-A-Bot was a proof-of-passport identity solution, developed in collaboration with Philip Sheldrake and the Akasha Foundation. The idea being to simply prove uniqueness through institutionally accepted means in order to bootstrap decentrailsed identity from a recognisable trust anchor. This relates work carried out for the Dutch Blockchain Coalition. 
+Not-A-Bot was a proof-of-passport identity solution, developed in collaboration with Philip Sheldrake and the Akasha Foundation. The idea being to simply prove uniqueness through institutionally accepted means in order to bootstrap decentrailsed identity from a recognisable trust anchor. This relates to work carried out for the Dutch Blockchain Coalition. 
+
+---
 
 <!-- 
 
@@ -21,8 +24,7 @@ TODO: Compile and add project documentation
 
 -->
 
-
-# NOT A BOT: Overview
+# Not-A-Bot: Overview
 ## About
 NotABot functions as a sybil proof identity system; specifically proof-of-citizenship. It enables people to pseudonymously prove their accounts stem from a unique root identifier, e-passports, without leaking any information to third parties.
 
@@ -54,41 +56,7 @@ Apply for govermental/philantropic grants. In lucy circumstances the war on disi
 ### Bolt-on Services
 Support, customisation, third party integration, GDPR consulting, PR etc.
 
-
-# NOT A BOT: Technical specs
-## Minimum Lovable Product
-### Implementation
-To be hosted in https://github.com/really-not-a-bot .
-
-### Server-Side (Backend)
-Small Python backend using [FastAPI](https://fastapi.tiangolo.com/) as web framework and [Redis](https://redis.io/) for storage. It will validate passport ids, store generated passport hashes and allow flagging them as bot.
-
-### Data to handle:
-Passport hashes.
-Passport hash metadata (i.e. creation date, expiration date, etc.).
-Passport hash attributes (i.e. not a bot, etc.).
-
-### Endpoints:
-Register new passport hash.
-Flag passport hash as acting like a bot.
-Check if passport hash was reported as acting like a bot.
-
-### Certificates:
-Public keys of all passport-granting authorities.
-
-## Mobile Application (Frontend)
-Cross-platform mobile application using [React Native](https://reactnative.dev/).
-
-Application capable of undertaking user’s passport details, sending the data and receiving the response to & from the backend using API endpoints.
-Generate a QR code for further integration and linking.
-Temporarily store the data in a local instance by generating a file with key value pairs in both IoS & Android Application.
-
-## Requirements:
-[iOS developer account](https://developer.apple.com/programs/)
-[Play Store developer account](https://play.google.com/console/u/0/signup)
-
-## Infrastructure
-Hosting & Continuous Delivery - (e.g. Heroku)
+---
 
 # About Not-A-Bot
 Governments go to great and expensive lengths to design for administration by and of (unique and human) citizens. Over 150 states have issued more than 1 billion [ePassports])(https://en.wikipedia.org/wiki/Biometric_passport) [ref](https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/passport/electronic-passport-trends), and so this seems to be the obvious infrastructure to wield here if we do so with due care and attention.
@@ -195,6 +163,41 @@ TODO: Mission Model Canvas
 TODO: Business Model Canvas
 
 --->
+
+# Not-A-Bot: Technical specs
+## Minimum Lovable Product
+### Implementation
+To be hosted in https://github.com/really-not-a-bot .
+
+### Server-Side (Backend)
+Small Python backend using [FastAPI](https://fastapi.tiangolo.com/) as web framework and [Redis](https://redis.io/) for storage. It will validate passport ids, store generated passport hashes and allow flagging them as bot.
+
+### Data to handle:
+Passport hashes.
+Passport hash metadata (i.e. creation date, expiration date, etc.).
+Passport hash attributes (i.e. not a bot, etc.).
+
+### Endpoints:
+Register new passport hash.
+Flag passport hash as acting like a bot.
+Check if passport hash was reported as acting like a bot.
+
+### Certificates:
+Public keys of all passport-granting authorities.
+
+## Mobile Application (Frontend)
+Cross-platform mobile application using [React Native](https://reactnative.dev/).
+
+Application capable of undertaking user’s passport details, sending the data and receiving the response to & from the backend using API endpoints.
+Generate a QR code for further integration and linking.
+Temporarily store the data in a local instance by generating a file with key value pairs in both IoS & Android Application.
+
+## Requirements:
+[iOS developer account](https://developer.apple.com/programs/)
+[Play Store developer account](https://play.google.com/console/u/0/signup)
+
+## Infrastructure
+Hosting & Continuous Delivery - (e.g. Heroku)
 
 # E-passport verification app requirements
 ## Business requirements
