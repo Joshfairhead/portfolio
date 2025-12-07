@@ -1,14 +1,14 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Pete Molinari"
+title = "Pete Moulinari"
 description = "Live at Bushall"
 draft = true
 weight = 1
 [taxonomies]
 tags = ["Audio"]
 [extra]
-featured = true
-banner = "cover.jpg"
+featured = false
+banner = "/artefacts/images/Pete_Cover.png"
 hero = false
 +++
 
@@ -20,5 +20,5 @@ TODO: Add writeup
 
 --->
 
-Live Recording of Pete at Bushall in Shepards Bush. 
+Live Recording of Pete Moulanari at Bushall in Shepards Bush. 
 
