@@ -7,7 +7,7 @@ weight = 1
 tags = ["Audio"]
 [extra]
 featured = true
-banner = "cover.jpg"
+banner = "cover1.jpg"
 hero = false
 +++
 

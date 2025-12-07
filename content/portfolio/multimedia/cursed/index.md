@@ -10,4 +10,10 @@ banner = "thumbnail.jpg"
 hero = false
 +++
 
+<!--- 
+
+TODO: Add artefacts
+
+--->
+
 {{ vimeo(id="84415196?h=268d2ddc4a") }}
