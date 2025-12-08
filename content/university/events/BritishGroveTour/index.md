@@ -1,0 +1,20 @@
+British Grove Studio Tour
+This was a part of the AES convention and was fascinating introduction to the studios history (one could safely say heritage without overstating the lineage both the staff and equipment came from). The studio was built by the two tour guides Dave Harries & Dave Stewart, both ex-Abby Road engineers who constructed the studio for Mark Knopfler.
+
+The complex consists of two mixing rooms and two live rooms, though the second live room is considerably smaller than the first and is built to the dimensions of an old bedroom that Knopfler was used to recording in. While viewing the room there were some lovely old microphones and a vintage Leslie speaker set up which we were told were for recording part of Marks upcoming album. Beside this was the tape room containing three Studers that were for studio two ‘the small mix room’ making a total of around eight machines in the building; another three next to studio one and a two track in each of the control rooms.
+
+The larger of the studios (one) was of an impressive build which consisted of several booths, variable acoustics and several pairs of Neumann KM84’s permanently attached to the celling. Each both could be opened into each other which effectively allows an engineer to create an approximation of any desired space given the other variable acoustics throughout the studio. The floors of the booths were isolated from each other with hard rubber cones used to bare the weight and absorb vibration, while there was also underfloor heating and cooling laid beneath so the room temperature could be precisely regulated throughout the year...
+
+The control room of studio one was immaculate; it contained a 96-channel Neve 88R console and the only EMI REDD.51 and EMI TG Mk3 desks which are left in existence, alongside a few Fairchild compressors and other pieces of astronomically priced pieces of outboard (like the Pultecs, Manleys, GML’s and Prisim Converters). The Neve was set up in front of a large glass wall to give a clear line of sight anywhere within the live room. The main monitoring was ATC SCM 300ASL speakers suspended in several tons of iron casing just above the glass and which pretty good while there was also rear ATCs on a motorised track allowing for different surround configurations; apparently though they’ve pretty much stayed at 110° since the studio was built... 
+
+On a similar note there was even a button on the desk to close the control room door so that one wouldn't have to move from the mix position; I find particularly amusing but worth mentioning because the attention to detail is what really made this studio special!
+
+Studio two contained an API legacy console, ATC monitoring and a range of Pultecs, Manleys GMLs, TF Pro’s and Prism Converters. There were three tape machines as previously mentioned which were Studers; I’m not entirely sure about studio two but in studio one they ran into the Clasp which transfers to a DAW in real time... http://www.endlessanalog.com/what-is-clasp
+
+The whole studio was built to let in as much natural light as possible and has a really nice ‘vibe’ that must be great for getting good performances. When viewing the power room Dave Harries explained that even the electrics were conditioned in such a way that everything is grounded properly. The result of this being that guitar amplifiers wouldn’t hum when the strings were left untouched; rightfully proud of this though he also noted that nearly every client has taken this facet granted... it a shame, but I was pretty impressed at least.
+
+Conclusion: I’d like to work there but will probably never get the chance; its privately owned and the likely hood of being offered a residency is slim... let me dream though.
+ 
+ 
+
+Outboard: Pultec, Manley, GML,  Prism Sound ADA-8XR converters
