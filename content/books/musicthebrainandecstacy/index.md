@@ -25,7 +25,7 @@ It should be noted that this book does not contribute new research or quantifiab
 
 A couple reoccurring themes found throughout the book worth discussing are contour, hierarchy and structure. Firstly however, it's important to realise that the brain should not be thought of like a computer, storing actions in specific places with a 'top to bottom command'. Instead Jourdain states that it:
 
- 'churns out information through a system of loops, and loops within loops, until centres concerned with every aspect of perception and movement are informed of what is going on and 
+> 'churns out information through a system of loops, and loops within loops, until centres concerned with every aspect of perception and movement are informed of what is going on and 
 have had their say.' [4]
 
 Music could somewhat be seen as paralleling the brains structure with its deep hierarchy, this is hardly surprising considering that our systems of music stem form the brain finding relationships in sound. An example of this hierarchy can be heard in the sound of a piano chord, this contains a relationship between its notes and each of these notes in turn have a timbral quality composed from a fundamental frequency and its harmonically related content [5]. Observing this we see that the structure of even simple music over time can consist of overwhelmingly deep relationships, some in the time domain and others in the frequency domain.

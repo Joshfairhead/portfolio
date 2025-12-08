@@ -21,3 +21,25 @@ TODO: Convert PDFs into PNGs and embed
 
 --->
 
+
+<!--- 
+The intention of this project was to create music from a collaboration of 'colourful people', with the belief that each persons unique push or pull would direct and influence the compositional route.
+
+Throughout the project peoples perceptive correlations between colour and sound were sought and utilised in order to eventually create musical compositions based upon the idea of a 'colour scale'; the mapping of musical notes to colours. 
+
+In order do this; twenty six individuals were surveyed to try obtain their unique perspectives on both their aesthetic and musical sensibilities. The questions in the survey were constructed to reveal any correlations between music and colour and to unearth people that had what could be viewed as crosstalk between these sensibilities.
+
+Of the people that partook in the survey, six had such crosstalk and the resulting tracks utilise their answers in various permutations to create the audio compositions.
+
+The compositions in themselves were created from data gathered through the survey; peoples favorite progressions, scales and notes are examined along with their varying music tastes to choose instrumentation and to decide the overall aim of each composition. 
+
+These aims varied in each composition as they were created from interesting correlations in the survey results obtained from each participant and would vary dependent on the survey data. Each track being composed from the pairing two participants.
+
+Track one aims to show two participants dependency on the I-IV-V progression and is an attempt to show their typical listening music in a different light. This is achieved by utilising chord progressions that contain the least amount of either the I, IV or V chords and keeping familiar instrumentation. 
+
+Track two aims to show music created with a common thought process; utilising  participants that had similar sensibilities to achieve a musical flow.
+
+Track three aims to show music created through a constant struggle for dominance between clashing personalities. This is achieved by pairing participants with opposite sensibilities and tastes in music to achieve this effect.
+
+--->
+
