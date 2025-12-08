@@ -6,7 +6,7 @@ weight = 10
 [taxonomies]
 tags = ["Visual"]
 [extra]
-banner = "thumbnail.jpg"
+banner = "artefacts/thumbnail.jpg"
 hero = false
 +++
 

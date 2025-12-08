@@ -7,7 +7,7 @@ weight = 90
 tags = ["Live Recording"]
 [extra]
 featured = false
-banner = "pictures/cubanbigband.jpg"
+banner = "artefacts/cubanbigband.jpg"
 hero = false
 +++
 
