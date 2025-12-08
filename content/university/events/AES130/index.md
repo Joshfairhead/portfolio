@@ -1,6 +1,18 @@
++++
+authors = ["Josh Fairhead"]
+title = "AES 130th Convention"
+description = ""
+date = 2016-01-01
+weight = 41
+draft = true
+[taxonomies]
+tags = ["Audio Visual", "Installation"]
+[extra]
+hero = false
+draft = true
++++
 
 
-AES 130th Convention
 This was the first time I’ve managed to go to the AES and it was a great experience; I attended many lectures, seminars and a few technical committees. 
 
 Probably the best presentation of the convention was a tutorial by Florian Camerer entitled  “Loudness and EBU R 128 - A Basic Tutorial of the Why and What”. This was such a polished presentation it puts most TED talks to shame and I really have to hand it to Florian for his shear passion on the subject.

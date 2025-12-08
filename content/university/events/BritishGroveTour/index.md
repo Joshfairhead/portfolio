@@ -1,4 +1,18 @@
-British Grove Studio Tour
++++
+authors = ["Josh Fairhead"]
+title = "British Grove Studio Tour"
+description = ""
+date = 2016-01-01
+weight = 41
+draft = true
+[taxonomies]
+tags = ["Audio Visual", "Installation"]
+[extra]
+hero = false
+draft = true
++++
+
+
 This was a part of the AES convention and was fascinating introduction to the studios history (one could safely say heritage without overstating the lineage both the staff and equipment came from). The studio was built by the two tour guides Dave Harries & Dave Stewart, both ex-Abby Road engineers who constructed the studio for Mark Knopfler.
 
 The complex consists of two mixing rooms and two live rooms, though the second live room is considerably smaller than the first and is built to the dimensions of an old bedroom that Knopfler was used to recording in. While viewing the room there were some lovely old microphones and a vintage Leslie speaker set up which we were told were for recording part of Marks upcoming album. Beside this was the tape room containing three Studers that were for studio two ‘the small mix room’ making a total of around eight machines in the building; another three next to studio one and a two track in each of the control rooms.

@@ -1,10 +1,18 @@
 
++++
+authors = ["Josh Fairhead"]
+title = "London College of Music Masterclass - The History of Distortion"
+description = ""
+date = 2016-01-01
+weight = 41
+draft = true
+[taxonomies]
+tags = ["Audio Visual", "Installation"]
+[extra]
+hero = false
+draft = true
++++
 
-
-
-
-
-# London College of Music Masterclass - The History of Distortion
 
 This was a talk came about after I requested a talk–on the basics of electronics and how circuit design could shape distortion characteristics in audio equipment–from an LCM lecturer Andy East who was formally a product manager at Vox Amplification. 
 

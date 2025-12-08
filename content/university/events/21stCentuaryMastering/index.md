@@ -1,8 +1,20 @@
++++
+authors = ["Josh Fairhead"]
+title = "Audio Engineering Society - 21st Century Mastering Workshop"
+description = ""
+date = 2016-01-01
+weight = 41
+draft = true
+[taxonomies]
+tags = ["Audio Visual", "Installation"]
+[extra]
+hero = false
+draft = true
++++
 
 
 
 
-Audio Engineering Society - 21st Century Mastering Workshop
 
 <a href="http://joshportfolio.com/wp-content/uploads/AES_Mastering_Workshop.jpg"><img class="alignleft size-medium wp-image-703" title="AES_Mastering_Workshop" src="http://joshportfolio.com/wp-content/uploads/AES_Mastering_Workshop-300x225.jpg" alt="" width="240" height="180" /></a>
 

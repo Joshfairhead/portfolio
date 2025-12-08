@@ -1,5 +1,17 @@
 
-# London College of Music Masterclass - Building Effects and the Future of DSP
++++
+authors = ["Josh Fairhead"]
+title = "London College of Music Masterclass - Building Effects and the Future of DSP"
+description = ""
+date = 2016-01-01
+weight = 41
+draft = true
+[taxonomies]
+tags = ["Audio Visual", "Installation"]
+[extra]
+hero = false
+draft = true
++++
 
 Took place on the Tuesday 4th May at 18:30 in TC102, University of West London and was presented by Josh Reiss of Queen Marys.
 

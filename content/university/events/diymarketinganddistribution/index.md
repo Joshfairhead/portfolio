@@ -1,9 +1,17 @@
++++
+authors = ["Josh Fairhead"]
+title = "Music Producers Guild: DIY Event no.2 - Marketing & Distribution"
+description = ""
+date = 2016-01-01
+weight = 41
+draft = true
+[taxonomies]
+tags = ["Audio Visual", "Installation"]
+[extra]
+hero = false
+draft = true
++++
 
-
-
-
-
-Music Producers Guild: DIY Event no.2 - Marketing & Distribution
 <a href="http://joshportfolio.com/wp-content/uploads/Unsigned_not_Wasted.jpg"><img class="alignleft" title="Unsigned_not_Wasted" src="http://joshportfolio.com/wp-content/uploads/Unsigned_not_Wasted.jpg" alt="" width="225" height="158" /></a>This was a discussion held by the MPG with panel members Karen Emanuel from Key Production, Jonathan Quarmby from AWAL, Michael Fuller from AIM, James McGuiness from Absolute Marketing &amp; Distribution, and Tommy D from the MPG at one of the largest studios in London; Metropolis.
 
 The talk was centered around independent music marketing–a subject I have a keen interest in–with the panelists discussing key points they felt important to a DIY artist. There were many topics covered such as permission marketing and social networking which are principal tools in a DIY musicians arsenal.

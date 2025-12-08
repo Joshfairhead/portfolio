@@ -1,9 +1,16 @@
-
-
-
-
-
-# Audio Engineering Society - Harmonic Phase
++++
+authors = ["Josh Fairhead"]
+title = "Audio Engineering Society - Harmonic Phase"
+description = ""
+date = 2016-01-01
+weight = 41
+draft = true
+[taxonomies]
+tags = ["Audio Visual", "Installation"]
+[extra]
+hero = false
+draft = true
++++
 
 <a href="http://joshportfolio.com/wp-content/uploads/Harmonic_Phase.jpg"><img class="alignleft size-medium wp-image-693" title="Harmonic_Phase" src="http://joshportfolio.com/wp-content/uploads/Harmonic_Phase-300x206.jpg" alt="" width="240" height="165" /></a>
 
