@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Project Play"
 description = "A masters project playing all the parts; composition, arrangement, recording, mix, 5.1 surround"
-weight = 10
+weight = 20
 [taxonomies]
 tags = ["Audio"]
 [extra]

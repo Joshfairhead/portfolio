@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Sons of Gingerbread"
 description = "Live studio recording and mix of a rather wild group of westport surfers."
-weight = 10
+weight = 70
 [taxonomies]
 tags = ["Audio"]
 [extra]

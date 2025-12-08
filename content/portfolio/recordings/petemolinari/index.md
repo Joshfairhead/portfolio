@@ -1,9 +1,8 @@
 +++
-authors = ["Josh Fairhead"]
 title = "Pete Moulinari"
-description = "Live at Bushall"
-draft = true
-weight = 1
+description = "Live recording of Pete and his band in Shepards Bush"
+draft = false
+weight = 80
 [taxonomies]
 tags = ["Audio"]
 [extra]
@@ -22,3 +21,4 @@ TODO: Add writeup
 
 Live Recording of Pete Moulanari at Bushall in Shepards Bush. 
 
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A2154765473%3Fsecret_token%3Ds-GYl2OuREroa&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joshafairhead" title="JoshAFairhead" target="_blank" style="color: #cccccc; text-decoration: none;">JoshAFairhead</a> · <a href="https://soundcloud.com/joshafairhead/sets/pete-molinari-live-in-bushall/s-GYl2OuREroa" title="Pete Molinari Live in Bushall" target="_blank" style="color: #cccccc; text-decoration: none;">Pete Molinari Live in Bushall</a></div>
