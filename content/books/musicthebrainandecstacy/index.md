@@ -1,12 +1,12 @@
 +++
 authors = ["Josh Fairhead"]
-title = "Music The Brain and Ecstacy by Robert Jourdain"
-description = "One of the best books out there on music and cognition, and a riviting read"
-draft = true
+title = "Music The Brain and Ecstacy"
+description = "One of the best books out there on music and cognition, and a riviting read by Robert Jourdain"
+draft = false
 [taxonomies]
 book_tags = ["Book"]
 [extra]
-banner = "musicthebrainandecstacy.jpg"
+banner = "musicthebrainandecstacy.jpeg"
 hero = false
 
 +++ 

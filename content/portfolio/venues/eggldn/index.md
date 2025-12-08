@@ -8,7 +8,7 @@ weight = 44
 tags = ["Audio Visual", "Technical Management", "Events"]
 [extra]
 hero = false
-draft = true
+draft = false
 +++
 
 Technical management role at Egg London, coordinating audio, visual, and lighting systems for events and performances. Oversaw technical setup, maintained equipment standards, and ensured seamless event production. Here are some nights filmed by the public across the dates I was supplying tech management and lighting, the quality degrades as you go down the list but I am confirmed to be 'busking' on the lights in the first three videos which are pretty good:
