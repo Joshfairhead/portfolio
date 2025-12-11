@@ -1,0 +1,8 @@
+// Custom styles to disable image hover zoom for tea blog
+
+article img {
+	&:hover {
+		transform: none !important;
+		cursor: default !important;
+	}
+}

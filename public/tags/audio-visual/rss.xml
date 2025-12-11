@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Josh Fairhead - Audio Visual</title>
+      <link>https://joshafairhead.com</link>
+      <description>Professional website of Josh Fairhead</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://joshafairhead.com/tags/audio-visual/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Egg London - Technical Management</title>
+          <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/multimedia/eggldn/</link>
+          <guid>https://joshafairhead.com/portfolio/multimedia/eggldn/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/multimedia/eggldn/">&lt;p&gt;Technical management role at Egg London, coordinating audio, visual, and lighting systems for events and performances. Oversaw technical setup, maintained equipment standards, and ensured seamless event production.&lt;&#x2F;p&gt;
+&lt;!-- Add details about the venue, management responsibilities, and notable events --&gt;
+</description>
+      </item>
+      <item>
+          <title>Mber</title>
+          <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/multimedia/mber/</link>
+          <guid>https://joshafairhead.com/portfolio/multimedia/mber/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/multimedia/mber/">&lt;p&gt;Technical installation work for Mber venue including audio, visual, and lighting systems.&lt;&#x2F;p&gt;
+&lt;!-- Add details about the installation, systems used, and any notable achievements --&gt;
+</description>
+      </item>
+      <item>
+          <title>Oriole</title>
+          <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/multimedia/oriole/</link>
+          <guid>https://joshafairhead.com/portfolio/multimedia/oriole/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/multimedia/oriole/">&lt;p&gt;Technical installation work for Oriole venue including audio, visual, and lighting systems.&lt;&#x2F;p&gt;
+&lt;!-- Add details about the installation, systems used, and any notable achievements --&gt;
+</description>
+      </item>
+      <item>
+          <title>SBG - Technical Management</title>
+          <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/multimedia/sbg/</link>
+          <guid>https://joshafairhead.com/portfolio/multimedia/sbg/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/multimedia/sbg/">&lt;p&gt;Technical management role overseeing audio, visual, and lighting systems across 14 SBG venues. Responsibilities included coordinating installations, maintaining technical standards, and managing event production requirements.&lt;&#x2F;p&gt;
+&lt;!-- Add details about the venues, management responsibilities, and notable achievements --&gt;
+</description>
+      </item>
+      <item>
+          <title>Swift</title>
+          <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/portfolio/multimedia/swift/</link>
+          <guid>https://joshafairhead.com/portfolio/multimedia/swift/</guid>
+          <description xml:base="https://joshafairhead.com/portfolio/multimedia/swift/">&lt;p&gt;Technical installation work for Swift venue including audio, visual, and lighting systems.&lt;&#x2F;p&gt;
+&lt;!-- Add details about the installation, systems used, and any notable achievements --&gt;
+</description>
+      </item>
+    </channel>
+</rss>
