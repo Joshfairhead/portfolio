@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Josh Fairhead - silver-tips</title>
+      <link>https://joshafairhead.com</link>
+      <description>Professional website of Josh Fairhead</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://joshafairhead.com/tags/silver-tips/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 05 Dec 2009 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Ceylon Silver Tips</title>
+          <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
+          <author>Josh Fairhead</author>
+          <link>https://joshafairhead.com/tea-blog/ceylon-silver-tips/</link>
+          <guid>https://joshafairhead.com/tea-blog/ceylon-silver-tips/</guid>
+          <description xml:base="https://joshafairhead.com/tea-blog/ceylon-silver-tips/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image1.jpg&quot; alt=&quot;Ceylon Silver Tips packet&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Price:&lt;&#x2F;strong&gt; £2.95&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Quantity:&lt;&#x2F;strong&gt; 100g&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Type:&lt;&#x2F;strong&gt; Ceylon Silver Tips&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Estate:&lt;&#x2F;strong&gt; Unknown&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Retailer:&lt;&#x2F;strong&gt; The Tea Junction Ltd.
+&lt;ul&gt;
+&lt;li&gt;Address: Level 2 Castle Mall, Norwich, NR1 3DD, UK&lt;&#x2F;li&gt;
+&lt;li&gt;Phone: +44 1603 661066&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+    </channel>
+</rss>

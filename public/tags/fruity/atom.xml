@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Josh Fairhead - fruity</title>
+    <subtitle>Professional website of Josh Fairhead</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://joshafairhead.com/tags/fruity/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://joshafairhead.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2010-11-29T00:00:00+00:00</updated>
+    <id>https://joshafairhead.com/tags/fruity/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Whittard&#x27;s Mango Tea</title>
+        <published>2010-11-29T00:00:00+00:00</published>
+        <updated>2010-11-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Josh Fairhead
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://joshafairhead.com/tea-blog/whittards-mango-tea/"/>
+        <id>https://joshafairhead.com/tea-blog/whittards-mango-tea/</id>
+        
+        <content type="html" xml:base="https://joshafairhead.com/tea-blog/whittards-mango-tea/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image1.jpg&quot; alt=&quot;Whittards Mango Tea packet&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+Fresh and light with a slight fruity flavour… Normally the actual tea leaves in packets like this are pretty poor disguised by a flavour, but not in this case the tea is actually alright (I’d guess a Celyon) and the supposed Mango taste is more a general fruitiness.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rating:&lt;&#x2F;strong&gt; 7.5&#x2F;10&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Price:&lt;&#x2F;strong&gt; £ (single pound symbol indicates inexpensive)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Retailer:&lt;&#x2F;strong&gt; Whittard’s&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Passion Fruit Tea</title>
+        <published>2010-06-06T00:00:00+00:00</published>
+        <updated>2010-06-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Josh Fairhead
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://joshafairhead.com/tea-blog/passion-fruit-tea/"/>
+        <id>https://joshafairhead.com/tea-blog/passion-fruit-tea/</id>
+        
+        <content type="html" xml:base="https://joshafairhead.com/tea-blog/passion-fruit-tea/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;passion-fruit-tea&#x2F;image1.jpg&quot; alt=&quot;Passion Fruit Tea packet&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;passion-fruit-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;passion-fruit-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+Very round and light, a real summer tea. The passion fruit flavour really comes out as the tempreture drops; getting sweeter as it cools to a nice tempreture to drink at. The Chinese black tea could be better quality but if combined with the Orange Pettiagalla Celyon from a couple of posts ago it can taste pretty damn good. Another good addition to this combination is The Blue Lady tea, which in the right quantaties works pretty well.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rating:&lt;&#x2F;strong&gt; 6&#x2F;10&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Price:&lt;&#x2F;strong&gt; £4.70&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Quantity:&lt;&#x2F;strong&gt; 100g&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Retailer:&lt;&#x2F;strong&gt; Terra Nera Tea Boutique
+&lt;ul&gt;
+&lt;li&gt;Location: Camden Market, London, UK&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
