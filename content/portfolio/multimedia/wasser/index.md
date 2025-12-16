@@ -8,6 +8,7 @@ draft = false
 [taxonomies]
 tags = ["Audio Visual", "Installation"]
 [extra]
+banner = "thumbnail.jpg"
 hero = false
 +++
 
