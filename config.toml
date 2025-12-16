@@ -160,11 +160,11 @@ links = [
 		{ url = "@/cv/_index.md", name = "CV" },
 	] },
 	{ name = "Portfolio", menu = [
-		{ url = "@/portfolio/technical/_index.md", name = "Technical" },
-		{ url = "@/portfolio/recordings/_index.md", name = "Recordings" },
-		{ url = "@/portfolio/multimedia/_index.md", name = "Multimedia" },
 		{ url = "@/portfolio/events/_index.md", name = "Events" },
 		{ url = "@/portfolio/venues/_index.md", name = "Venues" },
+		{ url = "@/portfolio/multimedia/_index.md", name = "Multimedia" },
+		{ url = "@/portfolio/recordings/_index.md", name = "Recordings" },
+		{ url = "@/portfolio/software/_index.md", name = "Software" },
 	] },
 	{ name = "Writing", menu = [
 		{ url = "@/books/_index.md", name = "Books" },

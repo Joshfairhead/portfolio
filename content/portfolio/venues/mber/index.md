@@ -19,11 +19,11 @@ scripts = ["gallery.js"]
 Technical installation work for Mber venue including audio, visual, and lighting systems.
 
 <div class="image-gallery gallery-3 gallery-resized">
-{{ image(url="photos/mber10.jpg", alt="Mber Installation 10", no_hover=true) }}
-{{ image(url="photos/mber3.jpeg", alt="Mber Installation 3", no_hover=true) }}
-{{ image(url="photos/mber11.jpg", alt="Mber Installation 11", no_hover=true) }}
-{{ image(url="photos/mber6.jpg", alt="Mber Installation 6", no_hover=true) }}
-{{ image(url="photos/mber7.jpg", alt="Mber Installation 7", no_hover=true) }}
-{{ image(url="photos/mber2.jpg", alt="Mber Installation 2", no_hover=true) }}
+{{ image(url="photos/mber-1.jpg", alt="Mber Installation 1", no_hover=true) }}
+{{ image(url="photos/mber-2.jpeg", alt="Mber Installation 2", no_hover=true) }}
+{{ image(url="photos/mber-3.jpg", alt="Mber Installation 3", no_hover=true) }}
+{{ image(url="photos/mber-4.jpg", alt="Mber Installation 4", no_hover=true) }}
+{{ image(url="photos/mber-5.jpg", alt="Mber Installation 5", no_hover=true) }}
+{{ image(url="photos/mber-6.jpg", alt="Mber Installation 6", no_hover=true) }}
 
 </div>

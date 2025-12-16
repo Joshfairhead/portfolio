@@ -7,6 +7,7 @@ weight = 43
 [taxonomies]
 tags = ["Audio Visual", "Technical Management", "Events"]
 [extra]
+banner = "thumbnail.jpg"
 hero = false
 draft = true
 +++
