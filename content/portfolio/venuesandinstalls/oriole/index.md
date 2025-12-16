@@ -16,14 +16,7 @@ scripts = ["gallery.js"]
 
 [Oriole](https://www.oriolebar.com/)
 
-Technical installation work for Oriole venue, one of top bars in the world. Martin Audio speakers, monitors and amps, with Soundcraft SE1 Expression desk and Soundcraft UI8 networked stage box. 
-
-Mrs Hoodoo:
-{{ youtube(id="YyfNcfEovsU") }}
-{{ youtube(id="RCLGl8q8f2o") }}
-
-Boom La Tete:
-{{ youtube(id="szzQVXjnGYI") }}
+Technical installation work for Oriole venue, one of top bars in the world. Martin Audio speakers, monitors and amps, with Soundcraft SE1 Expression desk and Soundcraft UI8 networked stage box.
 
 <div class="image-gallery gallery-3 gallery-resized">
 {{ image(url="photos/oriole1.jpg", alt="Oriole Installation 1", no_hover=true) }}
@@ -35,3 +28,10 @@ Boom La Tete:
 {{ image(url="photos/oriole7.jpeg", alt="Oriole Installation 7", no_hover=true) }}
 {{ image(url="photos/oriole8.jpg", alt="Oriole Installation 8", no_hover=true) }}
 </div>
+
+Mrs Hoodoo:
+{{ youtube(id="YyfNcfEovsU") }}
+{{ youtube(id="RCLGl8q8f2o") }}
+
+Boom La Tete:
+{{ youtube(id="szzQVXjnGYI") }}
