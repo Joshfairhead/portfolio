@@ -1,0 +1,8 @@
+# Video files
+*.AVI
+*.avi
+*.mp4
+*.mov
+
+# Binaries
+zola
