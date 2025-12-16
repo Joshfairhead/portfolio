@@ -163,6 +163,8 @@ links = [
 		{ url = "@/portfolio/technical/_index.md", name = "Technical" },
 		{ url = "@/portfolio/recordings/_index.md", name = "Recordings" },
 		{ url = "@/portfolio/multimedia/_index.md", name = "Multimedia" },
+		{ url = "@/portfolio/events/_index.md", name = "Events" },
+		{ url = "@/portfolio/venuesandinstalls/_index.md", name = "Venues & Installs" },
 	] },
 	{ name = "Writing", menu = [
 		{ url = "@/books/_index.md", name = "Books" },

@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo 5: Split Layout (Alternating)</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f5f5;
+            padding: 2rem;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            margin-bottom: 2rem;
+            color: #333;
+        }
+
+        .description {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin-bottom: 3rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .article-list {
+            display: flex;
+            flex-direction: column;
+            gap: 3rem;
+        }
+
+        .article-card {
+            background: white;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0;
+            min-height: 350px;
+        }
+
+        .article-card:hover {
+            transform: scale(1.02);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.15);
+        }
+
+        /* Alternate layout for even cards */
+        .article-card:nth-child(even) {
+            direction: rtl;
+        }
+
+        .article-card:nth-child(even) > * {
+            direction: ltr;
+        }
+
+        .article-image {
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .article-card:nth-child(2) .article-image {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        }
+
+        .article-card:nth-child(3) .article-image {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        }
+
+        .article-card:nth-child(4) .article-image {
+            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+        }
+
+        /* Decorative pattern overlay on image */
+        .article-image::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image:
+                repeating-linear-gradient(
+                    45deg,
+                    transparent,
+                    transparent 10px,
+                    rgba(255,255,255,0.03) 10px,
+                    rgba(255,255,255,0.03) 20px
+                );
+        }
+
+        .article-content {
+            padding: 3rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .article-title {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+            color: #333;
+            line-height: 1.2;
+        }
+
+        .article-description {
+            color: #666;
+            margin-bottom: 1.5rem;
+            line-height: 1.7;
+            font-size: 1.05rem;
+        }
+
+        .article-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+            padding-top: 1.5rem;
+            border-top: 2px solid #f0f0f0;
+            font-size: 0.875rem;
+            color: #999;
+        }
+
+        .tags {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .tag {
+            background: #ff7800;
+            color: white;
+            padding: 0.375rem 1rem;
+            border-radius: 999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .read-more {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #ff7800;
+            font-weight: 600;
+            margin-top: 1rem;
+            transition: gap 0.3s ease;
+        }
+
+        .article-card:hover .read-more {
+            gap: 1rem;
+        }
+
+        .read-more::after {
+            content: '→';
+            font-size: 1.25rem;
+        }
+
+        @media (max-width: 968px) {
+            .article-card {
+                grid-template-columns: 1fr;
+            }
+
+            .article-card:nth-child(even) {
+                direction: ltr;
+            }
+
+            .article-image {
+                min-height: 250px;
+            }
+
+            .article-content {
+                padding: 2rem;
+            }
+
+            .article-title {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Demo 5: Split Layout (Alternating)</h1>
+
+        <div class="description">
+            <h2>Design Features:</h2>
+            <ul>
+                <li>50/50 split between image and content (equal visual weight)</li>
+                <li>Cards alternate image position (left/right) for visual rhythm</li>
+                <li>Larger images provide strong visual impact</li>
+                <li>More breathing room and whitespace</li>
+                <li>Modern editorial magazine feel</li>
+                <li>Scales nicely to mobile (stacks vertically)</li>
+                <li>Best for: High-quality long-form content, feature articles, editorial blogs</li>
+            </ul>
+        </div>
+
+        <div class="article-list">
+            <a href="#" class="article-card">
+                <div class="article-image"></div>
+                <div class="article-content">
+                    <h3 class="article-title">Process Thought and Science 2025</h3>
+                    <p class="article-description">
+                        Exploring Whitehead from the familiar ground of Bennett. This article is a reflection and commentary on Process and Thought lecture 1 - the content of which was provided by Matt Segall.
+                    </p>
+                    <div class="article-meta">
+                        <time>October 8, 2025</time>
+                        <div class="tags">
+                            <span class="tag">Philosophy</span>
+                            <span class="tag">Whitehead</span>
+                        </div>
+                    </div>
+                    <span class="read-more">Read Article</span>
+                </div>
+            </a>
+
+            <a href="#" class="article-card">
+                <div class="article-image"></div>
+                <div class="article-content">
+                    <h3 class="article-title">Category Theory and Abstract Thinking</h3>
+                    <p class="article-description">
+                        An exploration of how category theory provides powerful abstractions for understanding complex systems and relationships in mathematics and philosophy.
+                    </p>
+                    <div class="article-meta">
+                        <time>September 15, 2025</time>
+                        <div class="tags">
+                            <span class="tag">Mathematics</span>
+                            <span class="tag">Theory</span>
+                        </div>
+                    </div>
+                    <span class="read-more">Read Article</span>
+                </div>
+            </a>
+
+            <a href="#" class="article-card">
+                <div class="article-image"></div>
+                <div class="article-content">
+                    <h3 class="article-title">Reflections on Systemics and Complexity</h3>
+                    <p class="article-description">
+                        Understanding complex adaptive systems through the lens of process philosophy and modern systems thinking approaches. How emergence shapes our understanding of reality.
+                    </p>
+                    <div class="article-meta">
+                        <time>August 22, 2025</time>
+                        <div class="tags">
+                            <span class="tag">Systems</span>
+                            <span class="tag">Complexity</span>
+                        </div>
+                    </div>
+                    <span class="read-more">Read Article</span>
+                </div>
+            </a>
+
+            <a href="#" class="article-card">
+                <div class="article-image"></div>
+                <div class="article-content">
+                    <h3 class="article-title">The Role of Metaphysics in Modern Science</h3>
+                    <p class="article-description">
+                        How metaphysical assumptions shape scientific inquiry and why acknowledging them leads to better science. A deep dive into philosophical foundations.
+                    </p>
+                    <div class="article-meta">
+                        <time>July 10, 2025</time>
+                        <div class="tags">
+                            <span class="tag">Science</span>
+                            <span class="tag">Metaphysics</span>
+                        </div>
+                    </div>
+                    <span class="read-more">Read Article</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

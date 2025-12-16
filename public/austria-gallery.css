@@ -1,0 +1,19 @@
+/* Austria-specific gallery adjustments */
+
+/* Default consistent sizing for photos */
+.gallery-resized img {
+    height: 280px !important;
+    object-fit: cover;
+}
+
+/* Natural sizing for slides/diagrams that need to be readable */
+.gallery-natural img {
+    height: auto !important;
+    object-fit: contain;
+}
+
+/* Special handling for diagram images */
+.gallery-diagrams img {
+    height: auto !important;
+    object-fit: contain;
+}
