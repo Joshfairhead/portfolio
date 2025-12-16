@@ -4,7 +4,7 @@ title = "Wasser"
 description = "An aging man's decent into madness and death"
 date = 2016-01-01
 weight = 40
-draft = true
+draft = false
 [taxonomies]
 tags = ["Audio Visual", "Installation"]
 [extra]

@@ -1,0 +1,30 @@
+.book-covers {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: stretch;
+  margin: 2rem 0;
+}
+
+.book-covers img {
+  height: 400px;
+  width: auto;
+  object-fit: contain;
+  margin: 0;
+}
+
+@media only screen and (max-width: 720px) {
+  .book-covers {
+    gap: 0.5rem;
+  }
+  
+  .book-covers img {
+    height: 300px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .book-covers img {
+    height: 250px;
+  }
+}
