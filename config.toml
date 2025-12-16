@@ -164,7 +164,7 @@ links = [
 		{ url = "@/portfolio/recordings/_index.md", name = "Recordings" },
 		{ url = "@/portfolio/multimedia/_index.md", name = "Multimedia" },
 		{ url = "@/portfolio/events/_index.md", name = "Events" },
-		{ url = "@/portfolio/venuesandinstalls/_index.md", name = "Venues & Installs" },
+		{ url = "@/portfolio/venues/_index.md", name = "Venues" },
 	] },
 	{ name = "Writing", menu = [
 		{ url = "@/books/_index.md", name = "Books" },
