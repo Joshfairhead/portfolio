@@ -7,8 +7,11 @@ weight = 41
 [taxonomies]
 tags = ["Audio Visual", "Installation"]
 [extra]
+banner = "thumbnail.jpg"
 hero = false
 draft = false
+styles = ["gallery.css"]
+scripts = ["gallery.js"]
 +++
 
 [Oriole](https://www.oriolebar.com/)
@@ -22,29 +25,13 @@ Mrs Hoodoo:
 Boom La Tete:
 {{ youtube(id="szzQVXjnGYI") }}
 
-<div class="album-gallery">
-    <div class="album-item">
-        <img src="photos/oriole1.jpg" alt="Oriole Installation 1" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/oriole2.jpg" alt="Oriole Installation 2" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/oriole3.jpg" alt="Oriole Installation 3" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/oriole4.jpg" alt="Oriole Installation 4" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/oriole5.jpg" alt="Oriole Installation 5" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/oriole6.jpg" alt="Oriole Installation 6" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/oriole7.jpeg" alt="Oriole Installation 7" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/oriole8.jpg" alt="Oriole Installation 8" class="album-cover" loading="lazy" />
-    </div>
+<div class="image-gallery gallery-3 gallery-resized">
+{{ image(url="photos/oriole1.jpg", alt="Oriole Installation 1", no_hover=true) }}
+{{ image(url="photos/oriole2.jpg", alt="Oriole Installation 2", no_hover=true) }}
+{{ image(url="photos/oriole3.jpg", alt="Oriole Installation 3", no_hover=true) }}
+{{ image(url="photos/oriole4.jpg", alt="Oriole Installation 4", no_hover=true) }}
+{{ image(url="photos/oriole5.jpg", alt="Oriole Installation 5", no_hover=true) }}
+{{ image(url="photos/oriole6.jpg", alt="Oriole Installation 6", no_hover=true) }}
+{{ image(url="photos/oriole7.jpeg", alt="Oriole Installation 7", no_hover=true) }}
+{{ image(url="photos/oriole8.jpg", alt="Oriole Installation 8", no_hover=true) }}
 </div>

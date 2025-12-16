@@ -7,43 +7,26 @@ weight = 42
 [taxonomies]
 tags = ["Audio Visual", "Installation"]
 [extra]
+banner = "thumbnail.jpg"
 hero = false
 draft = false
+styles = ["gallery.css"]
+scripts = ["gallery.js"]
 +++
 
 [Ember](https://www.mber.london/gallery)
 
 Technical installation work for Mber venue including audio, visual, and lighting systems.
 
-<div class="album-gallery">
-    <div class="album-item">
-        <img src="photos/mber1.jpg" alt="Mber Installation 1" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/mber2.jpg" alt="Mber Installation 2" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/mber3.jpeg" alt="Mber Installation 3" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/mber4.jpg" alt="Mber Installation 4" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/mber5.jpg" alt="Mber Installation 5" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/mber6.jpg" alt="Mber Installation 6" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/mber7.jpg" alt="Mber Installation 7" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/mber8.jpg" alt="Mber Installation 8" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/mber10.jpg" alt="Mber Installation 10" class="album-cover" loading="lazy" />
-    </div>
-    <div class="album-item">
-        <img src="photos/mber11.jpg" alt="Mber Installation 11" class="album-cover" loading="lazy" />
-    </div>
+<div class="image-gallery gallery-3 gallery-resized">
+{{ image(url="photos/mber1.jpg", alt="Mber Installation 1", no_hover=true) }}
+{{ image(url="photos/mber2.jpg", alt="Mber Installation 2", no_hover=true) }}
+{{ image(url="photos/mber3.jpeg", alt="Mber Installation 3", no_hover=true) }}
+{{ image(url="photos/mber4.jpg", alt="Mber Installation 4", no_hover=true) }}
+{{ image(url="photos/mber5.jpg", alt="Mber Installation 5", no_hover=true) }}
+{{ image(url="photos/mber6.jpg", alt="Mber Installation 6", no_hover=true) }}
+{{ image(url="photos/mber7.jpg", alt="Mber Installation 7", no_hover=true) }}
+{{ image(url="photos/mber8.jpg", alt="Mber Installation 8", no_hover=true) }}
+{{ image(url="photos/mber10.jpg", alt="Mber Installation 10", no_hover=true) }}
+{{ image(url="photos/mber11.jpg", alt="Mber Installation 11", no_hover=true) }}
 </div>
