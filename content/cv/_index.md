@@ -8,57 +8,61 @@ styles = ["cv-spacing.css"]
 +++
 
 ### Professional Summary
-Developing regenerative technology approaches using meta-ontological and categorical frameworks to create generalizable solutions. Applied research spans composable technology systems and educational frameworks designed to align technological development with natural principles and wisdom traditions.
 
------
+Programme manager and governance coordinator with 7+ years leading cross-functional initiatives in fast-moving environments. Combines qualitative systems thinking with hands-on execution.
 
-### Notable Achievements
-
-- "Best Multidisciplinary Approach" from Odyssey Momentum's Self Sovereign Identity track (Dutch Blockchain Coalition, 2019).
-- Facilitated community governance for 25+ person biweekly meetings in delegated proof-of-stake ecosystem
-- Coordinated 25-person hackathon teams at Commons Stack with 3/5 teams winning prizes through cross-team facilitation
-- Helped scale Pillar Project from 7 to approximately 60 people in first year as Product Manager
+- Core member of hypergrowth startup (10x in year one), shipping product to thousands of users
+- Coordinated hackathon teams achieving 60% win rate at world's largest blockchain hackathon
+- Awarded "Best Multidisciplinary Approach" — Odyssey Momentum SSI track (Dutch Blockchain Coalition)
+- Facilitated governance for 25+ person distributed stakeholder groups across validators, developers, and community
 
 -----
 
 ## Experience
 
-##### **Independent Consulting | 2023 – Present**
+##### **AI & Knowledge Systems Consultant | Research & Development | 2023 – Present**
 
-Consulting on various technology projects with a focus on semantics, knowledge graphs, and neurosymbolic AI while testing intelligence hypotheses through basic implementations. Pro bono facilitation of H3uni study groups on J.G. Bennett's General Systematics.
+Consulting on knowledge graph architecture and neurosymbolic AI for technical clients. Built semantic API and ontology for knowledge management system. Facilitated Qualitative Systems Thinking programme at H3uni.
 
 ##### **Ledger Governance Coordinator | Regen Foundation | 2021 – 2022**
 
-Coordinated proposal processes for delegated proof-of-stake community, enabling collaboration between staking DAO delegators, validators, and developers. Developed visual onboarding guides to clarify the roles of markets, science, and technology in relation to people, place, and planet.
+Coordinated biweekly governance meetings with 25+ participants across delegators, validators, and developers. Onboarded land steward cohorts to blockchain-based endowment funding mechanisms.
 
-- Skills: Community management, Change management, Technical documentation
+##### **Identity Systems Consultant | Self Sovereign Identity & Blockchain | 2020 – 2021**
 
-##### **Independent Consulting | Sep 2020 - Sep 2021** 
+Technical advisory on blockchain architecture and identity protocols for Dutch Blockchain Coalition and Akasha Foundation. Designed proof-of-uniqueness system using passport verification for decentralized identity — awarded "Best Multidisciplinary Approach" at Odyssey Momentum.
 
-Awarded "Best Multidisciplinary Approach" from Odyssey Momentum's Self Sovereign Identity track sponsored by the Dutch Blockchain Coalition, which led to consulting and further application development. This was one of the worlds lagest and most prestigeous hackathons. 
+##### **Community & Partnerships Lead | [Commons Stack](https://www.commonsstack.org/) / Liminal Village | 2019 – 2020**
 
-##### **Stewardship, Design and Innovation | LiminalVillage.com | 2019 - 2020**
+Launched Commons Stack alongside [Giveth](https://giveth.io), leading community management and cross-team delivery. Developed organizational narrative grounded in Ostrom's commons governance frameworks. Incubated hackalong community at Liminal Village, coordinating hackathon teams to 60% win rate at Odyssey and seeding identity systems work that led to Momentum award.
 
-Coordinating a community of practice engaging in permaculture, ecological restoration, systems thinking, event organization, and design work for technical projects like [holons.io](https://www.holons.io/).
+##### **Product Manager | Pillar Project, London UK | 2017 – 2018**
 
-##### **Ecosystems Development | Commons Stack | 2018 - 2019**
+Led product management for cryptocurrency wallet from zero to thousands of users. Organized 600-person unconference event. Core team member through 10x growth (6→60) in year one. Shipped across distributed identity, key management, encrypted messaging, and crypto-economic systems.
 
-Catalyzing the launch of the [Commons Stack](https://www.commonsstack.org/) while contributing to [Giveth](giveth.io) through narrative development based on Elinor Ostrom's work *Governing the Commons* which involved hackathon organization, community management and cross-team coordination (3/5 teams won prizes).
+##### **Tech Management & Events Production | Freelance, London UK | 2014 – 2017**
 
-##### **Product | Pillar Project | 2017 - 2018**
-
-Product management, research, design and development in relation to a cryptocurrency wallet from a first principles perspective. Contributed to scaling organization to approximately 50 people in first year. Worked across transdisciplinary domains including distributed identity & key management, distributed storage, encrypted messaging, and crypto-economic primitives.
+Supplied tech management and events production to many of London's best known venues including Nightjar, Oriole, Mber, Cargo, and eggLDN. Equipment supply, install, and operators for lighting, sound, and media servers.
 
 ---
 
 ### Education
+
+**University of West London | 2011 – 2013**
+
+- [MA Audio Technology](ma-audio-technology-certificate.png)
+- [BA Music Technology](ba-music-technology-certificate.png)
+
 **H3Uni.org | 2020 – 2025**
 
 - [Qualitative Systems Thinking](https://www.h3uni.org/events-and-activities/courses/qualitative-systems-thinking/)
 - [Facilitating Transformative Journeys](https://www.h3uni.org/events-and-activities/courses/facilitating-transformational-journeys-ii/)
 - [Art of Creative Collaboration](https://www.h3uni.org/events-and-activities/courses/the-art-of-creative-collaboration/)
 - [Enneagram as Transformational System (VSM)](https://www.h3uni.org/events-and-activities/courses/the-transformational-system-as-enneagram/)
-- [Cosmic Ecology I & II](https://www.h3uni.org/events-and-activities/courses/the-cosmic-ecology-programme/)
+
+**Blue Dot Impact | 2025**
+
+- [Future of AI](https://bluedot.org/certification?id=rec6AMngOqfgKgwLA)
 
 **Capital Institute | 2025**
 
@@ -68,57 +72,26 @@ Product management, research, design and development in relation to a cryptocurr
 
 - [Systems View of Life](https://www.capracourse.net/)
 
-**University of West London | 2010 – 2013**
-- [MA Audio Technology](ma-audio-technology-certificate.png)
-- [BA Music Technology](ba-music-technology-certificate.png)
-
 **BCFE Dublin | ~2010**
 
 - BTEC Sound Engineering
 
 ----
 
-### Skills & Competencies
-**Technical**
+### Skills
 
-- Rust Programming, JavaScript
-- Graph Databases, Semantic Web
-- Protocol Design, Distributed Systems
-- Crypto Economics, Mechanism Design
-- CRDT's, DHT's, Directed Acyclic Graphs
+**Programme & Coordination**
 
-**Research & Systems**
+- Roadmap Planning • Cross-functional Coordination • Stakeholder Management • OKRs • Process Design • Technical Writing
 
-- Regenerative Technology
-- General Systematics
-- Category Theory
-- Semantics
+**Leadership & Facilitation**
 
-**Community & Facilitation**
+- Distributed Team Leadership • Multi-stakeholder Governance • Workshop Facilitation • Event Production • Workshop Design
 
-- Community Building & Management
-- Governance Coordination
-- Facilitation & Creative Collaboration
-- Cybernetics
-- Event Organization
-- Change Management
+**Technical & Research**
 
-**Creative & Technical Production**
+- Knowledge Graphs • General Systematics • Semantic Systems • Category Theory • Rust
 
-- Event Production (Lights, Sound, Media servers)
-- Audio Technology & Sound Engineering
-- Design & Visual Communication
+**Tools**
 
----
-
-### Continuous Learning
-**Self-Directed Programming**
-
-- [Future of AI](https://bluedot.org/certification?id=rec6AMngOqfgKgwLA)
-- [Learn Programming](learn-programming-certificate.png)
-- Learn Javascript
-- Easy Rust
-
-### Current Research Focus
-
-Implementation of J.G. Bennett's General Systematics as "Neurosymbolic AI" leveraging categorical systems and semantic knowledge graphs to enable regenerative outcomes.
+- Git • GitHub • VS Code • Cursor • Claude Code • MCP • Obsidian • Airtable • Zapier • Slack • Discord • Miro • Figma • Google Workspace • Pro Tools • Avolites
