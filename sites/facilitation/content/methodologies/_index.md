@@ -39,40 +39,40 @@ weight = 1
 <p class="section-label">Core Methodologies</p>
 <div class="methodologies__grid">
 <div class="methodology-card">
-<h3 class="methodology-card__title">Complexity Mapping</h3>
-<p class="methodology-card__description">Visual mapping of complex system dynamics and stakeholder relationships.</p>
+<div class="methodology-card__title">Complexity Mapping</div>
+<div class="methodology-card__description">Visual mapping of complex system dynamics and stakeholder relationships.</div>
 </div>
 <div class="methodology-card">
-<h3 class="methodology-card__title">Dilemma Resolution</h3>
-<p class="methodology-card__description">Navigating tensions between competing values and priorities.</p>
+<div class="methodology-card__title">Dilemma Resolution</div>
+<div class="methodology-card__description">Navigating tensions between competing values and priorities.</div>
 </div>
 <div class="methodology-card">
-<h3 class="methodology-card__title">Three Horizons</h3>
-<p class="methodology-card__description">Mapping transitions from present reality to future possibilities.</p>
+<div class="methodology-card__title">Three Horizons</div>
+<div class="methodology-card__description">Mapping transitions from present reality to future possibilities.</div>
 </div>
 <div class="methodology-card">
-<h3 class="methodology-card__title">Causal Texture</h3>
-<p class="methodology-card__description">Understanding how environmental conditions shape organizational responses.</p>
+<div class="methodology-card__title">Causal Texture</div>
+<div class="methodology-card__description">Understanding how environmental conditions shape organizational responses.</div>
 </div>
 <a href="viable-systems-model/" class="methodology-card">
-<h3 class="methodology-card__title">Viable Systems Model</h3>
-<p class="methodology-card__description">A reformulation of Stafford Beer's VSM for visual facilitation through the pentadic lens.</p>
+<div class="methodology-card__title">Viable Systems Model</div>
+<div class="methodology-card__description">A reformulation of Stafford Beer's VSM for visual facilitation through the pentadic lens.</div>
 </a>
 <div class="methodology-card">
-<h3 class="methodology-card__title">Hexagon Clustering</h3>
-<p class="methodology-card__description">Collaborative pattern recognition and theme emergence.</p>
+<div class="methodology-card__title">Hexagon Clustering</div>
+<div class="methodology-card__description">Collaborative pattern recognition and theme emergence.</div>
 </div>
 <a href="synergy-graphs/" class="methodology-card">
-<h3 class="methodology-card__title">Synergy Graphs</h3>
-<p class="methodology-card__description">Seven term systematics for understanding synergy and wholeness.</p>
+<div class="methodology-card__title">Synergy Graphs</div>
+<div class="methodology-card__description">Seven term systematics for understanding synergy and wholeness.</div>
 </a>
 <div class="methodology-card">
-<h3 class="methodology-card__title">Wheel of Wisdom</h3>
-<p class="methodology-card__description">Integrative framework for navigating decision-making with wisdom.</p>
+<div class="methodology-card__title">Wheel of Wisdom</div>
+<div class="methodology-card__description">Integrative framework for navigating decision-making with wisdom.</div>
 </div>
 <div class="methodology-card">
-<h3 class="methodology-card__title">World Game</h3>
-<p class="methodology-card__description">Making the world work for 100% of humanity through collaborative design.</p>
+<div class="methodology-card__title">World Game</div>
+<div class="methodology-card__description">Making the world work for 100% of humanity through collaborative design.</div>
 </div>
 </div>
 </div>
