@@ -6,7 +6,12 @@ weight = 1
 
 <section class="hero">
 <div class="container">
-<h1 class="hero__headline">I help teams find alignment through visual facilitation.</h1>
+<h1 class="hero__headline">Helping teams find alignment through visual facilitation.</h1>
+</div>
+</section>
+
+<section class="about">
+<div class="container">
 <p class="hero__subtext">When teams encounter complex challenges, unclear priorities, or competing perspectives, I create shared references where commonalities emerge naturally. We map what's actually happening, what matters most, and the most resonant pathways forward.</p>
 </div>
 </section>
@@ -15,21 +20,16 @@ weight = 1
 <div class="container">
 <p class="section-label">How We Work Together</p>
 <div class="services__grid">
-<div class="service-card">
-<div class="service-card__title">Workshops & Facilitation</div>
-<div class="service-card__body">Strategic planning sessions, problem-solving workshops, team alignment retreats, and innovation sprints. Visual methods that create shared understanding across stakeholders.</div>
-<div class="service-card__outcome">→ Aligned teams with clear direction</div>
-</div>
-<div class="service-card">
-<div class="service-card__title">Consulting & Design</div>
-<div class="service-card__body">Process mapping and optimization, stakeholder alignment projects, complex decision frameworks, and custom workshop design tailored to your context.</div>
-<div class="service-card__outcome">→ Systems that work for your organization</div>
-</div>
-<div class="service-card">
-<div class="service-card__title">Personal Coaching</div>
-<div class="service-card__body">Individual sessions for leaders working through transitions, strategic thinking, personal development, energy management, and complex decision-making processes.</div>
-<div class="service-card__outcome">→ Clarity in complexity</div>
-</div>
+<div class="service-hex">Events</div>
+<div class="service-hex">Workshops</div>
+<div class="service-hex">Retreats</div>
+<div class="service-hex">Tactics</div>
+<div class="service-hex service-hex--center">Facilitation</div>
+<div class="service-hex">Strategy</div>
+<div class="service-hex">Planning</div>
+<div class="service-hex">Design</div>
+<div class="service-hex">Prototyping</div>
+<div class="service-hex">Product</div>
 </div>
 </div>
 </section>
