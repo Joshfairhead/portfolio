@@ -2,21 +2,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Josh Fairhead - ceylon</title>
-      <link>https://joshafairhead.com</link>
+      <link>http://localhost</link>
       <description>Professional website of Josh Fairhead</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://joshafairhead.com/tags/ceylon/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="http://localhost/tags/ceylon/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Wed, 14 Sep 2011 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Whittards 125th Anniversary Blend</title>
           <pubDate>Wed, 14 Sep 2011 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/whittards-125th-anniversary-blend/</link>
-          <guid>https://joshafairhead.com/tea-blog/whittards-125th-anniversary-blend/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/whittards-125th-anniversary-blend/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image1.jpg&quot; alt=&quot;Whittards 125Th Anniversary Blend packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/whittards-125th-anniversary-blend/</link>
+          <guid>http://localhost/tea-blog/whittards-125th-anniversary-blend/</guid>
+          <description xml:base="http://localhost/tea-blog/whittards-125th-anniversary-blend/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image1.jpg&quot; alt=&quot;Whittards 125Th Anniversary Blend packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 Although the shop assistant did not know what the blend actually consisted of, I would hazard a guess at it being a Ceylon blend mixed with Darjeeling; it has a full bodied taste while also being relatively light. One nice aspect is that it doesn’t get bitter if brewed too long or if left to cool. Overall it has a slightly woody character with floral over tones lending to a nice high-midrange taste.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -30,12 +30,12 @@ Although the shop assistant did not know what the blend actually consisted of, I
           <title>Fortnum &amp; Mason Royal Blend</title>
           <pubDate>Mon, 29 Nov 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/fortnum-mason-royal-blend/</link>
-          <guid>https://joshafairhead.com/tea-blog/fortnum-mason-royal-blend/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/fortnum-mason-royal-blend/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image1.jpg&quot; alt=&quot;Fortnum Mason Royal Blend packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image4.jpg&quot; alt=&quot;Tea detail&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/tea-blog/fortnum-mason-royal-blend/</link>
+          <guid>http://localhost/tea-blog/fortnum-mason-royal-blend/</guid>
+          <description xml:base="http://localhost/tea-blog/fortnum-mason-royal-blend/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image1.jpg&quot; alt=&quot;Fortnum Mason Royal Blend packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image4.jpg&quot; alt=&quot;Tea detail&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tea Type:&lt;&#x2F;strong&gt; Blend combining Assam and Ceylon teas&lt;&#x2F;li&gt;
@@ -47,11 +47,11 @@ Although the shop assistant did not know what the blend actually consisted of, I
           <title>Whittard&#x27;s Mango Tea</title>
           <pubDate>Mon, 29 Nov 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/whittards-mango-tea/</link>
-          <guid>https://joshafairhead.com/tea-blog/whittards-mango-tea/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/whittards-mango-tea/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image1.jpg&quot; alt=&quot;Whittards Mango Tea packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/whittards-mango-tea/</link>
+          <guid>http://localhost/tea-blog/whittards-mango-tea/</guid>
+          <description xml:base="http://localhost/tea-blog/whittards-mango-tea/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image1.jpg&quot; alt=&quot;Whittards Mango Tea packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 Fresh and light with a slight fruity flavour… Normally the actual tea leaves in packets like this are pretty poor disguised by a flavour, but not in this case the tea is actually alright (I’d guess a Celyon) and the supposed Mango taste is more a general fruitiness.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -65,11 +65,11 @@ Fresh and light with a slight fruity flavour… Normally the actual tea leaves i
           <title>Pettiagalla O.P. Ceylon</title>
           <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/pettiagalla-op-ceylon/</link>
-          <guid>https://joshafairhead.com/tea-blog/pettiagalla-op-ceylon/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/pettiagalla-op-ceylon/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;pettiagalla-op-ceylon&#x2F;image1.jpg&quot; alt=&quot;Pettiagalla Op Ceylon packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;pettiagalla-op-ceylon&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;pettiagalla-op-ceylon&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/pettiagalla-op-ceylon/</link>
+          <guid>http://localhost/tea-blog/pettiagalla-op-ceylon/</guid>
+          <description xml:base="http://localhost/tea-blog/pettiagalla-op-ceylon/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;pettiagalla-op-ceylon&#x2F;image1.jpg&quot; alt=&quot;Pettiagalla Op Ceylon packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;pettiagalla-op-ceylon&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;pettiagalla-op-ceylon&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 This is some bloody good tea…
 It tastes very fruity in a good way, although orange in the title is a reference to dutch royalty rather than the taste; however it seems to actually have a really subtle background taste of orange in it. Its similar to a typical darjeeling with its texture but has a bit more body. Some what of a medium weight tea and a new favorite for the moment.
 “If god had dandruff it would be these tea leaves” - Darren Jennings (my flatmate)&lt;&#x2F;p&gt;
@@ -84,11 +84,11 @@ It tastes very fruity in a good way, although orange in the title is a reference
           <title>Ceylon O.P.</title>
           <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/ceylon-op/</link>
-          <guid>https://joshafairhead.com/tea-blog/ceylon-op/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/ceylon-op/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-op&#x2F;image1.jpg&quot; alt=&quot;Ceylon Op packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-op&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-op&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/ceylon-op/</link>
+          <guid>http://localhost/tea-blog/ceylon-op/</guid>
+          <description xml:base="http://localhost/tea-blog/ceylon-op/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;ceylon-op&#x2F;image1.jpg&quot; alt=&quot;Ceylon Op packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;ceylon-op&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;ceylon-op&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 This tea doesn’t really have a whole lot to it… There is an intial taste which is rather solid but has no proper substance to it at the same time. The after taste disappears almost instantly but all in all for the price is rather ok. That said I would rather drink something different for day to day drinking (but Celyons are usually my least favorite tea anyway)&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -109,11 +109,11 @@ This tea doesn’t really have a whole lot to it… There is an intial taste whi
           <title>Ceylon Silver Tips</title>
           <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/ceylon-silver-tips/</link>
-          <guid>https://joshafairhead.com/tea-blog/ceylon-silver-tips/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/ceylon-silver-tips/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image1.jpg&quot; alt=&quot;Ceylon Silver Tips packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/tea-blog/ceylon-silver-tips/</link>
+          <guid>http://localhost/tea-blog/ceylon-silver-tips/</guid>
+          <description xml:base="http://localhost/tea-blog/ceylon-silver-tips/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image1.jpg&quot; alt=&quot;Ceylon Silver Tips packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Price:&lt;&#x2F;strong&gt; £2.95&lt;&#x2F;li&gt;

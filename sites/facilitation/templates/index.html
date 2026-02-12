@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block body_class %}page-home{% endblock %}
+
+{% block body %}
+<div class="card">
+    <h1 class="card__name">Josh Fairhead</h1>
+    <div class="card__divider"></div>
+    <div class="card__links">
+        {% for subsection_path in section.subsections %}
+        {% set subsection = get_section(path=subsection_path) %}
+        <a href="{{ subsection.permalink }}" class="card__link">{{ subsection.title }}</a>
+        {% if not loop.last %}<span class="card__link-separator">·</span>{% endif %}
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

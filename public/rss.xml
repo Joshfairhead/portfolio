@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Josh Fairhead</title>
-      <link>https://joshafairhead.com</link>
+      <link>http://localhost</link>
       <description>Professional website of Josh Fairhead</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://joshafairhead.com/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="http://localhost/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Systematics Interface</title>
           <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/software/systematics-interface/</link>
-          <guid>https://joshafairhead.com/portfolio/software/systematics-interface/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/software/systematics-interface/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;screenshot.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/software/systematics-interface/</link>
+          <guid>http://localhost/portfolio/software/systematics-interface/</guid>
+          <description xml:base="http://localhost/portfolio/software/systematics-interface/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;screenshot.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;why&quot;&gt;Why&lt;&#x2F;h2&gt;
 &lt;p&gt;The field of arteficial intelligence is complex and solving any singular aspect is unlikely to be of much much value due to the non-linear and highly systemic nature of these systems. If we want safe performant systems then we need to work cross functionally across domains like interpretability, representation, and steerability.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;how&quot;&gt;How&lt;&#x2F;h2&gt;
@@ -28,17 +28,17 @@
 &lt;!---
 TODO: Gallery of these images:
 ---&gt; 
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfBeing.png#no-hover&quot; alt=&quot;12levelsofbeing&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12Energies.jpg#no-hover&quot; alt=&quot;12levelsofenergy&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12values.jpg#no-hover&quot; alt=&quot;12levelsofvalues&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfSociety.png#no-hover&quot; alt=&quot;12LevelsOfSociety&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfBeing.png#no-hover&quot; alt=&quot;12levelsofbeing&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12Energies.jpg#no-hover&quot; alt=&quot;12levelsofenergy&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12values.jpg#no-hover&quot; alt=&quot;12levelsofvalues&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfSociety.png#no-hover&quot; alt=&quot;12LevelsOfSociety&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;horizon-3&quot;&gt;Horizon 3&lt;&#x2F;h3&gt;
 &lt;p&gt;With the ability to create, read, update and delete new schemas such as above - we can start to work on the more category theoretic elements to the system, namely the various transformation types between ‘objects’ like the indexes, coordinates or terms contained in the bootstrapping ‘categories’ of topology, geometry and vocabulary. These are perhaps not as fleshed out as the schemas developed by Bennett (above) so those might be considered more useful for analysing the relatioships.&lt;&#x2F;p&gt;
 &lt;p&gt;The ability to add vocabulary and grammars in such a consistent way opens up many possible use cases in domains like interpretability, representation, steerability, and so on - for example, allowing us to probe latent space with different yet equivelent vocabularies in order to get a sense of an LLMs circuits, or we can link together knowledge graphs for the purposes of reasoning and explainability.&lt;&#x2F;p&gt;
 &lt;p&gt;With regards to the category theoretic elements, with our bootstrapping structures in place as well as some initial well defined schemas, we can start looking at processes such as the morphisms between elements internal to a categroy, the functors between categories, or the homotopy types within and across categroies that articulate a sort of state model or hilbert space (note that each system is itself a kind of homotopy type).&lt;&#x2F;p&gt;
 &lt;p&gt;For example we can examine the cross category equivelence mappings between index 1, coordinate 1 and term 1, which I believe is called the functorial semantics. Or we could look at morphism types between nodes in a given category such as isomorphisms, endomorphisms, homomorphisms and so on. We can look at linear transformations such as the fibrations illustrated below where the category of sub-animate existence ‘fibrates’ into a tetrad consisting of sub categories like ‘universal field&#x2F;radiation, elemental complexes, molocular structures, soil and ocean’, and the same for animate and super animate levels of existence. Or we can work out the non-linear transforms between systems such as from a monad of humanity &amp;gt; dyad of man&#x2F;woman &amp;gt; the triad of father&#x2F;mother&#x2F;child. &lt;strong&gt;(Note to self this is possibly a sort of qualative fourrier transform).&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;3_TriadOfAstropoiesis.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfBeing.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;3_TriadOfAstropoiesis.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfBeing.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Building this prototype so that it is self consistent and ultimately correct by construction has already presented many challenges and bootstrapping issues, but horizon one has taken shape far enough to work on the API some more while adding new features.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;horizon-omega&quot;&gt;Horizon omega&lt;&#x2F;h3&gt;
 &lt;p&gt;Assuming that we get as far as horizon three, we should by then have a pretty robust neurosymbolic system. At this point, we can start to add generative AI to the mix, which takes a more cybernetic approach. Assumedly the foundations will be codified to start augmenting the small language models (different categorical schemas) with machine learning techniques such as supervised learning, evolutionary strategies and reinforcement learning. This is of course where the project moves from function into being, which would naturally need to be related to a will or purpose - of which there are many possible candidates.&lt;&#x2F;p&gt;
@@ -52,9 +52,9 @@ TODO: Gallery of these images:
           <title>Process Thought and Science 2025 (Session 5)</title>
           <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/process-philosophy-5/</link>
-          <guid>https://joshafairhead.com/blog/process-philosophy-5/</guid>
-          <description xml:base="https://joshafairhead.com/blog/process-philosophy-5/">&lt;p&gt;Session five is about moving beyond materialism, consequentially it encapsulates two core parts; a conversation with Ed Kelly (University of Virginia) in relation to Perceptual Studies, particularly centered around phenomena like Psi, and a video lecture by Matt covering Schelling and his contemporaries.&lt;&#x2F;p&gt;
+          <link>http://localhost/blog/process-philosophy-5/</link>
+          <guid>http://localhost/blog/process-philosophy-5/</guid>
+          <description xml:base="http://localhost/blog/process-philosophy-5/">&lt;p&gt;Session five is about moving beyond materialism, consequentially it encapsulates two core parts; a conversation with Ed Kelly (University of Virginia) in relation to Perceptual Studies, particularly centered around phenomena like Psi, and a video lecture by Matt covering Schelling and his contemporaries.&lt;&#x2F;p&gt;
 &lt;p&gt;While the ordering was as presented, it seems in keeping with the spirit of the lecture to reverse it and discuss the recording first before the conversation with Ed Kelly. By this I’m gesturing towards the key theme of Schelling inverting Kant or Fichte’s perspectives to arrive at his own counterpoint.&lt;&#x2F;p&gt;
 &lt;p&gt;To get to Schelling or Whitehead, Matt takes us on a historical excursion with regard to Panentheistic thinking - which is somewhat the idea of god interpenetrating the universe, yet also transcending it or being greater than it - because he perceives Schelling to be amongst the first Evolutionary Panentheists. The idea of an evolutionary process or time developmental universe beginning around this period with Schelling, Herder and Lessing.&lt;&#x2F;p&gt;
 &lt;p&gt;But to understand Schelling, and what was creative about his thinking or even Whitehead’s, Matt claims that you need to understand Kant’s Copernican revolution - despite Whitehead’s claims to being a recursion to pre-Kantian modes of thought, who he references none the less, and ends up inverting in an interesting way, possibly prefigured by Schelling.&lt;&#x2F;p&gt;
@@ -138,9 +138,9 @@ TODO: Gallery of these images:
           <title>Process Thought and Science 2025 (Session 4)</title>
           <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/process-philosophy-4/</link>
-          <guid>https://joshafairhead.com/blog/process-philosophy-4/</guid>
-          <description xml:base="https://joshafairhead.com/blog/process-philosophy-4/">&lt;p&gt;The session opens with the question of “what would a non-bifurcated science look like?”. Whitehead’s critique on the bifurcation of nature - the separation of quantity from experiential quality - suggests there’s no justification to make this kind of split other than as a shorthand to emphasize the measurable aspects of science.&lt;&#x2F;p&gt;
+          <link>http://localhost/blog/process-philosophy-4/</link>
+          <guid>http://localhost/blog/process-philosophy-4/</guid>
+          <description xml:base="http://localhost/blog/process-philosophy-4/">&lt;p&gt;The session opens with the question of “what would a non-bifurcated science look like?”. Whitehead’s critique on the bifurcation of nature - the separation of quantity from experiential quality - suggests there’s no justification to make this kind of split other than as a shorthand to emphasize the measurable aspects of science.&lt;&#x2F;p&gt;
 &lt;p&gt;In other words there is no separation between the red hue of a sunset and the electromagnetic radiation that the physicist would measure and talk of. It’s this qualitative science that Goethe was working on about a century before Whitehead, when he states that we are the most precise instrument for the observation of nature that one could ask for - not that either were opposed to using instruments. The statement would appear to be more of a concern that we might lose our sense of proportion by allowing science being subsumed by material instruments and therefore losing touch with life and mind, seeing them as unimportant impositions in a well behaved universe.&lt;&#x2F;p&gt;
 &lt;p&gt;Already I’m seeing parallels with Bennett’s work in the DU1 which gives language to these concerns. He would say that they feared that “discriminative knowledge” would subsume “relational knowledge” and forms beyond these. To be precise Bennett defines knowledge as:&lt;&#x2F;p&gt;
 &lt;p&gt;The subjective aspect of function. The ordering of function. Knowledge of seven kinds.&lt;&#x2F;p&gt;
@@ -170,9 +170,9 @@ TODO: Gallery of these images:
           <title>Process Thought and Science 2025 (Session 3)</title>
           <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/process-philosophy-3/</link>
-          <guid>https://joshafairhead.com/blog/process-philosophy-3/</guid>
-          <description xml:base="https://joshafairhead.com/blog/process-philosophy-3/">&lt;p&gt;Session three dives into the subject of panpsychism, starting with a quote from Heraclitus on the subject; which is that all things glow and have an ever living fire that animates them from the inside out. A claim that the world is ensouled, making panpsychism a sort of philosophical animism.&lt;&#x2F;p&gt;
+          <link>http://localhost/blog/process-philosophy-3/</link>
+          <guid>http://localhost/blog/process-philosophy-3/</guid>
+          <description xml:base="http://localhost/blog/process-philosophy-3/">&lt;p&gt;Session three dives into the subject of panpsychism, starting with a quote from Heraclitus on the subject; which is that all things glow and have an ever living fire that animates them from the inside out. A claim that the world is ensouled, making panpsychism a sort of philosophical animism.&lt;&#x2F;p&gt;
 &lt;p&gt;Numerous authors throughout history have taken this view in various forms of course, the most famous being Jung. David Chalmers is another who brings this into the realm of Consciousness and stating that understanding everything from a functional point of view still begs the question; why is there experience?&lt;&#x2F;p&gt;
 &lt;p&gt;More recently there is Michael Levin, who Matt explains has been driven to adopt panpsychism to explain the collective intelligence of cells which he refers to as goals in morphospace. No one cell can understand or perceive the whole, yet there is collective intelligence that shapes the behaviour of particular units. In other words a tail cell doesn’t know its a to become such but it’s morphology is none the less shaped by its community (or perhaps society in Whiteheadean terms).&lt;&#x2F;p&gt;
 &lt;p&gt;If you’re interested in Levins work, he recently shared a new video called &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=x9qb3bKREI4&quot;&gt;“Against Mind-Blindness: recognizing and communicating with unconventional beings”&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -202,9 +202,9 @@ TODO: Gallery of these images:
           <title>Process Thought and Science 2025 (Session 2)</title>
           <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/process-philosophy-2/</link>
-          <guid>https://joshafairhead.com/blog/process-philosophy-2/</guid>
-          <description xml:base="https://joshafairhead.com/blog/process-philosophy-2/">&lt;p&gt;As far as sessions go, this one is particularly meaty - it begins with the question:&lt;&#x2F;p&gt;
+          <link>http://localhost/blog/process-philosophy-2/</link>
+          <guid>http://localhost/blog/process-philosophy-2/</guid>
+          <description xml:base="http://localhost/blog/process-philosophy-2/">&lt;p&gt;As far as sessions go, this one is particularly meaty - it begins with the question:&lt;&#x2F;p&gt;
 &lt;p&gt;“What does Whitehead’s philosophy of organism contribute to understanding how it is that we live in a physical universe which gives rise to organisms here on earth and perhaps many other planets throughout the galaxy and even the cosmos?”&lt;&#x2F;p&gt;
 &lt;p&gt;Obviously, this is no small question, and as the lesson suggests, the nature of this question has shifted over the last several centuries - where originally, indigenous cultures have tended to consider the earth to be alive with death as the big mystery - but now the more modern scientific cultures, particularly those possessed by the mechanical point of view, tend to consider the universe to be a dead collection of material particles; so the real mystery becomes: what is life?&lt;&#x2F;p&gt;
 &lt;p&gt;The framing here feels along the lines of a dyad with complementary poles between life and death, which would perhaps be of more value framed triadically as a relationship between birth, life, and death. The descriptions of indigenous cultures also draws my attention to religion, which, like indigenous culture, often emphasizes the afterlife.&lt;&#x2F;p&gt;
@@ -246,9 +246,9 @@ TODO: Gallery of these images:
           <title>Process Thought and Science 2025 (Session 1)</title>
           <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/process-philosophy-1/</link>
-          <guid>https://joshafairhead.com/blog/process-philosophy-1/</guid>
-          <description xml:base="https://joshafairhead.com/blog/process-philosophy-1/">&lt;p&gt;This article is a reflection and commentary on Process and Thought lecture 1 - the content of which was provided by Matt Segall - a lecturer from CIIS that’s pretty well known for his expertise on Whitehead. This is my interpretation of the content provided by Matt based on his understanding of Whitehead, so whatever I say about his framing should probably be taken with a pinch of salt.&lt;&#x2F;p&gt;
+          <link>http://localhost/blog/process-philosophy-1/</link>
+          <guid>http://localhost/blog/process-philosophy-1/</guid>
+          <description xml:base="http://localhost/blog/process-philosophy-1/">&lt;p&gt;This article is a reflection and commentary on Process and Thought lecture 1 - the content of which was provided by Matt Segall - a lecturer from CIIS that’s pretty well known for his expertise on Whitehead. This is my interpretation of the content provided by Matt based on his understanding of Whitehead, so whatever I say about his framing should probably be taken with a pinch of salt.&lt;&#x2F;p&gt;
 &lt;p&gt;What’s interesting for me to discover based on this content is that I may be more familiar with Process Philosophy than I initially thought, as listening to him I immediately hear strong correspondences with JG Bennett’s work, an author who’s philosophy I am reasonably connected with and an author who seems to reference Whitehead a great deal. This makes sense given both their timelines, and they seem to be birds of a feather.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;At the beginning of the lecture, Matt claims that Whitehead did not see the universe as divided and instead saw it as relational where every actual occasion of experience from sub-atomic particles to stars and galaxies is a unity of physical and mental feelings. Metaphysically, the echoes here are already quite familiar as he is first talking about an undivided, continuous or maybe Monadic universe that is also relational (or maybe Triadic). This undivided and relational universe however contains multitudes of layered occasions in a sort of qualitative infinity - broadly termed potential and actual - which range from the very small to the very large!&lt;&#x2F;p&gt;
@@ -270,9 +270,9 @@ TODO: Gallery of these images:
           <title>Cats Theory Primer: Reasoning and Revisions</title>
           <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/cats-theory-2/</link>
-          <guid>https://joshafairhead.com/blog/cats-theory-2/</guid>
-          <description xml:base="https://joshafairhead.com/blog/cats-theory-2/">&lt;h3 id=&quot;reflection-on-feedback&quot;&gt;Reflection on Feedback&lt;&#x2F;h3&gt;
+          <link>http://localhost/blog/cats-theory-2/</link>
+          <guid>http://localhost/blog/cats-theory-2/</guid>
+          <description xml:base="http://localhost/blog/cats-theory-2/">&lt;h3 id=&quot;reflection-on-feedback&quot;&gt;Reflection on Feedback&lt;&#x2F;h3&gt;
 &lt;p&gt;Sharing my &lt;a href=&quot;..&#x2F;cats_theory_1&#x2F;&quot;&gt;last post&lt;&#x2F;a&gt; the critique was blunt: “nothing here that you can’t find in an introductory book on Category Theory”. True - and you would probabaly find a whole lot more there too!&lt;&#x2F;p&gt;
 &lt;p&gt;The purpose was and is:&lt;&#x2F;p&gt;
 &lt;ol&gt;
@@ -363,9 +363,9 @@ TODO: Gallery of these images:
           <title>Cats Theory Primer: Ground Zero</title>
           <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/cats-theory-1/</link>
-          <guid>https://joshafairhead.com/blog/cats-theory-1/</guid>
-          <description xml:base="https://joshafairhead.com/blog/cats-theory-1/">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h3&gt;
+          <link>http://localhost/blog/cats-theory-1/</link>
+          <guid>http://localhost/blog/cats-theory-1/</guid>
+          <description xml:base="http://localhost/blog/cats-theory-1/">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h3&gt;
 &lt;p&gt;Coming from a background in tech product development rather than pure mathematics or coding, I’ve recently begun exploring category theory. While I’m familiar with the work of J.G. Bennett and have been exposed to mathematical and programming concepts, I’m essentially starting from the ground up when it comes to formal category theory. This exposition shares what I’ve learned so far, presented in a way that hopefully makes these concepts accessible to others in similar positions.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;foundations-beyond-set-theory&quot;&gt;Foundations: Beyond Set Theory&lt;&#x2F;h3&gt;
 &lt;p&gt;Traditional mathematics typically builds upon set theory as its foundation. However, category theory offers something different—and arguably more powerful. While sets and categories are fundamentally different constructs, category theory provides greater explanatory power and can integrate vast swaths of the mathematical landscape into a unified framework.&lt;&#x2F;p&gt;
@@ -425,9 +425,9 @@ TODO: Gallery of these images:
           <title>Methodology Development: Interactive VSM</title>
           <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/interactive-vsm/</link>
-          <guid>https://joshafairhead.com/blog/interactive-vsm/</guid>
-          <description xml:base="https://joshafairhead.com/blog/interactive-vsm/">&lt;h2 id=&quot;context&quot;&gt;Context&lt;&#x2F;h2&gt;
+          <link>http://localhost/blog/interactive-vsm/</link>
+          <guid>http://localhost/blog/interactive-vsm/</guid>
+          <description xml:base="http://localhost/blog/interactive-vsm/">&lt;h2 id=&quot;context&quot;&gt;Context&lt;&#x2F;h2&gt;
 &lt;p&gt;Having played with the VSM for some time and swam around the Metaphorum space a little I believe the model to be pretty useful, but perceive a massive UX issue.&lt;&#x2F;p&gt;
 &lt;p&gt;For instance, many people at Metaphorum were hitting a bootstrapping issue where they had to sell the client on the model to get the investment to teach (indoctrinate) them about the model, rather than simply realising the models ‘emancipatory’ power.&lt;&#x2F;p&gt;
 &lt;p&gt;There is nothing particularly wrong with the model, but the approach that’s being taken is of Horizon one learning; in other words indoctrination through presentation. While at Metaphorum in 2023 and 2024 it became apparent to me that these models are essentially toy’s to be played with, and if they are to be emancipatory they should probably be less about the information and more about the shared practice…&lt;&#x2F;p&gt;
@@ -466,9 +466,9 @@ TODO: Gallery of these images:
           <title>Methodology Development: Monastic Design</title>
           <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/monastic-design/</link>
-          <guid>https://joshafairhead.com/blog/monastic-design/</guid>
-          <description xml:base="https://joshafairhead.com/blog/monastic-design/">&lt;h2 id=&quot;context&quot;&gt;Context&lt;&#x2F;h2&gt;
+          <link>http://localhost/blog/monastic-design/</link>
+          <guid>http://localhost/blog/monastic-design/</guid>
+          <description xml:base="http://localhost/blog/monastic-design/">&lt;h2 id=&quot;context&quot;&gt;Context&lt;&#x2F;h2&gt;
 &lt;p&gt;In Mondays QS Study Group, participants experimented with QualSystems as a dialogic design tool for about 30m. As an experimental instance of applying QS methods to visual facilitation, it seemed relevant to document some of the learnings and share them here.&lt;&#x2F;p&gt;
 &lt;p&gt;The study group gathered to discuss the structure of the octad and an outline of the session intent was shared in the form of an enneagram so wonky that would probably make Gurdjieff weep. Here is the slide for reference:&lt;&#x2F;p&gt;
 &lt;img src=&quot;outline.png&quot; alt=&quot;Session Outline Enneagram&quot; class=&quot;no-hover&quot; &#x2F;&gt;
@@ -499,9 +499,9 @@ TODO: Gallery of these images:
           <title>Semiotics in Brief</title>
           <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/semiotics/</link>
-          <guid>https://joshafairhead.com/blog/semiotics/</guid>
-          <description xml:base="https://joshafairhead.com/blog/semiotics/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
+          <link>http://localhost/blog/semiotics/</link>
+          <guid>http://localhost/blog/semiotics/</guid>
+          <description xml:base="http://localhost/blog/semiotics/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
 &lt;p&gt;Semiotics is essentially the study of significance, or as it is often put the study of signs, signifiers and the signified. While no expert on Peirce, the patterns of his thinking seem to be foundational thinking within Bennetts theories on the qualitative significance of number, or Hodgsons Qualsystems&#x2F;Qualitative Systems Thinking. Personally speaking, this is what makes Peirce’s work interesting for me.&lt;&#x2F;p&gt;
 &lt;p&gt;Peirce defines semiosis as the action of signs; which can be thought of as the dynamic correlation between objects, signs and interpretants. In this case objects are a form of presentation, signs are a form of re-presentation, and interpretants are the inferential communicative meanings.&lt;&#x2F;p&gt;
 &lt;p&gt;Peirce articulates a form of ternary logic based on categories are called 1stness, 2ndness and 3rdness. To my reasoning equate to schemas like Gurdjieffs active, passive, reconciling or Bennetts function, being, will or Landrys immanant, omniscient, transcendental. These are essentially qualities that can be found in everything, though Peirce starts from his own entry point and attributes his own specific meanings to these descriptions.&lt;&#x2F;p&gt;
@@ -557,9 +557,9 @@ Ten Genuine Signs&lt;&#x2F;p&gt;
           <title>Resource Library</title>
           <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/software/systematicsapi/</link>
-          <guid>https://joshafairhead.com/portfolio/software/systematicsapi/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/software/systematicsapi/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematicsapi&#x2F;HeptadEngineeringTemplate.png#no-hover&quot; alt=&quot;Engineering&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/software/systematicsapi/</link>
+          <guid>http://localhost/portfolio/software/systematicsapi/</guid>
+          <description xml:base="http://localhost/portfolio/software/systematicsapi/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematicsapi&#x2F;HeptadEngineeringTemplate.png#no-hover&quot; alt=&quot;Engineering&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Joshfairhead&#x2F;SystematicsAPI-v0.0.2&quot;&gt;Here is the v0.0.2 codebase&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;background&quot;&gt;Background&lt;&#x2F;h4&gt;
 &lt;p&gt;The systematics API started as a way to store, preserve, search and retrieve the work of Tony Hodgson and JG Bennett - as well as other traditions that make use of such semantic structures. In short these systems are ways of organising information into knowledge ecologies.&lt;&#x2F;p&gt;
@@ -577,16 +577,16 @@ Ten Genuine Signs&lt;&#x2F;p&gt;
 &lt;p&gt;So the question is how the hell to do this on a computing infrastructure built on binary logic?? Well from an earlier (unmentioned) excrusion of equating mathmatical operations to systems I discovered operation types such as ‘union’, ‘intersect’, ‘product’, ‘superset’ and so fourth - which all have a qualitive flavour. Having tried and failed to implement these, while getting utterly lost in recursion, I discovered another term in category theory called DSU or “Disjoint Set, Union”. Is this the monad of monads or even a nullad I wonder? Maybe. Then it dawns on me that Holochain as a distributed hash table with content addressable storage is essentially a DSU, which has generic types of ‘entries’ and ‘links’ as its fundemental dyad.&lt;&#x2F;p&gt;
 &lt;p&gt;So I’m basically still in research mode, but assuming that I can use entries to represent types of objects and categroies and links to represent morphisms and functors (it actully looks like the system may be built on category theory), I still need to work out the relativity of the various ‘elements’. In other words theres specific units needed in order to describe a system (index, coordinate, term = node) and there are critical functions that are not directly needed as part of the system, but give it critical funcitonality - such as the morphism or functor types.&lt;&#x2F;p&gt;
 &lt;p&gt;So, looking back to the heptad of engineering template, I wonder if this the research portion nearing completion? Is the next step imagination and&#x2F;or prototype? How does this relate to the octad? Have I mapped out the units as systems? critical functions as objects, categories, morphisms and functiors? The platform as Holochain? And am now working on resources? It seems so though it was pretty unintentional - even resisted.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematicsapi&#x2F;8GenericOctad.png#no-hover&quot; alt=&quot;Octad&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematicsapi&#x2F;8GenericOctad.png#no-hover&quot; alt=&quot;Octad&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 </description>
       </item>
       <item>
           <title>Adaptive Capital</title>
           <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/software/adaptivecapital/</link>
-          <guid>https://joshafairhead.com/portfolio/software/adaptivecapital/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/software/adaptivecapital/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;commonwealth.im&#x2F;regen&#x2F;discussion&#x2F;10002-rfp-tokenomics-20-proposal-adaptive-capital&quot;&gt;Adaptive Capial Proposal&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/software/adaptivecapital/</link>
+          <guid>http://localhost/portfolio/software/adaptivecapital/</guid>
+          <description xml:base="http://localhost/portfolio/software/adaptivecapital/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;commonwealth.im&#x2F;regen&#x2F;discussion&#x2F;10002-rfp-tokenomics-20-proposal-adaptive-capital&quot;&gt;Adaptive Capial Proposal&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Tokenomics Proposal: “Adaptive Capital“&lt;&#x2F;p&gt;
 &lt;p&gt;Background&lt;&#x2F;p&gt;
 &lt;p&gt;We are essentially proposing an ecosystem level partnership between Regen Network and Protocol Labs through the mutual funding of a Tokenomics DAO. This comes from our teams desire to bridge the gap between research and implementation.&lt;&#x2F;p&gt;
@@ -770,9 +770,9 @@ Milestone Seven: Quality Control&lt;&#x2F;p&gt;
           <title>Olbia: Metalinguistics</title>
           <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/olbia/</link>
-          <guid>https://joshafairhead.com/travel/olbia/</guid>
-          <description xml:base="https://joshafairhead.com/travel/olbia/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/olbia/</link>
+          <guid>http://localhost/travel/olbia/</guid>
+          <description xml:base="http://localhost/travel/olbia/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Olbia&quot;src=&quot;grounds1.jpeg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Arriving at the housing estate where our accommodation is located our hosts Josh and his partner Yada arrive with some supplies to sustain us a night before helping us search out the exact apartment we’re staying in and joining us a brief moment of socialisation before bed.&lt;&#x2F;p&gt;
@@ -922,9 +922,9 @@ Before leaving for the evening Josh wishes to demonstrate his metagame one last 
           <title>Austria: Crypto Commons Gathering</title>
           <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/austria/</link>
-          <guid>https://joshafairhead.com/travel/austria/</guid>
-          <description xml:base="https://joshafairhead.com/travel/austria/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/austria/</link>
+          <guid>http://localhost/travel/austria/</guid>
+          <description xml:base="http://localhost/travel/austria/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;logo&quot;src=&quot;CCG.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Getting to Austria is relatively relaxed; as I’m flying out of Pula Airport. I get an influx of messages from Moritz which internally liquidates some kind of blockage while I queue for security. Landing pretty late, I grab a hostel for the night and then move onward to the Commons Hub via public transport in the morning.&lt;&#x2F;p&gt;
@@ -1095,9 +1095,9 @@ Here’s my recollection: topology begins with a point, which has no length brea
           <title>Croatia: Metafest</title>
           <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/croatia/</link>
-          <guid>https://joshafairhead.com/travel/croatia/</guid>
-          <description xml:base="https://joshafairhead.com/travel/croatia/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/croatia/</link>
+          <guid>http://localhost/travel/croatia/</guid>
+          <description xml:base="http://localhost/travel/croatia/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Metafest&quot;src=&quot;metafest.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;After a number of nudges from friends I pack my bags for MetaFest in Croatia. The gathering is in a ‘techno fort’ and because it sounds like we can camp up there, I decide to bring a hammock as my primary accommodation. I’m on an all nighter with a layover in Luton airport for a six am connection; arriving at 9am in Pula airport.&lt;&#x2F;p&gt;
@@ -1169,9 +1169,9 @@ Here’s my recollection: topology begins with a point, which has no length brea
           <title>Portugal: Boom Festival</title>
           <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/portugal/</link>
-          <guid>https://joshafairhead.com/travel/portugal/</guid>
-          <description xml:base="https://joshafairhead.com/travel/portugal/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/portugal/</link>
+          <guid>http://localhost/travel/portugal/</guid>
+          <description xml:base="http://localhost/travel/portugal/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Boom&quot;src=&quot;radicallove.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;After some time at home on my own in Lisbon I make a last minute decision to attend Boom festival with Alex who’s attending with some friends. I pack my bags on the Wednesday and head out on the 6pm~ train to Castelo Branco; the closest stop on public transport. I’ve no idea how I’ll get to the festival 50km from the station but have my tent with me, so assuming the worst I can always camp in a field somewhere for the evening.&lt;&#x2F;p&gt;
@@ -1296,9 +1296,9 @@ As the music fades once again I head past the Chi Temple of sensual bodies movin
           <title>Switzerland: Solstice Festival Geneva</title>
           <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/switzerland/</link>
-          <guid>https://joshafairhead.com/travel/switzerland/</guid>
-          <description xml:base="https://joshafairhead.com/travel/switzerland/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/switzerland/</link>
+          <guid>http://localhost/travel/switzerland/</guid>
+          <description xml:base="http://localhost/travel/switzerland/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Solstice&quot;src=&quot;solstice2023.png&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;After the Metaphorum enven in Manchester, I fly to Geneva for the Summer Solstice gathering in organised by friends at bonfire.link; a metaphor for life and an affirmation of the human capacity to self organise without calcified structures.&lt;&#x2F;p&gt;
@@ -1368,9 +1368,9 @@ Around 9pm or so we gather for a meal and to share some words and affirtations i
           <title>UK: Metaphorum Manchester</title>
           <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/metaphorum/</link>
-          <guid>https://joshafairhead.com/travel/metaphorum/</guid>
-          <description xml:base="https://joshafairhead.com/travel/metaphorum/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/metaphorum/</link>
+          <guid>http://localhost/travel/metaphorum/</guid>
+          <description xml:base="http://localhost/travel/metaphorum/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Metaphorum&quot;src=&quot;elephant.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;After a couple of weeks at home I’m ready to traverse the reality graph once again; I’ve been figuring out my next token and from a number of options presenting themselves I decide I’d best be of service heading to Metaphorum in the UK.&lt;&#x2F;p&gt;
@@ -1702,9 +1702,9 @@ Mingling through a lunch break we come back into session for Czeslaw Mesjasz’s
           <title>Poland: Chinwags Poznan</title>
           <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/poland/</link>
-          <guid>https://joshafairhead.com/travel/poland/</guid>
-          <description xml:base="https://joshafairhead.com/travel/poland/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/poland/</link>
+          <guid>http://localhost/travel/poland/</guid>
+          <description xml:base="http://localhost/travel/poland/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Castle&quot;src=&quot;castle.jpeg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Realising that I’ve flown a bit out of my way I make my way towards the Chinwags gathering via train with the help and direction of a rather beautiful Polish lady that aids my ticket purchase towards Warsaw main and gets me on the right carriage. She’s just returned from a solo trip to Paris to visit the museums. After a hurried ticket purchase at the station and a frantic rush to the platform I make a train that will get me to my pickup about fifteen minutes late. Signalling this in the telegram and sharing my live location the group agrees to wait for me a little longer than planned. Blessed souls.&lt;&#x2F;p&gt;
@@ -1764,9 +1764,9 @@ AD4M Communication protocol&#x2F;ontology of&lt;&#x2F;p&gt;
           <title>Japan 3: Tokyo Return</title>
           <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/japan3/</link>
-          <guid>https://joshafairhead.com/travel/japan3/</guid>
-          <description xml:base="https://joshafairhead.com/travel/japan3/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/japan3/</link>
+          <guid>http://localhost/travel/japan3/</guid>
+          <description xml:base="http://localhost/travel/japan3/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Tokyo&quot;src=&quot;japan3.png&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Having given Sogenji the boot and I snap some exotic lids and depart back to Tokyo to see my friend, arriving into the station at about 4pm absolutely starving, so grab some peanut brittle for the walk.&lt;&#x2F;p&gt;
@@ -1989,9 +1989,9 @@ AD4M Communication protocol&#x2F;ontology of&lt;&#x2F;p&gt;
           <title>Japan 2: Kyoto Tranquility</title>
           <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/japan2/</link>
-          <guid>https://joshafairhead.com/travel/japan2/</guid>
-          <description xml:base="https://joshafairhead.com/travel/japan2/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/japan2/</link>
+          <guid>http://localhost/travel/japan2/</guid>
+          <description xml:base="http://localhost/travel/japan2/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Kyoto&quot;src=&quot;japan2.jpeg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Waking up in Kyoto I can tell I’m a bit fried from getting so buzzed while chasing Pokemon the day before. We get up, grab some coffee in Starbucks and do a bit of writing as has become interpersonal tradition; it’s gonna be a lazy grey Saturday.&lt;&#x2F;p&gt;
@@ -2151,9 +2151,9 @@ AD4M Communication protocol&#x2F;ontology of&lt;&#x2F;p&gt;
           <title>Japan 1: Tokyo Energy</title>
           <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/japan1/</link>
-          <guid>https://joshafairhead.com/travel/japan1/</guid>
-          <description xml:base="https://joshafairhead.com/travel/japan1/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/japan1/</link>
+          <guid>http://localhost/travel/japan1/</guid>
+          <description xml:base="http://localhost/travel/japan1/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Tokyo Energy&quot;src=&quot;ultrasupernew.png&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Flying from Vietnam to Tokyo, I dig into several of the books I’ve procured from Auroville by Sri Aurobindo. One of these is called “The Experience of The Psychic Being and its Growth” which seems to describe some of my more recent experiences related to enhanced synchronicity as well as some symptoms that I’ve not personally experienced… in particular the gold ‘bursting’ effect that clusters eight parametric qualities seems new, though I do seem to have touched upon the realm of golden pentads around January this year. That was freaky.&lt;&#x2F;p&gt;
@@ -2349,9 +2349,9 @@ Back to my poke hunt, there’s two more critters to find but and get distracted
           <title>India 4: Auroville Evolution</title>
           <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/indiapt4/</link>
-          <guid>https://joshafairhead.com/travel/indiapt4/</guid>
-          <description xml:base="https://joshafairhead.com/travel/indiapt4/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/indiapt4/</link>
+          <guid>http://localhost/travel/indiapt4/</guid>
+          <description xml:base="http://localhost/travel/indiapt4/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;This is an image&quot;src=&quot;light.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Settled and stable once again in a reasonably priced hotel; I decide to head out for coffee in the international zone and see what trails there are to follow. Not wishing to miss the experience of transcending in the Matrimandir I set course towards the giant golden egg in hopes of finding a means to book such a visit.&lt;&#x2F;p&gt;
@@ -2456,9 +2456,9 @@ Back to my poke hunt, there’s two more critters to find but and get distracted
           <title>India 3: Auroville Involoution</title>
           <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/indiapt3/</link>
-          <guid>https://joshafairhead.com/travel/indiapt3/</guid>
-          <description xml:base="https://joshafairhead.com/travel/indiapt3/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/indiapt3/</link>
+          <guid>http://localhost/travel/indiapt3/</guid>
+          <description xml:base="http://localhost/travel/indiapt3/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;This is an image&quot;src=&quot;art.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Monday we say good bye to the folks round Atlantis HQ and after some lunch we set off for Auroville with the unexpected addition of Treegens Jimi, adding some welcome dynamism to the party of myself and Rishi.&lt;&#x2F;p&gt;
@@ -2490,9 +2490,9 @@ Yeah, we’re lost.&lt;&#x2F;p&gt;
           <title>India 2: Bangalore</title>
           <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/indiapt2/</link>
-          <guid>https://joshafairhead.com/travel/indiapt2/</guid>
-          <description xml:base="https://joshafairhead.com/travel/indiapt2/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/indiapt2/</link>
+          <guid>http://localhost/travel/indiapt2/</guid>
+          <description xml:base="http://localhost/travel/indiapt2/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;This is an image&quot;src=&quot;Ganesh.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;With no plans laid out post Green Pill Festival; myself and Rishi drove overnight to Bangalore in order to get his new lady friend Aaba to hospital and back home.&lt;&#x2F;p&gt;
@@ -2540,9 +2540,9 @@ Yeah, we’re lost.&lt;&#x2F;p&gt;
           <title>India 1: Gorkana</title>
           <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/indiapt1/</link>
-          <guid>https://joshafairhead.com/travel/indiapt1/</guid>
-          <description xml:base="https://joshafairhead.com/travel/indiapt1/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/indiapt1/</link>
+          <guid>http://localhost/travel/indiapt1/</guid>
+          <description xml:base="http://localhost/travel/indiapt1/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;This is an image&quot;src=&quot;CroppedHutSunset.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Over the precipice once again; searching for god knows what I jump a flight to Atlantis… I mean to Gokarna to meet Rishi in person for the first time; despite having shared a lot of time together online during the COVID period.&lt;&#x2F;p&gt;
@@ -2571,9 +2571,9 @@ The ‘business’ consortium&lt;&#x2F;p&gt;
           <title>Emergent Cyclical Theory</title>
           <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/emergentcyclicaltheory/</link>
-          <guid>https://joshafairhead.com/blog/emergentcyclicaltheory/</guid>
-          <description xml:base="https://joshafairhead.com/blog/emergentcyclicaltheory/">&lt;blockquote&gt;
+          <link>http://localhost/blog/emergentcyclicaltheory/</link>
+          <guid>http://localhost/blog/emergentcyclicaltheory/</guid>
+          <description xml:base="http://localhost/blog/emergentcyclicaltheory/">&lt;blockquote&gt;
 &lt;p&gt;TL;DR: This article covers a systemic conception of psychology articulated by Clare Graves. The first principals he surfaced are foundational to a number of related theories like spiral dynamics and integrates many others. If your interested in the field you should probably start here before looking at other work as its one of the more robust and reliable.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
@@ -2788,9 +2788,9 @@ In most modern cultures, the [AN] and [BO] stages are primarily found in toddler
           <title>Boris Brejcha (lights)</title>
           <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/events/borrisbrejeca/</link>
-          <guid>https://joshafairhead.com/portfolio/events/borrisbrejeca/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/events/borrisbrejeca/">&lt;iframe
+          <link>http://localhost/portfolio/events/borrisbrejeca/</link>
+          <guid>http://localhost/portfolio/events/borrisbrejeca/</guid>
+          <description xml:base="http://localhost/portfolio/events/borrisbrejeca/">&lt;iframe
 	class=&quot;youtube-embed&quot;
 	src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;nXMMzUk5HjQ&quot;
 	allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot;
@@ -2802,9 +2802,9 @@ In most modern cultures, the [AN] and [BO] stages are primarily found in toddler
           <title>Eric Morillo (lights)</title>
           <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/events/ericmorillo/</link>
-          <guid>https://joshafairhead.com/portfolio/events/ericmorillo/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/events/ericmorillo/">&lt;iframe
+          <link>http://localhost/portfolio/events/ericmorillo/</link>
+          <guid>http://localhost/portfolio/events/ericmorillo/</guid>
+          <description xml:base="http://localhost/portfolio/events/ericmorillo/">&lt;iframe
 	class=&quot;youtube-embed&quot;
 	src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;8JAMkrzSRao&quot;
 	allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot;
@@ -2816,9 +2816,9 @@ In most modern cultures, the [AN] and [BO] stages are primarily found in toddler
           <title>Wasser</title>
           <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/multimedia/wasser/</link>
-          <guid>https://joshafairhead.com/portfolio/multimedia/wasser/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/multimedia/wasser/">&lt;p&gt;Sound design, foley and mix on a short film by producers Daniel Calladine, Rafael Leonardo Re and co-director Tim R. Gloystein.&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/multimedia/wasser/</link>
+          <guid>http://localhost/portfolio/multimedia/wasser/</guid>
+          <description xml:base="http://localhost/portfolio/multimedia/wasser/">&lt;p&gt;Sound design, foley and mix on a short film by producers Daniel Calladine, Rafael Leonardo Re and co-director Tim R. Gloystein.&lt;&#x2F;p&gt;
 &lt;!-- 
 
 TODO: Ensure video embeds
@@ -2832,9 +2832,9 @@ link: https:&#x2F;&#x2F;vimeo.com&#x2F;1144289329?share=copy&amp;fl=sv&amp;fe=ci
           <title>Egg London - Technical Management</title>
           <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/venues/eggldn/</link>
-          <guid>https://joshafairhead.com/portfolio/venues/eggldn/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/venues/eggldn/">&lt;p&gt;Technical management role at Egg London, coordinating audio, visual, and lighting systems for events and performances. Oversaw technical setup, maintained equipment standards, and ensured seamless event production. Here are some nights filmed by the public across the dates I was supplying tech management and lighting, the quality degrades as you go down the list but I am confirmed to be ‘busking’ on the lights in the first three videos which are pretty good:&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/venues/eggldn/</link>
+          <guid>http://localhost/portfolio/venues/eggldn/</guid>
+          <description xml:base="http://localhost/portfolio/venues/eggldn/">&lt;p&gt;Technical management role at Egg London, coordinating audio, visual, and lighting systems for events and performances. Oversaw technical setup, maintained equipment standards, and ensured seamless event production. Here are some nights filmed by the public across the dates I was supplying tech management and lighting, the quality degrades as you go down the list but I am confirmed to be ‘busking’ on the lights in the first three videos which are pretty good:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;iframe
 	class=&quot;youtube-embed&quot;
 	src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;nXMMzUk5HjQ&quot;
@@ -2918,9 +2918,9 @@ link: https:&#x2F;&#x2F;vimeo.com&#x2F;1144289329?share=copy&amp;fl=sv&amp;fe=ci
           <title>Mber</title>
           <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/venues/mber/</link>
-          <guid>https://joshafairhead.com/portfolio/venues/mber/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/venues/mber/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mber.london&#x2F;gallery&quot;&gt;Ember&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/venues/mber/</link>
+          <guid>http://localhost/portfolio/venues/mber/</guid>
+          <description xml:base="http://localhost/portfolio/venues/mber/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mber.london&#x2F;gallery&quot;&gt;Ember&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Technical installation work for Mber venue including audio, visual, and lighting systems.&lt;&#x2F;p&gt;
 &lt;div class=&quot;image-gallery gallery-3 gallery-resized&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Mber Installation 1&quot;src=&quot;photos&amp;#x2F;mber-1.jpg&quot;&#x2F;&gt;
@@ -2936,9 +2936,9 @@ link: https:&#x2F;&#x2F;vimeo.com&#x2F;1144289329?share=copy&amp;fl=sv&amp;fe=ci
           <title>Oriole</title>
           <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/venues/oriole/</link>
-          <guid>https://joshafairhead.com/portfolio/venues/oriole/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/venues/oriole/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.oriolebar.com&#x2F;&quot;&gt;Oriole&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/venues/oriole/</link>
+          <guid>http://localhost/portfolio/venues/oriole/</guid>
+          <description xml:base="http://localhost/portfolio/venues/oriole/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.oriolebar.com&#x2F;&quot;&gt;Oriole&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Technical installation work for Oriole venue, one of top bars in the world. Martin Audio speakers, monitors and amps, with Soundcraft SE1 Expression desk and Soundcraft UI8 networked stage box.&lt;&#x2F;p&gt;
 &lt;div class=&quot;image-gallery gallery-3 gallery-resized&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Oriole Installation 1&quot;src=&quot;photos&amp;#x2F;oriole-1.jpg&quot;&#x2F;&gt;
@@ -2977,9 +2977,9 @@ link: https:&#x2F;&#x2F;vimeo.com&#x2F;1144289329?share=copy&amp;fl=sv&amp;fe=ci
           <title>SBG - Technical Management</title>
           <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/venues/sbg/</link>
-          <guid>https://joshafairhead.com/portfolio/venues/sbg/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/venues/sbg/">&lt;p&gt;Technical management role overseeing audio, visual, and lighting systems across 14 SBG venues. Responsibilities included coordinating installations, maintaining technical standards, and managing event production requirements.&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/venues/sbg/</link>
+          <guid>http://localhost/portfolio/venues/sbg/</guid>
+          <description xml:base="http://localhost/portfolio/venues/sbg/">&lt;p&gt;Technical management role overseeing audio, visual, and lighting systems across 14 SBG venues. Responsibilities included coordinating installations, maintaining technical standards, and managing event production requirements.&lt;&#x2F;p&gt;
 &lt;!-- Add details about the venues, management responsibilities, and notable achievements --&gt;
 </description>
       </item>
@@ -2987,9 +2987,9 @@ link: https:&#x2F;&#x2F;vimeo.com&#x2F;1144289329?share=copy&amp;fl=sv&amp;fe=ci
           <title>Swift</title>
           <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/venues/swift/</link>
-          <guid>https://joshafairhead.com/portfolio/venues/swift/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/venues/swift/">&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.barswift.com&#x2F;downstairs&#x2F;&quot;&gt;Swift&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/venues/swift/</link>
+          <guid>http://localhost/portfolio/venues/swift/</guid>
+          <description xml:base="http://localhost/portfolio/venues/swift/">&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.barswift.com&#x2F;downstairs&#x2F;&quot;&gt;Swift&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Technical installation work for Swift venue including audio, visual, and lighting systems.&lt;&#x2F;p&gt;
 &lt;div class=&quot;image-gallery gallery-3 gallery-resized&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Swift Installation 1&quot;src=&quot;photos&amp;#x2F;swift1.jpg&quot;&#x2F;&gt;
@@ -3006,11 +3006,11 @@ link: https:&#x2F;&#x2F;vimeo.com&#x2F;1144289329?share=copy&amp;fl=sv&amp;fe=ci
           <title>Whittards 125th Anniversary Blend</title>
           <pubDate>Wed, 14 Sep 2011 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/whittards-125th-anniversary-blend/</link>
-          <guid>https://joshafairhead.com/tea-blog/whittards-125th-anniversary-blend/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/whittards-125th-anniversary-blend/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image1.jpg&quot; alt=&quot;Whittards 125Th Anniversary Blend packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/whittards-125th-anniversary-blend/</link>
+          <guid>http://localhost/tea-blog/whittards-125th-anniversary-blend/</guid>
+          <description xml:base="http://localhost/tea-blog/whittards-125th-anniversary-blend/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image1.jpg&quot; alt=&quot;Whittards 125Th Anniversary Blend packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 Although the shop assistant did not know what the blend actually consisted of, I would hazard a guess at it being a Ceylon blend mixed with Darjeeling; it has a full bodied taste while also being relatively light. One nice aspect is that it doesn’t get bitter if brewed too long or if left to cool. Overall it has a slightly woody character with floral over tones lending to a nice high-midrange taste.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -3024,12 +3024,12 @@ Although the shop assistant did not know what the blend actually consisted of, I
           <title>Fortnum &amp; Mason Royal Blend</title>
           <pubDate>Mon, 29 Nov 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/fortnum-mason-royal-blend/</link>
-          <guid>https://joshafairhead.com/tea-blog/fortnum-mason-royal-blend/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/fortnum-mason-royal-blend/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image1.jpg&quot; alt=&quot;Fortnum Mason Royal Blend packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image4.jpg&quot; alt=&quot;Tea detail&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/tea-blog/fortnum-mason-royal-blend/</link>
+          <guid>http://localhost/tea-blog/fortnum-mason-royal-blend/</guid>
+          <description xml:base="http://localhost/tea-blog/fortnum-mason-royal-blend/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image1.jpg&quot; alt=&quot;Fortnum Mason Royal Blend packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image4.jpg&quot; alt=&quot;Tea detail&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tea Type:&lt;&#x2F;strong&gt; Blend combining Assam and Ceylon teas&lt;&#x2F;li&gt;
@@ -3041,10 +3041,10 @@ Although the shop assistant did not know what the blend actually consisted of, I
           <title>Mohokutie Second Flush Assam</title>
           <pubDate>Mon, 29 Nov 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/mohokutie-second-flush-assam/</link>
-          <guid>https://joshafairhead.com/tea-blog/mohokutie-second-flush-assam/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/mohokutie-second-flush-assam/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;mohokutie-second-flush-assam&#x2F;image1.jpg&quot; alt=&quot;Mohokutie Second Flush Assam packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;mohokutie-second-flush-assam&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/mohokutie-second-flush-assam/</link>
+          <guid>http://localhost/tea-blog/mohokutie-second-flush-assam/</guid>
+          <description xml:base="http://localhost/tea-blog/mohokutie-second-flush-assam/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;mohokutie-second-flush-assam&#x2F;image1.jpg&quot; alt=&quot;Mohokutie Second Flush Assam packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;mohokutie-second-flush-assam&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
 Bloody good assam which has the delicacy of a Darjeeling but with more body and a strength. Most of this strength comes from the upper mids but ideally it would be a bit lower to give a more rounded taste body, consequentially it has a subtle bite to it that is only just too sharp.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -3058,11 +3058,11 @@ Bloody good assam which has the delicacy of a Darjeeling but with more body and 
           <title>Whittard&#x27;s Darjeeling</title>
           <pubDate>Mon, 29 Nov 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/whittards-darjeeling/</link>
-          <guid>https://joshafairhead.com/tea-blog/whittards-darjeeling/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/whittards-darjeeling/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-darjeeling&#x2F;image1.jpg&quot; alt=&quot;Whittards Darjeeling packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-darjeeling&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-darjeeling&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/tea-blog/whittards-darjeeling/</link>
+          <guid>http://localhost/tea-blog/whittards-darjeeling/</guid>
+          <description xml:base="http://localhost/tea-blog/whittards-darjeeling/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-darjeeling&#x2F;image1.jpg&quot; alt=&quot;Whittards Darjeeling packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-darjeeling&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-darjeeling&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Retailer:&lt;&#x2F;strong&gt; Whittard’s&lt;&#x2F;li&gt;
@@ -3075,11 +3075,11 @@ Bloody good assam which has the delicacy of a Darjeeling but with more body and 
           <title>Whittard&#x27;s Mango Tea</title>
           <pubDate>Mon, 29 Nov 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/whittards-mango-tea/</link>
-          <guid>https://joshafairhead.com/tea-blog/whittards-mango-tea/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/whittards-mango-tea/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image1.jpg&quot; alt=&quot;Whittards Mango Tea packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/whittards-mango-tea/</link>
+          <guid>http://localhost/tea-blog/whittards-mango-tea/</guid>
+          <description xml:base="http://localhost/tea-blog/whittards-mango-tea/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image1.jpg&quot; alt=&quot;Whittards Mango Tea packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-mango-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 Fresh and light with a slight fruity flavour… Normally the actual tea leaves in packets like this are pretty poor disguised by a flavour, but not in this case the tea is actually alright (I’d guess a Celyon) and the supposed Mango taste is more a general fruitiness.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -3093,10 +3093,10 @@ Fresh and light with a slight fruity flavour… Normally the actual tea leaves i
           <title>Bannockburn FTGFOP1 Darjeeling</title>
           <pubDate>Wed, 24 Nov 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/bannockburn-ftgfop1-darjeeling/</link>
-          <guid>https://joshafairhead.com/tea-blog/bannockburn-ftgfop1-darjeeling/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/bannockburn-ftgfop1-darjeeling/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;bannockburn-ftgfop1-darjeeling&#x2F;image1.jpg&quot; alt=&quot;Bannockburn Ftgfop1 Darjeeling packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;bannockburn-ftgfop1-darjeeling&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/bannockburn-ftgfop1-darjeeling/</link>
+          <guid>http://localhost/tea-blog/bannockburn-ftgfop1-darjeeling/</guid>
+          <description xml:base="http://localhost/tea-blog/bannockburn-ftgfop1-darjeeling/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;bannockburn-ftgfop1-darjeeling&#x2F;image1.jpg&quot; alt=&quot;Bannockburn Ftgfop1 Darjeeling packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;bannockburn-ftgfop1-darjeeling&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
 This tea has an enjoyable mellow taste that lingers, thats also fresh and light. Not quite sweet but certainly not bitter, if it was a bit more potent it would be brilliant; instead its a moderately expensive cup of ‘good’ tea.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -3111,11 +3111,11 @@ This tea has an enjoyable mellow taste that lingers, thats also fresh and light.
           <title>Margrets Hope FTGFOP</title>
           <pubDate>Sun, 22 Aug 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/margrets-hope-ftgfop/</link>
-          <guid>https://joshafairhead.com/tea-blog/margrets-hope-ftgfop/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/margrets-hope-ftgfop/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;margrets-hope-ftgfop&#x2F;image1.jpg&quot; alt=&quot;Margrets Hope Ftgfop packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;margrets-hope-ftgfop&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;margrets-hope-ftgfop&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/margrets-hope-ftgfop/</link>
+          <guid>http://localhost/tea-blog/margrets-hope-ftgfop/</guid>
+          <description xml:base="http://localhost/tea-blog/margrets-hope-ftgfop/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;margrets-hope-ftgfop&#x2F;image1.jpg&quot; alt=&quot;Margrets Hope Ftgfop packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;margrets-hope-ftgfop&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;margrets-hope-ftgfop&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 So a kinda mellow Darjeeling that tastes pretty much as expected; nothing more, nothing less…
 Medium strength thats nice and easy for night time drinking but equally suited to daytime drinking.
 If your looking for a morning waker upper then maybe not the best tea for the job. Other than that its pretty good for everyday drinking considering the price.&lt;&#x2F;p&gt;
@@ -3138,11 +3138,11 @@ If your looking for a morning waker upper then maybe not the best tea for the jo
           <title>Lingia FTGFOP1</title>
           <pubDate>Thu, 12 Aug 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/lingia-ftgfop1/</link>
-          <guid>https://joshafairhead.com/tea-blog/lingia-ftgfop1/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/lingia-ftgfop1/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;lingia-ftgfop1&#x2F;image1.jpg&quot; alt=&quot;Lingia Ftgfop1 packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;lingia-ftgfop1&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;lingia-ftgfop1&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/lingia-ftgfop1/</link>
+          <guid>http://localhost/tea-blog/lingia-ftgfop1/</guid>
+          <description xml:base="http://localhost/tea-blog/lingia-ftgfop1/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;lingia-ftgfop1&#x2F;image1.jpg&quot; alt=&quot;Lingia Ftgfop1 packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;lingia-ftgfop1&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;lingia-ftgfop1&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 Nice tea, I don’t believe it warrants the price (essentially £12.50 for 100g) as I have had other teas that taste a lot better for less (e.g Maharani Hills costing £8 for 125g).
 Not too weak in terms of background strength which is a good thing in my books; but still a bit thin tasting lacking a real flavour hit. There is a possibility I’m over brewing this to get some extra body; but brewed any less it would just be too weak for me. I guess thats first flushes for you…&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
@@ -3159,11 +3159,11 @@ Not too weak in terms of background strength which is a good thing in my books; 
           <title>Blue Lady</title>
           <pubDate>Sun, 06 Jun 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/blue-lady/</link>
-          <guid>https://joshafairhead.com/tea-blog/blue-lady/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/blue-lady/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;blue-lady&#x2F;image1.jpg&quot; alt=&quot;Blue Lady packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;blue-lady&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;blue-lady&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/blue-lady/</link>
+          <guid>http://localhost/tea-blog/blue-lady/</guid>
+          <description xml:base="http://localhost/tea-blog/blue-lady/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;blue-lady&#x2F;image1.jpg&quot; alt=&quot;Blue Lady packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;blue-lady&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;blue-lady&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 Lovely flavourful tea thats delicious. The Chinese black tea isn’t the greatest but when mixed with the Orange Pettiagalia (just like the passion fruit tea) it gets very nice. Good evening drink but tasty at any time and considering the price its nearly cheap enough to drink on a regular basis.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -3182,11 +3182,11 @@ Lovely flavourful tea thats delicious. The Chinese black tea isn’t the greates
           <title>Harmutty Tippy Golden Assam</title>
           <pubDate>Sun, 06 Jun 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/harmutty-tippy-golden-assam/</link>
-          <guid>https://joshafairhead.com/tea-blog/harmutty-tippy-golden-assam/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/harmutty-tippy-golden-assam/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;harmutty-tippy-golden-assam&#x2F;image1.jpg&quot; alt=&quot;Harmutty Tippy Golden Assam packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;harmutty-tippy-golden-assam&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;harmutty-tippy-golden-assam&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/harmutty-tippy-golden-assam/</link>
+          <guid>http://localhost/tea-blog/harmutty-tippy-golden-assam/</guid>
+          <description xml:base="http://localhost/tea-blog/harmutty-tippy-golden-assam/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;harmutty-tippy-golden-assam&#x2F;image1.jpg&quot; alt=&quot;Harmutty Tippy Golden Assam packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;harmutty-tippy-golden-assam&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;harmutty-tippy-golden-assam&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 To be honest I can’t really review this since it was a while back that I drank it and took the pictures, its all gone now… Anyway I wouldn’t really be to bothered with it, it was very moderate and lacked real taste.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -3204,11 +3204,11 @@ To be honest I can’t really review this since it was a while back that I drank
           <title>Passion Fruit Tea</title>
           <pubDate>Sun, 06 Jun 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/passion-fruit-tea/</link>
-          <guid>https://joshafairhead.com/tea-blog/passion-fruit-tea/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/passion-fruit-tea/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;passion-fruit-tea&#x2F;image1.jpg&quot; alt=&quot;Passion Fruit Tea packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;passion-fruit-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;passion-fruit-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/passion-fruit-tea/</link>
+          <guid>http://localhost/tea-blog/passion-fruit-tea/</guid>
+          <description xml:base="http://localhost/tea-blog/passion-fruit-tea/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;passion-fruit-tea&#x2F;image1.jpg&quot; alt=&quot;Passion Fruit Tea packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;passion-fruit-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;passion-fruit-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 Very round and light, a real summer tea. The passion fruit flavour really comes out as the tempreture drops; getting sweeter as it cools to a nice tempreture to drink at. The Chinese black tea could be better quality but if combined with the Orange Pettiagalla Celyon from a couple of posts ago it can taste pretty damn good. Another good addition to this combination is The Blue Lady tea, which in the right quantaties works pretty well.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -3227,11 +3227,11 @@ Very round and light, a real summer tea. The passion fruit flavour really comes 
           <title>Pettiagalla O.P. Ceylon</title>
           <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/pettiagalla-op-ceylon/</link>
-          <guid>https://joshafairhead.com/tea-blog/pettiagalla-op-ceylon/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/pettiagalla-op-ceylon/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;pettiagalla-op-ceylon&#x2F;image1.jpg&quot; alt=&quot;Pettiagalla Op Ceylon packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;pettiagalla-op-ceylon&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;pettiagalla-op-ceylon&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/pettiagalla-op-ceylon/</link>
+          <guid>http://localhost/tea-blog/pettiagalla-op-ceylon/</guid>
+          <description xml:base="http://localhost/tea-blog/pettiagalla-op-ceylon/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;pettiagalla-op-ceylon&#x2F;image1.jpg&quot; alt=&quot;Pettiagalla Op Ceylon packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;pettiagalla-op-ceylon&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;pettiagalla-op-ceylon&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 This is some bloody good tea…
 It tastes very fruity in a good way, although orange in the title is a reference to dutch royalty rather than the taste; however it seems to actually have a really subtle background taste of orange in it. Its similar to a typical darjeeling with its texture but has a bit more body. Some what of a medium weight tea and a new favorite for the moment.
 “If god had dandruff it would be these tea leaves” - Darren Jennings (my flatmate)&lt;&#x2F;p&gt;
@@ -3246,11 +3246,11 @@ It tastes very fruity in a good way, although orange in the title is a reference
           <title>China Black Tea</title>
           <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/china-black-tea/</link>
-          <guid>https://joshafairhead.com/tea-blog/china-black-tea/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/china-black-tea/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;china-black-tea&#x2F;image1.jpg&quot; alt=&quot;China Black Tea packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;china-black-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;china-black-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/china-black-tea/</link>
+          <guid>http://localhost/tea-blog/china-black-tea/</guid>
+          <description xml:base="http://localhost/tea-blog/china-black-tea/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;china-black-tea&#x2F;image1.jpg&quot; alt=&quot;China Black Tea packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;china-black-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;china-black-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 Very earthy tea, texture similar to darjeeling.
 Very thin texture with the oils giving nost of the flavour. Wouldn’t drink in the morning or very regularly but is drinkable. Glad I got it for free…
 Think rubbery rather than floral darjeeling&lt;&#x2F;p&gt;
@@ -3265,11 +3265,11 @@ Think rubbery rather than floral darjeeling&lt;&#x2F;p&gt;
           <title>Arabian Tea</title>
           <pubDate>Sat, 20 Feb 2010 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/arabian-tea/</link>
-          <guid>https://joshafairhead.com/tea-blog/arabian-tea/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/arabian-tea/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;arabian-tea&#x2F;image1.jpg&quot; alt=&quot;Arabian Tea packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;arabian-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;arabian-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/arabian-tea/</link>
+          <guid>http://localhost/tea-blog/arabian-tea/</guid>
+          <description xml:base="http://localhost/tea-blog/arabian-tea/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;arabian-tea&#x2F;image1.jpg&quot; alt=&quot;Arabian Tea packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;arabian-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;arabian-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 This is a mix of unspecified black tea with things like cinamon ant other spices in it.
 On first tasting its texture is quite thin like a Darjeelings or herbals would but with a bit more strength similar to Earl Grey and a flavour obviously leaning in the Chai direction.
 Despite only being a person for normal black teas this Earl Greyish Chai isn’t too bad. If your into your milky Chai then you could probably mix it with milk in a similar fashon but for me its just a variant on black tea.&lt;&#x2F;p&gt;
@@ -3290,11 +3290,11 @@ Despite only being a person for normal black teas this Earl Greyish Chai isn’t
           <title>Assam T.G.F.O.P.</title>
           <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/assam-tgfop/</link>
-          <guid>https://joshafairhead.com/tea-blog/assam-tgfop/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/assam-tgfop/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;assam-tgfop&#x2F;image1.jpg&quot; alt=&quot;Assam Tgfop packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;assam-tgfop&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;assam-tgfop&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/assam-tgfop/</link>
+          <guid>http://localhost/tea-blog/assam-tgfop/</guid>
+          <description xml:base="http://localhost/tea-blog/assam-tgfop/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;assam-tgfop&#x2F;image1.jpg&quot; alt=&quot;Assam Tgfop packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;assam-tgfop&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;assam-tgfop&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 For the price its pretty good but its not excellent. It’s got enough body in it to give a bit of a kick but without over powering you. The taste is not quite hitting woody but leaning in that direction. Its slightly above average on the bitter scale but not in a bad way. Long and short of it is that its an all right tea for everyday drinking when you want a bit of a hit and not exactly in the mood to really savour something. Its fine…&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -3316,11 +3316,11 @@ For the price its pretty good but its not excellent. It’s got enough body in i
           <title>Ceylon O.P.</title>
           <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/ceylon-op/</link>
-          <guid>https://joshafairhead.com/tea-blog/ceylon-op/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/ceylon-op/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-op&#x2F;image1.jpg&quot; alt=&quot;Ceylon Op packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-op&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-op&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+          <link>http://localhost/tea-blog/ceylon-op/</link>
+          <guid>http://localhost/tea-blog/ceylon-op/</guid>
+          <description xml:base="http://localhost/tea-blog/ceylon-op/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;ceylon-op&#x2F;image1.jpg&quot; alt=&quot;Ceylon Op packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;ceylon-op&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;ceylon-op&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 This tea doesn’t really have a whole lot to it… There is an intial taste which is rather solid but has no proper substance to it at the same time. The after taste disappears almost instantly but all in all for the price is rather ok. That said I would rather drink something different for day to day drinking (but Celyons are usually my least favorite tea anyway)&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -3341,11 +3341,11 @@ This tea doesn’t really have a whole lot to it… There is an intial taste whi
           <title>Ceylon Silver Tips</title>
           <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/ceylon-silver-tips/</link>
-          <guid>https://joshafairhead.com/tea-blog/ceylon-silver-tips/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/ceylon-silver-tips/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image1.jpg&quot; alt=&quot;Ceylon Silver Tips packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/tea-blog/ceylon-silver-tips/</link>
+          <guid>http://localhost/tea-blog/ceylon-silver-tips/</guid>
+          <description xml:base="http://localhost/tea-blog/ceylon-silver-tips/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image1.jpg&quot; alt=&quot;Ceylon Silver Tips packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;ceylon-silver-tips&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Price:&lt;&#x2F;strong&gt; £2.95&lt;&#x2F;li&gt;
@@ -3365,9 +3365,9 @@ This tea doesn’t really have a whole lot to it… There is an intial taste whi
           <title>English Breakfast Blend</title>
           <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/tea-blog/english-breakfast-blend/</link>
-          <guid>https://joshafairhead.com/tea-blog/english-breakfast-blend/</guid>
-          <description xml:base="https://joshafairhead.com/tea-blog/english-breakfast-blend/">&lt;p&gt;“It appears I have no pictures of this one. The packets the same as the other Tea Junction ones and the tea looks like standard BOP. I really wasn’t too sold on this one since it tastes just like Barrys, Lyons or something else uninteresting with strong tannis…”&lt;&#x2F;p&gt;
+          <link>http://localhost/tea-blog/english-breakfast-blend/</link>
+          <guid>http://localhost/tea-blog/english-breakfast-blend/</guid>
+          <description xml:base="http://localhost/tea-blog/english-breakfast-blend/">&lt;p&gt;“It appears I have no pictures of this one. The packets the same as the other Tea Junction ones and the tea looks like standard BOP. I really wasn’t too sold on this one since it tastes just like Barrys, Lyons or something else uninteresting with strong tannis…”&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Price:&lt;&#x2F;strong&gt; £1.20&lt;&#x2F;li&gt;
@@ -3386,9 +3386,9 @@ This tea doesn’t really have a whole lot to it… There is an intial taste whi
           <title>Genesis</title>
           <pubDate>Wed, 08 Jun 1988 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/generativejourney/1-index/</link>
-          <guid>https://joshafairhead.com/generativejourney/1-index/</guid>
-          <description xml:base="https://joshafairhead.com/generativejourney/1-index/">&lt;h2 id=&quot;renaissance-beginnings-guitar-audio-the-polymath-path&quot;&gt;Renaissance Beginnings: Guitar, Audio &amp;amp; The Polymath Path&lt;&#x2F;h2&gt;
+          <link>http://localhost/generativejourney/1-index/</link>
+          <guid>http://localhost/generativejourney/1-index/</guid>
+          <description xml:base="http://localhost/generativejourney/1-index/">&lt;h2 id=&quot;renaissance-beginnings-guitar-audio-the-polymath-path&quot;&gt;Renaissance Beginnings: Guitar, Audio &amp;amp; The Polymath Path&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;em&gt;The first in a series exploring a generative journey through technology, music, and human coordination&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;When you look around society at large, you’ll find that most people are specialists who do one thing well. In fact, society incentivizes and rewards such behavior, which in turn shapes people in its image. I’m not one of those people.&lt;&#x2F;p&gt;
 &lt;p&gt;For whatever reason, I’ve never been satisfied doing “just one thing” and have a drive to transcend disciplines while including new skills. Such people are often called “polymaths”, “generalists”, “multipotentiates”, “pantologists” or more simply “renaissance people”. We’re a minority in what seems like a sea of madness, but historically the most curious cats out there seem to fall into these categories: Plato, Pythagoras, DaVinci, Maynard James Keenan, Ted Nelson, Robert Fripp, Steve Jobs, and Sylvain Richard.&lt;&#x2F;p&gt;

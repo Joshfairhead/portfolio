@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Josh Fairhead - Math</title>
-      <link>https://joshafairhead.com</link>
+      <link>http://localhost</link>
       <description>Professional website of Josh Fairhead</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://joshafairhead.com/tags/math/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="http://localhost/tags/math/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Systematics Interface</title>
           <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/software/systematics-interface/</link>
-          <guid>https://joshafairhead.com/portfolio/software/systematics-interface/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/software/systematics-interface/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;screenshot.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/software/systematics-interface/</link>
+          <guid>http://localhost/portfolio/software/systematics-interface/</guid>
+          <description xml:base="http://localhost/portfolio/software/systematics-interface/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;screenshot.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;why&quot;&gt;Why&lt;&#x2F;h2&gt;
 &lt;p&gt;The field of arteficial intelligence is complex and solving any singular aspect is unlikely to be of much much value due to the non-linear and highly systemic nature of these systems. If we want safe performant systems then we need to work cross functionally across domains like interpretability, representation, and steerability.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;how&quot;&gt;How&lt;&#x2F;h2&gt;
@@ -28,17 +28,17 @@
 &lt;!---
 TODO: Gallery of these images:
 ---&gt; 
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfBeing.png#no-hover&quot; alt=&quot;12levelsofbeing&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12Energies.jpg#no-hover&quot; alt=&quot;12levelsofenergy&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12values.jpg#no-hover&quot; alt=&quot;12levelsofvalues&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfSociety.png#no-hover&quot; alt=&quot;12LevelsOfSociety&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfBeing.png#no-hover&quot; alt=&quot;12levelsofbeing&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12Energies.jpg#no-hover&quot; alt=&quot;12levelsofenergy&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12values.jpg#no-hover&quot; alt=&quot;12levelsofvalues&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfSociety.png#no-hover&quot; alt=&quot;12LevelsOfSociety&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;horizon-3&quot;&gt;Horizon 3&lt;&#x2F;h3&gt;
 &lt;p&gt;With the ability to create, read, update and delete new schemas such as above - we can start to work on the more category theoretic elements to the system, namely the various transformation types between ‘objects’ like the indexes, coordinates or terms contained in the bootstrapping ‘categories’ of topology, geometry and vocabulary. These are perhaps not as fleshed out as the schemas developed by Bennett (above) so those might be considered more useful for analysing the relatioships.&lt;&#x2F;p&gt;
 &lt;p&gt;The ability to add vocabulary and grammars in such a consistent way opens up many possible use cases in domains like interpretability, representation, steerability, and so on - for example, allowing us to probe latent space with different yet equivelent vocabularies in order to get a sense of an LLMs circuits, or we can link together knowledge graphs for the purposes of reasoning and explainability.&lt;&#x2F;p&gt;
 &lt;p&gt;With regards to the category theoretic elements, with our bootstrapping structures in place as well as some initial well defined schemas, we can start looking at processes such as the morphisms between elements internal to a categroy, the functors between categories, or the homotopy types within and across categroies that articulate a sort of state model or hilbert space (note that each system is itself a kind of homotopy type).&lt;&#x2F;p&gt;
 &lt;p&gt;For example we can examine the cross category equivelence mappings between index 1, coordinate 1 and term 1, which I believe is called the functorial semantics. Or we could look at morphism types between nodes in a given category such as isomorphisms, endomorphisms, homomorphisms and so on. We can look at linear transformations such as the fibrations illustrated below where the category of sub-animate existence ‘fibrates’ into a tetrad consisting of sub categories like ‘universal field&#x2F;radiation, elemental complexes, molocular structures, soil and ocean’, and the same for animate and super animate levels of existence. Or we can work out the non-linear transforms between systems such as from a monad of humanity &amp;gt; dyad of man&#x2F;woman &amp;gt; the triad of father&#x2F;mother&#x2F;child. &lt;strong&gt;(Note to self this is possibly a sort of qualative fourrier transform).&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;3_TriadOfAstropoiesis.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfBeing.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;3_TriadOfAstropoiesis.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfBeing.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Building this prototype so that it is self consistent and ultimately correct by construction has already presented many challenges and bootstrapping issues, but horizon one has taken shape far enough to work on the API some more while adding new features.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;horizon-omega&quot;&gt;Horizon omega&lt;&#x2F;h3&gt;
 &lt;p&gt;Assuming that we get as far as horizon three, we should by then have a pretty robust neurosymbolic system. At this point, we can start to add generative AI to the mix, which takes a more cybernetic approach. Assumedly the foundations will be codified to start augmenting the small language models (different categorical schemas) with machine learning techniques such as supervised learning, evolutionary strategies and reinforcement learning. This is of course where the project moves from function into being, which would naturally need to be related to a will or purpose - of which there are many possible candidates.&lt;&#x2F;p&gt;

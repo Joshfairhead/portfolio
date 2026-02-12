@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Josh Fairhead - Travel</title>
-      <link>https://joshafairhead.com</link>
+      <link>http://localhost</link>
       <description>Professional website of Josh Fairhead</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://joshafairhead.com/tags/travel/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="http://localhost/tags/travel/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sat, 02 Sep 2023 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Olbia: Metalinguistics</title>
           <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/olbia/</link>
-          <guid>https://joshafairhead.com/travel/olbia/</guid>
-          <description xml:base="https://joshafairhead.com/travel/olbia/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/olbia/</link>
+          <guid>http://localhost/travel/olbia/</guid>
+          <description xml:base="http://localhost/travel/olbia/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Olbia&quot;src=&quot;grounds1.jpeg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Arriving at the housing estate where our accommodation is located our hosts Josh and his partner Yada arrive with some supplies to sustain us a night before helping us search out the exact apartment we’re staying in and joining us a brief moment of socialisation before bed.&lt;&#x2F;p&gt;
@@ -164,9 +164,9 @@ Before leaving for the evening Josh wishes to demonstrate his metagame one last 
           <title>Austria: Crypto Commons Gathering</title>
           <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/austria/</link>
-          <guid>https://joshafairhead.com/travel/austria/</guid>
-          <description xml:base="https://joshafairhead.com/travel/austria/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/austria/</link>
+          <guid>http://localhost/travel/austria/</guid>
+          <description xml:base="http://localhost/travel/austria/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;logo&quot;src=&quot;CCG.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Getting to Austria is relatively relaxed; as I’m flying out of Pula Airport. I get an influx of messages from Moritz which internally liquidates some kind of blockage while I queue for security. Landing pretty late, I grab a hostel for the night and then move onward to the Commons Hub via public transport in the morning.&lt;&#x2F;p&gt;
@@ -337,9 +337,9 @@ Here’s my recollection: topology begins with a point, which has no length brea
           <title>Croatia: Metafest</title>
           <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/croatia/</link>
-          <guid>https://joshafairhead.com/travel/croatia/</guid>
-          <description xml:base="https://joshafairhead.com/travel/croatia/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/croatia/</link>
+          <guid>http://localhost/travel/croatia/</guid>
+          <description xml:base="http://localhost/travel/croatia/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Metafest&quot;src=&quot;metafest.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;After a number of nudges from friends I pack my bags for MetaFest in Croatia. The gathering is in a ‘techno fort’ and because it sounds like we can camp up there, I decide to bring a hammock as my primary accommodation. I’m on an all nighter with a layover in Luton airport for a six am connection; arriving at 9am in Pula airport.&lt;&#x2F;p&gt;
@@ -411,9 +411,9 @@ Here’s my recollection: topology begins with a point, which has no length brea
           <title>Portugal: Boom Festival</title>
           <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/portugal/</link>
-          <guid>https://joshafairhead.com/travel/portugal/</guid>
-          <description xml:base="https://joshafairhead.com/travel/portugal/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/portugal/</link>
+          <guid>http://localhost/travel/portugal/</guid>
+          <description xml:base="http://localhost/travel/portugal/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Boom&quot;src=&quot;radicallove.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;After some time at home on my own in Lisbon I make a last minute decision to attend Boom festival with Alex who’s attending with some friends. I pack my bags on the Wednesday and head out on the 6pm~ train to Castelo Branco; the closest stop on public transport. I’ve no idea how I’ll get to the festival 50km from the station but have my tent with me, so assuming the worst I can always camp in a field somewhere for the evening.&lt;&#x2F;p&gt;
@@ -538,9 +538,9 @@ As the music fades once again I head past the Chi Temple of sensual bodies movin
           <title>Switzerland: Solstice Festival Geneva</title>
           <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/switzerland/</link>
-          <guid>https://joshafairhead.com/travel/switzerland/</guid>
-          <description xml:base="https://joshafairhead.com/travel/switzerland/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/switzerland/</link>
+          <guid>http://localhost/travel/switzerland/</guid>
+          <description xml:base="http://localhost/travel/switzerland/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Solstice&quot;src=&quot;solstice2023.png&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;After the Metaphorum enven in Manchester, I fly to Geneva for the Summer Solstice gathering in organised by friends at bonfire.link; a metaphor for life and an affirmation of the human capacity to self organise without calcified structures.&lt;&#x2F;p&gt;
@@ -610,9 +610,9 @@ Around 9pm or so we gather for a meal and to share some words and affirtations i
           <title>UK: Metaphorum Manchester</title>
           <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/metaphorum/</link>
-          <guid>https://joshafairhead.com/travel/metaphorum/</guid>
-          <description xml:base="https://joshafairhead.com/travel/metaphorum/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/metaphorum/</link>
+          <guid>http://localhost/travel/metaphorum/</guid>
+          <description xml:base="http://localhost/travel/metaphorum/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Metaphorum&quot;src=&quot;elephant.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;After a couple of weeks at home I’m ready to traverse the reality graph once again; I’ve been figuring out my next token and from a number of options presenting themselves I decide I’d best be of service heading to Metaphorum in the UK.&lt;&#x2F;p&gt;
@@ -944,9 +944,9 @@ Mingling through a lunch break we come back into session for Czeslaw Mesjasz’s
           <title>Poland: Chinwags Poznan</title>
           <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/poland/</link>
-          <guid>https://joshafairhead.com/travel/poland/</guid>
-          <description xml:base="https://joshafairhead.com/travel/poland/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/poland/</link>
+          <guid>http://localhost/travel/poland/</guid>
+          <description xml:base="http://localhost/travel/poland/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Castle&quot;src=&quot;castle.jpeg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Realising that I’ve flown a bit out of my way I make my way towards the Chinwags gathering via train with the help and direction of a rather beautiful Polish lady that aids my ticket purchase towards Warsaw main and gets me on the right carriage. She’s just returned from a solo trip to Paris to visit the museums. After a hurried ticket purchase at the station and a frantic rush to the platform I make a train that will get me to my pickup about fifteen minutes late. Signalling this in the telegram and sharing my live location the group agrees to wait for me a little longer than planned. Blessed souls.&lt;&#x2F;p&gt;
@@ -1006,9 +1006,9 @@ AD4M Communication protocol&#x2F;ontology of&lt;&#x2F;p&gt;
           <title>Japan 3: Tokyo Return</title>
           <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/japan3/</link>
-          <guid>https://joshafairhead.com/travel/japan3/</guid>
-          <description xml:base="https://joshafairhead.com/travel/japan3/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/japan3/</link>
+          <guid>http://localhost/travel/japan3/</guid>
+          <description xml:base="http://localhost/travel/japan3/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Tokyo&quot;src=&quot;japan3.png&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Having given Sogenji the boot and I snap some exotic lids and depart back to Tokyo to see my friend, arriving into the station at about 4pm absolutely starving, so grab some peanut brittle for the walk.&lt;&#x2F;p&gt;
@@ -1231,9 +1231,9 @@ AD4M Communication protocol&#x2F;ontology of&lt;&#x2F;p&gt;
           <title>Japan 2: Kyoto Tranquility</title>
           <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/japan2/</link>
-          <guid>https://joshafairhead.com/travel/japan2/</guid>
-          <description xml:base="https://joshafairhead.com/travel/japan2/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/japan2/</link>
+          <guid>http://localhost/travel/japan2/</guid>
+          <description xml:base="http://localhost/travel/japan2/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Kyoto&quot;src=&quot;japan2.jpeg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Waking up in Kyoto I can tell I’m a bit fried from getting so buzzed while chasing Pokemon the day before. We get up, grab some coffee in Starbucks and do a bit of writing as has become interpersonal tradition; it’s gonna be a lazy grey Saturday.&lt;&#x2F;p&gt;
@@ -1393,9 +1393,9 @@ AD4M Communication protocol&#x2F;ontology of&lt;&#x2F;p&gt;
           <title>Japan 1: Tokyo Energy</title>
           <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/japan1/</link>
-          <guid>https://joshafairhead.com/travel/japan1/</guid>
-          <description xml:base="https://joshafairhead.com/travel/japan1/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/japan1/</link>
+          <guid>http://localhost/travel/japan1/</guid>
+          <description xml:base="http://localhost/travel/japan1/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Tokyo Energy&quot;src=&quot;ultrasupernew.png&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Flying from Vietnam to Tokyo, I dig into several of the books I’ve procured from Auroville by Sri Aurobindo. One of these is called “The Experience of The Psychic Being and its Growth” which seems to describe some of my more recent experiences related to enhanced synchronicity as well as some symptoms that I’ve not personally experienced… in particular the gold ‘bursting’ effect that clusters eight parametric qualities seems new, though I do seem to have touched upon the realm of golden pentads around January this year. That was freaky.&lt;&#x2F;p&gt;
@@ -1591,9 +1591,9 @@ Back to my poke hunt, there’s two more critters to find but and get distracted
           <title>India 4: Auroville Evolution</title>
           <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/indiapt4/</link>
-          <guid>https://joshafairhead.com/travel/indiapt4/</guid>
-          <description xml:base="https://joshafairhead.com/travel/indiapt4/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/indiapt4/</link>
+          <guid>http://localhost/travel/indiapt4/</guid>
+          <description xml:base="http://localhost/travel/indiapt4/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;This is an image&quot;src=&quot;light.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Settled and stable once again in a reasonably priced hotel; I decide to head out for coffee in the international zone and see what trails there are to follow. Not wishing to miss the experience of transcending in the Matrimandir I set course towards the giant golden egg in hopes of finding a means to book such a visit.&lt;&#x2F;p&gt;
@@ -1698,9 +1698,9 @@ Back to my poke hunt, there’s two more critters to find but and get distracted
           <title>India 3: Auroville Involoution</title>
           <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/indiapt3/</link>
-          <guid>https://joshafairhead.com/travel/indiapt3/</guid>
-          <description xml:base="https://joshafairhead.com/travel/indiapt3/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/indiapt3/</link>
+          <guid>http://localhost/travel/indiapt3/</guid>
+          <description xml:base="http://localhost/travel/indiapt3/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;This is an image&quot;src=&quot;art.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Monday we say good bye to the folks round Atlantis HQ and after some lunch we set off for Auroville with the unexpected addition of Treegens Jimi, adding some welcome dynamism to the party of myself and Rishi.&lt;&#x2F;p&gt;
@@ -1732,9 +1732,9 @@ Yeah, we’re lost.&lt;&#x2F;p&gt;
           <title>India 2: Bangalore</title>
           <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/indiapt2/</link>
-          <guid>https://joshafairhead.com/travel/indiapt2/</guid>
-          <description xml:base="https://joshafairhead.com/travel/indiapt2/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/indiapt2/</link>
+          <guid>http://localhost/travel/indiapt2/</guid>
+          <description xml:base="http://localhost/travel/indiapt2/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;This is an image&quot;src=&quot;Ganesh.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;With no plans laid out post Green Pill Festival; myself and Rishi drove overnight to Bangalore in order to get his new lady friend Aaba to hospital and back home.&lt;&#x2F;p&gt;
@@ -1782,9 +1782,9 @@ Yeah, we’re lost.&lt;&#x2F;p&gt;
           <title>India 1: Gorkana</title>
           <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/travel/indiapt1/</link>
-          <guid>https://joshafairhead.com/travel/indiapt1/</guid>
-          <description xml:base="https://joshafairhead.com/travel/indiapt1/">&lt;div class=&quot;cover-image&quot;&gt;
+          <link>http://localhost/travel/indiapt1/</link>
+          <guid>http://localhost/travel/indiapt1/</guid>
+          <description xml:base="http://localhost/travel/indiapt1/">&lt;div class=&quot;cover-image&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;This is an image&quot;src=&quot;CroppedHutSunset.jpg&quot;&#x2F;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Over the precipice once again; searching for god knows what I jump a flight to Atlantis… I mean to Gokarna to meet Rishi in person for the first time; despite having shared a lot of time together online during the COVID period.&lt;&#x2F;p&gt;

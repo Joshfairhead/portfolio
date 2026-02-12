@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Josh Fairhead - QualSystems</title>
     <subtitle>Professional website of Josh Fairhead</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://joshafairhead.com/tags/qualsystems/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://joshafairhead.com"/>
+    <link rel="self" type="application/atom+xml" href="http://localhost/tags/qualsystems/atom.xml"/>
+    <link rel="alternate" type="text/html" href="http://localhost"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-02-06T00:00:00+00:00</updated>
-    <id>https://joshafairhead.com/tags/qualsystems/atom.xml</id>
+    <id>http://localhost/tags/qualsystems/atom.xml</id>
     <entry xml:lang="en">
         <title>Methodology Development: Monastic Design</title>
         <published>2025-02-06T00:00:00+00:00</published>
@@ -18,10 +18,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/blog/monastic-design/"/>
-        <id>https://joshafairhead.com/blog/monastic-design/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/blog/monastic-design/"/>
+        <id>http://localhost/blog/monastic-design/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/blog/monastic-design/">&lt;h2 id=&quot;context&quot;&gt;Context&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="http://localhost/blog/monastic-design/">&lt;h2 id=&quot;context&quot;&gt;Context&lt;&#x2F;h2&gt;
 &lt;p&gt;In Mondays QS Study Group, participants experimented with QualSystems as a dialogic design tool for about 30m. As an experimental instance of applying QS methods to visual facilitation, it seemed relevant to document some of the learnings and share them here.&lt;&#x2F;p&gt;
 &lt;p&gt;The study group gathered to discuss the structure of the octad and an outline of the session intent was shared in the form of an enneagram so wonky that would probably make Gurdjieff weep. Here is the slide for reference:&lt;&#x2F;p&gt;
 &lt;img src=&quot;outline.png&quot; alt=&quot;Session Outline Enneagram&quot; class=&quot;no-hover&quot; &#x2F;&gt;

@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Josh Fairhead - Exposition</title>
     <subtitle>Professional website of Josh Fairhead</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://joshafairhead.com/tags/exposition/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://joshafairhead.com"/>
+    <link rel="self" type="application/atom+xml" href="http://localhost/tags/exposition/atom.xml"/>
+    <link rel="alternate" type="text/html" href="http://localhost"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-09-19T00:00:00+00:00</updated>
-    <id>https://joshafairhead.com/tags/exposition/atom.xml</id>
+    <id>http://localhost/tags/exposition/atom.xml</id>
     <entry xml:lang="en">
         <title>Cats Theory Primer: Reasoning and Revisions</title>
         <published>2025-09-19T00:00:00+00:00</published>
@@ -18,10 +18,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/blog/cats-theory-2/"/>
-        <id>https://joshafairhead.com/blog/cats-theory-2/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/blog/cats-theory-2/"/>
+        <id>http://localhost/blog/cats-theory-2/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/blog/cats-theory-2/">&lt;h3 id=&quot;reflection-on-feedback&quot;&gt;Reflection on Feedback&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="http://localhost/blog/cats-theory-2/">&lt;h3 id=&quot;reflection-on-feedback&quot;&gt;Reflection on Feedback&lt;&#x2F;h3&gt;
 &lt;p&gt;Sharing my &lt;a href=&quot;..&#x2F;cats_theory_1&#x2F;&quot;&gt;last post&lt;&#x2F;a&gt; the critique was blunt: “nothing here that you can’t find in an introductory book on Category Theory”. True - and you would probabaly find a whole lot more there too!&lt;&#x2F;p&gt;
 &lt;p&gt;The purpose was and is:&lt;&#x2F;p&gt;
 &lt;ol&gt;
@@ -120,10 +120,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/blog/cats-theory-1/"/>
-        <id>https://joshafairhead.com/blog/cats-theory-1/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/blog/cats-theory-1/"/>
+        <id>http://localhost/blog/cats-theory-1/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/blog/cats-theory-1/">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="http://localhost/blog/cats-theory-1/">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h3&gt;
 &lt;p&gt;Coming from a background in tech product development rather than pure mathematics or coding, I’ve recently begun exploring category theory. While I’m familiar with the work of J.G. Bennett and have been exposed to mathematical and programming concepts, I’m essentially starting from the ground up when it comes to formal category theory. This exposition shares what I’ve learned so far, presented in a way that hopefully makes these concepts accessible to others in similar positions.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;foundations-beyond-set-theory&quot;&gt;Foundations: Beyond Set Theory&lt;&#x2F;h3&gt;
 &lt;p&gt;Traditional mathematics typically builds upon set theory as its foundation. However, category theory offers something different—and arguably more powerful. While sets and categories are fundamentally different constructs, category theory provides greater explanatory power and can integrate vast swaths of the mathematical landscape into a unified framework.&lt;&#x2F;p&gt;
@@ -191,10 +191,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/blog/semiotics/"/>
-        <id>https://joshafairhead.com/blog/semiotics/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/blog/semiotics/"/>
+        <id>http://localhost/blog/semiotics/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/blog/semiotics/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="http://localhost/blog/semiotics/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
 &lt;p&gt;Semiotics is essentially the study of significance, or as it is often put the study of signs, signifiers and the signified. While no expert on Peirce, the patterns of his thinking seem to be foundational thinking within Bennetts theories on the qualitative significance of number, or Hodgsons Qualsystems&#x2F;Qualitative Systems Thinking. Personally speaking, this is what makes Peirce’s work interesting for me.&lt;&#x2F;p&gt;
 &lt;p&gt;Peirce defines semiosis as the action of signs; which can be thought of as the dynamic correlation between objects, signs and interpretants. In this case objects are a form of presentation, signs are a form of re-presentation, and interpretants are the inferential communicative meanings.&lt;&#x2F;p&gt;
 &lt;p&gt;Peirce articulates a form of ternary logic based on categories are called 1stness, 2ndness and 3rdness. To my reasoning equate to schemas like Gurdjieffs active, passive, reconciling or Bennetts function, being, will or Landrys immanant, omniscient, transcendental. These are essentially qualities that can be found in everything, though Peirce starts from his own entry point and attributes his own specific meanings to these descriptions.&lt;&#x2F;p&gt;
@@ -258,10 +258,10 @@ Ten Genuine Signs&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/blog/emergentcyclicaltheory/"/>
-        <id>https://joshafairhead.com/blog/emergentcyclicaltheory/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/blog/emergentcyclicaltheory/"/>
+        <id>http://localhost/blog/emergentcyclicaltheory/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/blog/emergentcyclicaltheory/">&lt;blockquote&gt;
+        <content type="html" xml:base="http://localhost/blog/emergentcyclicaltheory/">&lt;blockquote&gt;
 &lt;p&gt;TL;DR: This article covers a systemic conception of psychology articulated by Clare Graves. The first principals he surfaced are foundational to a number of related theories like spiral dynamics and integrates many others. If your interested in the field you should probably start here before looking at other work as its one of the more robust and reliable.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
