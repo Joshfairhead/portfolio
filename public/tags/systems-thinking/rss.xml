@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Josh Fairhead - Systems Thinking</title>
-      <link>https://joshafairhead.com</link>
+      <link>http://localhost</link>
       <description>Professional website of Josh Fairhead</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://joshafairhead.com/tags/systems-thinking/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="http://localhost/tags/systems-thinking/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Methodology Development: Interactive VSM</title>
           <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/interactive-vsm/</link>
-          <guid>https://joshafairhead.com/blog/interactive-vsm/</guid>
-          <description xml:base="https://joshafairhead.com/blog/interactive-vsm/">&lt;h2 id=&quot;context&quot;&gt;Context&lt;&#x2F;h2&gt;
+          <link>http://localhost/blog/interactive-vsm/</link>
+          <guid>http://localhost/blog/interactive-vsm/</guid>
+          <description xml:base="http://localhost/blog/interactive-vsm/">&lt;h2 id=&quot;context&quot;&gt;Context&lt;&#x2F;h2&gt;
 &lt;p&gt;Having played with the VSM for some time and swam around the Metaphorum space a little I believe the model to be pretty useful, but perceive a massive UX issue.&lt;&#x2F;p&gt;
 &lt;p&gt;For instance, many people at Metaphorum were hitting a bootstrapping issue where they had to sell the client on the model to get the investment to teach (indoctrinate) them about the model, rather than simply realising the models ‘emancipatory’ power.&lt;&#x2F;p&gt;
 &lt;p&gt;There is nothing particularly wrong with the model, but the approach that’s being taken is of Horizon one learning; in other words indoctrination through presentation. While at Metaphorum in 2023 and 2024 it became apparent to me that these models are essentially toy’s to be played with, and if they are to be emancipatory they should probably be less about the information and more about the shared practice…&lt;&#x2F;p&gt;

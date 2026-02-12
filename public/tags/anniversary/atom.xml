@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Josh Fairhead - anniversary</title>
     <subtitle>Professional website of Josh Fairhead</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://joshafairhead.com/tags/anniversary/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://joshafairhead.com"/>
+    <link rel="self" type="application/atom+xml" href="http://localhost/tags/anniversary/atom.xml"/>
+    <link rel="alternate" type="text/html" href="http://localhost"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2011-09-14T00:00:00+00:00</updated>
-    <id>https://joshafairhead.com/tags/anniversary/atom.xml</id>
+    <id>http://localhost/tags/anniversary/atom.xml</id>
     <entry xml:lang="en">
         <title>Whittards 125th Anniversary Blend</title>
         <published>2011-09-14T00:00:00+00:00</published>
@@ -18,12 +18,12 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/tea-blog/whittards-125th-anniversary-blend/"/>
-        <id>https://joshafairhead.com/tea-blog/whittards-125th-anniversary-blend/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/tea-blog/whittards-125th-anniversary-blend/"/>
+        <id>http://localhost/tea-blog/whittards-125th-anniversary-blend/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/tea-blog/whittards-125th-anniversary-blend/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image1.jpg&quot; alt=&quot;Whittards 125Th Anniversary Blend packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+        <content type="html" xml:base="http://localhost/tea-blog/whittards-125th-anniversary-blend/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image1.jpg&quot; alt=&quot;Whittards 125Th Anniversary Blend packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;whittards-125th-anniversary-blend&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 Although the shop assistant did not know what the blend actually consisted of, I would hazard a guess at it being a Ceylon blend mixed with Darjeeling; it has a full bodied taste while also being relatively light. One nice aspect is that it doesn’t get bitter if brewed too long or if left to cool. Overall it has a slightly woody character with floral over tones lending to a nice high-midrange taste.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;

@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Josh Fairhead - assam</title>
     <subtitle>Professional website of Josh Fairhead</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://joshafairhead.com/tags/assam/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://joshafairhead.com"/>
+    <link rel="self" type="application/atom+xml" href="http://localhost/tags/assam/atom.xml"/>
+    <link rel="alternate" type="text/html" href="http://localhost"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2010-11-29T00:00:00+00:00</updated>
-    <id>https://joshafairhead.com/tags/assam/atom.xml</id>
+    <id>http://localhost/tags/assam/atom.xml</id>
     <entry xml:lang="en">
         <title>Fortnum &amp; Mason Royal Blend</title>
         <published>2010-11-29T00:00:00+00:00</published>
@@ -18,13 +18,13 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/tea-blog/fortnum-mason-royal-blend/"/>
-        <id>https://joshafairhead.com/tea-blog/fortnum-mason-royal-blend/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/tea-blog/fortnum-mason-royal-blend/"/>
+        <id>http://localhost/tea-blog/fortnum-mason-royal-blend/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/tea-blog/fortnum-mason-royal-blend/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image1.jpg&quot; alt=&quot;Fortnum Mason Royal Blend packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image4.jpg&quot; alt=&quot;Tea detail&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="http://localhost/tea-blog/fortnum-mason-royal-blend/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image1.jpg&quot; alt=&quot;Fortnum Mason Royal Blend packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;fortnum-mason-royal-blend&#x2F;image4.jpg&quot; alt=&quot;Tea detail&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tea Type:&lt;&#x2F;strong&gt; Blend combining Assam and Ceylon teas&lt;&#x2F;li&gt;
@@ -44,11 +44,11 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/tea-blog/mohokutie-second-flush-assam/"/>
-        <id>https://joshafairhead.com/tea-blog/mohokutie-second-flush-assam/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/tea-blog/mohokutie-second-flush-assam/"/>
+        <id>http://localhost/tea-blog/mohokutie-second-flush-assam/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/tea-blog/mohokutie-second-flush-assam/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;mohokutie-second-flush-assam&#x2F;image1.jpg&quot; alt=&quot;Mohokutie Second Flush Assam packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;mohokutie-second-flush-assam&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+        <content type="html" xml:base="http://localhost/tea-blog/mohokutie-second-flush-assam/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;mohokutie-second-flush-assam&#x2F;image1.jpg&quot; alt=&quot;Mohokutie Second Flush Assam packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;mohokutie-second-flush-assam&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
 Bloody good assam which has the delicacy of a Darjeeling but with more body and a strength. Most of this strength comes from the upper mids but ideally it would be a bit lower to give a more rounded taste body, consequentially it has a subtle bite to it that is only just too sharp.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -70,11 +70,11 @@ Bloody good assam which has the delicacy of a Darjeeling but with more body and 
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/tea-blog/bannockburn-ftgfop1-darjeeling/"/>
-        <id>https://joshafairhead.com/tea-blog/bannockburn-ftgfop1-darjeeling/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/tea-blog/bannockburn-ftgfop1-darjeeling/"/>
+        <id>http://localhost/tea-blog/bannockburn-ftgfop1-darjeeling/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/tea-blog/bannockburn-ftgfop1-darjeeling/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;bannockburn-ftgfop1-darjeeling&#x2F;image1.jpg&quot; alt=&quot;Bannockburn Ftgfop1 Darjeeling packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;bannockburn-ftgfop1-darjeeling&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+        <content type="html" xml:base="http://localhost/tea-blog/bannockburn-ftgfop1-darjeeling/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;bannockburn-ftgfop1-darjeeling&#x2F;image1.jpg&quot; alt=&quot;Bannockburn Ftgfop1 Darjeeling packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;bannockburn-ftgfop1-darjeeling&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
 This tea has an enjoyable mellow taste that lingers, thats also fresh and light. Not quite sweet but certainly not bitter, if it was a bit more potent it would be brilliant; instead its a moderately expensive cup of ‘good’ tea.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -97,12 +97,12 @@ This tea has an enjoyable mellow taste that lingers, thats also fresh and light.
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/tea-blog/harmutty-tippy-golden-assam/"/>
-        <id>https://joshafairhead.com/tea-blog/harmutty-tippy-golden-assam/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/tea-blog/harmutty-tippy-golden-assam/"/>
+        <id>http://localhost/tea-blog/harmutty-tippy-golden-assam/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/tea-blog/harmutty-tippy-golden-assam/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;harmutty-tippy-golden-assam&#x2F;image1.jpg&quot; alt=&quot;Harmutty Tippy Golden Assam packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;harmutty-tippy-golden-assam&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;harmutty-tippy-golden-assam&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+        <content type="html" xml:base="http://localhost/tea-blog/harmutty-tippy-golden-assam/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;harmutty-tippy-golden-assam&#x2F;image1.jpg&quot; alt=&quot;Harmutty Tippy Golden Assam packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;harmutty-tippy-golden-assam&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;harmutty-tippy-golden-assam&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 To be honest I can’t really review this since it was a while back that I drank it and took the pictures, its all gone now… Anyway I wouldn’t really be to bothered with it, it was very moderate and lacked real taste.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -128,12 +128,12 @@ To be honest I can’t really review this since it was a while back that I drank
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/tea-blog/assam-tgfop/"/>
-        <id>https://joshafairhead.com/tea-blog/assam-tgfop/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/tea-blog/assam-tgfop/"/>
+        <id>http://localhost/tea-blog/assam-tgfop/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/tea-blog/assam-tgfop/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;assam-tgfop&#x2F;image1.jpg&quot; alt=&quot;Assam Tgfop packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;assam-tgfop&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;assam-tgfop&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+        <content type="html" xml:base="http://localhost/tea-blog/assam-tgfop/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;assam-tgfop&#x2F;image1.jpg&quot; alt=&quot;Assam Tgfop packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;assam-tgfop&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;assam-tgfop&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 For the price its pretty good but its not excellent. It’s got enough body in it to give a bit of a kick but without over powering you. The taste is not quite hitting woody but leaning in that direction. Its slightly above average on the bitter scale but not in a bad way. Long and short of it is that its an all right tea for everyday drinking when you want a bit of a hit and not exactly in the mood to really savour something. Its fine…&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;tea-details&quot;&gt;Tea Details&lt;&#x2F;h2&gt;
 &lt;ul&gt;

@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Josh Fairhead - Installation</title>
-      <link>https://joshafairhead.com</link>
+      <link>http://localhost</link>
       <description>Professional website of Josh Fairhead</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://joshafairhead.com/tags/installation/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="http://localhost/tags/installation/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Wasser</title>
           <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/multimedia/wasser/</link>
-          <guid>https://joshafairhead.com/portfolio/multimedia/wasser/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/multimedia/wasser/">&lt;p&gt;Sound design, foley and mix on a short film by producers Daniel Calladine, Rafael Leonardo Re and co-director Tim R. Gloystein.&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/multimedia/wasser/</link>
+          <guid>http://localhost/portfolio/multimedia/wasser/</guid>
+          <description xml:base="http://localhost/portfolio/multimedia/wasser/">&lt;p&gt;Sound design, foley and mix on a short film by producers Daniel Calladine, Rafael Leonardo Re and co-director Tim R. Gloystein.&lt;&#x2F;p&gt;
 &lt;!-- 
 
 TODO: Ensure video embeds
@@ -28,9 +28,9 @@ link: https:&#x2F;&#x2F;vimeo.com&#x2F;1144289329?share=copy&amp;fl=sv&amp;fe=ci
           <title>Mber</title>
           <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/venues/mber/</link>
-          <guid>https://joshafairhead.com/portfolio/venues/mber/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/venues/mber/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mber.london&#x2F;gallery&quot;&gt;Ember&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/venues/mber/</link>
+          <guid>http://localhost/portfolio/venues/mber/</guid>
+          <description xml:base="http://localhost/portfolio/venues/mber/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mber.london&#x2F;gallery&quot;&gt;Ember&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Technical installation work for Mber venue including audio, visual, and lighting systems.&lt;&#x2F;p&gt;
 &lt;div class=&quot;image-gallery gallery-3 gallery-resized&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Mber Installation 1&quot;src=&quot;photos&amp;#x2F;mber-1.jpg&quot;&#x2F;&gt;
@@ -46,9 +46,9 @@ link: https:&#x2F;&#x2F;vimeo.com&#x2F;1144289329?share=copy&amp;fl=sv&amp;fe=ci
           <title>Oriole</title>
           <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/venues/oriole/</link>
-          <guid>https://joshafairhead.com/portfolio/venues/oriole/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/venues/oriole/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.oriolebar.com&#x2F;&quot;&gt;Oriole&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/venues/oriole/</link>
+          <guid>http://localhost/portfolio/venues/oriole/</guid>
+          <description xml:base="http://localhost/portfolio/venues/oriole/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.oriolebar.com&#x2F;&quot;&gt;Oriole&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Technical installation work for Oriole venue, one of top bars in the world. Martin Audio speakers, monitors and amps, with Soundcraft SE1 Expression desk and Soundcraft UI8 networked stage box.&lt;&#x2F;p&gt;
 &lt;div class=&quot;image-gallery gallery-3 gallery-resized&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Oriole Installation 1&quot;src=&quot;photos&amp;#x2F;oriole-1.jpg&quot;&#x2F;&gt;
@@ -87,9 +87,9 @@ link: https:&#x2F;&#x2F;vimeo.com&#x2F;1144289329?share=copy&amp;fl=sv&amp;fe=ci
           <title>Swift</title>
           <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/venues/swift/</link>
-          <guid>https://joshafairhead.com/portfolio/venues/swift/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/venues/swift/">&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.barswift.com&#x2F;downstairs&#x2F;&quot;&gt;Swift&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/venues/swift/</link>
+          <guid>http://localhost/portfolio/venues/swift/</guid>
+          <description xml:base="http://localhost/portfolio/venues/swift/">&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.barswift.com&#x2F;downstairs&#x2F;&quot;&gt;Swift&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Technical installation work for Swift venue including audio, visual, and lighting systems.&lt;&#x2F;p&gt;
 &lt;div class=&quot;image-gallery gallery-3 gallery-resized&quot;&gt;
 &lt;img class=&quot;no-hover&quot;alt=&quot;Swift Installation 1&quot;src=&quot;photos&amp;#x2F;swift1.jpg&quot;&#x2F;&gt;

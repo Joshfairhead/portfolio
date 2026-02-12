@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Josh Fairhead - Visual</title>
-      <link>https://joshafairhead.com</link>
+      <link>http://localhost</link>
       <description>Professional website of Josh Fairhead</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://joshafairhead.com/tags/visual/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="http://localhost/tags/visual/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sat, 19 Nov 2016 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Boris Brejcha (lights)</title>
           <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/events/borrisbrejeca/</link>
-          <guid>https://joshafairhead.com/portfolio/events/borrisbrejeca/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/events/borrisbrejeca/">&lt;iframe
+          <link>http://localhost/portfolio/events/borrisbrejeca/</link>
+          <guid>http://localhost/portfolio/events/borrisbrejeca/</guid>
+          <description xml:base="http://localhost/portfolio/events/borrisbrejeca/">&lt;iframe
 	class=&quot;youtube-embed&quot;
 	src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;nXMMzUk5HjQ&quot;
 	allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot;
@@ -26,9 +26,9 @@
           <title>Eric Morillo (lights)</title>
           <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/events/ericmorillo/</link>
-          <guid>https://joshafairhead.com/portfolio/events/ericmorillo/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/events/ericmorillo/">&lt;iframe
+          <link>http://localhost/portfolio/events/ericmorillo/</link>
+          <guid>http://localhost/portfolio/events/ericmorillo/</guid>
+          <description xml:base="http://localhost/portfolio/events/ericmorillo/">&lt;iframe
 	class=&quot;youtube-embed&quot;
 	src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;8JAMkrzSRao&quot;
 	allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot;

@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Josh Fairhead - Category Theory</title>
     <subtitle>Professional website of Josh Fairhead</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://joshafairhead.com/tags/category-theory/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://joshafairhead.com"/>
+    <link rel="self" type="application/atom+xml" href="http://localhost/tags/category-theory/atom.xml"/>
+    <link rel="alternate" type="text/html" href="http://localhost"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-09-19T00:00:00+00:00</updated>
-    <id>https://joshafairhead.com/tags/category-theory/atom.xml</id>
+    <id>http://localhost/tags/category-theory/atom.xml</id>
     <entry xml:lang="en">
         <title>Cats Theory Primer: Reasoning and Revisions</title>
         <published>2025-09-19T00:00:00+00:00</published>
@@ -18,10 +18,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/blog/cats-theory-2/"/>
-        <id>https://joshafairhead.com/blog/cats-theory-2/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/blog/cats-theory-2/"/>
+        <id>http://localhost/blog/cats-theory-2/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/blog/cats-theory-2/">&lt;h3 id=&quot;reflection-on-feedback&quot;&gt;Reflection on Feedback&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="http://localhost/blog/cats-theory-2/">&lt;h3 id=&quot;reflection-on-feedback&quot;&gt;Reflection on Feedback&lt;&#x2F;h3&gt;
 &lt;p&gt;Sharing my &lt;a href=&quot;..&#x2F;cats_theory_1&#x2F;&quot;&gt;last post&lt;&#x2F;a&gt; the critique was blunt: “nothing here that you can’t find in an introductory book on Category Theory”. True - and you would probabaly find a whole lot more there too!&lt;&#x2F;p&gt;
 &lt;p&gt;The purpose was and is:&lt;&#x2F;p&gt;
 &lt;ol&gt;
@@ -120,10 +120,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/blog/cats-theory-1/"/>
-        <id>https://joshafairhead.com/blog/cats-theory-1/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/blog/cats-theory-1/"/>
+        <id>http://localhost/blog/cats-theory-1/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/blog/cats-theory-1/">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="http://localhost/blog/cats-theory-1/">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h3&gt;
 &lt;p&gt;Coming from a background in tech product development rather than pure mathematics or coding, I’ve recently begun exploring category theory. While I’m familiar with the work of J.G. Bennett and have been exposed to mathematical and programming concepts, I’m essentially starting from the ground up when it comes to formal category theory. This exposition shares what I’ve learned so far, presented in a way that hopefully makes these concepts accessible to others in similar positions.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;foundations-beyond-set-theory&quot;&gt;Foundations: Beyond Set Theory&lt;&#x2F;h3&gt;
 &lt;p&gt;Traditional mathematics typically builds upon set theory as its foundation. However, category theory offers something different—and arguably more powerful. While sets and categories are fundamentally different constructs, category theory provides greater explanatory power and can integrate vast swaths of the mathematical landscape into a unified framework.&lt;&#x2F;p&gt;

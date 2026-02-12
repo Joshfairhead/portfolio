@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Josh Fairhead - QualSystems</title>
-      <link>https://joshafairhead.com</link>
+      <link>http://localhost</link>
       <description>Professional website of Josh Fairhead</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://joshafairhead.com/tags/qualsystems/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="http://localhost/tags/qualsystems/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Methodology Development: Monastic Design</title>
           <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/blog/monastic-design/</link>
-          <guid>https://joshafairhead.com/blog/monastic-design/</guid>
-          <description xml:base="https://joshafairhead.com/blog/monastic-design/">&lt;h2 id=&quot;context&quot;&gt;Context&lt;&#x2F;h2&gt;
+          <link>http://localhost/blog/monastic-design/</link>
+          <guid>http://localhost/blog/monastic-design/</guid>
+          <description xml:base="http://localhost/blog/monastic-design/">&lt;h2 id=&quot;context&quot;&gt;Context&lt;&#x2F;h2&gt;
 &lt;p&gt;In Mondays QS Study Group, participants experimented with QualSystems as a dialogic design tool for about 30m. As an experimental instance of applying QS methods to visual facilitation, it seemed relevant to document some of the learnings and share them here.&lt;&#x2F;p&gt;
 &lt;p&gt;The study group gathered to discuss the structure of the octad and an outline of the session intent was shared in the form of an enneagram so wonky that would probably make Gurdjieff weep. Here is the slide for reference:&lt;&#x2F;p&gt;
 &lt;img src=&quot;outline.png&quot; alt=&quot;Session Outline Enneagram&quot; class=&quot;no-hover&quot; &#x2F;&gt;

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://joshafairhead.com/sitemap.xml
+Sitemap: http://localhost/sitemap.xml

@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Josh Fairhead - Proposal</title>
-      <link>https://joshafairhead.com</link>
+      <link>http://localhost</link>
       <description>Professional website of Josh Fairhead</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://joshafairhead.com/tags/proposal/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="http://localhost/tags/proposal/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Adaptive Capital</title>
           <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/software/adaptivecapital/</link>
-          <guid>https://joshafairhead.com/portfolio/software/adaptivecapital/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/software/adaptivecapital/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;commonwealth.im&#x2F;regen&#x2F;discussion&#x2F;10002-rfp-tokenomics-20-proposal-adaptive-capital&quot;&gt;Adaptive Capial Proposal&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/software/adaptivecapital/</link>
+          <guid>http://localhost/portfolio/software/adaptivecapital/</guid>
+          <description xml:base="http://localhost/portfolio/software/adaptivecapital/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;commonwealth.im&#x2F;regen&#x2F;discussion&#x2F;10002-rfp-tokenomics-20-proposal-adaptive-capital&quot;&gt;Adaptive Capial Proposal&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Tokenomics Proposal: “Adaptive Capital“&lt;&#x2F;p&gt;
 &lt;p&gt;Background&lt;&#x2F;p&gt;
 &lt;p&gt;We are essentially proposing an ecosystem level partnership between Regen Network and Protocol Labs through the mutual funding of a Tokenomics DAO. This comes from our teams desire to bridge the gap between research and implementation.&lt;&#x2F;p&gt;

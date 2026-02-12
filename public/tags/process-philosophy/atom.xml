@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Josh Fairhead - Process Philosophy</title>
     <subtitle>Professional website of Josh Fairhead</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://joshafairhead.com/tags/process-philosophy/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://joshafairhead.com"/>
+    <link rel="self" type="application/atom+xml" href="http://localhost/tags/process-philosophy/atom.xml"/>
+    <link rel="alternate" type="text/html" href="http://localhost"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-11-04T00:00:00+00:00</updated>
-    <id>https://joshafairhead.com/tags/process-philosophy/atom.xml</id>
+    <id>http://localhost/tags/process-philosophy/atom.xml</id>
     <entry xml:lang="en">
         <title>Process Thought and Science 2025 (Session 5)</title>
         <published>2025-11-04T00:00:00+00:00</published>
@@ -18,10 +18,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/blog/process-philosophy-5/"/>
-        <id>https://joshafairhead.com/blog/process-philosophy-5/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/blog/process-philosophy-5/"/>
+        <id>http://localhost/blog/process-philosophy-5/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/blog/process-philosophy-5/">&lt;p&gt;Session five is about moving beyond materialism, consequentially it encapsulates two core parts; a conversation with Ed Kelly (University of Virginia) in relation to Perceptual Studies, particularly centered around phenomena like Psi, and a video lecture by Matt covering Schelling and his contemporaries.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="http://localhost/blog/process-philosophy-5/">&lt;p&gt;Session five is about moving beyond materialism, consequentially it encapsulates two core parts; a conversation with Ed Kelly (University of Virginia) in relation to Perceptual Studies, particularly centered around phenomena like Psi, and a video lecture by Matt covering Schelling and his contemporaries.&lt;&#x2F;p&gt;
 &lt;p&gt;While the ordering was as presented, it seems in keeping with the spirit of the lecture to reverse it and discuss the recording first before the conversation with Ed Kelly. By this I’m gesturing towards the key theme of Schelling inverting Kant or Fichte’s perspectives to arrive at his own counterpoint.&lt;&#x2F;p&gt;
 &lt;p&gt;To get to Schelling or Whitehead, Matt takes us on a historical excursion with regard to Panentheistic thinking - which is somewhat the idea of god interpenetrating the universe, yet also transcending it or being greater than it - because he perceives Schelling to be amongst the first Evolutionary Panentheists. The idea of an evolutionary process or time developmental universe beginning around this period with Schelling, Herder and Lessing.&lt;&#x2F;p&gt;
 &lt;p&gt;But to understand Schelling, and what was creative about his thinking or even Whitehead’s, Matt claims that you need to understand Kant’s Copernican revolution - despite Whitehead’s claims to being a recursion to pre-Kantian modes of thought, who he references none the less, and ends up inverting in an interesting way, possibly prefigured by Schelling.&lt;&#x2F;p&gt;
@@ -113,10 +113,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/blog/process-philosophy-4/"/>
-        <id>https://joshafairhead.com/blog/process-philosophy-4/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/blog/process-philosophy-4/"/>
+        <id>http://localhost/blog/process-philosophy-4/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/blog/process-philosophy-4/">&lt;p&gt;The session opens with the question of “what would a non-bifurcated science look like?”. Whitehead’s critique on the bifurcation of nature - the separation of quantity from experiential quality - suggests there’s no justification to make this kind of split other than as a shorthand to emphasize the measurable aspects of science.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="http://localhost/blog/process-philosophy-4/">&lt;p&gt;The session opens with the question of “what would a non-bifurcated science look like?”. Whitehead’s critique on the bifurcation of nature - the separation of quantity from experiential quality - suggests there’s no justification to make this kind of split other than as a shorthand to emphasize the measurable aspects of science.&lt;&#x2F;p&gt;
 &lt;p&gt;In other words there is no separation between the red hue of a sunset and the electromagnetic radiation that the physicist would measure and talk of. It’s this qualitative science that Goethe was working on about a century before Whitehead, when he states that we are the most precise instrument for the observation of nature that one could ask for - not that either were opposed to using instruments. The statement would appear to be more of a concern that we might lose our sense of proportion by allowing science being subsumed by material instruments and therefore losing touch with life and mind, seeing them as unimportant impositions in a well behaved universe.&lt;&#x2F;p&gt;
 &lt;p&gt;Already I’m seeing parallels with Bennett’s work in the DU1 which gives language to these concerns. He would say that they feared that “discriminative knowledge” would subsume “relational knowledge” and forms beyond these. To be precise Bennett defines knowledge as:&lt;&#x2F;p&gt;
 &lt;p&gt;The subjective aspect of function. The ordering of function. Knowledge of seven kinds.&lt;&#x2F;p&gt;
@@ -154,10 +154,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/blog/process-philosophy-3/"/>
-        <id>https://joshafairhead.com/blog/process-philosophy-3/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/blog/process-philosophy-3/"/>
+        <id>http://localhost/blog/process-philosophy-3/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/blog/process-philosophy-3/">&lt;p&gt;Session three dives into the subject of panpsychism, starting with a quote from Heraclitus on the subject; which is that all things glow and have an ever living fire that animates them from the inside out. A claim that the world is ensouled, making panpsychism a sort of philosophical animism.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="http://localhost/blog/process-philosophy-3/">&lt;p&gt;Session three dives into the subject of panpsychism, starting with a quote from Heraclitus on the subject; which is that all things glow and have an ever living fire that animates them from the inside out. A claim that the world is ensouled, making panpsychism a sort of philosophical animism.&lt;&#x2F;p&gt;
 &lt;p&gt;Numerous authors throughout history have taken this view in various forms of course, the most famous being Jung. David Chalmers is another who brings this into the realm of Consciousness and stating that understanding everything from a functional point of view still begs the question; why is there experience?&lt;&#x2F;p&gt;
 &lt;p&gt;More recently there is Michael Levin, who Matt explains has been driven to adopt panpsychism to explain the collective intelligence of cells which he refers to as goals in morphospace. No one cell can understand or perceive the whole, yet there is collective intelligence that shapes the behaviour of particular units. In other words a tail cell doesn’t know its a to become such but it’s morphology is none the less shaped by its community (or perhaps society in Whiteheadean terms).&lt;&#x2F;p&gt;
 &lt;p&gt;If you’re interested in Levins work, he recently shared a new video called &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=x9qb3bKREI4&quot;&gt;“Against Mind-Blindness: recognizing and communicating with unconventional beings”&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -195,10 +195,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/blog/process-philosophy-2/"/>
-        <id>https://joshafairhead.com/blog/process-philosophy-2/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/blog/process-philosophy-2/"/>
+        <id>http://localhost/blog/process-philosophy-2/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/blog/process-philosophy-2/">&lt;p&gt;As far as sessions go, this one is particularly meaty - it begins with the question:&lt;&#x2F;p&gt;
+        <content type="html" xml:base="http://localhost/blog/process-philosophy-2/">&lt;p&gt;As far as sessions go, this one is particularly meaty - it begins with the question:&lt;&#x2F;p&gt;
 &lt;p&gt;“What does Whitehead’s philosophy of organism contribute to understanding how it is that we live in a physical universe which gives rise to organisms here on earth and perhaps many other planets throughout the galaxy and even the cosmos?”&lt;&#x2F;p&gt;
 &lt;p&gt;Obviously, this is no small question, and as the lesson suggests, the nature of this question has shifted over the last several centuries - where originally, indigenous cultures have tended to consider the earth to be alive with death as the big mystery - but now the more modern scientific cultures, particularly those possessed by the mechanical point of view, tend to consider the universe to be a dead collection of material particles; so the real mystery becomes: what is life?&lt;&#x2F;p&gt;
 &lt;p&gt;The framing here feels along the lines of a dyad with complementary poles between life and death, which would perhaps be of more value framed triadically as a relationship between birth, life, and death. The descriptions of indigenous cultures also draws my attention to religion, which, like indigenous culture, often emphasizes the afterlife.&lt;&#x2F;p&gt;
@@ -248,10 +248,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/blog/process-philosophy-1/"/>
-        <id>https://joshafairhead.com/blog/process-philosophy-1/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/blog/process-philosophy-1/"/>
+        <id>http://localhost/blog/process-philosophy-1/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/blog/process-philosophy-1/">&lt;p&gt;This article is a reflection and commentary on Process and Thought lecture 1 - the content of which was provided by Matt Segall - a lecturer from CIIS that’s pretty well known for his expertise on Whitehead. This is my interpretation of the content provided by Matt based on his understanding of Whitehead, so whatever I say about his framing should probably be taken with a pinch of salt.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="http://localhost/blog/process-philosophy-1/">&lt;p&gt;This article is a reflection and commentary on Process and Thought lecture 1 - the content of which was provided by Matt Segall - a lecturer from CIIS that’s pretty well known for his expertise on Whitehead. This is my interpretation of the content provided by Matt based on his understanding of Whitehead, so whatever I say about his framing should probably be taken with a pinch of salt.&lt;&#x2F;p&gt;
 &lt;p&gt;What’s interesting for me to discover based on this content is that I may be more familiar with Process Philosophy than I initially thought, as listening to him I immediately hear strong correspondences with JG Bennett’s work, an author who’s philosophy I am reasonably connected with and an author who seems to reference Whitehead a great deal. This makes sense given both their timelines, and they seem to be birds of a feather.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;At the beginning of the lecture, Matt claims that Whitehead did not see the universe as divided and instead saw it as relational where every actual occasion of experience from sub-atomic particles to stars and galaxies is a unity of physical and mental feelings. Metaphysically, the echoes here are already quite familiar as he is first talking about an undivided, continuous or maybe Monadic universe that is also relational (or maybe Triadic). This undivided and relational universe however contains multitudes of layered occasions in a sort of qualitative infinity - broadly termed potential and actual - which range from the very small to the very large!&lt;&#x2F;p&gt;

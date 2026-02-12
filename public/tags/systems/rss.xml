@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Josh Fairhead - Systems</title>
-      <link>https://joshafairhead.com</link>
+      <link>http://localhost</link>
       <description>Professional website of Josh Fairhead</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://joshafairhead.com/tags/systems/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="http://localhost/tags/systems/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Systematics Interface</title>
           <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/software/systematics-interface/</link>
-          <guid>https://joshafairhead.com/portfolio/software/systematics-interface/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/software/systematics-interface/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;screenshot.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/software/systematics-interface/</link>
+          <guid>http://localhost/portfolio/software/systematics-interface/</guid>
+          <description xml:base="http://localhost/portfolio/software/systematics-interface/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;screenshot.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;why&quot;&gt;Why&lt;&#x2F;h2&gt;
 &lt;p&gt;The field of arteficial intelligence is complex and solving any singular aspect is unlikely to be of much much value due to the non-linear and highly systemic nature of these systems. If we want safe performant systems then we need to work cross functionally across domains like interpretability, representation, and steerability.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;how&quot;&gt;How&lt;&#x2F;h2&gt;
@@ -28,17 +28,17 @@
 &lt;!---
 TODO: Gallery of these images:
 ---&gt; 
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfBeing.png#no-hover&quot; alt=&quot;12levelsofbeing&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12Energies.jpg#no-hover&quot; alt=&quot;12levelsofenergy&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12values.jpg#no-hover&quot; alt=&quot;12levelsofvalues&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfSociety.png#no-hover&quot; alt=&quot;12LevelsOfSociety&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfBeing.png#no-hover&quot; alt=&quot;12levelsofbeing&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12Energies.jpg#no-hover&quot; alt=&quot;12levelsofenergy&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12values.jpg#no-hover&quot; alt=&quot;12levelsofvalues&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfSociety.png#no-hover&quot; alt=&quot;12LevelsOfSociety&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;horizon-3&quot;&gt;Horizon 3&lt;&#x2F;h3&gt;
 &lt;p&gt;With the ability to create, read, update and delete new schemas such as above - we can start to work on the more category theoretic elements to the system, namely the various transformation types between ‘objects’ like the indexes, coordinates or terms contained in the bootstrapping ‘categories’ of topology, geometry and vocabulary. These are perhaps not as fleshed out as the schemas developed by Bennett (above) so those might be considered more useful for analysing the relatioships.&lt;&#x2F;p&gt;
 &lt;p&gt;The ability to add vocabulary and grammars in such a consistent way opens up many possible use cases in domains like interpretability, representation, steerability, and so on - for example, allowing us to probe latent space with different yet equivelent vocabularies in order to get a sense of an LLMs circuits, or we can link together knowledge graphs for the purposes of reasoning and explainability.&lt;&#x2F;p&gt;
 &lt;p&gt;With regards to the category theoretic elements, with our bootstrapping structures in place as well as some initial well defined schemas, we can start looking at processes such as the morphisms between elements internal to a categroy, the functors between categories, or the homotopy types within and across categroies that articulate a sort of state model or hilbert space (note that each system is itself a kind of homotopy type).&lt;&#x2F;p&gt;
 &lt;p&gt;For example we can examine the cross category equivelence mappings between index 1, coordinate 1 and term 1, which I believe is called the functorial semantics. Or we could look at morphism types between nodes in a given category such as isomorphisms, endomorphisms, homomorphisms and so on. We can look at linear transformations such as the fibrations illustrated below where the category of sub-animate existence ‘fibrates’ into a tetrad consisting of sub categories like ‘universal field&#x2F;radiation, elemental complexes, molocular structures, soil and ocean’, and the same for animate and super animate levels of existence. Or we can work out the non-linear transforms between systems such as from a monad of humanity &amp;gt; dyad of man&#x2F;woman &amp;gt; the triad of father&#x2F;mother&#x2F;child. &lt;strong&gt;(Note to self this is possibly a sort of qualative fourrier transform).&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;3_TriadOfAstropoiesis.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfBeing.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;3_TriadOfAstropoiesis.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematics-interface&#x2F;artefacts&#x2F;12LevelsOfBeing.png#no-hover&quot; alt=&quot;screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Building this prototype so that it is self consistent and ultimately correct by construction has already presented many challenges and bootstrapping issues, but horizon one has taken shape far enough to work on the API some more while adding new features.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;horizon-omega&quot;&gt;Horizon omega&lt;&#x2F;h3&gt;
 &lt;p&gt;Assuming that we get as far as horizon three, we should by then have a pretty robust neurosymbolic system. At this point, we can start to add generative AI to the mix, which takes a more cybernetic approach. Assumedly the foundations will be codified to start augmenting the small language models (different categorical schemas) with machine learning techniques such as supervised learning, evolutionary strategies and reinforcement learning. This is of course where the project moves from function into being, which would naturally need to be related to a will or purpose - of which there are many possible candidates.&lt;&#x2F;p&gt;
@@ -52,9 +52,9 @@ TODO: Gallery of these images:
           <title>Resource Library</title>
           <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
           <author>Josh Fairhead</author>
-          <link>https://joshafairhead.com/portfolio/software/systematicsapi/</link>
-          <guid>https://joshafairhead.com/portfolio/software/systematicsapi/</guid>
-          <description xml:base="https://joshafairhead.com/portfolio/software/systematicsapi/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematicsapi&#x2F;HeptadEngineeringTemplate.png#no-hover&quot; alt=&quot;Engineering&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>http://localhost/portfolio/software/systematicsapi/</link>
+          <guid>http://localhost/portfolio/software/systematicsapi/</guid>
+          <description xml:base="http://localhost/portfolio/software/systematicsapi/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematicsapi&#x2F;HeptadEngineeringTemplate.png#no-hover&quot; alt=&quot;Engineering&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Joshfairhead&#x2F;SystematicsAPI-v0.0.2&quot;&gt;Here is the v0.0.2 codebase&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h4 id=&quot;background&quot;&gt;Background&lt;&#x2F;h4&gt;
 &lt;p&gt;The systematics API started as a way to store, preserve, search and retrieve the work of Tony Hodgson and JG Bennett - as well as other traditions that make use of such semantic structures. In short these systems are ways of organising information into knowledge ecologies.&lt;&#x2F;p&gt;
@@ -72,7 +72,7 @@ TODO: Gallery of these images:
 &lt;p&gt;So the question is how the hell to do this on a computing infrastructure built on binary logic?? Well from an earlier (unmentioned) excrusion of equating mathmatical operations to systems I discovered operation types such as ‘union’, ‘intersect’, ‘product’, ‘superset’ and so fourth - which all have a qualitive flavour. Having tried and failed to implement these, while getting utterly lost in recursion, I discovered another term in category theory called DSU or “Disjoint Set, Union”. Is this the monad of monads or even a nullad I wonder? Maybe. Then it dawns on me that Holochain as a distributed hash table with content addressable storage is essentially a DSU, which has generic types of ‘entries’ and ‘links’ as its fundemental dyad.&lt;&#x2F;p&gt;
 &lt;p&gt;So I’m basically still in research mode, but assuming that I can use entries to represent types of objects and categroies and links to represent morphisms and functors (it actully looks like the system may be built on category theory), I still need to work out the relativity of the various ‘elements’. In other words theres specific units needed in order to describe a system (index, coordinate, term = node) and there are critical functions that are not directly needed as part of the system, but give it critical funcitonality - such as the morphism or functor types.&lt;&#x2F;p&gt;
 &lt;p&gt;So, looking back to the heptad of engineering template, I wonder if this the research portion nearing completion? Is the next step imagination and&#x2F;or prototype? How does this relate to the octad? Have I mapped out the units as systems? critical functions as objects, categories, morphisms and functiors? The platform as Holochain? And am now working on resources? It seems so though it was pretty unintentional - even resisted.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;portfolio&#x2F;software&#x2F;systematicsapi&#x2F;8GenericOctad.png#no-hover&quot; alt=&quot;Octad&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;portfolio&#x2F;software&#x2F;systematicsapi&#x2F;8GenericOctad.png#no-hover&quot; alt=&quot;Octad&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 </description>
       </item>
     </channel>

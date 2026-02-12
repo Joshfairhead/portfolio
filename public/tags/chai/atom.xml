@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Josh Fairhead - chai</title>
     <subtitle>Professional website of Josh Fairhead</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://joshafairhead.com/tags/chai/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://joshafairhead.com"/>
+    <link rel="self" type="application/atom+xml" href="http://localhost/tags/chai/atom.xml"/>
+    <link rel="alternate" type="text/html" href="http://localhost"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2010-02-20T00:00:00+00:00</updated>
-    <id>https://joshafairhead.com/tags/chai/atom.xml</id>
+    <id>http://localhost/tags/chai/atom.xml</id>
     <entry xml:lang="en">
         <title>Arabian Tea</title>
         <published>2010-02-20T00:00:00+00:00</published>
@@ -18,12 +18,12 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://joshafairhead.com/tea-blog/arabian-tea/"/>
-        <id>https://joshafairhead.com/tea-blog/arabian-tea/</id>
+        <link rel="alternate" type="text/html" href="http://localhost/tea-blog/arabian-tea/"/>
+        <id>http://localhost/tea-blog/arabian-tea/</id>
         
-        <content type="html" xml:base="https://joshafairhead.com/tea-blog/arabian-tea/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;arabian-tea&#x2F;image1.jpg&quot; alt=&quot;Arabian Tea packet&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;arabian-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;joshafairhead.com&#x2F;tea-blog&#x2F;arabian-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
+        <content type="html" xml:base="http://localhost/tea-blog/arabian-tea/">&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;arabian-tea&#x2F;image1.jpg&quot; alt=&quot;Arabian Tea packet&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;arabian-tea&#x2F;image2.jpg&quot; alt=&quot;Tea close-up&quot; &#x2F;&gt;
+&lt;img src=&quot;http:&#x2F;&#x2F;localhost&#x2F;tea-blog&#x2F;arabian-tea&#x2F;image3.jpg&quot; alt=&quot;Tea brewed tea&quot; &#x2F;&gt;
 This is a mix of unspecified black tea with things like cinamon ant other spices in it.
 On first tasting its texture is quite thin like a Darjeelings or herbals would but with a bit more strength similar to Earl Grey and a flavour obviously leaning in the Chai direction.
 Despite only being a person for normal black teas this Earl Greyish Chai isn’t too bad. If your into your milky Chai then you could probably mix it with milk in a similar fashon but for me its just a variant on black tea.&lt;&#x2F;p&gt;
