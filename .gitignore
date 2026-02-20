@@ -6,3 +6,7 @@
 
 # Binaries
 zola
+
+# Build output
+public/
+sites/*/public/
