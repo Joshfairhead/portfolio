@@ -1,0 +1,64 @@
+// =============================================================================
+// Layout - Root Landing Page
+// =============================================================================
+
+body {
+    background: $bg-primary;
+    font-family: $font-sans;
+}
+
+// Centered card layout
+.page-home {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: $space-5;
+}
+
+.card {
+    background: $bg-card;
+    border: $border-width solid $border-card;
+    border-radius: $border-radius;
+    box-shadow: $shadow-subtle;
+    padding: $space-6 $space-7;
+    max-width: $card-max-width;
+    width: 100%;
+    text-align: center;
+}
+
+.card__name {
+    font-size: $font-size-name;
+    font-weight: 300;
+    letter-spacing: $letter-spacing-widest;
+    color: $text-primary;
+}
+
+.card__divider {
+    height: $border-width;
+    background: $accent;
+    margin: $space-5 0;
+}
+
+.card__contact {
+    font-size: $font-size-contact;
+    font-weight: 500;
+    letter-spacing: $letter-spacing-wide;
+    color: $text-muted;
+    transition: color 0.2s ease;
+
+    &:hover {
+        color: $accent;
+    }
+}
+
+// Responsive
+@media (max-width: 480px) {
+    .card {
+        padding: $space-5;
+    }
+
+    .card__name {
+        font-size: 1.6rem;
+    }
+}
