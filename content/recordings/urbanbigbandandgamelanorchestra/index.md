@@ -5,10 +5,10 @@ description = "Location recording for some large ensamble work"
 draft = true
 weight = 1
 [taxonomies]
-tags = ["Recordings", "Audio"]
+tags = ["Recordings"]
 [extra]
 featured = false
-banner = "cover.jpg"
+banner = "pictures/UrbanBigBandGamelanPrep.png"
 hero = false
 +++
 

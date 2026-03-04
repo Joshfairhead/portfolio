@@ -4,7 +4,7 @@ title = "Project Play"
 description = "A masters project playing all the parts; composition, arrangement, recording, mix, 5.1 surround"
 weight = 20
 [taxonomies]
-tags = ["Recordings", "Audio"]
+tags = ["Recordings", "Studio"]
 [extra]
 banner = "cover.jpg"
 hero = false

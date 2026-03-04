@@ -5,10 +5,10 @@ description = "The book end to Primates, an intentionally riddiculous prog rock 
 draft = true
 weight = 1
 [taxonomies]
-tags = ["Recordings", "Audio"]
+tags = ["Recordings"]
 [extra]
 featured = true
-banner = "cover.jpg"
+banner = ""
 hero = false
 +++
 

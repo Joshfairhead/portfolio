@@ -34,11 +34,10 @@ show_feed = false
 show_theme_switcher = false
 show_repo = false
 links = [
-    { name = "Events", url = "tags/events" },
-    { name = "Venues", url = "tags/venues" },
-    { name = "Multimedia", url = "tags/multimedia" },
-    { name = "Recordings", url = "tags/recordings" },
-    { name = "Software", url = "tags/software" },
+    { name = "Software", url = "software" },
+    { name = "Recordings", url = "recordings" },
+    { name = "Multimedia", url = "multimedia" },
+    { name = "Tech Management", url = "tech-management" },
 ]
 
 [extra.footer]

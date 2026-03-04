@@ -5,10 +5,10 @@ description = "Bluesy funk rock acoustic with slide and slap bass"
 draft = true
 weight = 1
 [taxonomies]
-tags = ["Recordings", "Audio"]
+tags = ["Recordings"]
 [extra]
 featured = true
-banner = "cover.jpg"
+banner = ""
 hero = false
 +++
 

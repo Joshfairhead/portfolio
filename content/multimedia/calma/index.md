@@ -2,9 +2,9 @@
 authors = ["Josh Fairhead"]
 title = "Calma Video"
 description = "Music composed based on the timings of an animated video, originally a Calma animation."
-weight = 10
+weight = 2
 [taxonomies]
-tags = ["Multimedia", "Visual"]
+tags = ["Multimedia"]
 [extra]
 banner = "thumbnail.jpg"
 hero = false

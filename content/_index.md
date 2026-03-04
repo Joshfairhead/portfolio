@@ -1,4 +1,5 @@
 +++
 title = "Portfolio"
-sort_by = "date"
+sort_by = "weight"
+page_template = "article.html"
 +++

@@ -2,9 +2,9 @@
 title = "Not-a-Bot"
 description = "Proof of unique passport identity system"
 draft = false
-weight = 1
+weight = 2
 [taxonomies]
-tags = ["Software", "Identity", "Proof of Uniqueness"]
+tags = ["Software"]
 [extra]
 banner = "artefacts/notabot.jpg"
 hero = false

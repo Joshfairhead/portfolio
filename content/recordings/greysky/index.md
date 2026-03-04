@@ -5,10 +5,10 @@ description = "Meloncholy messaging about the links between projections and expe
 draft = true
 weight = 1
 [taxonomies]
-tags = ["Recordings", "Audio"]
+tags = ["Recordings"]
 [extra]
 featured = true
-banner = "cover.jpg"
+banner = ""
 hero = false
 +++
 

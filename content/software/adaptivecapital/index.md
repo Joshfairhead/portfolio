@@ -1,7 +1,7 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Adaptive Capital"
-description = "A pioneering tokenomics proposal bridging regenerative finance with living ecosystems - proposing infrastructure to value nature through multi-perspective architecture and active inference."
+description = "Tokenomics proposal for the regen network, proposing a multi perspective architecture for valuing nature in place through eco state protocols"
 date = 2023-09-11
 weight = 10
 [taxonomies]

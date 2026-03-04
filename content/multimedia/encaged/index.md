@@ -4,7 +4,7 @@ title = "Encaged"
 description = "Music composed for a short animation about old people connecting through their birds."
 weight = 10
 [taxonomies]
-tags = ["Multimedia", "Visual"]
+tags = ["Multimedia"]
 [extra]
 banner = "thumbnail.jpg"
 hero = false

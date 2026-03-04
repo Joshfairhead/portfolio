@@ -5,9 +5,9 @@ description = "Community maker space keeping things cozy over the covid period"
 draft = true
 weight = 10
 [taxonomies]
-tags = ["Software", "Draft"]
+tags = ["Software"]
 [extra]
-banner = "thumbnail.jpg"
+banner = ""
 hero = false
 +++
 

@@ -1,7 +1,8 @@
 +++
 title = "Multimedia"
 sort_by = "weight"
-template = "article_list.html"
+transparent = true
+template = "section.html"
 page_template = "article.html"
 [extra]
 hero = false
