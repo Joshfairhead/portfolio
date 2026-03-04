@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Cursed Animation"
 description = "Music created for short animation where a cursed exile is faced with a life and death dilemma."
+date = 2010-01-01
 weight = 8
 [taxonomies]
 tags = ["Multimedia"]

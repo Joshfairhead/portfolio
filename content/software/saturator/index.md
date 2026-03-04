@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Saturator"
 description = "Harmonic saturation patch made in MaxMSP."
+date = 2012-01-01
 weight = 90
 [taxonomies]
 tags = ["Software"]

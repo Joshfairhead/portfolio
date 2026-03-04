@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Hermitage"
 description = "Hermitage project - placeholder for future development."
+date = 2020-01-01
 draft = true
 weight = 10
 [taxonomies]

@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Swift"
 description = "AV installation and technical setup for Swift venue."
+date = 2015-01-01
 weight = 40
 [taxonomies]
 tags = ["Venues"]

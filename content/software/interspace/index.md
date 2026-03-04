@@ -1,6 +1,7 @@
 +++
 title = "Interspace"
 description = "Interspace.chat - an interface developed for open space gatherings during the pandemic"
+date = 2020-01-01
 draft = true
 weight = 10
 [taxonomies]

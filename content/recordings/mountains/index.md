@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Mountains"
 description = "Written too late to be recorded for my masters project, this tune actually showed the most promise as raw material."
+date = 2014-01-01
 draft = false
 weight = 70
 [taxonomies]

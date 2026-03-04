@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Elephants Dream Animation"
 description = "Sound design, foley and ADR for a mechanical dream world influenced by thought."
+date = 2011-01-01
 weight = 1
 [taxonomies]
 tags = ["Multimedia"]

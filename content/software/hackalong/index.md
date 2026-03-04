@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Hackalong"
 description = "Community maker space keeping things cozy over the covid period"
+date = 2020-01-01
 draft = true
 weight = 10
 [taxonomies]

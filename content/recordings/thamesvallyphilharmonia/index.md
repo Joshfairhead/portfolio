@@ -1,6 +1,7 @@
 +++
 title = "Isobella Peck Cubann II Thames Valley Philharmonic"
 description = "Location recording of the Thames Valley Philharmonic"
+date = 2012-01-01
 draft = true
 weight = 60
 [taxonomies]

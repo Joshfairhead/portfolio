@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Egg London - Technical Management"
 description = "Technical management for Egg London, coordinating AV systems and event production."
+date = 2015-01-01
 weight = 44
 [taxonomies]
 tags = ["Events", "Venues"]
