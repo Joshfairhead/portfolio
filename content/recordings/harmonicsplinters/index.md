@@ -5,10 +5,10 @@ description = "Upbeat acoustic rock in odd times with honky tonk piano and some 
 draft = true
 weight = 1
 [taxonomies]
-tags = ["Recordings", "Audio"]
+tags = ["Recordings"]
 [extra]
 featured = true
-banner = "cover.jpg"
+banner = ""
 hero = false
 +++
 

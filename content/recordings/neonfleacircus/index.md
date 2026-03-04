@@ -4,7 +4,7 @@ title = "Fistfull of I.O.U's"
 description = "An album of progressive psychedelic music, and other genres. An all round labour of love."
 weight = 1
 [taxonomies]
-tags = ["Recordings", "Audio"]
+tags = ["Recordings", "Studio"]
 [extra]
 featured = true
 banner = "cover1.jpg"

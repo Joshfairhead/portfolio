@@ -5,7 +5,7 @@ description = "The genesis track of progressive rock concept album telling the s
 draft = true
 weight = 1
 [taxonomies]
-tags = ["Recordings", "Audio"]
+tags = ["Recordings"]
 [extra]
 featured = true
 

@@ -4,10 +4,10 @@ description = "Location recording of the Thames Valley Philharmonic"
 draft = true
 weight = 60
 [taxonomies]
-tags = ["Recordings", "Location Recording"]
+tags = ["Recordings"]
 [extra]
 featured = false
-banner = ""
+banner = "pictures/Thames_Philharmonia01.JPG"
 hero = false
 +++
 

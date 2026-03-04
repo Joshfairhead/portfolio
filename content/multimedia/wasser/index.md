@@ -3,10 +3,10 @@ authors = ["Josh Fairhead"]
 title = "Wasser"
 description = "An aging man's decent into madness and death"
 date = 2016-01-01
-weight = 40
+weight = 9
 draft = false
 [taxonomies]
-tags = ["Multimedia", "Audio Visual", "Installation"]
+tags = ["Multimedia"]
 [extra]
 banner = "thumbnail.jpg"
 hero = false

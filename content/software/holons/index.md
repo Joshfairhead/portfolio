@@ -1,10 +1,10 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Holons"
-description = "An open protocol that reimagines organizational structure through fractal, living systems - enabling communities to self-organize using AI-enhanced coordination and blockchain tracking."
-weight = 10
+description = "AI enhanced coordination with blockchain tracking; votes, tasks, mutual credit, rewards, processes"
+weight = 3
 [taxonomies]
-tags = ["Software", "Protocol", "AI", "Blockchain", "Systems"]
+tags = ["Software"]
 [extra]
 banner = "thumbnail.jpg"
 hero = false

@@ -2,9 +2,9 @@
 authors = ["Josh Fairhead"]
 title = "Les Paul"
 description = "Photos of a Les Paul replica guitar hand crafted many years ago as a leaving cert project."
-weight = 10
+weight = 90
 [taxonomies]
-tags = ["Multimedia", "Craft"]
+tags = ["Multimedia"]
 [extra]
 banner = "thumbnail.png"
 hero = false

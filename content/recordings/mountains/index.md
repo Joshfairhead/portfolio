@@ -3,9 +3,9 @@ authors = ["Josh Fairhead"]
 title = "Mountains"
 description = "Written too late to be recorded for my masters project, this tune actually showed the most promise as raw material."
 draft = false
-weight = 30
+weight = 70
 [taxonomies]
-tags = ["Recordings", "Song Writing"]
+tags = ["Recordings"]
 [extra]
 featured = false
 banner = "mountains.webp"

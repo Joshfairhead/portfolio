@@ -3,10 +3,10 @@ authors = ["Josh Fairhead"]
 title = "Systematics Interface"
 description = "General purpose neurosymbolic interface for a categorical cosmology"
 date = 2025-12-09
-weight = 2
+weight = 1
 draft = false
 [taxonomies]
-tags = ["Software", "Systems", "Math"]
+tags = ["Software"]
 [extra]
 banner = "artefacts/screenshot.png"
 hero = false

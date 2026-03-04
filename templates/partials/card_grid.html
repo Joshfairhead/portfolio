@@ -3,7 +3,7 @@
     <a href="{{ page.permalink }}" class="content-card">
         {% if page.extra.card or page.extra.banner %}
         <div class="content-card__banner">
-            <img src="{{ page.permalink }}{{ page.extra.card | default(value=page.extra.banner) }}" alt="{{ page.title }}" loading="lazy" />
+            <img src="{{ page.permalink }}{{ page.extra.card | default(value=page.extra.banner) | safe }}" alt="{{ page.title }}" loading="lazy" />
         </div>
         {% endif %}
         <div class="content-card__info">

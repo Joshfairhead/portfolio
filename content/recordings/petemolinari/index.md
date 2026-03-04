@@ -4,7 +4,7 @@ description = "Live recording of Pete and his band in Shepards Bush"
 draft = false
 weight = 80
 [taxonomies]
-tags = ["Recordings", "Audio"]
+tags = ["Recordings", "Live"]
 [extra]
 featured = false
 banner = "artefacts/images/Pete_Cover.png"

@@ -4,7 +4,7 @@ description = "Location recording for the school of oriental and african studies
 draft = false
 weight = 90
 [taxonomies]
-tags = ["Recordings", "Live Recording"]
+tags = ["Recordings", "Live"]
 [extra]
 featured = false
 banner = "artefacts/cubanbigband.jpg"

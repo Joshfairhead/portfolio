@@ -5,9 +5,9 @@ description = "Hermitage project - placeholder for future development."
 draft = true
 weight = 10
 [taxonomies]
-tags = ["Software", "Draft"]
+tags = ["Software"]
 [extra]
-banner = "thumbnail.jpg"
+banner = ""
 hero = false
 +++
 

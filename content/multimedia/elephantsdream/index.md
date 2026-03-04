@@ -4,7 +4,7 @@ title = "Elephants Dream Animation"
 description = "Sound design, foley and ADR for a mechanical dream world influenced by thought."
 weight = 1
 [taxonomies]
-tags = ["Multimedia", "Visual"]
+tags = ["Multimedia"]
 [extra]
 banner = "thumbnail.jpg"
 hero = false

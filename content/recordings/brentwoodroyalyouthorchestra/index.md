@@ -5,7 +5,7 @@ description = "Large ensamble recording"
 draft = false
 weight = 100
 [taxonomies]
-tags = ["Recordings", "Live Recording"]
+tags = ["Recordings", "Live"]
 [extra]
 featured = false
 banner = "BRYLO.jpg"

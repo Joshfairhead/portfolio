@@ -4,7 +4,7 @@ description = "Live orchestral recording in St. Multose Church Kinsale"
 draft = true
 weight = 55
 [taxonomies]
-tags = ["Recordings", "Audio"]
+tags = ["Recordings"]
 [extra]
 featured = false
 banner = "stmultose.jpg"
