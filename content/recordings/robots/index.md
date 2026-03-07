@@ -3,13 +3,13 @@ authors = ["Josh Fairhead"]
 title = "Robots"
 description = "The book end to Primates, an intentionally riddiculous prog rock response to the increased use of autotune in pop music"
 date = 2013-01-01
-draft = true
+draft = false
 weight = 1
 [taxonomies]
 tags = ["Recordings"]
 [extra]
 featured = true
-banner = ""
+banner = "cover.webp"
 hero = false
 +++
 

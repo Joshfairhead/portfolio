@@ -1,6 +1,6 @@
 +++
 title = "Technical"
-sort_by = "weight"
+sort_by = "date"
 transparent = true
 template = "section.html"
 page_template = "article.html"
