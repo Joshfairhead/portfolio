@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Fistfull of I.O.U's"
 description = "An album of progressive psychedelic music, and other genres. An all round labour of love."
+date = 2010-01-01
 weight = 1
 [taxonomies]
 tags = ["Recordings", "Studio"]

@@ -1,6 +1,7 @@
 +++
 title = "SOAS Cuban Big Band"
 description = "Location recording for the school of oriental and african studies"
+date = 2012-03-06
 draft = false
 weight = 90
 [taxonomies]

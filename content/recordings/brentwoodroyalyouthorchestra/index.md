@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Brentwood Royal Youth Legion Orchestra"
 description = "Large ensamble recording"
+date = 2012-01-01
 draft = false
 weight = 100
 [taxonomies]

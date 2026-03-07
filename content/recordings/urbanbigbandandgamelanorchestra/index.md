@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Urban Big Band and Gamelan Orchestra Recording"
 description = "Location recording for some large ensamble work"
+date = 2012-03-06
 draft = true
 weight = 1
 [taxonomies]

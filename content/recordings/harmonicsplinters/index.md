@@ -2,13 +2,14 @@
 authors = ["Josh Fairhead"]
 title = "Harmonic Splinters"
 description = "Upbeat acoustic rock in odd times with honky tonk piano and some epic guitar solos"
-draft = true
+date = 2013-09-17
+draft = false
 weight = 1
 [taxonomies]
 tags = ["Recordings"]
 [extra]
 featured = true
-banner = ""
+banner = "cover.jpeg"
 hero = false
 +++
 
