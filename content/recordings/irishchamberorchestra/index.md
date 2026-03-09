@@ -1,7 +1,7 @@
 +++
 title = "Irish Chamber Orchestra"
 description = "Live orchestral recording in St. Multose Church Kinsale"
-date = 2010-01-01
+date = 2010-08-01
 draft = false
 weight = 55
 [taxonomies]

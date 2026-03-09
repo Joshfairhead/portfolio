@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Oriole"
 description = "AV installation and technical setup for Oriole venue."
-date = 2015-01-01
+date = 2015-11-01
 weight = 41
 [taxonomies]
 tags = ["Venues"]
