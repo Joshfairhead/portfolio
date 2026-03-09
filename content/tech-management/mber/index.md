@@ -2,6 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Mber"
 description = "AV installation and technical setup for Mber venue."
+date = 2015-01-01
 weight = 42
 [taxonomies]
 tags = ["Venues"]

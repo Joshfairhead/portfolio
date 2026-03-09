@@ -2,12 +2,13 @@
 authors = ["Josh Fairhead"]
 title = "Hermitage"
 description = "Hermitage project - placeholder for future development."
-draft = true
+date = 2020-01-01
+draft = false
 weight = 10
 [taxonomies]
 tags = ["Software"]
 [extra]
-banner = ""
+banner = "thumbnail.png"
 hero = false
 +++
 

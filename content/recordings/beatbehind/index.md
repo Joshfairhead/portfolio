@@ -2,7 +2,8 @@
 authors = ["Josh Fairhead"]
 title = "Beat Behind"
 description = "Bluesy funk rock acoustic with slide and slap bass"
-draft = true
+date = 2013-01-01
+draft = false
 weight = 1
 [taxonomies]
 tags = ["Recordings"]
