@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Harmonic Splinters"
 description = "Upbeat acoustic rock in odd times with honky tonk piano and some epic guitar solos"
-date = 2013-09-17
+date = 2013-08-17
 draft = false
 weight = 1
 [taxonomies]

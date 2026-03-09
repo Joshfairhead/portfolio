@@ -1,7 +1,7 @@
 +++
 title = "Pete Moulinari"
 description = "Live recording of Pete and his band in Shepards Bush"
-date = 2012-01-01
+date = 2012-09-01
 draft = false
 weight = 80
 [taxonomies]

@@ -1,7 +1,7 @@
 +++
 title = "Not-a-Bot"
 description = "Proof of unique passport identity system"
-date = 2020-01-01
+date = 2020-12-01
 draft = false
 weight = 2
 [taxonomies]

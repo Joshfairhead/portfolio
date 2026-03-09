@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Holons"
 description = "AI enhanced coordination with blockchain tracking; votes, tasks, mutual credit, rewards, processes"
-date = 2019-01-01
+date = 2019-12-01
 weight = 3
 [taxonomies]
 tags = ["Software"]

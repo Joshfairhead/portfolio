@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Grey Sky"
 description = "Meloncholy messaging about the links between projections and expectatons as a closed causal loop"
-date = 2013-09-14
+date = 2013-08-14
 draft = false
 weight = 1
 [taxonomies]

@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Robots"
 description = "The book end to Primates, an intentionally riddiculous prog rock response to the increased use of autotune in pop music"
-date = 2013-01-01
+date = 2013-08-01
 draft = false
 weight = 1
 [taxonomies]

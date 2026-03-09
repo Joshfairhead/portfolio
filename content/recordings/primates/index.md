@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Primates"
 description = "The genesis track of progressive rock concept album telling the story of music"
-date = 2013-01-01
+date = 2013-08-01
 draft = true
 weight = 1
 [taxonomies]
