@@ -9,7 +9,7 @@ weight = 1
 tags = ["Recordings"]
 [extra]
 featured = true
-banner = ""
+banner = "beatbehind.webp"
 hero = false
 +++
 
