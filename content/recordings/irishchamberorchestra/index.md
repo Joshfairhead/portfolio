@@ -5,7 +5,7 @@ date = 2010-08-01
 draft = false
 weight = 55
 [taxonomies]
-tags = ["Recordings"]
+tags = ["Recordings", "Live"]
 [extra]
 featured = false
 banner = "stmultose.jpg"

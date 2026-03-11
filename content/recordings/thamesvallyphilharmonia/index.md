@@ -5,7 +5,7 @@ date = 2012-03-01
 draft = false
 weight = 60
 [taxonomies]
-tags = ["Recordings"]
+tags = ["Recordings", "Live"]
 [extra]
 featured = false
 banner = "pictures/Thames_Philharmonia01.JPG"
