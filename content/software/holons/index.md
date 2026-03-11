@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Holons"
 description = "AI enhanced coordination with blockchain tracking; votes, tasks, mutual credit, rewards, processes"
-date = 2019-12-01
+date = 2020-04-24
 weight = 3
 [taxonomies]
 tags = ["Software"]
@@ -32,6 +32,8 @@ The platform supports decentralized, nested organizational structures inspired b
 - Telegram integration for seamless communication
 - Support for decentralized, collaborative community building
 
-## Repos 
+## Repos
+
 Original Repo: https://github.com/hack-along/hack-along-holons
+
 Current Repo: https://github.com/liminalvillage/holons

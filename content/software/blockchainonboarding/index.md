@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Blockchain Onboarding"
 description = "Creating accessible pathways into Web3 - comprehensive field guides that demystify blockchain from first principles, covering wallets, DAOs, and decentralized governance."
-date = 2022-03-01
+date = 2023-03-01
 weight = 10
 [taxonomies]
 tags = ["Software", "Documentation"]
