@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "Equinox Unconf"
 description = "Online gathering of hands, hearts and heads to self curate an autumnal unconference"
-date = 2022-09-01
+date = 2020-09-22
 weight = 1
 [taxonomies]
 tags = ["Events"]
