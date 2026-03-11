@@ -6,7 +6,7 @@ date = 2013-08-14
 draft = false
 weight = 1
 [taxonomies]
-tags = ["Recordings"]
+tags = ["Recordings", "Studio"]
 [extra]
 featured = true
 banner = "cover.jpg"

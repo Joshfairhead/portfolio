@@ -2,7 +2,7 @@
 authors = ["Josh Fairhead"]
 title = "SBG - Technical Management"
 description = "Technical management across 14 SBG venues, coordinating AV systems and event production."
-date = 2014-01-01
+date = 2016-04-01
 weight = 43
 [taxonomies]
 tags = ["Events", "Venues"]

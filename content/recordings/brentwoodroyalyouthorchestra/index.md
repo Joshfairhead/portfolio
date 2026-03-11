@@ -9,7 +9,8 @@ weight = 100
 tags = ["Recordings", "Live"]
 [extra]
 featured = false
-banner = "BRYLO.jpg"
+card = "brentwood.jpg"
+banner = "brentwood.jpg"
 hero = false
 +++
 

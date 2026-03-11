@@ -6,7 +6,7 @@ date = 2013-12-01
 draft = false
 weight = 1
 [taxonomies]
-tags = ["Recordings"]
+tags = ["Recordings", "Studio"]
 [extra]
 featured = true
 banner = "beatbehind.webp"

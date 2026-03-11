@@ -6,7 +6,7 @@ date = 2013-08-01
 draft = true
 weight = 1
 [taxonomies]
-tags = ["Recordings"]
+tags = ["Recordings", "Studio"]
 [extra]
 featured = true
 
