@@ -5,7 +5,7 @@ description = "Tokenomics proposal for the regen network, proposing a multi pers
 date = 2023-09-11
 weight = 10
 [taxonomies]
-tags = ["Software", "Proposal"]
+tags = ["Software", "Documentation"]
 [extra]
 banner = "thumbnail.jpg"
 hero = false
