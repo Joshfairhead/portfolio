@@ -17,64 +17,74 @@ hero = false
 
 ---
 
-### **Verse**
-Anxious of this apathy,<br />
-Concepts crashing constantly,<br />
-Guess work near ensnaring me,<br />
-Forest through the trees, trees,<br />
-- (Voice one: Rise on the 2 count, Voice 2: Rise on the 3 count) G C CpA# D#
+**Verse 1**
 
-Cautious but so cavalier,<br />
-Core is feeling all but clear,<br />
-Chased from freeing all my fears,<br />
-Inert for lack of sleep.<br />
+Anxious of this apathy,
+Concepts crashing constantly,
+Guess work near ensnaring me,
+Forest through the trees, trees,
+(Voice one: Rise on the 2 count, Voice 2: Rise on the 3 count) G C CpA# D#
 
-### **Bridge Chorus**
-Mountains on my heart, on my, on my head; the weight.<br />
-Orbiting my thoughts inner, outer space; gravity.<br />
+Cautious but so cavalier,
+Core is feeling all but clear,
+Chased from freeing all my fears,
+Inert for lack of sleep.
 
-### **Main Chorus**
-Reeling though mind-fields asleep,<br />
-Fleeting through this lucid dream, watch the feet.<br />
-Reeling though mind-fields asleep,<br />
-Impose upon this lucid dream, conscious stream.<br />
+**Bridge Chorus 1**
 
-### **Verse**
-Fractured overbearing thoughts,<br />
-Old charged streaming juggernaughts,<br />
-Sentiment is scattershot,<br />
-Floating on the breeze.<br />
+Mountains on my heart, on my, on my head; the weight.
+Orbiting my thoughts inner, outer space; gravity.
 
-Neglect ones broke formalities,<br />
-My constructs; fabric vanities,<br />
-Select some new modalities,<br />
-Theres wolves amongst the sheep.<br />
+**Chorus 1**
 
-### **Bridge Chorus**
-Mountains on my heart, on my, on my head; the weight.<br />
-Orbiting my thoughts inner, outer space; gravity.<br />
+Reeling though mind-fields asleep,
+Fleeting through this lucid dream, watch the feet.
+Reeling though mind-fields asleep,
+Impose upon this lucid dream, conscious stream.
 
-### **Main Chorus**
-Reeling though mind-fields asleep,<br />
-Fleeting through this lucid dream, watch the feet.<br />
-Reeling though mind-fields asleep,<br />
-Impose upon this lucid dream, conscious stream.<br />
+**Verse 2**
 
-### **Build - middle 8**
+Fractured overbearing thoughts,
+Old charged streaming juggernaughts,
+Sentiment is scattershot,
+Floating on the breeze.
+
+Neglect ones broke formalities,
+My constructs; fabric vanities,
+Select some new modalities,
+Theres wolves amongst the sheep.
+
+**Bridge Chorus 2**
+
+Mountains on my heart, on my, on my head; the weight.
+Orbiting my thoughts inner, outer space; gravity.
+
+**Chorus 2**
+
+Reeling though mind-fields asleep,
+Fleeting through this lucid dream, watch the feet.
+Reeling though mind-fields asleep,
+Impose upon this lucid dream, conscious stream.
+
+**Build - middle 8**
+
 Graa-haaav-ity
 
-### **Main Chorus**
-Reeling though mind-fields asleep,<br />
-Fleeting through this lucid dream, watch the feet.<br />
-Reeling though mind-fields asleep,<br />
-Impose upon this lucid dream, conscious stream.<br />
+**Chorus 3**
+
+Reeling though mind-fields asleep,
+Fleeting through this lucid dream, watch the feet.
+Reeling though mind-fields asleep,
+Impose upon this lucid dream, conscious stream.
 
 ---
 
 ## Chords
-#### **Intro**
+**Intro**
+
 | 8/8 Bm | Bm | 7/8 Bm/G | 3/8 Asus4/B | 5/4 Asus4 | x2
 
-#### **Verse**
-| 7/4 Bm7 | Bm7 | 6/4 Bmin | 8/8 G, G7/B, Em7 |<br />
+**Verse**
+
+| 7/4 Bm7 | Bm7 | 6/4 Bmin | 8/8 G, G7/B, Em7 |
 | 7/8 Bm | 3/8 G7 | 5/4 D | x 2

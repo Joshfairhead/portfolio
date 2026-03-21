@@ -23,46 +23,46 @@ TODO: Add chord sheet.
 
 # Lyrics
 
-**A**
+**Verse 1**
 
-Our music at the roots; is time.
-Conception of primal design.
-Omini-present natural rhythms intertwine,
-Sowing the seeds in our minds.
+Our music at the roots; is time.  
+Conception of primal design.  
+Omini-present natural rhythms intertwine,  
+Sowing the seeds in our minds.  
 
-**B**
+**Bridge 1**
 
-Father tempo, born on his own,
-Constrained quatrz clock in a primate home
+Father tempo, born on his own,  
+Constrained quatrz clock in a primate home  
 
-**C**
+**Chorus 1**
 
-Humankind gathered outside, making sounds no ones ever heard before.
-The noise comes from the beating drum and slowly; rhythm it becomes
+Humankind gathered outside, making sounds no ones ever heard before.  
+The noise comes from the beating drum and slowly; rhythm it becomes  
 
-**A**
+**Verse 2**
 
-Bright blazing textures ignite,
-As timbre blooms from sines.
-Broad branches then grow, and thrive
-With music of different kinds.
+Bright blazing textures ignite,  
+As timbre blooms from sines.  
+Broad branches then grow, and thrive  
+With music of different kinds.  
 
-**B**
+**Bridge 2**
 
-A geniss of timbre the great unknown,
-At the very roots of it she's musics soul.
+A geniss of timbre the great unknown,  
+At the very roots of it she's musics soul.  
 
-**C**
+**Chorus 2**
 
-Humankind gathered outside, making sounds no ones ever heard before.
-The noise comes from the sound of horns and moving chords; something you can't ignore
+Humankind gathered outside, making sounds no ones ever heard before.  
+The noise comes from the sound of horns and moving chords; something you can't ignore  
 
-**D**
+**Outro**
 
-Swing from the branches of melody grasps the polyphonic grip of harmony.
-They call: eeeeeeeee, eeeeeeeee, eeeeeeeee.
+Swing from the branches of melody grasps the polyphonic grip of harmony.  
+They call: eeeeeeeee, eeeeeeeee, eeeeeeeee.  
 
-**C**
+**Chorus 3**
 
-Humankind gathered outside, making sounds no ones ever heard before.
-The noise comes from the staked overtones; summing up yet another of natures mile stones
+Humankind gathered outside, making sounds no ones ever heard before.  
+The noise comes from the stacked overtones; summing up yet another of natures mile stones  
