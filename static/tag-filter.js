@@ -7,9 +7,10 @@ document.addEventListener('DOMContentLoaded', function () {
   var pills = filterBar.querySelectorAll('.tag-pill');
   var cards = cardGrid.querySelectorAll('.content-card');
   var activeTags = new Set();
+  var params = new URLSearchParams(window.location.search);
+  var locked = params.get('f') === '1';
 
   function getTagsFromURL() {
-    var params = new URLSearchParams(window.location.search);
     var tagsParam = params.get('tags');
     if (tagsParam) {
       return tagsParam.split(',').map(function (t) { return t.trim(); });
@@ -60,36 +61,43 @@ document.addEventListener('DOMContentLoaded', function () {
     updateURL();
   }
 
-  pills.forEach(function (pill) {
-    pill.addEventListener('click', function () {
-      var tag = pill.getAttribute('data-tag');
-      if (tag === 'all') {
-        activeTags.clear();
-      } else {
+  if (locked) {
+    filterBar.style.display = 'none';
+    cardGrid.querySelectorAll('[data-card-tag]').forEach(function (el) {
+      el.style.cursor = 'default';
+    });
+  } else {
+    pills.forEach(function (pill) {
+      pill.addEventListener('click', function () {
+        var tag = pill.getAttribute('data-tag');
+        if (tag === 'all') {
+          activeTags.clear();
+        } else {
+          if (activeTags.has(tag)) {
+            activeTags.delete(tag);
+          } else {
+            activeTags.add(tag);
+          }
+        }
+        filterCards();
+      });
+    });
+
+    cardGrid.addEventListener('click', function (e) {
+      var tagEl = e.target.closest('[data-card-tag]');
+      if (tagEl) {
+        e.preventDefault();
+        e.stopPropagation();
+        var tag = tagEl.getAttribute('data-card-tag');
         if (activeTags.has(tag)) {
           activeTags.delete(tag);
         } else {
           activeTags.add(tag);
         }
+        filterCards();
       }
-      filterCards();
     });
-  });
-
-  cardGrid.addEventListener('click', function (e) {
-    var tagEl = e.target.closest('[data-card-tag]');
-    if (tagEl) {
-      e.preventDefault();
-      e.stopPropagation();
-      var tag = tagEl.getAttribute('data-card-tag');
-      if (activeTags.has(tag)) {
-        activeTags.delete(tag);
-      } else {
-        activeTags.add(tag);
-      }
-      filterCards();
-    }
-  });
+  }
 
   var urlTags = getTagsFromURL();
   urlTags.forEach(function (tag) {
