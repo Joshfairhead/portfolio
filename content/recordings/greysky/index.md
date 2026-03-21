@@ -13,7 +13,7 @@ banner = "cover.jpg"
 hero = false
 +++
 
-<!--- 
+<!---
 
 TODO: Add the chord sheet
 
@@ -25,35 +25,40 @@ TODO: Add the chord sheet
 **Intro - 8 Bars hold last chord for 6 count**
 **Acoustic/Voice rehearsal: same but 4 bars**
 
-**A - Verse 1**
-- Grey Sky projects; expects turbulence,
-Melody is braced to face harsh tonal winds,
-Leaves are stripped; the sound splints into sonic chips,
-An attitude absolute of pure remiss.
+**Verse 1**
 
-**A - Verse 2**
-- Shifting sounds and sounds abound this hostile land,
-Bush soul enraged but staved by a nimble plant,
-unconscious waters orders legato commands
-A division destitute of feelings found.
+Grey Sky projects; expects turbulence,  
+Melody is braced to face harsh tonal winds,  
+Leaves are stripped; the sound splints into sonic chips,  
+An attitude absolute of pure remiss.  
 
-**B - Chorus 1**
-- Shattered and shaken up,
-Battered and feeling rough, but roots run deep,
-Waking still waking up,
-Bruises ain't a cut, but blues runs deep.
+**Verse 2**
 
-**A -Verse 3**
-- Sapling roots and shoots grow fruits of many shapes,
-This timbers limber; totems notes dip the shade,
-Chorus answers; chances of a temporary awake,
-No rigid resolute bends for its afraid.
+Shifting sounds and sounds abound this hostile land,  
+Bush soul enraged but staved by a nimble plant,  
+unconscious waters orders legato commands  
+A division destitute of feelings found.  
 
-**Intro reprise - 8 Bars hold last chord for 6 count**
+**Chorus 1**
+
+Shattered and shaken up,  
+Battered and feeling rough, but roots run deep,  
+Waking still waking up,  
+Bruises ain't a cut, but blues runs deep.  
+
+**Verse 3**
+
+Sapling roots and shoots grow fruits of many shapes,  
+This timbers limber; totems notes dip the shade,  
+Chorus answers; chances of a temporary awake,  
+No rigid resolute bends for its afraid.  
+
+**Intro reprise - 8 Bars hold last chord for 6 count**
 **Acoustic/Voice rehearsal: same but 4 bars**
 
-**A - Verse 4**
-- Broken voice - destroyed - is poised to change its choice
-A sense of pace the takes are paved to fill that void,
-Seeded songs belong; long, strong roots in the soil
-Superstitions written so relax and enjoy!
+**Verse 4**
+
+Broken voice - destroyed - is poised to change its choice  
+A sense of pace the takes are paved to fill that void,  
+Seeded songs belong; long, strong roots in the soil  
+Superstitions written so relax and enjoy!  
