@@ -1,7 +1,7 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Hermitage"
-description = "Hermitage project - placeholder for future development."
+description = "Capabilities management interface for digital identity system on a distributed hash table"
 date = 2020-11-01
 draft = false
 weight = 10
