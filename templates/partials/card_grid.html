@@ -1,6 +1,7 @@
-<div class="content-card-grid">
+<div class="content-card-grid" id="card-grid">
     {% for page in pages %}
-    <a href="{{ page.permalink }}" class="content-card">
+    <a href="{{ page.permalink }}" class="content-card"
+       data-tags="{{ page.taxonomies.tags | default(value=[]) | join(sep=',') }}">
         {% if page.extra.card or page.extra.banner %}
         <div class="content-card__banner">
             <img src="{{ page.permalink }}{{ page.extra.card | default(value=page.extra.banner) | safe }}" alt="{{ page.title }}" loading="lazy" />
@@ -17,7 +18,7 @@
             {% if page.taxonomies.tags %}
             <div class="content-card__tags">
                 {% for tag in page.taxonomies.tags %}
-                <span class="content-card__tag">{{ tag }}</span>
+                <span class="content-card__tag" data-card-tag="{{ tag }}">{{ tag }}</span>
                 {% endfor %}
             </div>
             {% endif %}
