@@ -1,8 +1,8 @@
 +++
 authors = ["Josh Fairhead"]
 title = "Hermitage"
-description = "Capabilities management interface for digital identity system on a distributed hash table"
-date = 2020-11-01
+description = "Holochain interface prototype for self-sovereign data management, winner of Odyssey Momentum SSI track"
+date = 2019-11-01
 draft = false
 weight = 10
 [taxonomies]
@@ -20,6 +20,10 @@ Hermitage was an early prototype of a Holochain interface where users could inte
 {{ image(url="/images/hermitage/hermitagescreen04.png", alt="Hermitage alternative persona field selector", no_hover=true) }}
 {{ image(url="/images/hermitage/hermitagescreen05.png", alt="Hermitage profiles view with persona and filter options", no_hover=true) }}
 {{ image(url="/images/hermitage/hermitagescreen06.png", alt="Hermitage persona management", no_hover=true) }}
+
+## Odyssey Momentum
+
+Hermitage was built at Odyssey Momentum (November 2019), the second Odyssey hackathon following the Commons Stack's success at Odyssey 2019. The project won "Best Multidisciplinary Approach" sponsored by the Dutch Blockchain Coalition in the Self-Sovereign Identity track. This recognition led to consulting engagements with Akasha Hub and the Dutch Blockchain Coalition.
 
 ## Repo
 
