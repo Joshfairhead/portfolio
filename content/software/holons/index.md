@@ -20,6 +20,8 @@ TODO: Replace text with the readme from github
 
 -->
 
+Holons was developed in the context of Liminal Village, a co-living and co-creation hub in Italy focused on permaculture, ecological restoration, and alternative technology.
+
 [Holons](https://www.holons.io/) is an innovative organizational coordination platform that enables the creation of adaptive, interconnected organizations mirroring natural network structures. Built as an open protocol, it integrates Telegram-based coordination with AI-enhanced resource allocation and blockchain tracking.
 
 The platform supports decentralized, nested organizational structures inspired by natural systems - from cells to societies.
